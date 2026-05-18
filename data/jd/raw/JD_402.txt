@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Fullstack Developer (Python, Api, JS)
+
+Mô tả công việc:
+●Thiết kế kiến trúc và xây dựng hệ thống client-side và server-side. ●Xây dựng giao diện người dùng của các ứng dụng web based. ●Thiết kế và xây dựng cơ sở dữ liệu dùng trong các hệ thống ứng dụng. ●Viết các Restful API. ●Kiểm tra phần mềm để đảm bảo yêu cầu và hoạt động hiệu quả. ●Khắc phục sự cố, gỡ lỗi và nâng cấp phần mềm. ●Xây dựng các tính năng và ứng dụng với thiết kế mobile responsive
+
+Yêu cầu công việc:
+●Có kinh nghiệm với vai trò Fullstack developer hoặc tương tự. ●Có kinh nghiệm với lập trình Python phía backend. ●Có kinh nghiệm với ít nhất một trong các front-end frameworks (Angular, ReactJS, VueJS). ●Quen thuộc với các hệ quản trị cơ sở dữ liệu (ví dụ: MySQL, MongoDB). ●Có kinh nghiệm làm việc với Web server, hệ điều hành Ubuntu. ●Kiến thức sâu rộng về OOP và design patterns. ●Có kinh nghiệm DevOps với AWS hoặc Azure, Docker. ●Tiếng Anh: trung cấpƯu tiên:●Kỹ năng giao tiếp và làm việc nhóm. ●Kỹ năng tổ chức. ●Growth mindset. ●Dám đương đầu với thử thách
+
+Yêu cầu kinh nghiệm: 1-3 năm

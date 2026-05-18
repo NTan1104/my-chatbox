@@ -1,0 +1,31 @@
+PHP Developer
+
+Chi tiết tin tuyển dụng
+Yêu cầu:
+1 năm kinh nghiệm
+Cao Đẳng trở lên
+Xem chi tiết Yêu cầu
+Quyền lợi:
+Nghỉ thứ 7
+Xem chi tiết Quyền lợi
+Chuyên môn:
+Chuyên môn khác
+Mô tả công việc
+Thiết kế, phát triển và vận hành hệ thống web sử dụng PHP và Laravel
+Phân tích giải pháp, hiểu các yêu cầu hệ thống và tính năng của sản phẩm;
+Viết code, xử lý nghiệp vụ cơ bản, fix bug theo phân công của leader.
+Tìm hiểu công nghệ mới, áp dụng cải tiến, phát triển sản phẩm mới.
+Chi tiết sẽ được trao đổi trong buổi phỏng vấn.
+Yêu cầu ứng viên
+Yêu cầu bắt buộc
+
+Có kinh nghiệm làm việc với PHP Laravel với dự án thực tế ít nhất từ 1-2 năm
+Tư duy logic tốt, có khả năng giải quyết vấn đề
+Hiểu và áp dụng tốt các nguyên tắc Clean Code
+Có khả năng học hỏi nhanh, chủ động cập nhật kiến thức mới
+Ưu tiên
+
+Có kinh nghiệm làm việc với KH Nhật Bản là một điểm cộng
+Có hiểu biết về các công cụ như Docker, CI/CD
+Biết thêm các framework frontend như Vue.js, React là lợi thế
+Có thể đi làm ngay

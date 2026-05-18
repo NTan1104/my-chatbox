@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên PHP (PHP Developer) - Upto 30M
+
+Mô tả công việc:
+Phát triển các sản phẩm Website TMĐT, Bất động sản, Báo chí, Landing page,...Tham gia phát triển một hoặc cả Back-end và Front-end cho các dự án.Tham gia nghiên cứu, phát triển các giải pháp tích hợp website TMĐT với CRM, ERP. Email Automation, Email Marketing,...Tham gia nghiên cứu các công nghệ mới, phát triển tính năng và tối ưu sản phẩm phục vụ số lượng người dùng lớn. Làm việc với các thành viên khác của dự án. Tham gia vào quá trình phân tích và thiết kế hệ thống.
+
+Yêu cầu công việc:
+Chủ động trong công việc, tính tự giác cao, ham học hỏi, tinh thần làm việc hăng hái, chăm chỉ, tích cực, chịu được áp lực.Sử dụng thành thạo PHP, có từ 1 năm kinh nghiệm làm việc với framework Laravel.Thành thạo javascript, CSS, HTML5Thành thạo mongodbHiểu biết VueJs, ReactJs là lợi thế Ưu tiên những ứng viên đã từng làm các ứng dụng quản lý: Quản lý đơn hàng, quản lý khách hàng, quản lý nhân sự…
+
+Yêu cầu kinh nghiệm: Dưới 1 năm

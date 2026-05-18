@@ -1,0 +1,54 @@
+Chuyên Viên Xây Dựng Website Bằng AI - Gói Lương 14 Tháng/Năm, Bảo Hiểm Full Lương, Bảo Hiểm Sức Khỏe Doanh Nghiệp
+
+Chi tiết tin tuyển dụng
+Yêu cầu:
+2 năm kinh nghiệm
+Đại Học trở lên
+Xem chi tiết Yêu cầu
+Quyền lợi:
+Nghỉ thứ 7
+Bảo hiểm xã hội
+Bảo hiểm sức khỏe
+Xem chi tiết Quyền lợi
+Chuyên môn:
+AI Engineer
+Mô tả công việc
+I. Giới Thiệu Vị Trí
+
+Hivelab Vina đang ứng dụng các công cụ phát triển dựa trên AI như Claude, Claude Code, Cursor… nhằm xây dựng website một cách nhanh chóng và hiệu quả.
+Chúng tôi đang tìm kiếm nhân sự có khả năng sử dụng AI để nhanh chóng phát triển và vận hành các sản phẩm như website doanh nghiệp, website tuyển dụng, landing page,…
+Đặc biệt ưu tiên các ứng viên:
+Thành thạo workflow phát triển dựa trên AI
+Có khả năng triển khai nhanh và giải quyết vấn đề hiệu quả
+Chủ động học hỏi và ứng dụng công nghệ mới
+Có sự quan tâm lớn đến việc nâng cao năng suất làm việc thông qua AI
+
+
+II. Mô Tả Công Việc
+
+Sử dụng các công cụ AI như Claude / Claude Code / Cursor để phát triển website
+Thiết kế và xây dựng website doanh nghiệp, website tuyển dụng, landing page
+Triển khai Front-end và các chức năng Back-end/Admin cơ bản
+Tích hợp CMS / API / Database
+Chỉnh sửa, bảo trì, triển khai (deploy) và vận hành website
+
+
+III. Tech Stack
+
+React / Next.js
+TailwindCSS, JavaScript / TypeScript
+Firebase / Supabase, REST API
+Git / GitHub, Vercel / Cloudflare
+
+
+IV. Kinh nghiệm sử dụng AI Tool
+
+Claude, Claude Code, Cursor, ChatGPT
+GitHub Copilot, v0, Bolt.new
+Yêu cầu ứng viên
+V. Yêu Cầu
+
+Có khoảng 2-3 năm kinh nghiệm, sở hữu kiến thức nền tảng về phát triển web
+Có kinh nghiệm thực hiện các dự án sử dụng JavaScript
+Có sự quan tâm lớn đến phát triển sản phẩm ứng dụng AI
+Có khả năng học hỏi nhanh và triển khai công việc hiệu

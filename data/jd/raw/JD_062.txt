@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Frontend Developer (Html, Css, JavaScript) Tại Hồ Chí Minh - Huế
+
+Mô tả công việc:
+• Bảo trì và xây dựng các dự án dựa trên framework của công ty.. • Tối ưu hóa hiệu suất sản xuất cũng như mã cấu trúc lại mã nguồn.. • Đóng góp vào sự phát triển của các công cụ làm cho việc sử dụng sản phẩm dễ dàng hơn. • Hỗ trợ các thành viên trong nhóm khác về năng suất và vấn đề kỹ thuật tốt hơn. • Đóng góp ý tưởng mới cho các giải pháp kỹ thuật. • Xem xét các yêu cầu kinh doanh bằng cách làm việc với các thành viên trong nhóm. • Thực hiện phân tích kỹ thuật các yêu cầu. • Làm việc với các thành viên trong nhóm để phân loại và sửa lỗi với sự quay vòng nhanh chóng. • Đóng góp ý tưởng để làm cho ứng dụng tốt hơn và dễ sử dụng hơn. • Tham gia tích cực vào các cuộc họp thiết kế của khách hàng / đối tác và các cam kết chung. • Đảm bảo các yếu tố về thời gian- chất lượng- ngân sách…của sản phẩm
+
+Yêu cầu công việc:
+- Tốt nghiệp đại học/cao đẳng các ngành công nghệ thông tin hoăc các chương trình đào tạo liên quan.. - Có tối thiểu 1 năm kinh nghiệm ở vị trí front-end developer. - Sử dụng thành thạo HTML, CSS, Javascript. -Có kinh nghiệm sử dụng những Javascript framework như Angular, React, Node.js ... là một lợi thế lớn. - Trình độ tiếng anh đọc hiểu.
+
+Yêu cầu kinh nghiệm: 1-3 năm

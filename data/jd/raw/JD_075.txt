@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Developer Nodejs ( 6 Tháng Kinh Nghiệm Trở Lên)
+
+Mô tả công việc:
+• Tham gia trực tiếp vào quá trình xây dựng hệ thống cho sản phẩm• Phát triển, maintain các ứng dụng App, web bằng Ngôn ngữ NodeJS• Phân tích và đưa ra các giải pháp kỹ thuật cho các dự án được giao.• Đảm bảo tiến độ, chất lượng công việc và báo cáo thường xuyên tới quản lý.
+
+Yêu cầu công việc:
+● Tốt nghiệp ĐH chính quy loại khá trở lên chuyên ngành khoa học máy tính, Công nghệ thông tin, Kỹ thuật phần mềm, Kỹ Thuật máy tính, khoa học dữ liệu và trí tuệ nhân tạo, An toàn không gian số, Khoa học dữ liệu hoặc tương đương.● Tốt nghiệp từ loại Khá trở lên.● Kiến thức về lập trình và thiết kế hướng đối tượng (OOP)● Kiến thức về cấu trúc dữ liệu & giải thuật, design patterns● Thành thạo với các ngôn lập trình: Nodejs hoặc JavaScript, kinh nghiệm tối thiếu 1 năm● Kiến thức về quy trình phát triển phần mềm● Kinh nghiệm làm việc với các công cụ quản lý source code, quản lý phiên bản● Thành thạo một trong các hệ quản trị CSDL quan hệ: Oracle, MySQL, PostgreSQL, MariaDB● Có hiểu biết về công nghệ web front-end như HTML, CSS, JavaScript (đối với ứng viên ứng tuyển vị trí JavaScript developer)
+
+Yêu cầu kinh nghiệm: 1-3 năm

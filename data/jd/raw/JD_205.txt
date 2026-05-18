@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Data Analyst
+
+Mô tả công việc:
+- Tham gia phân tích dữ liệu và tối ưu các bài toán quảng cáo.- Tham gia phân tích và tối ưu hệ thống gợi ý cho các hệ thống tin tức, mạng xã hội, thương mại điện tử- Tham gia phân tích và tối ưu các hệ thống notification - Tham gia phát triển các hệ thống báo cáo, BI
+
+Yêu cầu công việc:
+- Đã tốt nghiệp đại học chuyên ngành toán, kinh tế, khoa học máy tính, quản lý thông tin, thống kê...- Có kỹ năng phân tích yêu cầu dữ liệu- Có kỹ năng thu thập, phân tích, xử lý dữ liệu- Có kỹ năng trực quan hoá dữ liệu, chạy AB Testing- Có sự hiểu biết về thống kê, và kinh nghiệm làm việc với một số công cụ như (Excel, SPSS,..)- Sử dụng thành thạo SQL, R hay Pyspark là lợi thế - Có kinh nghiệm làm việc với các hệ thống phân tán là lợi thế- Kỹ năng đọc/viết tài liệu kỹ thuật bằng tiếng Anh. - Khả năng phân tích, tư duy, học hỏi nhanh.- Khả năng tư duy, học hỏi nhanh.
+
+Yêu cầu kinh nghiệm: 1-3 năm

@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên Reactjs Dự Án Blockchain
+
+Mô tả công việc:
+- Phân tích yêu cầu người dùng.- Lập trình web app theo thiết kế UI/UX.- Đảm bảo tiến độ, chất lượng công việc và báo cáo thường xuyên tới quản lý.- Phối hợp với khách hàng để triển khai và kiểm thử hệ thống phần mềm. - Lập trình UI/UX của ứng dụng web hiện đại, giàu tương tác với yêu cầu cao về chất lượng và độ tin cậy dựa trên ES6, ReactJS, Redux.- Phối hợp chặt chẽ với đội ngũ thiết kế để tìm kiếm cách tiếp cận thực tế nhất giúp phát triển UI mới.- Chủ động thảo luận và tư vấn về API backend.- Tích cực cung cấp sản phẩm nhanh chóng tới khách hàng.- Nghiên cứu và lập luận về phương pháp hoặc công nghệ thích hợp để giải quyết vấn đề.
+
+Yêu cầu công việc:
+- Có kinh nghiệm với làm việc với ReactJS.Thành thạo với HTML5, CSS, JavaScript và hiểu sâu về cách trình duyệt hoạt động là bắt buộc.- Kinh nghiệm sử dụng Git.- Kinh nghiệm với: HTTP, API, REST, JSON, unit test, XSS, CSRF, sync vs. async, promise, immutability, pure function.- Kinh nghiệm debug và tối ưu hóa code cho hiệu suất ứng dụng thông qua các công cụ- Khả năng thảo luận về cách tiếp cận, đồng thời thực hiện tốt phương án thay thế cùng team.- Tư duy logic tốt.-Có kinh nghiệm qua các dự án Gamefi hoặc NFT-Làm việc nhóm hiệu quả, giao tiếp tốt, cởi mở, thân thiện.
+
+Yêu cầu kinh nghiệm: 1-3 năm

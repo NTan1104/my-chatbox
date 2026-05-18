@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: IT helpdesk
+
+Mô tả công việc:
+1. Tham gia các dự án phát triển phần mềm marketing và chiến lược SEO hiệu quả 2. Quản trị, nâng cấp, sửa lỗi các công cụ phần mềm đã lập trình và theo sự phân công của Ban Giám Đốc 3. Thực hiện review code, tối ưu source, hỗ trợ bộ phận chăm sóc khách hàng fix bug cho các phần mềm4. Tham gia thiết kế website và CSDL trong công ty 5. Thực hiện các công việc liên quan khác theo yêu cầu của Ban Giám Đốc
+
+Yêu cầu công việc:
+- Tốt nghiệp Đại học chuyên ngành CNTT hoặc liên quan- Nắm rõ toàn bộ quá trình phát triển web (thiết kế, phát triển và thực thi) PhP, Wordpress. - Có khả năng phát triển phần mềm trên Python/C#. - Ưu tiên có kinh nghiệm phát triển các chương trình tự động (BOT) phục vụ cho digital marketing ( YouTube, Facebook, Telegram…), phần mềm điều khiển giả lập, điều khiển điện thoại thật,...
+
+Yêu cầu kinh nghiệm: Dưới 1 năm

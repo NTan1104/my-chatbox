@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: IOS Team Leader (Lương Cứng 30 - 45 Triệu)
+
+Mô tả công việc:
+Tham gia thực hiện thiết kế, xây dựng và triển khai ứng dụng, sản phẩm trên smartphone của công ty.Phát triển các ứng dụng trên nền tảng iOS, cải thiện performance, hiệu quả và mở rộng ứng dụng.Tham gia phát triển, đề xuất giải pháp kỹ thuật cho các dự án lập trình ứng dụng.Nghiên cứu, tìm hiểu các công nghệ mới phục vụ các nhu cầu của công tyLàm việc, phối hợp công việc theo nhóm trong dự án.
+
+Yêu cầu công việc:
+Trình độ Đại học chuyên ngành CNTT hoặc các chứng chỉ tương đương trở lên.Có ít nhất 03 năm kinh nghiệm với Swift, iPhone SDK để phát triển ứng dụng smartphone.Có kinh nghiệm lập trình iOS, đã có kinh nghiệm đưa ứng dụng lên AppStore.Có kinh nghiệm sử dụng các thư viện và SDK hỗ trợ.Có kiến thức cơ bản về lập trình, thuật toán, thiết kế hệ thống.Đọc hiểu tài liệu tiếng Anh chuyên ngànhĐam mê, chủ động công việc, có kỹ năng làm việc nhóm, làm việc độc lậpChi tiết trao đổi trong buổi phỏng vấnƯU TIÊN:Đã có sản phẩm đưa lên AppStoreCó kinh nghiệm phát triển sản phẩm (product)Đã từng làm các công việc tương ứng trong dự án với đối tác/ khách hàng Nhật BảnĐã có kinh nghiệm làm Leader
+
+Yêu cầu kinh nghiệm: 3-5 năm

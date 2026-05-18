@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Frontend Developer - Junior (Reactjs/Vuejs)
+
+Mô tả công việc:
+Tham gia xây dựng và phát triển các dự án của với khách hàng, các ứng dụng web sử dụng ReactJS/VueJS.Chịu trách nhiệm hoàn thành công việc, đảm bảo chất lượng.Phối hợp với team nghiên cứu và ứng dụng các công nghệ mới để làm các tính năng mới và cải tiến liên tục các phân hệ đã ra mắt.Lập trình frontend cho các dự án phát triển sản phẩmTrao đổi, làm việc với khách hàng, team nội bộ công ty, phối hợp công việc theo nhóm Công việc sẽ được trao đổi cụ thể hơn trong quá trình phỏng vấn.
+
+Yêu cầu công việc:
+Thành thạo HTML5, CSS3, hiểu biết về Javascript, TypeScriptCó kinh nghiệm với ít nhất một trong các frameworks JS như ReactJS, VueJS.Nắm vững React Hooks (đối với ReactJS), Ajax.Có kinh nghiệm với HTTP, API, REST, JSON, UNIT TESTTư duy logic tốt, có tư duy về UI/UXCó kinh nghiệm làm việc với CSDL như MySQL, MariaDB, MongoDB, PostgreSQLThành thạo công cụ quản lý source code như Git (Github, Gitlab…),Hiểu biết về lập trình/ thiết kế hướng đối tượng và design pattern như MVC, MVVM,...Có hiểu biết/kinh nghiệm về CI/CD, Docker, AWS, GCP là một lợi thếCó khả năng đọc hiểu tài liệu Tiếng anh chuyên ngànhChủ động trong công việc, có tinh thần trách nhiệm cao, chăm chỉCó khả năng làm việc và phối hợp nhóm tốt.
+
+Yêu cầu kinh nghiệm: 1-3 năm

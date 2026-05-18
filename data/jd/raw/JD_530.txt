@@ -1,0 +1,42 @@
+AI & Automation Executive (Upto 35M)
+
+Chi tiết tin tuyển dụng
+Yêu cầu:
+4 năm kinh nghiệm
+Đại Học trở lên
+Tiếng Anh Đọc hiểu
+Xem chi tiết Yêu cầu
+Quyền lợi:
+Nghỉ thứ 7
+Bảo hiểm sức khỏe
+Khám sức khỏe định kỳ
+Xem chi tiết Quyền lợi
+Chuyên môn:
+AI Engineer
+IT - Phần mềm
+Game
+Mô tả công việc
+1. Thiết kế giải pháp AI & Automation
+
+Phân tích và thiết kế các workflow automation & ứng dụng AI cho quy trình vận hành như hệ thống auto reporting, monitoring, alerting và AI-assisted workflows.
+Phối hợp với các phòng kinh doanh và vận hành để xây dựng các giải pháp automation và AI nhằm tăng năng suất, giảm thao tác thủ công
+Thiết kế pipeline end-to-end từ data processing → logic → automation → output/action cho các workflow tự động và internal tools.
+2. Phát triển và vận hành các giải pháp AI & Automation
+
+Phát triển các ứng dụng AI phục vụ nội bộ như insight chatbot, Text-to-SQL, alert hoặc automation tools cho ngành game
+Triển khai và vận hành các workflow automation thông qua Ads APIs (Meta Ads, Google Ads,..), backend services và các công cụ campaign opertaions
+Phối hợp với các team Marketing, Backend và Product để tích hợp solution vào hệ thống và quy trình vận hành.
+3. Vận hành, tối ưu và nghiên cứu.
+
+Theo dõi, đánh giá và tối ưu hiệu quả của các workflow automation và hệ thống AI trong vận hành nội bộ. .
+Đảm bảo hệ thống hoạt động ổn định, có khả năng mở rộng cho nhiều team
+Liên tục nghiên cứu và tìm hiểu các best practices về Automation & AI để ứng dụng cho tổ chức.
+Yêu cầu ứng viên
+Có 4+ năm kinh nghiệm làm việc, trong đó ít nhất 3+ năm kinh nghiệm trong một trong các lĩnh vực: AI, Data, Automation hoặc data-driven applications.
+Có tư duy hệ thống tốt, có khả năng phân tích quy trình và thiết kế workflow automation.
+Có kinh nghiệm làm việc với data (SQL, data pipeline hoặc tương đương).
+Có kinh nghiệm làm việc với APIs, backend systems hoặc tích hợp hệ thống.
+Hiểu sâu và thường xuyên sử dụng AI tools (ChatGPT, Claude,..) và LLM trong công việc để xây dựng solution.
+Có kinh nghiệm với các công cụ automation/workflow (n8n, Zapier, Make...) và có kinh nghiệm triển khai các giải pháp AI & Automation vào thực tế doanh nghiệp.
+Hiểu biết về ngành game, app, và hiểu biết về các ads network API (Meta Ads, Google Ads) là một lợi thế
+Kỹ năng ngoại ngữ (Tiếng Anh) tốt.

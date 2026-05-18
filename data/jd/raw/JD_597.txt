@@ -1,0 +1,26 @@
+Devops Engineer 
+
+Chi tiết tin tuyển dụng
+Yêu cầu:
+1 năm kinh nghiệm
+Đại Học trở lên
+Xem chi tiết Yêu cầu
+Quyền lợi:
+Bảo hiểm xã hội
+Khám sức khỏe định kỳ
+Bảo hiểm sức khỏe
+Xem chi tiết Quyền lợi
+Chuyên môn:
+DevOps Engineer
+Mô tả công việc
+Triển khai các chiến lược giám sát, cảnh báo và ứng phó sự cố Monitoring DevOps: Prometheus, Grafana,...
+Triển khai và duy trì các biện pháp bảo mật tốt nhất trong tất cả các giai đoạn của vòng đời phát triển phần mềm.
+Kế hoạch backup và disaster recovery cho các dịch vụ quan trọng.
+Triển khai các hệ thống, ứng dụng từ phòng phát triển ứng dụng
+Hỗ trợ xử lý và hướng dẫn cho người sử dụng các ứng dụng.
+Tham gia xây dựng triển khai các phần mềm và ứng dụng nội bộ phục vụ cho hoạt động của học sinh, sinh viên, phụ huynh và cán bộ, giảng viên khối Cao đẳng
+Yêu cầu ứng viên
+Tốt nghiệp Đại học trở lên chuyên ngành, Marketing, Quản trị Kinh doanh, Công nghệ thông tin...;
+Tính chính xác trong công việc
+Ham học hỏi, trau dồi kiến thức
+Khả năng làm việc theo nhóm

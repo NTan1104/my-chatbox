@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Chuyên Viên Lập Trình Web
+
+Mô tả công việc:
+a. Thiết kế giao diện giao diện website chuẩn SEO- Phát triển, xây dựng website ngôn ngữ php hoặc wordpress theo design cung cấp.- Phát triển website và các module CMS của công ty có tích hợp API với các nền tảng khác.- Thiết kế và tạo các trang web chuẩn SEO, liên kết, giao diện Web, ứng dụng choWebsite- Phối hợp với các bộ phận khác xây dựng các tính năng của website để tối ưu công việc.b. Quản trị web:- Quản trị Hosting/ Server, check lỗi website, xử lý và khắc phục các lỗi lập trình, sự cố liên quan đến website.
+
+Yêu cầu công việc:
+- Thành thạo, nắm vững Wordpress- Có kinh nghiệm làm việc với một trong các framework PHP- Có kinh nghiệm thiết kế các module CMS của website- Có kinh nghiệm viết hệ thống quản lý bài viết, quản lý user
+
+Yêu cầu kinh nghiệm: 1-3 năm

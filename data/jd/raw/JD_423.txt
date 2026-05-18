@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên Back End (.Net)
+
+Mô tả công việc:
+Tham gia vào các dự án phát triển bằng ngôn ngữ .NET và các công nghệ tương đương.Phát triển sản phẩm mới và làm mới, nâng cấp các sản phẩm hiện có.Tham gia training và tự hỏi hỏi kiến thức, công nghệ mới để áp dụng vào dự án.Thực hiện công việc theo phân công của trưởng bộ phận và quản trị dự án
+
+Yêu cầu công việc:
+Kinh nghiệm lập trình .NET/.NET Core, có kinh nghiệm WPF là một lợi thếLập trình OOP, clean, scalable, frameworkKinh nghiệm lập trình Windows Form là một lợi thếViết được các custom lib, core, build SDKKinh nghiệm làm việc với database Oracle/SQLKinh nghiệm lập trình API microserviceLập trình kết nối thiết bị dựa trên SDK sẵn cóKinh nghiệm lập trình C++ là một lợi thếKinh nghiệm điều tra/debug/giải quyết lỗi phát sinhKỹ năng giao tiếp, năng động, tư duy tốt
+
+Yêu cầu kinh nghiệm: 1-3 năm

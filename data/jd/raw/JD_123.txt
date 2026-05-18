@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Mobile Developer ( 1 Năm Kinh Nghiệm)
+
+Mô tả công việc:
+Tham gia phát triển các dự án Mobile App lâu dài của công ty trên nền tảng IOS/Android.Tham gia phân tích, đóng góp ý tưởng, cải tiến sản phẩm.Nghiên cứu các công nghệ mới nhất.Sử dụng Flutter.
+
+Yêu cầu công việc:
+Tốt nghiệp chuyên ngành CNTT, hoặc các ngành tương đương.Hiểu biết về Flutter, Dart.Đã từng làm việc với Flutter từ 3 năm trở lên.Có kinh nghiệm làm việc với JSON REST API, GraphQL, GIT.Có kinh nghiệm làm việc với Google Services, Firebase.Có kiến thức về SOLID, dependency injection, clean architecture, MVVM.Hiểu biết về State Management với Flutter: Bloc, GetX…Có kinh nghiệm release app trên App Store, Google Play là điểm cộng.Ưu tiên ứng viên: Có kiến thức về sử dụng các loại SQL, noSQL database là một lợi thế.
+
+Yêu cầu kinh nghiệm: 1-3 năm

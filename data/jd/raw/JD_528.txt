@@ -1,0 +1,54 @@
+AI Engineer - Sản Phẩm AI Edtech
+
+Yêu cầu:
+1 năm kinh nghiệm
+Đại Học trở lên
+Xem chi tiết Yêu cầu
+Chuyên môn:
+Chuyên môn AI Engineer
+Mô tả công việc
+Xây dựng, fine-tune và đánh giá các giải pháp dựa trên LLM, Multi-Agent và Chatbot
+phục vụ bài toán giáo dục (luyện nói, chấm bài, tutor ảo, hỗ trợ học viên 24/7...).
+ Thiết kế pipeline LLM ứng dụng: prompt engineering, RAG, tool calling, function
+calling, memory, guardrails.
+ Phát triển hệ thống multi-agent (orchestration, planning, tool use) bằng các framework
+như LangChain, LangGraph, LlamaIndex, AutoGen hoặc tương đương.
+ 
+Tham gia xây dựng và vận hành pipeline MLOps cơ bản: data → fine-tuning/evaluation
+→ versioning → serving → monitoring.
+ Triển khai mô hình vào production:
+◦ Backend inference service (real-time &amp; batch).
+◦ Hỗ trợ tích hợp AI vào mobile/web SDK, chú trọng latency và chi phí token.
+Tối ưu hệ thống AI theo các tiêu chí accuracy – latency – cost – safety.
+Phối hợp với Product, Backend, Mobile để biến mô hình thành tính năng học tập có tác
+động thực tế đến người học.
+ Cập nhật công nghệ mới (open-source LLM, agent framework, evaluation tools) và đề
+xuất áp dụng vào sản phẩm.
+ 
+Yêu cầu ứng viên
+• Tối thiểu 1 năm kinh nghiệm làm việc với AI/ML, ưu tiên ứng viên đã từng làm sản
+phẩm thực tế liên quan đến LLM, Chatbot hoặc AI Agent.
+• Nắm vững kiến thức cơ bản về Machine Learning, Deep Learning và NLP.
+• Hiểu rõ cách hoạt động của các mô hình LLM (GPT, Claude, Gemini, Llama, Qwen...) và
+biết cách:
+◦ Thiết kế prompt hiệu quả.
+◦ Xây dựng pipeline RAG (embedding, vector DB như
+Pinecone/Weaviate/Qdrant/Milvus).
+◦ Sử dụng tool calling / function calling để mở rộng năng lực LLM.
+• Thành thạo Python và quen với ít nhất một framework: LangChain, LangGraph,
+LlamaIndex, AutoGen, CrewAI hoặc tương đương.
+• Biết đóng gói và triển khai model service bằng Docker + FastAPI/Flask/gRPC.
+• Biết sử dụng API của các LLM provider phổ biến (OpenAI, Anthropic, Google, hoặc self-
+hosted qua vLLM/Ollama/TGI).
+
+Điểm cộng
+
+• Có kinh nghiệm fine-tuning LLM (LoRA, QLoRA, PEFT) hoặc huấn luyện embedding
+model.
+• Hiểu về evaluation cho LLM/Agent (RAGAS, LLM-as-a-judge, A/B testing, đo
+hallucination...).
+• Quen với MLOps tools: MLflow, DVC, Weights &amp; Biases, LangSmith, Langfuse.
+• Có kinh nghiệm tối ưu inference (quantization, ONNX, vLLM, TensorRT) hoặc triển khai
+edge/on-device AI.
+• Đã từng làm sản phẩm AI trong lĩnh vực Giáo dục / EdTech.
+• Có Github, blog kỹ thuật, hoặc đóng góp open-source.

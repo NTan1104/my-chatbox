@@ -1,0 +1,27 @@
+Thực Tập Sinh PHP (Năm 4, Backend, Tp.HCM)
+
+Chi tiết tin tuyển dụng
+Yêu cầu: Không cần kinh nghiệm
+Trung cấp trở lên
+Xem chi tiết Yêu cầu
+Quyền lợi:
+Nghỉ thứ 7
+Xem chi tiết Quyền lợi
+Chuyên môn:
+Backend Developer
+IT - Phần mềm
+
+Mô tả công việc
+Hãy chọn Lampart là nơi khởi đầu cho con đường kỹ sư của bạn!
+
+Tại Lampart, bạn được đào tạo các ngôn ngữ lập trình và kỹ thuật mới nhất để chuẩn hóa kiến thức sẵn sàng tham gia vào các dự án phần mềm thực tế, cụ thể:
++ Ngôn ngữ lập trình PHP với các framework phiên bản mới nhất.
++ Kỹ thuật về OOP, PHP Basic, Database…
++ Frontend và các framework như Vuejs, Reactjs…
+Nắm bắt nghiệp vụ phân tích để phát triển hệ thống trên nền tảng Web cùng với đội ngũ kỹ sư tại Việt Nam và Nhật Bản.
+Thực hiện các công việc khác liên quan đến chuyên ngành theo yêu cầu điều phối từ Công ty.
+Yêu cầu ứng viên
+Sinh viên đang học năm cuối chuyên ngành IT (Công nghệ phần mềm, Khoa học máy tính,….) tại các trường Cao đẳng, Đại học và có kết quả học tập loại khá trở lên.
+Có thể tham gia thực tập tại công ty từ 6 – 10 buổi/ tuần (tương đương 3 – 5 ngày/ tuần).
+Có hiểu biết về lập trình Website với một trong các ngôn ngữ: PHP, Java, .Net (C#,VB.NET) hoặc NodeJS. Nắm vững kiến thức về SQL Query.
+Lợi thế ứng tuyển: Có kiến thức về MySQL, PHP Framework (CodeIgniter, Laravel, …), Javascript & JS Framework (VueJS, ReactJS…) hoặc kinh nghiệm thực tập tại các Công ty phần mềm, thực hiện dự án thực tế về ngôn ngữ PHP và các framework của PHP.

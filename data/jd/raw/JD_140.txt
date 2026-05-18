@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Java Developer (Junior, Middle)
+
+Mô tả công việc:
+Trực tiếp tham gia các dự án phát triển sản phẩm cho hệ thống fintech (quản lý vay tiêu dùng)Tham gia vào team phát triển sản phẩm. Tiếp nhận yêu cầu kỹ thuật, phân tích và lên thiết kế lập trình chức năng.Tham gia việc test và hoàn thiện sản phẩm, có thể làm việc với khách hàng trong quá trình bàn giao sản phẩm.Tham gia nghiên cứu công nghệ, cải tiến giải pháp/ kiến trúc hệ thống.
+
+Yêu cầu công việc:
+Có từ 1 năm kinh nghiệm tại vị trí tương đươngCó kinh nghiệm làm việc với Java Spring BootCó kiến thức chuyên môn về Database và đã từng làm việc ít nhất trên 1 DBengine, bao gồm: SQL Server, Oracle, Postgresql, Mysql/Mariadb, DB2,...Có kỹ năng teamwork, quản lý công việc.Ham học hỏi, tìm hiểu về các mảng kỹ thuật liên quan: Cloud, Report…Tốt nghiệp ngành Khoa học máy tính/ Toán/ Toán Tin... hoặc các ngành liên quanĐã từng tham gia giải quyết những vấn đề xử lý đa luồng, xử lý transaction, xử lý bộ nhớ là ưu thếCó kinh nghiệm làm việc với VueJS/ ReactJS là một lợi thế.Có kinh nghiệm test/viết unit test là lợi thế.
+
+Yêu cầu kinh nghiệm: 1-3 năm

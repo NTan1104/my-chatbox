@@ -1,0 +1,197 @@
+{
+    "jd_id": "JD_611",
+    "source_file": "D:\\Projects\\XAI\\data\\jd\\raw_test\\JD_611.txt",
+    "job_title": "DevOps Engineer",
+    "domain": "IT",
+    "sub_domain": "DevOps",
+    "level": "Middle",
+    "responsibilities": [
+        "Thiết kế, triển khai và vận hành hạ tầng hệ thống cho ứng dụng web theo mô hình microservice",
+        "Xây dựng, duy trì và tối ưu quy trình CI/CD cho backend, frontend và các service liên quan",
+        "Quản lý và vận hành môi trường containerization",
+        "Cấu hình, giám sát và tối ưu hạ tầng cloud/on-prem (compute, network, storage)",
+        "Phối hợp với team phát triển triển khai ứng dụng, cấu hình runtime và xử lý sự cố production",
+        "Triển khai và quản lý các dịch vụ hạ tầng dùng chung",
+        "Vận hành Database ở mức hạ tầng",
+        "Thiết lập và giám sát hệ thống monitoring, logging, alerting",
+        "Đảm bảo tính sẵn sàng cao (HA), khả năng mở rộng (scalability), sao lưu và phục hồi sau thảm họa (DR) cho hệ thống",
+        "Thực hiện bảo mật hạ tầng, tối ưu hiệu năng, chi phí và chuẩn hóa tài liệu vận hành"
+    ],
+    "must_have_skills": [
+        "Thiết kế và vận hành hệ thống containerized",
+        "CI/CD pipeline design and operation",
+        "Quản lý hạ tầng Cloud/On-Premise/Hybrid",
+        "Linux",
+        "Networking",
+        "System Security",
+        "Monitoring",
+        "Logging",
+        "Backup",
+        "Disaster Recovery (DR)",
+        "Microservices",
+        "High Availability Systems",
+        "High Traffic Systems",
+        "Infrastructure as Code (IaC)"
+    ],
+    "strong_preferred_skills": [
+        "Cross-functional Collaboration",
+        "System Stability",
+        "Scalability"
+    ],
+    "nice_to_have_skills": [
+        "Technical Leadership",
+        "Mentoring"
+    ],
+    "tools_platforms": [
+        "Kafka",
+        "GitLab CI",
+        "Jenkins",
+        "GitHub Actions",
+        "Terraform",
+        "Ansible"
+    ],
+    "databases": [
+        "Redis",
+        "PostgreSQL",
+        "MySQL",
+        "NoSQL"
+    ],
+    "devops_cloud": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "Azure",
+        "GCP",
+        "CI/CD"
+    ],
+    "soft_skills": [
+        "System Thinking",
+        "Proactiveness",
+        "High Responsibility"
+    ],
+    "language_requirement": [],
+    "experience_required": {
+        "min_years": 3.0,
+        "max_years": null,
+        "description": "Tối thiểu 3 năm kinh nghiệm làm việc ở vai trò DevOps/System Engineer."
+    },
+    "education_requirement": {
+        "min_degree": "Đại học",
+        "majors": [],
+        "notes": null
+    },
+    "salary_range": null,
+    "working_time": null,
+    "keywords": [
+        "DevOps",
+        "Engineer",
+        "Microservices",
+        "CI/CD",
+        "Docker",
+        "Kubernetes",
+        "Cloud",
+        "AWS",
+        "Azure",
+        "GCP",
+        "Linux",
+        "Networking",
+        "Security",
+        "Monitoring",
+        "Logging",
+        "Backup",
+        "DR",
+        "Terraform",
+        "Ansible",
+        "PostgreSQL",
+        "MySQL",
+        "Redis",
+        "Kafka"
+    ],
+    "raw_text": "DevOps Engineer\n\nChi tiết tin tuyển dụng\nYêu cầu:\n3 năm kinh nghiệm\nĐại Học trở lên\nXem chi tiết Yêu cầu\nQuyền lợi:\nNghỉ thứ 7\nXem chi tiết Quyền lợi\nChuyên môn:\nDevOps Engineer\nIT - Phần mềm\nMô tả công việc\n- Thiết kế, triển khai và vận hành hạ tầng hệ thống cho ứng dụng web theo mô hình microservice.\n- Xây dựng, duy trì và tối ưu CI/CD cho backend, frontend và các service liên quan.\n- Quản lý và vận hành môi trường Docker, Kubernetes (on-premise, cloud hoặc hybrid).\n- Cấu hình, giám sát và tối ưu hạ tầng cloud/on-prem (compute, network, storage).\n- Phối hợp với team phát triển triển khai ứng dụng, cấu hình runtime và xử lý sự cố production.\n- Triển khai và quản lý các dịch vụ hạ tầng dùng chung như Kafka/Message Queue, Redis/Cache.\n- Vận hành Database (PostgreSQL/MySQL/NoSQL) ở mức hạ tầng.\n- Thiết lập và giám sát hệ thống monitoring, logging, alerting.\n- Đảm bảo HA, scalability, backup và disaster recovery cho hệ thống.\n- Thực hiện bảo mật hạ tầng, tối ưu hiệu năng, chi phí và chuẩn hóa tài liệu vận hành.\n\nYêu cầu ứng viên\n- Tối thiểu 3 năm kinh nghiệm làm việc ở vai trò DevOps/System Engineer.\n- Thành thạo Docker, Kubernetes, thiết kế và vận hành hệ thống containerized, CI/CD pipeline.\n- Kinh nghiệm triển khai và quản lý hạ tầng trên Cloud (AWS/Azure/GCP) hoặc On-Premise/Hybrid.\n- Hiểu rõ Linux, Networking, Security, monitoring, logging, backup, DR.\n- Có kinh nghiệm làm việc với microservice, high availability, high traffic system.\n- Thành thạo các công cụ CI/CD (GitLab CI, Jenkins, GitHub Actions…), IaC (Terraform/Ansible).\n- Có khả năng phối hợp chặt chẽ với team Backend/Frontend, đảm bảo stability – scalability – security.\n- Tư duy hệ thống tốt, chủ động, chịu trách nhiệm cao.\n- Có kinh nghiệm dẫn dắt kỹ thuật hoặc mentoring là lợi thế."
+}
+{
+    "jd_id": "JD_612",
+    "source_file": "D:\\Projects\\XAI\\data\\jd\\raw_test\\JD_612.txt",
+    "job_title": "DevOps Intern",
+    "domain": "IT",
+    "sub_domain": "DevOps",
+    "level": "Intern",
+    "responsibilities": [
+        "Build and maintain monitoring, logging, and alerting systems",
+        "Deploy infrastructure for ESB and API integration systems",
+        "Work with container-related systems, including OpenShift",
+        "Install and configure servers, network devices, and system firewalls",
+        "Participate in building CI/CD pipelines and DevSecOps processes"
+    ],
+    "must_have_skills": [],
+    "strong_preferred_skills": [
+        "Shell Scripting",
+        "Windows OS",
+        "Linux OS"
+    ],
+    "nice_to_have_skills": [
+        "Python",
+        "Powershell"
+    ],
+    "tools_platforms": [
+        "OpenShift",
+        "RabbitMQ",
+        "Kafka",
+        "Apache",
+        "Nginx"
+    ],
+    "databases": [
+        "MSSQL",
+        "Oracle",
+        "PostgreSQL",
+        "Redis"
+    ],
+    "devops_cloud": [
+        "CI/CD pipeline",
+        "DevSecOps",
+        "Docker",
+        "Kubernetes (K8s)"
+    ],
+    "soft_skills": [
+        "Proactive learning",
+        "Teamwork",
+        "Independent work"
+    ],
+    "language_requirement": [
+        "English (technical reading)"
+    ],
+    "experience_required": {
+        "min_years": 0.0,
+        "max_years": null,
+        "description": "No prior experience required"
+    },
+    "education_requirement": {
+        "min_degree": "Đại học",
+        "majors": [
+            "Công nghệ thông tin",
+            "Điện tử viễn thông",
+            "Khoa học máy tính"
+        ],
+        "notes": "Students in 3rd or 4th year of university"
+    },
+    "salary_range": null,
+    "working_time": "Monday to Friday",
+    "keywords": [
+        "DevOps",
+        "SysOps",
+        "Monitoring",
+        "Logging",
+        "Alerting",
+        "CI/CD",
+        "DevSecOps",
+        "Container",
+        "Docker",
+        "Kubernetes",
+        "OpenShift",
+        "Linux",
+        "Shell Script",
+        "MSSQL",
+        "PostgreSQL"
+    ],
+    "raw_text": "Thực Tập Sinh Devops (Sysops) \n\nYêu cầu:\nKhông cần kinh nghiệm\nĐại Học trở lên\nXem chi tiết Yêu cầu\nQuyền lợi:\nNghỉ thứ 7\nXem chi tiết Quyền lợi\nChuyên môn:\nChuyên môn DevOps Engineer\nIT - Phần cứng và máy tính\nMô tả công việc\nXây dựng hệ thống Monitor, Logging, Alert-Cảnh báo\nTriển khai hạ tầng cho hệ thống tích hợp ESB, API của ngân hàng\nLàm việc với các hệ thống liên quan đến container: openshift\nCài đặt và cấu hình các máy chủ, thiết bị mạng và tường lửa hệ thống\nTham gia vào quy trình xây dựng CI/CD pipeline, DevSecOps\nYêu cầu ứng viên\nSinh viên năm 3,4 Đại học khoa CNTT, Điện tử viễn thông, khoa học máy tính, ... và các chuyên ngành liên quan khác,\nTiếng Anh đọc hiểu, nghiên cứu tài liệu chuyên ngành\nHam học hỏi và tìm hiểu các Công nghệ mới\nCó khả năng làm việc độc lập và làm việc nhóm \nYêu cầu kiến thức: \n\nBiết sử dụng Shell Script và các ngôn ngữ: Python, Powershell là lợi thế;\nCó hiểu biết về hệ CSDL: MSSQL, Oracle hoặc PostgreSQL, .. \nCó hiểu biết về Windows, Linux (CentOS, Redhat, Ubuntu) và Queue technology như Rabbit MQ, Kafka ;\nCó hiểu biết về Caching và proxy như: Redis, Apache, Nginx;\nCó hiểu biết về Docker, Container, K8s;"
+}

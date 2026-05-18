@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: IOS Developer - HCM
+
+Mô tả công việc:
+Phát triển ứng dụng Hi FPT MegaApp trên nền tảng iOS.Phát triển chuyên sâu dần về công nghệ mobile và Front nói chung.Tối ưu trải nghiệm người dùng, tập trung vào tốc độ xử lý trên mobile.Tìm hiểu các framework mới, ứng dụng vào App đang phát triển.Tuân thủ quy trình và task được giao bởi leader.Các công việc khác theo yêu cầu từ ban giám đốc.
+
+Yêu cầu công việc:
+Tốt nghiệp Đại Học hoặc Cao Đẳng trở lên các chuyên nghành Công nghệ thông tin.Có kinh nghiệm từ 1 đến 4 năm làm việc với Objective-C/Swift.Có kiến thức về cấu trúc dữ liệu, giải thuật, lập trình hướng đối tượng.Hiểu và làm việc được với các mô hình MVC,MVVM, các framework: UIKit, StoreKit, MessageUI,CFNetwork….Có kinh nghiệm làm việc với Firebase, Realm, RxSwift.Có kinh nghiệm lập trình giao tiếp giữa mobile với server qua các giao thức TCP/IP, WebSocket, WebService và JSON/XML....Ưu tiên có kinh nghiệm tối ưu hóa performance và tối ưu hóa cho các loại device khác nhau.
+
+Yêu cầu kinh nghiệm: 1-3 năm

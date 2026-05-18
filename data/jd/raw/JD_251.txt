@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Backend Developer Lương Up To 2000$ (.Net, Html5, Css3, JavaScript) Tại Hồ Chí Minh - Huế
+
+Mô tả công việc:
+- Tham gia lập trình các chứng năng hệ thống mới theo yêu cầu. - Phối hợp cùng đội ngũ BA phân tích, thiết kế, đưa ra giải pháp để phát triển phần mềm đáp ứng đúng, đủ, tiện các yêu cầu của người dùng cuối. - Tham gia nghiên cứu và ứng dụng các công nghệ mới vào sản phẩm. - Phối hợp làm việc với bộ phận liên quan để xây dựng kế hoạch phát triển sản phẩm. - Duy trì hoặc thực hiện các dự án tùy chỉnh. - Tham gia tích cực vào các cuộc họp thiết kế của khách hàng / đối tác và các cam kết chung. - Đảm bảo các yếu tố về thời gian- chất lượng- ngân sách…của sản phẩm
+
+Yêu cầu công việc:
+- Từ 2 năm kinh nghiệm trong phát triển ứng dụng dựa trên web với với các ngôn ngữ, khung và công nghệ sau: .NET, HTML5, CSS3, JavaScript.. - Có kiến thức về jQuery, Knockoutjs, Durandal, Angular, JavaScriptMVC là một điểm cộng. - Khả năng làm việc độc lập. - Có khả năng đọc hiểu tài liệu và giao tiếng với Khách Hàng qua văn bản bằng tiếng anh. - Tiếng Anh giao tiếp cơ bản
+
+Yêu cầu kinh nghiệm: 1-3 năm

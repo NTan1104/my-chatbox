@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Frontend Developer (Reactjs) - Lương Lên Đến 30 Triệu
+
+Mô tả công việc:
+• Phát triển các Apps cho các nền tảng thương mại điện tử Shopify / WooCommerce• Chịu trách nhiệm hoàn thành sản phẩm đúng tiến độ, đảm bảo chất lượng• Trao đổi, báo cáo công việc với người quản lý• Trao đổi góp ý với Artist để hoàn tiện UI/UX cho Apps• Cùng team hoàn thiện/bổ sung các tính năng cho Apps• Hỗ trợ đồng nghiệp cùng hoàn thiện sản phẩm
+
+Yêu cầu công việc:
+• Từ 01 năm kinh nghiệm Reactjs• Có kiến thức về Javascript, HTML5, CSS3, SASS, SCSS, Bootstrap CSS• Có kinh nghiệm làm việc với công cụ Git, Restful API, GraphQL.• Có kiến thức về các xu hướng thiết kế: Metro, Flat, Material, Fluent… là lợi thế.• Nhanh nhẹn, Ham học hỏi
+
+Yêu cầu kinh nghiệm: 1-3 năm

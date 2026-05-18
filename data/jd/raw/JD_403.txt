@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên IOS
+
+Mô tả công việc:
+Tham gia phát triển các dự án Mobile Apps trên nền tảng IOSThiết kế giao diện, tối ưu UI/UX.Tích hợp, kết nối app với các hệ thống và dịch vụ có sẵn như Google SDK, Facebook SDK hoặc hệ thống bên thứ 3.Nghiên cứu và áp dụng các công cụ vào việc tối ưu hóa sản phẩmCông việc khác: Thực hiện các công việc khác theo sự phân công của trưởng bộ phận
+
+Yêu cầu công việc:
+Kinh nghiệm 1 năm trở lênCó hiểu biết về lập trình hướng đối tượng (OOP), MVC, các Design Pattern trong iOSCó kinh nghiệm lập trình giao tiếp giữa mobile với server qua các giao thức TCP/IP, WebSocket, WebService và JSON/XML.Nắm vững các kĩ thuật về Autolayout, Core Data, Push Notification, IAPBiết sử dụng thành thạo GitNăng động và kỹ năng làm việc nhóm.Ngoại ngữ: Tiếng Anh đọc hiểu.
+
+Yêu cầu kinh nghiệm: Dưới 1 năm

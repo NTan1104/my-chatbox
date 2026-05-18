@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên Vuejs
+
+Mô tả công việc:
+Có khả năng lập trình HTML5, CSS3, Javascript, Jquery.Chuyển từ giao diện PSD sang giao diện Web.Có hiểu biết về 1 trong các JS framework (AngularJS, VueJS, ReactJS,...)Có khả năng làm giao diện cho các loại Browser (IE, Chrome, Firefox,…)
+
+Yêu cầu công việc:
+Kinh nghiệm từ 1 năm trở lên (được đào tạo về chuyên môn)Ưu tiên các ứng viên có kinh nghiệm tối ưu frontend webBiết sử dụng phần mềm thiết kế Figma, sketch là lợi thếTinh thần cầu tiến, ham học hỏi, chủ động nghiên cứu công nghệ mới
+
+Yêu cầu kinh nghiệm: Dưới 1 năm

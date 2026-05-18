@@ -1,0 +1,42 @@
+Lập Trình Viên .Net - Upto20tr - Hoàng Mai, Hà Nội
+Chi tiết tin tuyển dụng
+Yêu cầu:
+2 năm kinh nghiệm
+Cao Đẳng trở lên
+Xem chi tiết Yêu cầu
+Chuyên môn:
+Backend Developer
+IT - Phần mềm
+Thương mại điện tử
+Ngân hàng
+Mô tả công việc
+Tham gia phát triển và vận hành hệ thống Hóa đơn điện tử (M-Invoice) và các sản phẩm liên quan (CRM, BHXH, TVAN…)
+Phát triển API, xử lý nghiệp vụ trên nền tảng .NET + ABP Framework
+Thiết kế và tối ưu hệ thống theo kiến trúc Microservices / Modular Monolith
+Làm việc với các thành phần hệ thống: Queue: RabbitMQ (xử lý background jobs, event-driven)
+Cache: Redis
+Storage: MinIO (S3 compatible)
+Database: PostgreSQL
+Phối hợp với team FE (ReactJS/NextJS), BA, Tester để phát triển tính năng end-to-end
+Tối ưu hiệu năng, xử lý concurrency, đảm bảo hệ thống chạy ổn định khi tải cao
+Tham gia phân tích, review code, cải tiến kiến trúc hệ thống
+
+Yêu cầu ứng viên
+Có ≥ 2 năm kinh nghiệm lập trình .NET Web (ASP.NET Core)
+Thành thạo C#, ASP.NET Core, Web API
+Hiểu và áp dụng tốt: OOP, SOLID, Design Patterns RESTful API design
+Có kinh nghiệm làm việc với Entity Framework Core hoặc ORM tương đương
+Sử dụng tốt PostgreSQL / SQL Server (viết query, tối ưu index, xử lý transaction)
+Có kinh nghiệm làm việc với Redis (cache) hoặc cơ chế caching tương đương
+Hiểu cơ bản về message queue (RabbitMQ/Kafka)
+Có kinh nghiệm làm việc với Git
+YẾU TỐ ĐIỂM CỘNG:
+
+
+RabbitMQ (event, queue, retry, dead-letter)
+Redis nâng cao (distributed cache, locking MinIO / S3 storage
+Có kinh nghiệm xây dựng hệ thống: High throughput / high concurrency Background jobs / distributed processing
+Có hiểu biết về: Microservices / Event-driven architecture Docker / CI-CD / Linux server
+Có kinh nghiệm tối ưu hệ thống: Caching strategy, queue tuning, DB performance
+Có tư duy product-oriented, chủ động đề xuất giải pháp
+Biết sử dụng AI tools (ChatGPT, Copilot, v.v.) để tăng hiệu suất công việc

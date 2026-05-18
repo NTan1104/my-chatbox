@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên Golang (Backend)
+
+Mô tả công việc:
+- Lập trình Golang tham gia quản lý việc trao đổi dữ liệu giữa server và users, phát triển các thành phần back-ends, liên kết ứng dụng với các web services khác - Tích hợp các giải pháp lưu trữ dữ liệu.- Nghiên cứu công nghệ mới để áp dụng cho các dự án của công ty- Duy trì và phát triển các website, code và cấu trúc dữ liệu có sẵn của công ty- Thực hiện nâng cấp đều đặn để giúp phần mềm và các hệ thống trở nên bảo mật và hiệu quả hơn.
+
+Yêu cầu công việc:
+- Thành thạo lập trình Golang- Có kinh nghiệm Web API, Web Services REST, Micro-service.- Có kinh nghiệm làm việc với nhiều cơ sở dữ liệu (Mongo, SQL, Redis …).- Có kiến thức cơ bản về Front-End, như HTML5, CSS3- Thực hiện các nền tảng thử nghiệm tự động và unit tests.- Thành thạo các công cụ tạo phiên bản code, chẳng hạn như Git.- Kỹ năng tư duy logic và thuật toán tốt, phân tích và giải quyết vấn đề.- Có khả năng đọc hiểu tiếng Anh chuyên ngành
+
+Yêu cầu kinh nghiệm: 1-3 năm

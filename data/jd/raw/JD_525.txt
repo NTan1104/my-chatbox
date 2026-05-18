@@ -1,0 +1,62 @@
+AI Engineer (Computer Vision/LLM/NLP)
+
+Chi tiết tin tuyển dụng
+Yêu cầu:
+1 năm kinh nghiệm
+Đại Học trở lên
+Xem chi tiết Yêu cầu
+Quyền lợi:
+Nghỉ thứ 7
+Bảo hiểm xã hội
+Khám sức khỏe định kỳ
+Xem chi tiết Quyền lợi
+Chuyên môn:
+AI Engineer
+IT - Phần mềm
+IT - Phần cứng và máy tính
+Viễn thông
+Mô tả công việc
+· Nghiên cứu, phát triển và tối ưu các mô hình AI trong lĩnh vực Computer Vision (Object Detection, Tracking, Re-ID, Face Recognition, Action Recognition, v.v.).
+
+· Xây dựng và triển khai các hệ thống xử lý video thời gian thực, đặc biệt cho các bài toán multi-camera
+
+· Có kinh nghiệm với nền tảng Nvidia Deepstream, Nvidia Triton Inference Sever
+
+· Tối ưu hiệu năng hệ thống (GPU utilization, latency, throughput) cho môi trường production.
+
+· Tích hợp hệ thống AI với các dịch vụ backend, message queue, database hoặc hệ thống streaming.
+
+· Phối hợp với đội ngũ backend/devops để triển khai hệ thống AI trên môi trường Docker/Kubernetes, đảm bảo tính mở rộng và độ ổn định cao.
+
+· Tham gia đánh giá, cải tiến mô hình và pipeline xử lý video trong thực tế
+
+HOẶC LLM:
+
+· Nghiên cứu, phát triển và tối ưu các mô hình AI, tập trung vào Mô hình ngôn ngữ lớn (LLM) và các ứng dụng thực tế.
+
+· Thiết kế, xây dựng và triển khai hệ thống AI Agent (multi-agent, tool-calling, workflow orchestration).
+
+· Có kinh nghiệm với các hệ thống low-code/ automation workflow ( openclaw , n8n, v..v)
+
+· Xây dựng và tối ưu các giải pháp RAG (Retrieval-Augmented Generation), chatbot thông minh, hệ thống hỏi đáp và tìm kiếm thông tin.
+
+· Tích hợp LLM với các hệ thống bên ngoài (database, API, công cụ nội bộ).
+
+· Phối hợp với đội ngũ backend/devops để triển khai hệ thống AI lên môi trường production, đảm bảo hiệu năng, khả năng mở rộng và độ ổn định.
+
+· Theo dõi, đánh giá và cải thiện chất lượng phản hồi của mô hình (evaluation, prompt tuning, fine-tuning khi cần)
+
+Yêu cầu ứng viên
+· Tốt nghiệp Đại học chuyên ngành CNTT, Điện tử - Viễn thông, Toán hoặc các ngành liên quan.
+
+· Có TỪ 1 năm kinh nghiệm trở lên trong lĩnh vực Computer Vision./ LLM/NLP
+
+· Có kinh nghiệm thực tế với các bài toán multi-camera system (camera synchronization, cross-camera analytics). HOẶC các bài toán về AI Agent system (single-agent hoặc multi-agent, tool use, planning, reasoning workflows).
+
+· Thành thạo Python và/hoặc C++.
+
+· Có kinh nghiệm làm việc với PyTorch, TensorRT hoặc ONNX.
+
+· Có kinh nghiệm Nvidia Deepstream, Nvidia Trition Sever / HOẶC Thành thạo Pytorch LangChain / LangGraph hoặc framework agent tương tự
+
+· Có kinh nghiệm triển khai và vận hành hệ thống bằng Docker, Kubernetes

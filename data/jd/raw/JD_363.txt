@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên Android - Thu Nhập Upto 2000$
+
+Mô tả công việc:
+1. Phát triển và maintain ứng dụng mobile nền tảng Android (Java/Kotlin) / Develop and maintain mobile application base on Android platform (Kotlin/ Java)2. Hiểu rõ yêu cầu công việc phát triển sản phẩm mobile theo yêu cầu cụ thể / Understanding the requirements needed to perform the application development3. Phối hợp với các bên liên quan để phát triển tính năng sản phẩm / Coordinate with other departments to develop product features.4. Chịu trách nhiệm phát triển ứng dụng chính xác, hiệu quả đáp ứng nhu cầu cho ứng dụng mobile / Be responsible for building attractive, efficient, and responsive applications
+
+Yêu cầu công việc:
+I. Yêu cầu chung / GENERAL REQUIREMENT 1. Có kiến thức nền tảng tốt về Design pattern, cấu trúc dữ liệu và giải thuật / Good background knowledge about Design pattern, Data structures and Algorithms. 2. Có tư duy logic và giải quyết vấn đề tốt / Good for logical thinking and problem-solving. 3. Có khả năng học hỏi và thích ứng với công nghệ mới một cách nhanh chóng /II. Yêu cầu kỹ thuật Có kinh nghiệm sử dụng Ít nhất 3 năm kinh nghiệm phát triển Android native Có kinh nghiệm sử dụng các mô hình phát triển MVC, MVP hoặc MVVM Có kinh nghiệm làm việc với server qua restful API, Web socket
+
+Yêu cầu kinh nghiệm: 1-3 năm

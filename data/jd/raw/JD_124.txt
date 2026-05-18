@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Game Developer
+
+Mô tả công việc:
+Xây dựng và phát triển các dự án Game (Web, Mobile) trên nền tảng UnityPhối hợp với các thành viên trong team để hoàn thiện và tối ưu hoá sản phẩmSửa lỗi và cải thiện tính năng, hiệu suất trò chơiTham gia phát triển bộ SDK (cho Android và IOS) dành cho game của công ty
+
+Yêu cầu công việc:
+Có từ 01 năm kinh nghiệm phát triển game và ứng dụng trên nền tảng UnityCó tư duy tốt, chủ động trong công việc, có tinh thần trách nhiệm cao và đam mê với GameĐã từng phát triển và có Game demo trên Google Play, AppStoreHiểu biết về logic, cấu trúc dữ liệu, thuật toán, design patternLàm việc độc lập, làm việc nhóm tốtCởi mở, sẵn sàng học tập, chia sẻ công nghệ mớiCó kinh nghiệm phát triển native App iOS/Android là 1 lợi thếHiểu biết về React là 1 lợi thếCó kiến thức về blockchain là 1 lợi thế
+
+Yêu cầu kinh nghiệm: 1-3 năm

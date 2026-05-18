@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên
+
+Mô tả công việc:
+- Tham gia các dự án phần mềm của Công ty;- Xây dựng kế hoạch và quản lý tiến độ lập trình theo kế hoạch;- Thiết kế module chi tiết;- Lập trình và tích hợp (front-end và back-end);- Xem xét code kiểm thử và thử nghiệm;- Viết tài liệu mô tả chức năng phần mềm;- Phối hợp với các bộ phận để phát hiện và xử lý lỗi hiệu quả;- Bảo trì và hỗ trợ các vấn đề liên quan đến lập trình;- Thực hiện các công việc khác của Công ty giao.
+
+Yêu cầu công việc:
+- Muốn xây dựng những sản phẩm, giải pháp công nghệ Made in Vietnam;- Tốt nghiệp Đại học chuyên ngành CNTT;- Kỹ năng công nghệ bắt buộc: .Net, MVC, API, Linq, SQL Sever. Đã từng phát triển nền tảng .Net Core là một lợi thế;- Có hiểu biết về lập trình Backend - Frontend, Javascript, Html, CSS, HTTP;- Có kinh nghiệm trong phát triển ứng dụng Web;- Có sản phẩm Demo khi đến phỏng vấn;- Có tư duy logic tốt, có tinh thần trách nhiệm, ham học hỏi và nhiệt tình với công việc.- Có khả năng đọc hiểu tài liệu tiếng anh là một lợi thế;- Có kỹ năng làm việc độc lập và phối hợp theo nhóm.
+
+Yêu cầu kinh nghiệm: Không yêu cầu kinh nghiệm

@@ -1,0 +1,39 @@
+PHP Developer
+
+Chi tiết tin tuyển dụng
+
+Yêu cầu:
+2 năm kinh nghiệm
+Đại Học trở lên
+Tuổi 25 - 30
+Tiếng Anh Đọc 
+
+Chuyên môn:
+Fullstack Developer
+IT - Phần mềm
+Thương mại điện tử
+Kho vận
+
+Mô tả công việc
+1.Phát triển Hệ thống: Chịu trách nhiệm xây dựng, nâng cấp và bảo trì các module tính năng trên hệ thống ERP dựa trên framework Yii 1.x.
+
+2.Tối ưu mã nguồn: Đảm bảo source code đạt chất lượng cao, có cấu trúc rõ ràng, dễ dàng bảo trì và mở rộng.
+
+3.Phối hợp Teamwork: Làm việc chặt chẽ với Team Product và các bộ phận liên quan để hiện thực hóa các yêu cầu nghiệp vụ thành giải pháp kỹ thuật tối ưu.
+
+4.Quản trị Dữ liệu: Thiết kế và tối ưu hóa cơ sở dữ liệu MySQL, tập trung vào việc nâng cao hiệu năng truy vấn và khả năng xử lý dữ liệu lớn.
+
+5.Giải quyết bài toán nghiệp vụ: Xử lý các logic đặc thù của ngành Cross-border như: đồng bộ đa nền tảng (Amazon, Walmart, Shopify...), vận chuyển quốc tế.
+
+Yêu cầu ứng viên
+Tối thiểu 02 năm kinh nghiệm làm việc với PHP. Có khả năng đọc hiểu và làm việc với mã nguồn cũ.
+Framework: Có kinh nghiệm Yii 1.x/2.x hoặc Laravel Framework.
+Frontend cơ bản: Nắm vững JavaScript, HTML/CSS để xử lý tốt việc tương tác dữ liệu (Ajax/JSON) và các logic giao diện cơ bản.
+Database: Có kinh nghiệm làm việc và tối ưu MySQL hoặc PostgreSQL.
+Công cụ: Sử dụng thành thạo Git. Quen thuộc với quy trình phát triển Agile/Scrum.
+Ngoại ngữ: Tiếng Anh cơ bản (đọc hiểu tài liệu kỹ thuật).
+Ưu tiên:
+
+Ứng viên có kinh nghiệm tham gia bảo trì, nâng cấp hoặc tối ưu hóa các hệ thống lớn đã vận hành lâu năm (Legacy Systems)
+Ứng viên đã từng làm việc trong các dự án ERP, CRM, WMS hoặc hệ thống Thương mại điện tử.
+Ứng viên đã từng tích hợp API các sàn TMĐT quốc tế (TikTok Shop, Amazon, Walmart...) hoặc hệ thống kho vận (WMS).

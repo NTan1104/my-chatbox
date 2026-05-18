@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Fullstack Developer
+
+Mô tả công việc:
+Thiết kế và triển khai kiến trúc cho ứng dụng webThiết kế và triển khai cơ sở dữ liệu cần thiết cho quá trình phát triển ứng dụngThiết kế và xây dựng hệ thống API cho ứng dụng.Triển khai quy trình tích hợp ứng dụng với hệ thống API của các bên thứ 3Đảm bảo ứng dụng vận hành trơn tru, đạt hiệu suất tốt
+
+Yêu cầu công việc:
+Tốt nghiệp ngành kỹ sư phần mềm hoặc hệ thống thông tin hoặc các bằng cấp liên quanCó từ 3-6 tháng kinh nghiệm Fullstack hoặc Backend Developer có định hướng lên Fullstack developerHiểu quy trình phát triển web (thiết kế, phát triển và thực hiện), cách thức giao tiếp giữa Client và Server.Có hiểu biết về mô hình MVC, hiểu về API, Restful APICó kinh nghiệm làm việc với CSDL (Postgresql, mysql hoặc mongodb,..).Có kinh nghiệm sử dụng Javascript, Typescript hoặc một số ngôn ngữ lập trình Backend khácCó kiến thức về các cách render giao diện website: Server-side Rendering, Client-side Rendering,….Có kinh nghiệm làm việc với các thư viện, framework Javascript như: ExpressJs, ReactJs, NextJs,…Có khả năng tự học tốtTiếng anh đọc hiểu tốt là một lợi thế
+
+Yêu cầu kinh nghiệm: 1-3 năm

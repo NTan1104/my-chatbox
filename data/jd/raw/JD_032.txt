@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên Java Big Data (Lương Từ 12 Đến 25 Triệu)
+
+Mô tả công việc:
+Xây dựng hệ thống xử lý, lưu trữ dữ liệu của Lotus và dữ liệu quảng cáo Admicro.Sử dụng Spark và Flink để xử lý dữ liệu.Nghiên cứu và tìm hiểu những Big Data framework mới phù hợp với yêu cầu bài toán.
+
+Yêu cầu công việc:
+Có kiến thức về cấu trúc dữ liệu và giải thuật và các cơ sở dữ liệu: SQL, NoSQL.Có kinh nghiệm làm việc từ 1 năm trở lên với ngôn ngữ Java (bắt buộc có làm về BackEnd).Làm việc với Big Data từ 1 năm kinh nghiệm trở lên.Yêu cầu thành thạo: Maven, Log4j, Git, Linux.Có kiến thức về Hadoop, Spark.Có kiến thức về Flink là 1 lợi thế.Có khả năng đọc tài liệu tiếng anh.Khả năng tư duy tốt và ham học hỏi là lợi thế.Ưu tiên: Ứng viên vui vẻ, hòa đồng, tinh thần đoàn kết, giúp đỡ nhau, làm việc nhóm tốt, cầu tiến là 1 lợi thếThông tin thêm: Tech Stack mà dự án đang dùng: Linux, Apache, Java/Scala, NoSQL
+
+Yêu cầu kinh nghiệm: 1-3 năm

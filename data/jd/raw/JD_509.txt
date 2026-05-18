@@ -1,0 +1,62 @@
+Lập Trình Viên AI - AI Engineer Kinh Nghiệm Từ 2 Năm, Thu Nhập Hấp Dẫn Từ 16 - 25 Triệu, Hà Nội, Đi Làm Nga
+
+Chi tiết tin tuyển dụng
+Yêu cầu:
+2 năm kinh nghiệm
+Đại Học trở lên
+Xem chi tiết Yêu cầu
+Quyền lợi:
+Nghỉ thứ 7
+Thưởng tháng 13
+Xem chi tiết Quyền lợi
+Chuyên môn:
+AI Engineer
+IT - Phần mềm
+Công nghệ kỹ thuật
+IT - Phần cứng và máy tính
+
+Mô tả công việc
+Nghiên cứu & Phát triển
+oNghiên cứu các mô hình AI/ML mới (NLP, CV, Recommender, Generative AI).
+oThử nghiệm, đánh giá và đề xuất áp dụng vào sản phẩm/dự án thực tế.
+oNghiên cứu và cập nhật các kỹ thuật mới về RAG, AI Agent, Prompt Engineering.
+Xử lý dữ liệu
+oLàm việc với Data Engineer để xây dựng pipeline dữ liệu.
+oTiền xử lý, gắn nhãn, làm sạch và chuẩn hóa dữ liệu.
+oQuản lý kho dữ liệu huấn luyện.
+oXây dựng và tối ưu knowledge base phục vụ hệ thống RAG.
+Xây dựng & Triển khai mô hình
+oThiết kế, huấn luyện, tối ưu mô hình AI/ML.
+oTriển khai mô hình thành API/microservice.
+oỨng dụng MLOps để quản lý vòng đời mô hình (CI/CD, monitoring, retraining).
+Xây dựng hệ thống RAG & AI Automation
+oThiết kế và phát triển pipeline RAG (chunking, embedding, retrieval).
+oXây dựng AI Agent và agentic workflow tự động hóa các quy trình nghiệp vụ.
+oTích hợp LLM với các công cụ nội bộ (CRM, ERP, document management,...).
+oTối ưu độ chính xác và tốc độ phản hồi của hệ thống RAG trong môi trường production.
+Vận hành & Cải tiến liên tục
+oTheo dõi hiệu năng mô hình trong môi trường production.
+oTự động hóa việc retrain khi dữ liệu thay đổi.
+oĐề xuất công nghệ mới để nâng cấp hệ thống AI.
+Yêu cầu ứng viên
+Độ tuổi 24 - 30 tuổi, ưu tiên nam
+Học vấn
+oTốt nghiệp ngành Khoa học Máy tính, Công nghệ thông tin, Trí tuệ nhân tạo, hoặc lĩnh vực liên quan.
+Kỹ năng chuyên môn
+oSử dụng Python thành thạo và đã từng làm việc với các ngôn ngữ/ C#, C++, SQL và các framework AI/ML (PyTorch, TensorFlow, Scikit-learn) là một lợi thế.
+oKinh nghiệm NLP: fine-tuning LLM với Hugging Face Transformers (BERT, T5, LLaMA,...), kỹ thuật LoRA/QLoRA/PEFT.
+oKinh nghiệm đã từng làm việc với các hệ thống:
+oRAG (Retrieval-Augmented Generation) và AI Agent với LangChain / LlamaInde
+oPhát triển hệ thống: Nghiên cứu và triển khai các mô hình AI xử lý hình ảnh/video cho hệ thống CCTV.
+oKỹ thuật Pipeline: Xây dựng và duy trì các luồng xử lý dữ liệu video streaming (pipeline) theo thời gian thực.
+oTối ưu hóa mô hình: Trực tiếp thực hiện quá trình huấn luyện (training), tinh chỉnh (fine-tuning) và tối ưu hóa các mô hình AI.
+oNhiệm vụ Thị giác máy tính: Làm việc chuyên sâu với dữ liệu hình ảnh/video, bao gồm: nhận diện đối tượng (detection), nhận dạng (recognition), theo dõi (tracking),...
+oSử dụng thành thạo Vector Database: FAISS, ChromaDB hoặc tương đương.
+oĐã làm về AIVISION: OpenCV, torchvision.YOLO,...
+oKinh nghiệm xử lý dữ liệu lớn (BigQuery).
+oKiến thức MLOps: Docker , MLflow, Airflow.
+oCó kinh nghiệm triển khai mô hình vào sản phẩm thực tế (FastAPI, microservice).
+Kỹ năng mềm
+oKhả năng giải quyết vấn đề dựa trên dữ liệu.
+oGiao tiếp tốt với team kỹ thuật và các phòng ban liên quan.
+oCó tinh thần học hỏi và thích ứng nhanh với công nghệ mới.

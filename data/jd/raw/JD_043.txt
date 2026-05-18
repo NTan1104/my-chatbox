@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Backend Developer (.Net)
+
+Mô tả công việc:
+1. Nội dung công việc:• Xây dựng phát triển hệ thống backend• Phát triển ứng dụng, kết nối API của đối tác với F88• Cùng với Dev front end và BA xây dựng ứng dụng mobile cho vay tài chính• Tối ưu hóa các ứng dụng cho tốc độ tối đa và khả năng mở rộng của digital và biz• Thực hiện các nhiệm vụ phân tích và phát triển sản phẩm (có thể cần nghiên cứu và phân tích sâu rộng)2. Thời gian làm việc:• Buổi sáng: 08h30 - 12h00• Buổi chiều: 13h30 - 17h30 (Thứ Hai - Thứ Sáu)3. Địa điểm làm việc:• 238 Nguyễn Oanh, Gò Vấp, Hồ Chí Minh
+
+Yêu cầu công việc:
+1. Trình độ Học vấn• Tốt nghiệp Đại học/cao đẳng chính quy các ngành nghề liên quan2. Kiến thức/ Chuyên môn Có Liên Quan• Thành thạo MSSQL: xây dựng cấu trúc cơ sở dữ liệu, viết store procedure, trigger,...• Am hiểu về design pattern.• Có kiến thức về micro service CQRS là lợi thế.• Source control: Git.• Unit testing.3. Các kỹ năng• Có khả năng phân tích và xử lý yêu cầu nghiệp vụ• Kỹ năng xử lý vấn đề tốt.• Có kỹ năng làm việc nhóm.4. Các Kinh nghiệm liên quan• Có kinh nghiệm tối thiểu 1 năm trong việc xử lý REST API, WCF.• Thành thạo .Net framework hoặc .Net core, ASP.NET, ASP.NET MVC (Razor).• Có kinh nghiệm làm việc với model Agile, Scrum• Có kinh nghiệm về: Angular, VueJS hoặc React JS là một lợi thế.• Kinh nghiệm sử dụng các công cụ quản lý task và theo dõi tiến độ công việc trên JIRA.
+
+Yêu cầu kinh nghiệm: 1-3 năm

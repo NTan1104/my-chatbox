@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Mobile Developer ( Flutter )
+
+Mô tả công việc:
+Xây dựng, phát triển và tối ưu hóa hiệu suất của sản phẩm trên nền tảng Android / iOS.Cùng tham gia quản lý phân tích và thiết kế các tính năng sản phẩm.Nghiên cứu công nghệ mới, đưa ra giải pháp áp dụng vào sản phẩm dịch vụ của công ty.Phân tích, khắc phục các lỗi sản phẩm trong quá trình vận hành.Phối hợp với đồng nghiệp trong nhóm để hoàn thành các yêu cầu được giao.Báo cáo với leader về tiến độ công việc.
+
+Yêu cầu công việc:
+Tư duy logic tốt, có tinh thần, trách nhiệm và chủ động trong công việc.Có ít nhất từ 1 năm kinh nghiệm về phát triển Flutter (biết iOS hoặc Android Native là một điểm cộng lớn)Có kinh nghiệm tối ưu hiệu suất của appNắm vững các kỹ thuật về caching, lazy loading, SQLite, RESTful API, Push Notification, offline storageNắm vững về lập trình hướng chức năng và lập trình hướng đối tượngSử dụng thành thạo các công cụ build và phát triển app như Xcode, Gradle, Android StudioThành thạo sử dụng Git, Bibucket, Jira/ Tự tin với Git and Bitbucket, Jira skills.Có thể đọc hiểu tài liệu bằng tiếng anhCó khả năng làm việc nhóm và làm việc độc lập và giao tiếp tốt.Cẩn thận, tinh thần trách nhiệm cao, chăm chỉ, có thể chịu được áp lực trong công việc.Điểm cộng nếu có:Có hiểu biết về UX PrinciplesKiến thức về Agile, Scrum, Kanban.
+
+Yêu cầu kinh nghiệm: 1-3 năm

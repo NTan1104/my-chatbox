@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên Back-End (.Net)
+
+Mô tả công việc:
+- Lập trình xây dựng phần mềm ứng dụng, dịch vụ trên nền tảng .Net Core- Tham gia phân tích yêu cầu, thiết kế tính năng trong phạm vi các dự án phát triển của trung tâm Công Nghệ- Tham gia fix bugs, hỗ trợ và nâng cấp sản phẩm- Tham gia nghiên cứu, triển khai & đào tạo các công nghệ mới- Tối ưu hiệu năng xử lý các sản phẩm, dịch vụ hiện có- Thực hiện các công việc khác theo yêu cầu của cấp trên.
+
+Yêu cầu công việc:
+- Có từ 02 năm kinh nghiệm ở vị trí Backend .Net- Có kiến thức và kinh nghiệm với Web API/Restful API/GraphQL, Queue, Message bus…- Có kiến thức và kinh nghiệm làm việc với các hệ CSDL: MongoDB, Postgresql, MSSQL, Redis, Elasticsearch- Có kiến thức và kinh kinh nghiệm làm việc với các công cụ quản lý mã nguồn GitLab, Github- Ưu tiên ứng viên có hiểu biết và kinh nghiệm tham gia triển khai các dự án Microservices…- Có khả năng nắm bắt, nghiên cứu công nghệ mới nhanh- Có kỹ năng phân tích xử lý vấn đề tốt, khả năng tự quản lý và quản lý thời gian tốt, kỹ năng giải quyết vấn đề tốt- Có kỹ năng tìm tòi, học hỏi, mong muốn nâng cao trình độ của bản thân.
+
+Yêu cầu kinh nghiệm: 1-3 năm

@@ -1,0 +1,32 @@
+AI Engineer (Trading Platform)
+
+Chi tiết tin tuyển dụng
+Yêu cầu:
+3 năm kinh nghiệm
+Cao Đẳng trở lên
+Xem chi tiết Yêu cầu
+Quyền lợi:
+Nghỉ thứ 7
+Xem chi tiết Quyền lợi
+Chuyên môn:
+AI Engineer
+IT - Phần mềm
+Mô tả công việc
+Nghiên cứu, thiết kế và vận hành RAG/Agent pipeline ở production (multi-step, tool-use)
+Xây dựng cơ chế evaluation: offline/online eval, A/B test, golden set.
+Tối ưu cost-performance: model routing, caching, batching, quantization, prompt compression.
+Triển khai guardrails: input/output filtering, policy checks, jailbreak defense cơ bản.
+Thiết lập monitoring end-to-end: model drift, token cost, latency, failure mode.
+Hướng dẫn kỹ sư Mid, review kiến trúc và code.
+Yêu cầu ứng viên
+3+ năm kinh nghiệm software/ML engineering, trong đó 1+ năm với LLM systems.
+Thành thạo Python; hiểu systems/performance (async, profiling, concurrency).
+Kinh nghiệm production với LangGraph/Autogen/hoặc framework tương đương.
+Kinh nghiệm với vector DB và retrieval tuning (hybrid search, reranking).
+Kinh nghiệm MLOps/LLMOps: observability, rollback, versioning, canary.
+Có dự án tối ưu chi phí LLM thực tế (token cost, infra cost).
+Ưu tiên (Nice-to-have)
+
+Fine-tuning (LoRA/QLoRA), serving open-source model (LLaMA/Mistral).
+Kinh nghiệm C/C++ hoặc tối ưu inference latency.
+Kiến thức AI Safety nâng cao, model governance trong tài chính.

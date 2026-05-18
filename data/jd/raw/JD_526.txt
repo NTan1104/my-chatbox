@@ -1,0 +1,32 @@
+Thực Tập Sinh AI
+
+Chi tiết tin tuyển dụng
+Yêu cầu:
+Không cần kinh nghiệm
+Đại Học trở lên
+Xem chi tiết Yêu cầu
+Quyền lợi:
+Nghỉ thứ 7
+Xem chi tiết Quyền lợi
+Chuyên môn:
+AI Engineer
+IT - Phần mềm
+Viễn thông
+Tài chính
+Mô tả công việc
+Công ty CP Công nghệ và Truyền thông Dagoras triển khai chương trình thực tập AI Guru, kết hợp giữa:
+
+Đào tạo thực chiến (training + on-job)
+Tham gia cuộc thi AI (Road to AI)
+Sinh viên tham gia sẽ:
+
+Thực hiện dự án AI theo bài toán thực tế
+Tham gia thi cùng các thí sinh khác
+Được xác nhận & đóng dấu thực tập thông qua chương trình
+Yêu cầu ứng viên
+Có kiến thức cơ bản: Python / SQL
+Tư duy logic tốt, chủ động học hỏi
+Ưu tiên:
+
+Có GitHub / project cá nhân
+Đã tham gia cuộc thi/hackathon

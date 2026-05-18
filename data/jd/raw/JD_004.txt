@@ -1,0 +1,16 @@
+Mô tả công việc
+Phân tích và xử lý dữ liệu từ hệ thống giám sát tập trung, sử dụng dữ liệu có sẵn từ database để tạo ra những mô hình dự báo hiệu suất hệ thống.
+Xây dựng mô hình phân tích dữ liệu nhằm dự đoán sản lượng điện, phát hiện lỗi, đánh giá hiệu suất, và tối ưu hóa vận hành hệ thống năng lượng mặt trời.
+Trực quan hóa dữ liệu thông qua các dashboard (Power BI, Tableau, Looker...) để hỗ trợ ra quyết định cho đội ngũ vận hành.
+Làm việc với dữ liệu thời gian thực (Time-series Data) để phát hiện bất thường, phân tích nguyên nhân gốc rễ của các vấn đề trong hệ thống.
+Hợp tác với đội ngũ kỹ thuật & phát triển phần mềm để tối ưu hóa cách thu thập, lưu trữ và xử lý dữ liệu.
+Lập báo cáo vận hành ngày, tuần, tháng, năm để gửi các bên liên quan.
+Phân tích ghi nhận xu hướng hoạt động và đề xuất phương hướng vận hành tiếp theo cho các dự án.
+Yêu cầu
+Thành thạo SQL
+Kinh nghiệm với các công cụ phân tích dữ liệu và Machine Learning như Python.
+Hiểu biết về thống kê, phân tích dự báo (forecasting), phân tích xu hướng dữ liệu để đưa ra các quyết định chính xác.
+Có kinh nghiệm làm việc với dữ liệu thời gian thực (Time-series Data) và các phương pháp phân tích dữ liệu dạng này là một lợi thế.
+Kinh nghiệm xây dựng dashboard trực quan hóa dữ liệu trên Power BI, Tableau, Looker hoặc các công cụ tương tự.
+Thành thạo Microsoft Office (Word, Excel, PowerPoint,...) để xây dựng các template và báo cáo cần thiết.
+Có kinh nghiệm tiếp xúc hoặc vận hành các mô hình hệ thống điện năng lượng mặt trời là một lợi thế.

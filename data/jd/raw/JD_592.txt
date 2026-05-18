@@ -1,0 +1,51 @@
+Devops_SRE
+
+Chi tiết tin tuyển dụng
+Yêu cầu:
+1 năm kinh nghiệm
+Đại Học trở lên
+Xem chi tiết Yêu cầu
+Quyền lợi:
+Nghỉ thứ 7
+Bảo hiểm xã hội
+Bảo hiểm sức khỏe
+Xem chi tiết Quyền lợi
+Chuyên môn:
+DevOps Engineer
+Mô tả công việc
+- Tự động hóa công tác quản trị vận hành, phát triển.
+
++ Tự động hóa quá trình triển khai và thiết lập các môi trường phục vụ phát triển, và vận hành ứng dụng CNTT (Quản lý Mail server, Web server, FTP server, các middleware, CSDL...)
+
++ Tự động hóa quy trình phát triển triển khai phần mềm áp dụng CI/CD trên các môi trường DEV/TEST – UAT- PRODUCTION sử dụng các công cụ như Git, Ansible, Sonar qube, Jenkin, ArgoCD.
+
++ Sử dụng các công cụ quản lý cấu hình như Ansible, Salt stack, Chef, Puppet, hoặc Terraform để tự động hóa cấu hình của các hệ thống, máy chủ, và dịch vụ.
+
+- Giám sát, vận hành hệ thống
+
++ Giám sát, vận hành các hệ thống máy chủ cho các hệ thống/sản phẩm CNTT quan trọng của công ty.
+
++ Tham gia tối ưu, cải thiện hiệu năng hệ thống, tối ưu chi phí.
+
++ Tuân thủ các tiêu chuẩn, hướng dẫn ATTT mức hệ điều hành, backend: web server, database... trên các hệ thống của công ty.
+
++ Quản trị hệ thống, sao lưu dữ liệu.
+
++ Phân tích tìm nguyên nhân gốc đưa ra các giải pháp xử lý triệt để các sự cố.
+
+- Báo cáo công việc cho Trưởng bộ phận phụ trách
+
+Yêu cầu ứng viên
+- Tốt nghiệp Đại học chuyên ngành Công nghệ thông tin/ ĐTVT/ Toán tin/ khoa học máy tính…. hoặc tương đương
+
+- Thành thạo về quản trị hệ thống máy chủ Linux/Unix, Windows.
+
+- Có kiến thức, sử dụng các toolchain phục vụ DevOps/DevOpsSec: Gitlab, Jenkin, Sonar qube, ArgoCD, Ansible...
+
+- Có kinh nghiệm triển khai, quản trị các phần mềm, ứng dụng trên Kubernetes bằng Operator, Helm chart...
+
+- Có kinh nghiệm về một hoặc nhiều các dịch vụ máy chủ như Nginx, Tomcat, HA Proxy, Redis, Kafka, RabbitMQ, IIS, Elastic Search...
+
+- Thành thạo ngôn ngữ lập trình Bash shell, Python hoặc Go.
+
+- Có khả năng phân tích, xử lý vấn đề, diễn đạt vấn đề từ tổng quát đến cụ thể chi tiết mạch lạc, rõ ràng

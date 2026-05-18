@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên Backend ( Python ) - Python Developer - Upto 40M
+
+Mô tả công việc:
+● Thiết kế và phát triển backend có độ tin cậy, chịu tải cao cho hệ thống Dashboard của Public Cloud.● Tham gia vào maintain, refactor, tối ưu hiệu năng các dịch vụ cũ.● Tham gia vào review code.● Xử lý các issue về security, performance cho các backend để đảm bảo hệ thống chạy ổn định.
+
+Yêu cầu công việc:
+● Có từ 1 năm kinh nghiệm làm việc ở vị trí BackEnd. Thành thạo Python và standard library của Python● Tư duy toán học và thuật toán tốt.● Viết code "sạch".● Thành thạo với các dịch vụ API-based và event-based communication.● Có kinh nghiệm sử dụng các database như MongoDB, MySQL, Redis; các Framework như Flask/Django...● Thành thạo Linux, sử dụng tốt môi trường command-line.● Biết sử dụng Git.● Chủ động, chăm chỉ update thông tin & kiến thức mới.
+
+Yêu cầu kinh nghiệm: 1-3 năm

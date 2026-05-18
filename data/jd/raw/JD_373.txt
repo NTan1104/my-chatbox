@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên Golang
+
+Mô tả công việc:
+● Được đào tạo về lập trình Golang trong quá trình làm việc● Xây dựng các framework server, các BackEnd API● Phát triển các hệ thống mico-service● Build và deploy các server, service
+
+Yêu cầu công việc:
+Yêu cầu về Tech: Sử dụng được Golang mức độ cơ bản để implement các logic nghiệp vụ nội bộ chương trình● Hiểu và sử dụng được function-based programming (function, multiple return values, variables with initializers)● Biết cách sử dụng và tạo các Go module, Go package (import, export)● Hiểu và biết cách dùng các basic types, biết cách convert type qua lại.● Thành thạo flow control (If else, switch, defer, for, forever)● Hiểu và biết cách sử dụng con trỏ trong Go● Kỹ năng memory management cơ bản (alloc, free)● Hiểu và biết cách dùng các cấu trúc dữ liệu cơ bản như Struct, Slice, Array, Range, Map● Biết cách sử dụng interface, empty interface● Biết cách xử lý concurrency đơn giản dùng Goroutine, channel, range, select và sync.Mutex● Biết cách sử dụng defer, panic và recover để handle exceptions● Biết cách sử dụng debugger cơ bảnYêu cầu về Định hướng nghề nghiệp● Định hướng theo backend platform và backend hardcore● Định hướng theo phát triển server side và công nghệ thông tin chuyên sâu
+
+Yêu cầu kinh nghiệm: Dưới 1 năm

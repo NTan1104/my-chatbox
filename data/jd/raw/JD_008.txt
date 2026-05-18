@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Frontend Developer (Reactjs, Vuejs) - Lương Upto 2000$
+
+Mô tả công việc:
+- Lập trình phần frontend theo các công việc được giao- Thiết kế, sửa đổi giao diện người dùng theo yêu cầu khách hàng- Sửa lỗi, viết unit test, cải tiến code nếu cần- Hỗ trợ, phối hợp với các thành viên trong nhóm trong các công việc liên quan đến frontend
+
+Yêu cầu công việc:
+- Yêu thích công nghệ, có hiểu biết Solid về JavaScript/TypeScript, HTML5, CSS3 và SCSS- Có kinh nghiệm làm các dự án bằng VueJS, ReactJS, Nuxtjs ,React Native … từ 2 năm trở lên- Có kiến thức và kinh nghiệm làm RESTful API- Khả năng thiết kế tốt UI/UX- Có kinh nghiệm làm việc với Linux Server và Docker- Sử dụng tốt các công cụ quản lý source code: SVN, GIT.- Có kinh nghiệm phát triển dự án theo mô hình Agile Scrum- Có khả năng giao tiếp và làm việc nhóm.- Có tinh thần, trách nhiệm, kỷ luật cao và chịu được áp lực công việc
+
+Yêu cầu kinh nghiệm: 1-3 năm

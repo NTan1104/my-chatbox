@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: IOS Developer
+
+Mô tả công việc:
+Đánh giá, phân tích, nâng cấp và tối ưu mã nguồn trong quá trình phát triểnTrực tiếp làm việc với Project manager/Leader tham gia xây dựng, góp ý, tối ưu sản phẩm ở các giải đoạn khác nhau trong quá trình phát triển dự án.Phối hợp với các kỹ sư Backends để define APIsPhối hợp với các thành viên trong team và dự án fix bugs, tối ưu hóa hiệu năng ứng dụng,Nghiên cứu sâu và nắm công nghệ lõi của các dự án thuộc FtechNghiên cứu các công nghệ mới để áp dụng trong các dự án hiện tại và tương laiTham gia đưa ra những ý tưởng, giải pháp mới cải thiện công việc, cải thiện chất lượng sản phẩm, trải nghiệm khách hàng cũng như góp phần tăng doanh thu cho công ty
+
+Yêu cầu công việc:
+Ứng viên có ít nhất 01 năm kinh nghiệm trở lên phát triển ứng dụng iOS native (Swift/Object-C)Có kinh nghiệm tích hợp các RESTful API, Web service, Web socket và các SDK, thư viện trong quá trình phát triển ứng dụngCó kiến thức về cấu trúc dữ liệu, giải thuật, lập trình hướng đối tượngThành thạo sử dụng Git để quản lý mã nguồnCó kinh nghiệm test, debug và tối ưu hiệu năng cho ứng dụngCó kinh nghiệm làm việc, quản lý nhóm sử dụng Agile/ScrumCó kinh nghiệm phân tích, thiết kế UI/UX cho nền tảng di động sử dụng Adobe XD, Figma, Sketch, Invision, Balsamiq là một lợi thế
+
+Yêu cầu kinh nghiệm: 1-3 năm

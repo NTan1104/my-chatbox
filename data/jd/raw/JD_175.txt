@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: IOS Developer
+
+Mô tả công việc:
+Cùng leader, tham gia phát triển các dự án mobile iOSTham gia ở tất cả các công đoạn của sản phẩm: Design, Code, Test, Review, ReleaseĐảm bảo hoàn thành kịp thời và chính xác các nhiệm vụ được giaoHỗ trợ leader và các thành viên khác trong việc tiếp cận các giải pháp, công nghệ mới
+
+Yêu cầu công việc:
+1 năm kinh nghiệm trở lên với lập trình iOSBiết và nắm vững về Swift, Objective-C, XCode, UIKit, CocoaPodBiết và nắm vững về các mô hình phát triển ứng dụng (MVC, MVP, và MVVM) là một lợi thếKinh nghiệm trong việc tối ưu hoá hiệu năng ứng dụng, bộ nhớ, nắm vững design pattern là một một thếCó kinh nghiệm về Git, Social Network API, Firebase, Facebook SDKCó kinh nghiệm làm việc với cache, cơ sở dữ liệu: SQLite, Realm, CoreData
+
+Yêu cầu kinh nghiệm: 1-3 năm

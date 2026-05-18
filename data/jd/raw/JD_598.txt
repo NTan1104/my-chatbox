@@ -1,0 +1,35 @@
+DevOps Engineer
+
+Chi tiết tin tuyển dụng
+Yêu cầu:
+5 năm kinh nghiệm
+Đại Học trở lên
+Xem chi tiết Yêu cầu
+Quyền lợi:
+Nghỉ thứ 7
+Bảo hiểm sức khỏe
+Team building
+Xem chi tiết Quyền lợi
+Chuyên môn:
+DevOps Engineer
+Công nghệ kỹ thuật
+Mô tả công việc
+Thiết kế, triển khai và vận hành hệ thống hạ tầng cho dự án (AWS cloud, phục vụ Web/API/Batch)
+Xây dựng và quản lý hệ thống CI/CD, tự động hóa quá trình build, test và deploy (GitHub Actions / GitLab CI)
+Thiết lập và quản lý môi trường: Development / Staging / Production
+Quản lý version và release
+Quản trị hệ thống server, network, storage đảm bảo high availability & scalability
+Thiết lập hệ thống giám sát (monitoring, logging, alerting) để đảm bảo hiệu suất và độ ổn định
+Thiết kế và quản lý hạ tầng AWS: EC2, S3, RDS, Lambda, VPC, Security Group, IAM
+Thiết lập môi trường chạy batch (cron / scheduler / ECS / Lambda) và quản lý job execution
+Tối ưu chi phí hạ tầng (cost optimization) trên AWS
+Thiết lập và đảm bảo các tiêu chuẩn: security, backup / restore, disaster recovery
+Phối hợp với team Dev, QA, PM để hỗ trợ deploy, troubleshoot và cải thiện quy trình vận hành
+Xử lý sự cố hệ thống (incident response), phân tích nguyên nhân (root cause analysis) và đề xuất cải tiến
+Yêu cầu ứng viên
+Có tối thiểu 5 năm kinh nghiệm trong lĩnh vực Infrastructure / DevOps / System
+Thành thạo hệ điều hành Linux (Ubuntu/CentOS)
+Có kinh nghiệm với Cloud: AWS (bắt buộc) / GCP / Azure
+Kinh nghiệm với: AWS services: EC2, S3, RDS, Lambda, VPC, IAM; CI/CD: GitHub Actions / GitLab CI / Jenkins; Container: Docker (ưu tiên Kubernetes); Infrastructure as Code: Terraform / CloudFormation; Monitoring: CloudWatch, ELK, Prometheus; Batch processing / job scheduling
+Có kinh nghiệm về security best practices
+Kỹ năng xử lý vấn đề tốt, tư duy hệ thống và chủ động

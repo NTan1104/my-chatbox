@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập trình viên NodeJS
+
+Mô tả công việc:
+- Tham gia dự án lớn và đầy thử thách: phát triển các nền tảng Fulfillment cho các đối tác hàng đầu Việt Nam. - Trực tiếp tham gia phát triển một hoặc nhiều sản phẩm SaaS của công ty cho các nền tảng thương mại điện tử hàng đầu thế giới Shopify. - Đảm bảo code theo standard của team về style, performance. - Đảm bảo dự án hoàn thành đúng tiến độ đề ra.
+
+Yêu cầu công việc:
+- Kinh nghiệm làm NodeJS trên 1 năm. - Có kinh nghiệm làm việc với Database NoSQL: Mongo hoặc Firestore. - Có kinh nghiệm với điện toán đám mây một trong: Google Cloud, AWS, kiến trúc hệ thống microservice là một lợi thế. - Khả năng đọc hiểu Tiếng Anh tốt, ham tìm tòi kiến thức mới là một điểm cộng. - Có tinh thần làm việc đội nhóm, và có trách nhiệm với công việc.
+
+Yêu cầu kinh nghiệm: 1-3 năm

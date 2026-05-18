@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Junior Ruby On Rails
+
+Mô tả công việc:
+Tham gia phát triển dự án web về các lĩnh vực y tế, giáo dục, quản lý, dbs.... sử dụng Ruby như Ruby on Rails;Thiết kế, coding và kiểm thử hệ thống hoặc chức năng sau khi hoàn thành;. Xây dựng kế hoạch và quản lý tiến độ lập trình theo kế hoạch;. Nghiên cứu nắm bắt công nghệ mới;. Tham gia các khóa đào tạo liên quan tới công việc do Công ty tổ chức
+
+Yêu cầu công việc:
+Tốt nghiệp CĐ/ĐH chuyên ngành CNTT hoặc các chuyên ngành liên quan;. Từ 01 năm kinh nghiệm làm việc với Ruby (Rails) làm việc với các công việc sau: Thiết kế chi tiết, coding, unit testing, bug fixing;Sử dụng thành thạo HTML, CSS, JavaScript, Jquery, Bootstrap, JSON, XML .... Nắm chắc kiến thức lập trình hướng đối tượng (OOP), mô hình MVC, thiết kế cấu trúc…;. Sử dụng thành thạo các công cụ quản lý Source Code như Git, SVN… ;. Sẵn sàng học hỏi phương pháp và kỹ thuật mới;
+
+Yêu cầu kinh nghiệm: 1-3 năm

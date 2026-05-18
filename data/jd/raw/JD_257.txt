@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên Frontend
+
+Mô tả công việc:
+- Phát triển giao diện người dùng cho phần mềm, ứng dụng trên nền tảng Web, Desktop, Mobile- Khắc phục sự cố giao diện phần mềm.- Phối hợp với đội ngũ Back-end trong thiết kế API.- Tham gia vào quá trình nghiên cứu và phát triển tính năng phần mềm.- Thực hiện các công việc được phân công bởi quản lý trực tiếp.
+
+Yêu cầu công việc:
+- Có từ 6 tháng kinh nghiệm làm việc với Frontend đối với Fresher, 1-2 năm kinh nghiệm đối với Junior- Thành thạo về HTML, CSS, Javascript- Biết sử dụng Git- Có kinh nghiệm làm việc với React, React Hook- Có khả năng đọc hiểu cơ bản tài liệu Tiếng Anh- Ưu tiên có hiểu biết về Typescript(Đối với ứng viên chưa có kinh nghiệm sẽ được tiếp nhận vào đào tạo, chấp nhận sinh viên mới ra trường/thực tập)
+
+Yêu cầu kinh nghiệm: Dưới 1 năm

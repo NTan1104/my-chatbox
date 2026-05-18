@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên Java
+
+Mô tả công việc:
+– Phát triển sản phẩm phần mềm trên ngôn ngữ Java, sử dụng nhiều nền tảng công nghệ của IBM, Oracle;– Tham gia sâu vào các giai đoạn của một dự án như: phân tích, thiết kế, thực thi, kiểm thử, bảo trì phần mềm;– Nghiên cứu áp dụng công nghệ mới liên quan đến công việc;– Lập trình các module có độ phức tạp cao, liên kết với các module khác;– Tương tác với solution architect về các yêu cầu của dự án, thiết kế và các công nghệ liên quan cần nghiên cứu;– Chịu trách nhiệm xây dựng và đóng gói sản phẩm theo các phiên bản;– Tài liệu hóa các đặc tả thiết kế và các chức năng;– Cung cấp sản phẩm phần mềm đúng hạn, đúng chất lượng.
+
+Yêu cầu công việc:
+– Ưu tiên các ứng viên là sinh viên mới ra trường, chưa có kinh nghiệm làm việc hoặc có kinh nghiệm từ 01 năm – 02 năm;– Hiểu biết về kiến trúc phần mềm và an toàn bảo mật cho phần mềm;– Có kiến thức và kinh nghiệp lập trình pattern;– Có kiến thức về server application Apache Tomcat, Jboss;– Có khả năng làm việc trên hệ điều hành Linux như Red Hat linux, CentOS;– Hiểu biết về lập trình Java Srping Boot, Spring Data JPA, Spring Security, SOAP Service, Rest Service;– Hiểu biết về HTML5/CSS3, Javascript, jQuery, Bootstrap; hiểu biết về một trong các framework JS như Angular, React, VueJS,… là một lợi thế;– Hiểu biết về cơ sở dữ liệu SQL Server, Oracle, My SQL: Tự thiết kế cơ sở dữ liệu, viết store procedure, function và các script phức tạp;– Hiểu biết về việc sử dụng các công cụ quản lý source như svn, git hoặc tfs;– Có khả năng tối ưu hóa thuật toán, script.– Ưu tiên các ứng viên có kiến thức hoặc đã làm việc trên các quy trình phát triển phần mềm như Scrum, Agile;– Ưu tiên các ứng viên có hiểu biết về KPI, Digital Signing, Search Engine, Microsoft AD, Open LDAP.
+
+Yêu cầu kinh nghiệm: 1-3 năm

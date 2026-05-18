@@ -1,0 +1,59 @@
+Fresher AI Engineer (LLM/NPL) 
+
+Chi tiết tin tuyển dụng
+Yêu cầu:
+Dưới 1 năm kinh nghiệm
+Đại Học trở lên
+Xem chi tiết Yêu cầu
+Chuyên môn:
+AI Engineer
+IT - Phần mềm
+IT - Phần cứng và máy tính
+An ninh mạng
+Mô tả công việc
+Xây dựng hệ thống Chatbot Agent & RAG
+
+Hỗ trợ xây dựng pipeline RAG (Retrieval-Augmented Generation) từ cơ bản: chunking tài liệu, tạo embedding, lưu trữ vào vector database, truy vấn và sinh câu trả lời.
+Tham gia phát triển chatbot agent có khả năng hội thoại nhiều lượt, sử dụng tools và duy trì ngữ cảnh.
+Tích hợp chatbot vào các nghiệp vụ thực tế của doanh nghiệp: kế toán, hóa đơn, chăm sóc khách hàng.
+Viết code thử nghiệm (experiment) để đánh giá chất lượng kết quả trả về của hệ thống RAG.
+Tham gia phát triển hệ thống Multi-Agent
+
+Học và áp dụng kiến trúc multi-agent: agent điều phối (orchestrator), agent thực thi (executor), agent công cụ (tool agent).
+Hỗ trợ viết và kiểm thử các luồng phối hợp giữa nhiều agent bằng LangChain, LangGraph hoặc framework tương đương.
+Tích hợp các external API và công cụ (tools) vào hệ thống agent.
+Hỗ trợ tích hợp & vận hành mô hình
+
+Tích hợp OpenAI API, Ollama (chạy model local), Hugging Face theo yêu cầu dự án.
+Hỗ trợ viết script xử lý dữ liệu, test model, ghi log kết quả thử nghiệm.
+Phối hợp với team backend và product để tích hợp tính năng AI vào sản phẩm nội bộ.
+Yêu cầu ứng viên
+Kiến thức nền tảng (bắt buộc)
+
+Hiểu cơ bản về Large Language Model (LLM): prompt, context window, token, temperature.
+Biết khái niệm RAG: chunking, embedding, vector search là gì và tại sao dùng.
+Thành thạo Python cơ bản: đọc/ghi file, gọi API, xử lý JSON, vòng lặp, hàm.
+Đã từng thử dùng OpenAI API hoặc Hugging Face (dù chỉ là project nhỏ/tutorial) là lợi thế.
+Kỹ năng kỹ thuật
+
+Biết sử dụng Git cơ bản: clone, commit, push, pull request.
+Quen với môi trường Linux / terminal, biết cài đặt thư viện Python (pip, virtualenv).
+Có thể đọc hiểu tài liệu kỹ thuật tiếng Anh chuyên ngành (docs, paper, README).
+Biết Docker ở mức cơ bản là điểm cộng.
+Thái độ & tư duy
+
+Chủ động học hỏi, không ngại thử nghiệm và chịu được thất bại khi experiment.
+Tư duy logic: biết đặt câu hỏi, phân tích vấn đề và đề xuất cách giải quyết.
+Làm việc nhóm tốt, giao tiếp rõ ràng, cập nhật tiến độ công việc đầy đủ.
+Ham học hỏi công nghệ mới, theo dõi xu hướng AI/LLM là lợi thế.
+Kinh nghiệm
+
+Fresher: đã có 6 – 12 tháng kinh nghiệm liên quan đến NLP, chatbot, RAG, hoặc LLM.
+Ưu tiên ứng viên có GitHub có code thực tế, dù nhỏ
+ƯU TIÊN (NICE TO HAVE)
+
+Đã tự xây dựng một chatbot đơn giản dùng LangChain hoặc gọi trực tiếp OpenAI API.
+Biết vector database cơ bản: Qdrant, Elasticsearch.
+Đã từng dùng Hugging Face để load và chạy model (Sentence-Transformers, embedding model).
+Có kinh nghiệm backend nhỏ: FastAPI để expose endpoint.
+Hiểu biết về evaluation RAG: precision, recall, faithfulness, relevance..

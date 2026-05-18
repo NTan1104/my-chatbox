@@ -1,0 +1,38 @@
+QA Engineer–Data Platform (AWS, ETL)
+
+Chi tiết tin tuyển dụng
+Yêu cầu:
+Không cần kinh nghiệm
+Đại Học trở lên
+Xem chi tiết Yêu cầu
+Quyền lợi:
+Nghỉ thứ 7
+Xem chi tiết Quyền lợi
+Chuyên môn:
+QA Engineer
+Mô tả công việc
+Xây dựng test strategy, test plan, test scenarios/test cases cho cả Functional & Non-functional (hiệu năng, stress test) trong hệ thống dữ liệu.
+Tham gia từ giai đoạn phân tích yêu cầu (BRD/SRS/Design) để đảm bảo hiểu rõ nghiệp vụ và tiêu chí chất lượng.
+Thực hiện kiểm thử hệ thống dữ liệu: Data Warehouse, Data Lake, ETL/ELT pipelines, reporting systems.
+Phối hợp với Dev/SA thực hiện SIT, Performance Test, đảm bảo chất lượng trước khi release.
+Hỗ trợ Business User trong quá trình UAT và xác nhận kết quả kiểm thử.
+Thực hiện kiểm tra, đối soát dữ liệu sau Go-live.
+Quản lý và báo cáo tiến độ test, kết quả test, defect/bug.
+Thực hiện Automation Testing (Regression) và phát triển tool/test script tự động.
+Tham gia xử lý sự cố, hỗ trợ vận hành ở mức Level 3 support, xử lý ticket qua hệ thống IT Service Desk.
+Chủ động đề xuất cải tiến quy trình, nâng cao chất lượng kiểm thử và hệ thống dữ liệu.
+Yêu cầu ứng viên
+Tốt nghiệp Đại học chuyên ngành CNTT, Hệ thống thông tin, Tài chính – Ngân hàng hoặc tương đương.
+Kinh nghiệm kiểm thử dữ liệu (Data Testing) với Data Warehouse, Data Lake, Data Integration.
+Có kinh nghiệm làm việc với môi trường AWS (data-related services) là lợi thế.
+Thành thạo SQL (MSSQL, Oracle...) và có kinh nghiệm kiểm thử ETL/ELT.
+Hiểu quy trình phát triển phần mềm (Agile/Scrum).
+Có kinh nghiệm sử dụng các công cụ quản lý test/bug (JIRA...).
+Kinh nghiệm xây dựng tài liệu QA: Test Plan, Test Scenario, Test Case, Test Report.
+Có kinh nghiệm Automation Testing (Selenium hoặc tương đương) và scripting (Python/Java) là lợi thế.
+Hiểu biết về hệ thống dữ liệu trong lĩnh vực ngân hàng (Core banking, thẻ, báo cáo...) là điểm cộng.
+Kỹ năng:
+Tư duy logic, phân tích tốt
+Giao tiếp và làm việc nhóm hiệu quả
+Cẩn thận, trách nhiệm, tuân thủ bảo mật dữ liệu
+Chủ động trong việc phát hiện và giải quyết vấn đề

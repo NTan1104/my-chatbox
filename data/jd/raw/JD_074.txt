@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên Reactjs
+
+Mô tả công việc:
+• Tham gia phát triển các tính năng quản lý bài viết/video/comment trên hệ thống CMS(Content Management System) của các báo điện tử do VCCorp vận hành trên phiên bản web/ phiên bản mobile và hệ thống CMS Lotus.• Phối hợp với các team khác để cải thiện tính năng, hiệu năng hệ thống trong quá trình vận hành, xử lý fix lỗi khi đối tác/tòa soạn thông báo lỗi.• Phối hợp với phía back-end và API để xây dựng các chức năng mới theo yêu cầu của từng tòa soạn/đối tác• Tham gia xây dựng và phát triển các form viết bài/viết tút/upload gallary ảnh trên hệ thống website của mạng xã hội Lotus và hệ thống quản trị nội dung CMS Lotus.• Phối hợp với đội thiết kế và đội API để cải thiện tính năng, tối ưu hóa các form viết bài trên hệ thống website của mạng xã hội Lotus và hệ thống quản trị nội dung CMS Lotus.• Tham gia nghiên cứu, tìm hiểu các công nghệ về HTML/CSS, Javascript mới nhất để áp dụng cải tiến sản phẩm.• Tham gia thực hiện chỉnh sửa và xây dựng các tính năng/tool khác khi có yêu cầu từ cấp trên.
+
+Yêu cầu công việc:
+Kỹ năng lập trình Javascript:• Nắm chắc kiến thức về các đặt tên hàm, tên biến theo chuẩn pascal casing, camel casing và nắm chắc các kiến thức cơ bản trên trang reactjs.org• Thành thạo các hàm xử lý trên array.• Biết cách viết và chuyển đổi component từ createClass sang dạng extends Component hoặc sang Hooks.• Thành thạo trong việc gọi API (POST, GET, PUT) và cách set param/header cho khi gọi API.• Biết cách sử dụng Context API, Higher-Order components trong ReactJs.• Đã làm việc với ReactJs hoặc Javascript 1 năm.Kỹ năng HTML/CSS:• Nắm chắc kiến thức cơ bản liên quan các thẻ HTML.• Thành thạo trong việc dàn trang/layout sử dụng flex box và grid.Kỹ năng máy tính:• Sử dụng thành thạo các tool như VisualStudio, Sublime, TortoiseSVN.• Có khả năng config webpack, babel để build code ReactJs hoặc build code SCSS, SASS ở mức cơ bản.
+
+Yêu cầu kinh nghiệm: 1-3 năm

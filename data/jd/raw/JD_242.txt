@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Web (Asp.Net)
+
+Mô tả công việc:
+1.Xây dựng các ứng dụng Web dựa trên Framework có sẵn của Công ty trên nền tảng ASP.NET MVC. 2.Viết các script sql để xử lý dữ liệu. 3.Sẽ trao đổi cụ thể trong quá trình phỏng vấn
+
+Yêu cầu công việc:
+1. Tối thiểu 1 năm kinh nghiệm lập trình trên nền tảng .NET. 2. Tốt nghiệp Đại học, Cao đẳng hoặc tương đương chuyên ngành Công nghệ thông tin, Công nghệ phần mềm, Khoa học máy tính.3. Thành thạo các kỹ thuật cơ bản trong công nghệ .NET: C , MSSQL Server, ADO.NET, MVC / MVC5, WebService, XML…4. Thành thạo các kỹ thuật lập trình Website: HTML / HTML5, CSS / CSS3, Javascript, Ajax, jQuery, Angularjs…5. Thành thạo LINQ, Entity Framework.6. Biết sử dụng KendoUI là một lợi thế.7. Có khả năng thiết kế web là một lợi thế.8. Biết sử dụng các phần mềm đồ họa là một lợi thế: Adobe Photoshop, Adobe Illustrator, Fireworks..9. Có khả năng làm việc theo nhóm, có trách nhiệm cao, óc sáng tạo và chăm chỉ.10. Nhanh nhẹn, cẩn thận, tỉ mỉ, chịu được áp lực công việc.
+
+Yêu cầu kinh nghiệm: 1-3 năm

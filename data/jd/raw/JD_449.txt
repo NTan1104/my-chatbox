@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Devops Engineer Upto 35M
+
+Mô tả công việc:
+Triển khai, vận hành, quản trị và tối ưu các hệ thống/dịch vụ trên nền tảng Kubernetes..Phát triển, xây dựng các tool hỗ trợ việc tự động hóa quá trình triển khai ứng dụng theo mô hình CI/CD.Thiết lập, chuẩn hóa môi trường phát triển, môi trường kiểm thử từ Dev/Staging đến Prodution.Tham gia trực tiếp vào các dự án chuyển đổi và ứng dụng kiến trúc microservice.Thiết kế, triển khai hệ thống giám sát, phân tích và cảnh báo hệ thống ở các mức độ infratructure & services. Tài liệu hóa các quy trình triển khai/vận hành/bảo trì hệ thống.Đảm bảo tính sẵn sàng và phục hồi của hệ thống theo SLAs.Tìm hiểu và nghiên cứu các công nghệ, xu hướng mới và lên lộ trình phổ biến/ứng dụng vào các dự án.
+
+Yêu cầu công việc:
+Từ 1 năm kinh nghiệm trong việc vận hành và quản trị các hệ thống trên Linux (Centos, Debian, Ubuntu...).Có kinh nghiêm với công nghệ container (docker, containerd...), container ochestration (Docker Swarm, K8S...).Có kinh nghiệm với một trong các công cụ tự động hóa /quản lý cấu hình như Ansible, SaltStack, Terraform ...Có kinh nghiệm với các tools CI/CD (Git, Gitlab CI, Jenkin...) - Có kinh nghiệm làm việc với các công cụ giám sát hệ thống như Zabbix, Prometheus, ELK.Có hiểu biết về kiến trúc microservice và các kĩ thuật Loadbalacing/Caching/Queue/Loging...Có khả năng lập trình/scripting 1 trong các ngôn ngữ (Python/Go/Bash...) là một lợi thế.Có chứng chỉ chuyên ngành quốc tế: LPI, AWS, CEH... là một lợi thế.Kĩ năng mềm:Đọc hiểu tài liệu tiếng Anh tốt.Nghiên cứu, làm việc độc lập dưới áp lực lớn.Làm việc nhóm, năng động, trách nhiệm, trung thực.
+
+Yêu cầu kinh nghiệm: 1-3 năm

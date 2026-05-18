@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: .Net Developer
+
+Mô tả công việc:
+- Thiết kế, lập trình, kiểm thử đơn vị, sửa lỗi các ứng dụng phần mềm theo yêu cầu của công ty và khách hàng sử dụng các công nghệ sau: Angular 7+, ASP .NET Core, HTML, Java Script, Bootstrap và SQL Server- Phối hợp với nhân viên kiến trúc hệ thống, phân tích nghiệm vụ và kiểm thử để hoàn thành công việc dự án- Tham gia thường xuyên các buổi họp review code và thảo luận với các thành viên trong nhóm để nâng cao chất lượng công việc- Triển khai sản phẩm lên môi trường của khách hàng, hỗ trợ nghiệm thu- Tham gia ước lượng thời gian hoàn thành công việc, xây dựng đề xuất giải pháp cho khách hàng- Có thế onsite làm việc tại khách hàng theo yêu cầu (tại Hà Nội)
+
+Yêu cầu công việc:
+- Có ít nhất 02 năm kinh nghiệm làm việc với ASP.NET Core, SQL Server, Entity Framework Core - Biết về HTML/CSS, Angular 7+, REST API là một lợi thế- Biết NodeJS là 1 lợi thế- Nhiệt tình, ham học hỏi, mong muốn cầu tiến- Có tư duy logic và lập trình tốt- Kỹ năng giao tiếp và truyền đạt tốt- Sử dụng được tiếng Anh (đọc/viết và giao tiếp cơ bản) là một lợi thế
+
+Yêu cầu kinh nghiệm: 1-3 năm

@@ -1,0 +1,20 @@
+Mô tả công việc
+Tham gia vào các dự án xây dựng sản phẩm của Asilla trong mảng Computer Vision có sử dụng công nghệ Deep Learning. Các sản phẩm của công ty bao gồm: nhận diện hành động bất thường thông qua camera giám sát, multiple camera tracking, human pose estimation.
+Cụ thể:
+Thiết kế kiến trúc, xây dựng và tối ưu hệ thống liên quan tới streaming data
+Phối hợp với AI engineers triển khai các thuật toán để xử lý một lượng lớn dữ liệu thời gian thực (real-time data). Luôn chủ động nghiên cứu giải pháp cho các vấn đề.
+Thiết kế và xây dựng cơ sở dữ liệu dùng trong các hệ thống ứng dụng
+Xây dựng các hệ thống Microservices, có thể mở rộng, mang tính khả dụng cao, an toàn và đáng tin cậy.
+Kiểm tra phần mềm để đảm bảo yêu cầu và hoạt động hiệu quả
+Khắc phục sự cố, gỡ lỗi và nâng cấp phần mềm
+Thời gian làm việc:
+Làm việc từ Thứ 2 - Thứ 6, checkin linh hoạt từ 8h-9h, checkout 17h30-18h30
+Yêu cầu
+Thành thạo ngôn ngữ lập trình C++, biết thêm ngôn ngữ Python là một điểm cộng.
+Có kinh nghiệm hoặc hiểu biết về NVIDIA stack như DeepStream SDK, CUDA, TensorRT
+Có kinh nghiệm về Streaming và OS system, các framework như GStreamer, các framework xử lý dữ liệu ảnh như OpenCV, AI/ML frameworks (nice to have)
+Có kinh nghiệm làm việc với các hệ quản trị cơ sở dữ liệu (ví dụ: MySQL, Redis, MongoDB)
+Làm việc với các hệ thống server tại chỗ hoặc trên nền tảng Cloud AWS, kinh nghiệm triển khai với AWS, Docker. Sử dụng được một số tools như Git, CI/CD tools, Jira, Kubernetes,...
+Kiến thức sâu rộng về OOP và design patterns
+Tiếng Anh trung cấp
+Kỹ năng giao tiếp và làm việc nhóm, growth mindset

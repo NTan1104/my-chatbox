@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Java Developer
+
+Mô tả công việc:
+Tham gia vào thiết kế và lập kế hoạch sản phẩm. Cung cấp các giải pháp kỹ thuậtĐảm nhiệm việc phát triển tool, tạo business code và thiết kế core architectHoàn thành việc coding, debug module được chỉ định theo như lịch trình, kế hoạch công việc của dự án.Review source code của dự án. Mở rộng, tối ưu, điều chỉnh hệ thống đã tồn tại theo như yêu cầu của bộ phận nghiệp vụ.Giải quyết được các vấn đề như là performance, multi-thread
+
+Yêu cầu công việc:
+Dùng thành thạo Java, thiết kế kiến trúc web dựa trên J2EE và quy trình phát triển web. Có kinh nghiệm trong việc phát triển WebMVC (Struts, Spring, Hibernate, v.v.)Có kiến thức về Front-End, jquery, sử dụng thành thạo ajax, html/html5 và các vấn đề tương thích của trình duyệtThành thạo thiết kế và phát triển cơ sở dữ liệu dựa trên DB2, Oracle, postegre, MySql hoặc SqlServer.Có khả năng phân tích các yêu cầu hệ thống và kiến trúc thiết kế.Có khả năng làm việc ổn định lâu dài tại công tyCó hiểu biết chuyên môn về các nguyên tắc kỹ thuậtCó thể chủ động suy nghĩ, siêng năng suy nghĩ, chủ động để tiến bộCó tinh thần trách nhiệm cao với công việc, có thể chủ động làm thêm giờ khi công việc yêu cầuCó khả năng truyền đặt, làm việc them nhóm tốt
+
+Yêu cầu kinh nghiệm: 3-5 năm

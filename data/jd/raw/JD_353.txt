@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên Java - Từ 2 Năm Kinh Nghiệm - Offer Upto 30M
+
+Mô tả công việc:
+Tham gia các dự án phần mềm của đối tác.Triển khai công việc lập trình theo kế hoạch đã được phân công và đảm bảo hoàn thành đúng tiến độ và chất lượng yêu cầu.Thời gian làm việc: T2 - T6, nghỉ thứ 7, chủ nhật
+
+Yêu cầu công việc:
+● Có kinh nghiệm làm việc và hiểu biết với Java, Spring, Springboot; API (Restful, SOAP), SCM (Git, SVN), IDE (Eclipse, IntelliJ, NetBeans)● Có kiến thức và kinh nghiệm lập trình Database: Oracle/ SQL/ PostgreSQL/ MongoDB/ Redis,..● Ưu tiên kinh nghiệm làm việc trong các dự án thuộc lĩnh vực tài chính / ngân hàng● Ưu tiên Nhân sự có:- Hiểu biết và có kinh nghiệm về kiến trúc FrontEnd - BackEnd.- Hiểu biết và kinh nghiệm lập trình Microservice, Container- Kinh nghiệm về Message Queue hoặc Cache như Kafka; RabbitMQ, Redis- Hiểu biết và kinh nghiệm về thiết kế UI/UX, xây dựng Unit Test- Từng tham gia triển khai các dự án theo mô hình Agile/Scrum- Có kinh nghiệm lập trình và Unit test theo mô hình phát triển DevOps CI/CD
+
+Yêu cầu kinh nghiệm: 1-3 năm

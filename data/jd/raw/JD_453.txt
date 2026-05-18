@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập trình viên WordPress
+
+Mô tả công việc:
+Tham gia nghiên cứu xây dựng hệ thống và phát triển các dự án sản phẩm chiến lược của công ty hướng đến đối tượng cộng đồng nhiều người dùng Vận hành và bảo trì các ứng dụng, dịch vụ hiện tại của công ty Đi vào thiết kế chi tiết, phát triển và vận hành hệ thống dựa trên thiết kế cơ bản, xây dựng hệ thống từ Backend đến Frontend Thực hiện nhiệm vụ khác theo sự phân công trực tiếp của Quản lý, Ban lãnh đạo ( khi cần)
+
+Yêu cầu công việc:
+Thành thạo lập trình web trên ngôn ngữ PHP, MySQL,… Kinh nghiệm tối thiểu 2 năm Hiểu biết về cấu trúc MVC, Javascript, Ajax, Jquery Có hiểu biết cơ bản về HTML/CSS, Bootstrap3 Có kinh nghiệm tối ưu SEO, hiệu năng web Có kinh nghiệm về WordPress Tư duy lập trình tốt Cần cù chịu khó, nhiệt tình trách nhiệm, trung thực chu đáo, tỉ mỉ khó tính về chất lượng và hình thức sản phẩm. Có kỹ năng tiếng Nhật là lợi thế lớn
+
+Yêu cầu kinh nghiệm: 1-3 năm

@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên Nodejs Part-Time
+
+Mô tả công việc:
+• Phát triển hệ thống ERP của công ty, sử dụng Node.js, VueJs• Xây dựng hệ thống API cho Mobile App, Web App, sử dụng Node.js, MySql, Clickhouse, Kafka, Redis• Phát triển các sản phẩm về giáo dục trực tuyến của công ty• Hỗ trợ giải quyết các vấn đề của dự án• Làm việc, phối hợp công việc theo nhóm dưới sự phân công công việc của quản lý dự án.
+
+Yêu cầu công việc:
+• Nắm được kiến thức cơ bản với ngôn ngữ Javascript (bắt buộc), biết làm việc với nền tảng Node.js (bắt buộc), kiến thức về cơ sở dữ liệu Sql (ví dụ MySql) (bắt buộc)• Đang thực tập hoặc Part time ở công ty là 1 lợi thế• Đang học năm cuối hoặc vừa mới ra trường các ngành CNTT thuộc các trường: Đại học Bách Khoa Hà Nội, Đại học Công Nghệ (ĐH Quốc gia), Đại học Khoa Học Tự Nhiên, Học viện Công Nghệ Bưu Chính Viễn Thông, Học viện Kỹ Thuật Mật Mã
+
+Yêu cầu kinh nghiệm: 1-3 năm

@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Database Admin System
+
+Mô tả công việc:
+-Cài đặt, cấu hình, nâng cấp và bảo trì các hệ thống server vật lý, server ảo hóa nội bộ và của khách hàng.-Tìm, phân tích và xử lý các lỗi liên quan đến hệ thống, đảm bảo vận hành thông suốt cho người dùng nội bộ và khách hàng.-Nâng cao hiệu quả (performance) hoạt động của hệ thống bằng cách thiết lập các tham số phù hợp. -Khảo sát, tư vấn, thiết kế và triển khai hạ tầng cho các khách hàng mới.- Thực hiện giám sát, vận hành và xử lý sự cố phát sinh.-Kết hợp với đội ngũ lập trình viên để thiết kế và xây dựng, cài đặt hệ thống dự phòng đảm bảo tính sẵn sàng cao, sự an toàn và tính toàn vẹn của hệ thống.-Thực hiện các công việc định kỳ theo quy trình vận hành.-Chạy script theo yêu cầu của đội ngũ lập trình viên (nếu có)
+
+Yêu cầu công việc:
+-Tốt nghiệp đại học chính quy chuyên ngành CNTT, ĐTVT-Có ít nhất 02 năm kinh nghiệm chuyên môn làm việc với hệ thống server ảo hóa (VMware, Proxmox..), các HĐH Linux, Windows…-Có khả năng tự nghiên cứu, phân tích và giải quyết vấn đề-Có khả năng phối hợp nhóm tốt-Có khả năng sáng tạo, đề xuất giải pháp cải tiến hệ thống.-Có kỹ năng viết và tổ chức tài liệu.-Có kỹ năng quản lý, giao việc.
+
+Yêu cầu kinh nghiệm: 1-3 năm

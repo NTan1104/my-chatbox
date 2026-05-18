@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên Java (All Level) Tại Hồ Chí Minh - Up To $2500
+
+Mô tả công việc:
+Triển khai kiến trúc phần mềm cho hệ sinh thái của dự án thương mại điện tử về du lịch: Đặt vé máy bay, khách sạn và du lịch online trong nước (Nhật Bản) và quốc tế.Thiết kế, phát triển và tối ưu hóa hiệu suất sản phẩm trên nền tảng Java.Luôn cập nhật các công nghệ, kỹ thuật mới nhất.Được đào tạo trở thành kỹ sư Fullstack.Dự án dài hạn, công việc ổn định.Kỹ thuật chính sử dụng trong dự án:Fullstack FE (Python pyramid, backbone (Framework JS), jinja2 template)BE (Java) Framework chính: Seasar của Nhật 90% (tương tự Spring Boot), Spring Boot (10%)
+
+Yêu cầu công việc:
+Bạn cần có:Tốt nghiệp ĐH chuyên ngành CNTT hoặc tương đương.Có từ 1 – 5+ năm kinh nghiệm lập trình với ngôn ngữ Java.Có kiến thức tốt về thuật toán, lập trình hướng đối tượng (OOP) Java/JEE và Spring (DI, AOP, IoC)Kinh nghiệm làm Web service: MVC, RESTful (SOAP)DB: SQL/JDBC và ORM/Hibernate (MySQL,Oracle)Bạn có là lợi thế (Không bắt buộc):Kiến thức HTML, CSS, JavaScriptBiết hoặc muốn tìm hiểu về frameworks JS (Angulars, VueJS,BackboneJS)Apache Tomcat, Jboss…
+
+Yêu cầu kinh nghiệm: 1-3 năm

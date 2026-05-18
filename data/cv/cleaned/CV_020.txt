@@ -1,0 +1,126 @@
+Hồ sơ được tạo tự động bởi TopDev - Việc làm IT hàng đầu
+NGUYỄN VĂN THỨC
+
+.NET DEVELOPER
+
+THÔNG TIN CÁ NHÂN
+
+Email thucnguyenit35@gmail.com
+Điện thoại 0961895886
+Giới tính NAM
+Ngày sinh 27/04/1994
+Địa chỉ 34 Phú Đô, Nam Từ Liêm, Hà Nội, Thành phố Hà Nội
+
+GIỚI THIỆU BẢN THÂN
+
+Tôi có 5 năm trong việc phát triển phần mềm.
+Thành thạo trong việc xây dựng website, web api bằng ASP.NET, ASP.NET Core
+Có kinh nghiệm trong việc deploy, quản lý các ứng dụng, database chạy trên linux
+Có kiến thức cơ bản về bảo mật trong việc phát triển website, web api
+Có khả năng làm việc theo nhóm, có khả năng nghiên cứu và thích nghi.
+KINH NGHIỆM LÀM VIỆC
+
+Công ty cổ phần VCCorp
+Lập trình viên.Net
+Trách nhiệm
+Maintain, support đối tác sử dụng hệ thống quản trị nội dung IMS1, IMS2.
+Nghiên cứu, tích hợp các công nghệ mới, service của bên thứ 3 vào sản phẩm.
+Xây dựng hệ thống quản lý cong tập trung.
+Xây dựng hệ thống đo view
+Dùng telegram BOT để gửi OTP, cảnh báo lỗi.
+Kết hợp giữa các team nhằm tối ưu hóa quy trình quản lý dự án, quản lý công việc hiệu quả hơn.
+Công nghệ sử dụng:
+.Net Framework, SQL Server,.Net Core, Redis, Elasticsearch
+
+Tên dự án: IMS 1.0
+Giới thiệu dự án:
+Hệ thống quản trị, sản xuất content cho các báo điện tử
+
+Tên dự án: IMS 2.0, CloudIMS
+Giới thiệu dự án:
+Hệ thống quản trị, sản xuất content cho các báo điện tử
+
+Tên dự án: Tool kiểm tra an toàn xuất bản
+Giới thiệu dự án:
+Hệ thống quản trị các rule từ khóa nhạy cảm
+Api kiểm tra nội dung bài viết chứa từ khóa, nội dung nhạy cảm.
+
+Công ty Cổ phần CSCMobi
+Lập trình viên.Net
+Trách nhiệm
+Phân tích, phát triển các hệ thống Web Api cho các dự án game, apps
+Phân tích, phát triển các hệ thống CMS cho game, apps
+Phân tích, phát triển các dự án website tin tức, website nội bộ công ty
+Theo dõi các hệ thống của công ty, quản trị database và quản trị server đảm bảo sự hoạt động của các hệ thống.
+Công nghệ sử dụng:
+Web API, C#, SQL Server, Redis, ASP.NET, WindowForms
+
+Tên dự án: Hệ thống Tozaco Play
+Giới thiệu dự án:
+Xây dựng CMS quản lý user, event, game, app
+
+Tên dự án: Hệ thống Cross Promotion Service (CPS
+Giới thiệu dự án:
+Hệ thống hỗ trợ đăng quảng cáo chéo giữa các game, app
+
+Tên dự án: Hệ thống Tozaco
+Giới thiệu dự án:
+Maintain, lập trình các chức năng cho hệ thống Tozaco - app kiếm tiền online trên điện thoại
+
+Tên dự án: Website tử vi tổng hợp
+Giới thiệu dự án:
+Nghiên cứu các thuật toán tính ngày âm lịch, dự đoán tướng số để xây dựng website tử vi tổng hợp
+
+Tên dự án: Website tin tức về game
+Giới thiệu dự án:
+Xây dựng hệ thống quản trị nội dung và website tin tức về game
+
+OTSC
+Thực tập sinh
+Trách nhiệm
+Dàn trang HTML/CSS, JavaScript
+Phát triển các ứng dụng web với ASP.NET (N-Tier, MVC)
+Phát triển các ứng dụng WindowForms với C#
+Phát triển các ứng dụng mobile cho Android
+Công nghệ sử dụng:
+C#, SQL Server, ASP.NET, WindowForms
+
+Tên dự án: Hệ thống lọc tin nhắn rác tương hỗ đa người dùng trên thiết bị di động
+Giới thiệu dự án:
+Quản lý, train dữ liệu trong việc phát hiện tin nhắn rác.
+Xây dựng ứng dụng nhắn tin trên Android cho phép phát hiện tin nhắn rác
+
+Tên dự án: FITHOU Forum 2015
+Giới thiệu dự án:
+Xây dựng forum phiên bản 2015 cho khoa CNTT Viện Đại học Mở Hà Nội
+
+Tên dự án: QA Support System
+Giới thiệu dự án:
+Xây dựng hệ thống hỗ trợ QA và Tester trong việc kiểm thử phần mềm.
+
+Tên dự án: Credits Training Management System
+Giới thiệu dự án:
+Maintain hệ thống đào tạo tín chỉ khoa CNTT Viện Đại học Mở Hà Nội
+
+KỸ NĂNG LẬP TRÌNH
+
+Web Developer:.NET Core, ASP.NET, JavaScript, Java, Android, Swift, Python, SQL Server/oracle.
+
+HỌC VẤN
+
+Viện Đại Học Mở Hà Nội | 09/2012 - 05/2017
+Ngành Học: Công Nghệ Thông Tin
+
+NGÔN NGỮ
+
+English Beginner
+
+SỞ THÍCH
+
+Đọc sách | Điền kinh | Nghiên cứu IOT
+
+NGƯỜI THAM VẤN
+
+Lê Hữu Dũng Lê Quang Hiếu
+Giám đốc OTSC Technical leader VCCorp
+huudungle@gmail.com hieuartcurtain@gmail.com

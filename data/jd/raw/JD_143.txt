@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Data Engineer
+
+Mô tả công việc:
+• Xây dựng hệ thống xử lý, lưu trữ dữ liệu của Lotus và dữ liệu quảng cáo Admicro.• Sử dụng Spark và Flink để xử lý dữ liệu.• Nghiên cứu và tìm hiểu những Big Data framework mới phù hợp với yêu cầu bài toán.
+
+Yêu cầu công việc:
+● Có kiến thức về cấu trúc dữ liệu và giải thuật và các cơ sở dữ liệu: SQL, NoSQL.● Có kinh nghiệm làm việc từ 1 năm trở lên với ngôn ngữ Java (bắt buộc có làm về BackEnd).● Làm việc với Big Data từ 1 năm kinh nghiệm trở lên.● Yêu cầu thành thạo: Maven, Log4j, Git, Linux.● Có kiến thức về Hadoop, Spark.● Có kiến thức về Flink là 1 lợi thế.
+
+Yêu cầu kinh nghiệm: 1-3 năm

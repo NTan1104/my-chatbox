@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên Backend Java
+
+Mô tả công việc:
+Phát triển các thư viện tích hợp, API giao tiếp với các API/ hệ thống FTP cho các ứng dụng nội bộ và trao đổi dữ liệu với khách hàng.Phát triển các công cụ theo dõi kết quả thực hiện trao đổi dữ liệu qua API, FTP.Theo dõi, vận hành, fix lỗi các công cụ Hỗ trợ xử lý các yêu cầu hàng ngàyMột số các công việc khác được giao từ trưởng phòng
+
+Yêu cầu công việc:
+Có từ 5 năm kinh nghiệm ở vị trí tương đươngHiểu về Java core, ORM Hibernate, framework Springboot/Light4j, Kafka/RedisCó kinh nghiệm phát triển các API service, giao thức SFTP/FTP, HTTP/HTTPSƯu tiên có kinh nghiệm làm việc với Orcale, SQL Server.Có tinh thần cầu tiến, chịu được áp lực trong công việc.
+
+Yêu cầu kinh nghiệm: 5-10 năm

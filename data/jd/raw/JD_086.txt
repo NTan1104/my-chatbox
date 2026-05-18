@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Java Backend Developer (Thu Nhập 30 Triệu - Nghỉ Thứ 7 - Chủ Nhật)
+
+Mô tả công việc:
+– Tham gia triển khai, xây dựng và vận hành các hệ thống phần mềm Telecom, Giáo dục, AI.– Phối hợp công việc với Product Manager, Tester để triển khai sản phẩm chất lượng và đúng deadline.– Nghiên cứu, áp dụng các công nghệ mới để nâng cao chất lượng sản phẩm của công ty.
+
+Yêu cầu công việc:
+– Tốt nghiệp Đại học/Cao đẳng chuyên ngành công nghệ thông tin hoặc các ngành liên quan– Có kinh nghiệm với Java.– Có kinh nghiệm thiết kế REST API– Có kinh nghiệm thiết kế cơ sở dữ liệu– Có kinh nghiệm làm việc với 1 trong các loại database: MySQL, PostgreSQL, MongoDB– Có kinh nghiệm sử dụng Git– Có kinh nghiệm làm việc với Linux, Docker là 1 lợi thế– Có kinh nghiệm làm việc với các web framework là 1 lợi thế– Có kinh nghiệm làm việc với Third-Party Library, Third-Party APIs.– Có khả năng làm việc với cường độ cao, khả năng nghiên cứu tốt, say mê công việc.– Có khả năng làm độc lập hoặc làm việc theo nhóm.
+
+Yêu cầu kinh nghiệm: 1-3 năm

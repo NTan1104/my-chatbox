@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Python Developer - HCM
+
+Mô tả công việc:
+Phát triển API cho dự án.Đảm bảo code của các components và tổng thể ứng dụng sạch sẽ, chất lượng, dễ bảo trì.Phối hợp với các thành viên khác trong nhóm (phía Frontend) để thiết kế, triển khai các yêu cầu.Đảm bảo tiêu chuẩn hiệu suất của các api.Thu thập ý kiến phản hồi và xây dựng các hướng giải quyết cho người sử dụng và khách hàng.Sẵn sàng nghiên cứu các giải pháp công nghệ trên thị trường để áp dụng vào dự án hoặc sản phẩm mới.
+
+Yêu cầu công việc:
+Tốt nghiệp Đại Học hoặc Cao Đẳng trở lên các chuyên nghành Công nghệ thông tin/ Khoa học máy tính/Hệ thống thông tin quản lý/ Viễn thông.Đọc hiểu tài liệu tiếng Anh chuyên ngành.Có ít nhất 1 năm kinh nghiệm trong phát triển back-end với ngôn ngữ Python.Có hiểu biết và thành thạo một trong các framework python như Django, Rest Framework, Flask, FastApi, Faust, ….Có kiến thức về RestAPI, websocket, graphQL.Có kiến thức về SQL/No SQL.Có kinh nghiệm về các database như MongoDB, Elasticsearch, Redis, MySQL, PostgreSQL…Có kinh nghiệm với các message broker: RabbitMQ, Apache Kafka, NatIO, …Có kinh nghiệm về Linux, Docker.Kiến thức tốt về Gitlab.Có kinh nghiệm về các web server : Nginx, Apache ….Kỹ năng làm việc nhóm và làm việc độc lập tốt..Chịu được áp lực về mặt thời gian, và sẵn sàng OT khi dự án cần.Chủ động, nhiệt tình trong công việc.Ham học hỏi và nghiên cứu, có tinh thần sáng tạo.Ưu tiên:– Ứng viên có nhiều kinh nghiệm tại vị trí ứng tuyển.– Ứng viên tốt nghiệp ngành Công nghệ thông tin.– Ứng viên có kiến thức toán, tin học tốt, đạt giải trong các kỳ thi học sinh giỏi; tốt nghiệp lớp tài năng, chất lượng cao.
+
+Yêu cầu kinh nghiệm: 1-3 năm

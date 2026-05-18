@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Java Developer (Junior)
+
+Mô tả công việc:
+Cùng team dự án tìm hiểu phân tích yêu cầu, nghiên cứu công nghệ và phát triển hệ thống Y bạ điện tử lớn của Khách hàng Nhật Bản trên nền tảng công nghệ Java: Servlet, DB2,...Dự án áp dụng quy trình phát triển Agile Scrum, tích hợp CI/CD auto build-auto deploy, đảm bảo quá trình build, test, review linh động, liên tục một cách tự động.Source code được review, kiểm tra đảm bảo chất lượng kỹ càng trước khi bàn giao cho khách hàng.
+
+Yêu cầu công việc:
+Có ít nhất 1 năm kinh nghiệm lập trình với ngôn Java.Có kiến thức và kinh nghiệm lập trình với Java web, HTML, JavaScript.Có kinh nghiệm xử lý các vấn đề liên quan đến bảo mật như SQL, injection, XSS.Có kỹ năng tìm hiểu và giải quyết vấn đề như: performance, crash application, concurrency.Có tư duy logic, tinh thần lãnh đạo, chủ động trong công việc, có mindset về chất lượng tốt; yêu thích công nghệ là một lợi thế.Tuân thủ chặt chẽ quy trình dự án, bảo mật thông tin khách hàng.
+
+Yêu cầu kinh nghiệm: 1-3 năm

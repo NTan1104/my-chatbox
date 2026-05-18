@@ -1,0 +1,39 @@
+BACK-END DEVELOPER(PHP/ Laravel/ MySQL) - Lương Từ 20 Triệu++, Làm Việc Tại Q3 TPHCM, Đi Làm Ngay
+
+Chi tiết tin tuyển dụng
+Yêu cầu:
+2 năm kinh nghiệm
+Đại Học trở lên
+Tuổi 25 - 39
+Tiếng Anh Giao tiếp cơ bản
+Xem chi tiết Yêu cầu
+Quyền lợi:
+Nghỉ thứ 7
+Xem chi tiết Quyền lợi
+Chuyên môn:
+Backend Developer
+IT - Phần mềm
+Mô tả công việc
+Phát triển và bảo trì hệ thống Backend sử dụng PHP/ Laravel
+Thiết kế và phát triển API cho Web/ Mobile Application
+Tham gia xây dựng và cải thiện hệ thống E-commerce, CMS và các hệ thống nội bộ
+Phối hợp với team UI/UX, Tester, Comtor và các bộ phận liên quan trong quá trình phát triển dự án
+Tối ưu hiệu suất hệ thống và database
+Tham gia phân tích, xử lý bug và cải thiện source code
+Refactor và tối ưu hệ thống hiện có
+Báo cáo tiến độ công việc với quản lý dự án
+Yêu cầu ứng viên
+Có từ 2 năm kinh nghiệm làm việc với PHP
+Có kinh nghiệm sử dụng Laravel hoặc framework PHP tương đương
+Có kinh nghiệm làm việc với MySQL / MariaDB
+Có kiến thức về RESTful API
+Có khả năng viết và tối ưu SQL cơ bản đến nâng cao
+Có kiến thức về thiết kế cơ sở dữ liệu quan hệ
+Sử dụng được Git trong quá trình phát triển
+Có tinh thần chủ động và khả năng làm việc nhóm
+Ưu tiên:
+
+Có kinh nghiệm với E-commerce hoặc hệ thống thanh toán
+Có kinh nghiệm tích hợp API bên thứ ba (Payment Gateway, Email, SMS...)
+Có kiến thức Frontend cơ bản
+Có thể giao tiếp tiếng Anh cơ bản trong công việc

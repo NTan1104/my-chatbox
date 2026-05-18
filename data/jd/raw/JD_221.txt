@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên Backend (Node.JS)
+
+Mô tả công việc:
+- Sử dụng Node. JS tham gia phát triển các phần mềm ứng dụng.- Tối ưu cơ chế xử lý bất đồng bộ trong xử lý công việc.- Phát triển hệ thống API Backend phục vụ lượng khách hàng lớn.- Tham gia phát triển thuật toán cho ứng dụng xử lý.
+
+Yêu cầu công việc:
+- Có ít nhất 2 năm kinh nghiệm trở lên ở vị trí tương đương.- Kiến thức nền tảng vững chắc về Javascript, NodeJS- Có hiểu biết các nguyên tắc phát triển application qua API và kiến trúc server.- Có hiểu biết về các cơ sở dữ liệu MySQL, PostgreSQL, MongoDB…Ưu tiên:- Có khả năng đọc tài liệu tiếng Anh là một lợi thế.- Có hiểu biết về micro-services architectures, Software-as-a-Service (SaaS) and Amazon Web Services (AWS), CI / CD.- Có hiểu biết về xử lý tối ưu Performance, Security là một lợi thế.
+
+Yêu cầu kinh nghiệm: 1-3 năm

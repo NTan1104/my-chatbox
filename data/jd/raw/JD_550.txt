@@ -1,0 +1,50 @@
+Backend Developer Công Ty IT Hàn Quốc
+Chi tiết tin tuyển dụng
+Yêu cầu:
+5 năm kinh nghiệm
+Đại Học trở lên
+Xem chi tiết Yêu cầu
+Quyền lợi:
+Nghỉ thứ 7
+Xem chi tiết Quyền lợi
+Chuyên môn:
+Backend Developer
+IT - Phần mềm
+IT - Phần cứng và máy tính
+Mô tả công việc
+ORBRO là doanh nghiệp cung cấp giải pháp công nghiệp tích hợp 4 trục công nghệ cốt lõi: AI, Vision, Định vị vị trí và Xử lý dữ liệu thời gian thực. Chúng tôi hiện đang vận hành hai trụ sở: Trụ sở chính tại Hàn Quốc và Chi nhánh Việt Nam (Hà Nội), với định hướng mở rộng mạnh mẽ sang các lĩnh vực sản xuất, logistics và thành phố thông minh tại thị trường Việt Nam.
+
+Chúng tôi đang tìm kiếm Kỹ sư Backend đảm nhiệm vai trò thu thập, truyền tải, lưu trữ và cung cấp (Serving) dữ liệu một cách ổn định từ các thiết bị tại hiện trường công nghiệp như video, cảm biến, thiết bị và hệ thống định vị vị trí (RTLS / GPS / BLE / UWB).
+
+
+Trách nhiệm công việc
+
+Vận hành Pipeline xử lý video/ Streaming (FFmpeg / GStreamer / RTSP / HLS, v.v.).
+Thiết kế và vận hành hạ tầng truyền thông thiết bị dựa trên MQTT / WebSocket.
+Vận hành Backend phục vụ thu thập, tích hợp và cung cấp (Serving) dữ liệu thời gian thực cho hệ thống định vị vị trí (RTLS / Indoor Positioning / Device GPS, BLE, UWB).
+Thiết kế tầng API kết hợp luồng dữ liệu (Data Flow bao gồm sự kiện thời gian thực / Backpressure).
+Thực hiện các tác vụ vận hành Day-2 Operations (Monitoring, Alarms, SLO, SLI) và ứng phó linh hoạt khi lưu lượng tăng vọt (10x - 100x traffic).
+Sử dụng các công cụ AI hàng ngày để lập trình (viết code) và viết tài liệu kỹ thuật.
+Yêu cầu ứng viên
+Bắt buộc
+
+Có ít nhất 5 năm kinh nghiệm ở vị trí Backend.
+Thành thạo Python từ cấp độ Trung cấp đến Cao cấp (Có kinh nghiệm vận hành dịch vụ thực tế).
+Có kinh nghiệm vận hành Linux (Triển khai - Deployment, Logging, Troubleshooting).
+Hiểu biết sâu sắc ít nhất 1 trong các lĩnh vực: Video/ Streaming / MQTT / IoT / Định vị vị trí / Xử lý dữ liệu thời gian thực.
+Sử dụng thành thạo Git và CI trong công việc hàng ngày.
+Có khả năng viết tài liệu kỹ thuật bằng tiếng Anh (để làm việc với Trụ sở Hàn Quốc).
+Đang sinh sống tại Hà Nội hoặc sẵn sàng chuyển đến Hà Nội làm việc.
+
+Ưu tiên
+
+Có kinh nghiệm vận hành GStreamer / FFmpeg.
+Có kinh nghiệm vận hành Kubernetes hoặc Docker Compose.
+Có kinh nghiệm vận hành hệ thống định vị vị trí (RTLS / iBeacon / UWB / Indoor Positioning) hoặc hệ thống xử lý dữ liệu thời gian thực (Kafka / Flink / Redis Streams).
+Có kinh nghiệm tích hợp Industrial IoT (CCTV, Camera, Cảm biến).
+Sử dụng Claude Code / Codex hàng ngày.
+Giao tiếp tự nhiên bằng tiếng Hàn hoặc tiếng Việt.
+
+Ứng dụng công cụ AI
+
+Tại ORBRO, chúng tôi sử dụng các công cụ lập trình AI như Claude, Codex trong công việc hàng ngày. Trong quá trình tuyển dụng, chúng tôi sẽ đánh giá quy trình làm việc (Workflow) với công cụ AI của bạn (từ lựa chọn công cụ, kiểm chứng, phản biện đến lặp lại - iteration).

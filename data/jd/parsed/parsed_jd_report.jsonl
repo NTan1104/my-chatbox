@@ -1,0 +1,9 @@
+{"jd_id": "JD_001", "source_file": "D:\\Projects\\XAI\\data\\jd\\raw\\JD_001.txt", "status": "ok", "validation": {"is_valid": true, "issues": []}, "error": null}
+{"jd_id": "JD_002", "source_file": "D:\\Projects\\XAI\\data\\jd\\raw\\JD_002.txt", "status": "ok", "validation": {"is_valid": true, "issues": []}, "error": null}
+{"jd_id": "JD_003", "source_file": "D:\\Projects\\XAI\\data\\jd\\raw\\JD_003.txt", "status": "ok", "validation": {"is_valid": true, "issues": []}, "error": null}
+{"jd_id": "JD_004", "source_file": "D:\\Projects\\XAI\\data\\jd\\raw\\JD_004.txt", "status": "ok", "validation": {"is_valid": true, "issues": []}, "error": null}
+{"jd_id": "JD_005", "source_file": "D:\\Projects\\XAI\\data\\jd\\raw\\JD_005.txt", "status": "ok", "validation": {"is_valid": true, "issues": []}, "error": null}
+{"jd_id": "JD_006", "source_file": "D:\\Projects\\XAI\\data\\jd\\raw\\JD_006.txt", "status": "ok", "validation": {"is_valid": true, "issues": []}, "error": null}
+{"jd_id": "JD_007", "source_file": "D:\\Projects\\XAI\\data\\jd\\raw\\JD_007.txt", "status": "ok", "validation": {"is_valid": true, "issues": []}, "error": null}
+{"jd_id": "JD_008", "source_file": "D:\\Projects\\XAI\\data\\jd\\raw\\JD_008.txt", "status": "warning", "validation": {"is_valid": false, "issues": ["too_few_must_have_skills"]}, "error": null}
+{"jd_id": "JD_009", "source_file": "D:\\Projects\\XAI\\data\\jd\\raw\\JD_009.txt", "status": "ok", "validation": {"is_valid": true, "issues": []}, "error": null}

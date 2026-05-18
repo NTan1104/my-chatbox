@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: LẬP TRÌNH VIÊN UNITY
+
+Mô tả công việc:
+Xây dựng và phát triển các dự án game của công ty bằng Unity. Ðảm nhận một phần hoặc độc lập tác chiến một sản phẩm/dự án tùy theo năng lực và kinh nghiệm. Ðược quản lý nhóm nếu có khả năng phù hợp
+
+Yêu cầu công việc:
+Có 1+ năm kinh nghiệm làm việc ở vị trí tương đương. Nắm vững kiến thức về OOP. Tham gia phát triển ít nhất 1 game (đính kèm theo sản phẩm). Khả năng đọc hiểu tài liệu tiếng Anh. Nhiệt tình, năng động, sáng tạo, ham học hỏi, tinh thần cầu tiến. Ưu tiên ứng viên có kinh nghiệm làm việc với API/socket.
+
+Yêu cầu kinh nghiệm: Dưới 1 năm

@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Developer Fresher PHP (Laravel)
+
+Mô tả công việc:
+- Xây dựng, bảo trì, nâng cấp các website trong hệ thống của công ty bằng ngôn ngữ PHP & cở sở dữ liệu Mysql.. - Lập trình và phát triển ứng dụng web, web service trên nền tảng PHP.. - Tham gia phân tích và phát triển hệ thống trên nền ứng dụng web; phần mềm. - Phát triển hoặc làm mới các ứng dụng web với ngôn ngữ chính là PHP, MySQL,..... - Kết hợp với các bộ phận liên quan (Kiểm thử, hệ thống…) để triển khai hoàn thành dự án trên các môi trường..
+
+Yêu cầu công việc:
+- Có từ 6 tháng kinh nghiệm lập trình PHP. - Có k/n làm việc với ít nhất 1 framework: Laravel. - Có kiến thức với REST, JSON, Ajax. - Có kinh nghiệm về HTML, CSS và Javascript, Bootstrap. - Có kiến thức về Database. - Ham học hỏi, chăm chỉ, tư duy lập trình tốt
+
+Yêu cầu kinh nghiệm: Dưới 1 năm

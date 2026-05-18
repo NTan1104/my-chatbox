@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập trình viên PHP Laravel
+
+Mô tả công việc:
+-Tham gia các dự án của Doanh nghiệp với vị trí Lập trình viên PHP Laravel -Thiết kế, xây dựng CSDL theo nhu cầu, nghiệm vụ của các phòng ban. -Lập trình GET dữ liệu từ các phần mềm nghiệm vụ về CSDL. -Lập trình trả ra các trường dữ liệu theo yêu cầu của các báo cáo BI. -Viết tài liệu nghiệp vụ. -Thực hiện các công việc khác theo chỉ đạo.
+
+Yêu cầu công việc:
+-Tốt nghiệp Đại học các ngành tương đương: Công nghệ thông tin. -Có kỹ năng đối với: PHP, Laravel. -Ưu tiên các ứng viên đã từng làm việc với Oracle. -Giao tiếp tốt, nhanh nhẹn, nhiệt tình. -Tư duy logic, cẩn thận, tỉ mỉ. -Làm việc lâu dài. -Thời gian làm việc: Sáng 7h30 – 11h30; Chiều 13h30 – 17h30; Từ T2 đến T7.
+
+Yêu cầu kinh nghiệm: Không yêu cầu kinh nghiệm

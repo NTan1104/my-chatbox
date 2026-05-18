@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Flutter Developer
+
+Mô tả công việc:
+● Thiết kế và lập trình các ứng dụng cho điện thoại di động● Tham gia phân tích yêu cầu, thiết kế hệ thống mobile● Cải tiến và nâng cao chất lượng dự án● Liên kết triển khai dự án lớn trong và ngoài nước về ứng dụng● Tạo ra những sản phẩm mới, bảo trì cũng như cải thiện các giải pháp hiện có
+
+Yêu cầu công việc:
+● Nắm được Kiến thức chuyên môn.● Có tư duy tốt, nắm bắt công việc nhanh và tinh thần cầu tiến.● Có khả năng làm việc độc lập và khả năng làm theo nhóm.● Có hiểu biết về các nguyên tắc lập trình và kỹ thuật lập trình (OOP/FP).● Ưu tiên ứng viên đã hoặc đang theo học chuyên ngành công nghệ thông tin hoặcchuyên ngành liên quan.● Ưu tiên ứng viên biết PHP, Magento, Java, Flutter, Angular. ( Sẽ được training nếuchưa biết).● Ưu tiên ứng viên biết sử dụng Cơ sở dữ liệu: postgresql, MySQL, Oracle, MS SQL,MongoDB, …
+
+Yêu cầu kinh nghiệm: Dưới 1 năm

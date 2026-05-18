@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Unity Developer (Thử Việc Full Lương - Lương Net Từ 13-40 Triệu)
+
+Mô tả công việc:
+Xây dựng và phát triển các dự án Game mobile trên nền tảng Unity cho Android và iOSSửa lỗi và cải thiện tính năng, hiệu suất trò chơiXây dựng và triển khai kiến trúc hệ thống game (game architecture design) Phối hợp với các thành viên trong team để vận hành và tối ưu hoá sản phẩmCùng team lên ý tưởng và giải pháp cho các tính năng mới của gameTham gia quá trình xây dựng team dev; chia sẻ và phát triển chuyên môn dev của công ty
+
+Yêu cầu công việc:
+Yêu thích làm gameThành thạo C# & UnityCó thể làm việc fulltime từ thứ 2 - thứ 6Có kinh nghiệm 1 năm trở lên ở vị trí tương tự, có hiểu biết về UI Canvas, Physic, Particle System, Optimization,… Khả năng tư duy, sáng tạo tốtGiỏi môn Toán và Thuật toánCó trách nhiệm cao trong công việc, thái độ cầu tiến và ham học hỏi công nghệ mớiCó khả năng đọc hiểu tài liệu bằng Tiếng Anh là một lợi thế
+
+Yêu cầu kinh nghiệm: 1-3 năm

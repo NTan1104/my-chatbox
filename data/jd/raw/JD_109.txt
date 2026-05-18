@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên Frontend/ Frontend Developer (Reactjs/Angular - Từ 3 Năm Kinh Nghiệm) - Lương Upto $2000
+
+Mô tả công việc:
+Tham gia đọc và phân tích yêu cầu khách hàng Lên kế hoạch công nghệ và phát triển dựa trên phân công của leaderTham gia vào cả quy trình phát triển dự án, kết hợp với nhóm dự án của khách hàng để hoàn thành tiến độ công việc Trau dồi kỹ năng chuyên môn, phát triển nghề nghiệp, có cơ hội làm leader
+
+Yêu cầu công việc:
+Có kinh nghiệm làm việc với javascript (ES6,7), HTML, CSS hoặc SCSS, SASS là một lợi thếCó kinh nghiệm làm việc với 1 trong các frontend framework: ReactJS, Angular.Ưu tiên từng làm về TypescriptĐã từng làm việc với GIT, JIRATiếng Anh giao tiếp khá (Làm việc trực tiếp với khách hàng nước ngoài)Skill:Javascript ES6Typescript ReactJSReduxMaterial UIRESTful/GraphQLStyled-Componentnpm/yarm
+
+Yêu cầu kinh nghiệm: Không yêu cầu kinh nghiệm

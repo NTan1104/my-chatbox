@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên Frontend Developer (Junior, Mid, Senior)
+
+Mô tả công việc:
+Tham gia phát triển các dự án về Web, xây dựng các chức năng front-end của Website, Web application.Triển khai giao diện HTML/CSS Javascript theo yêu cầu của khách hàng trên hệ thống website xây dựng sẵnPhối hợp với các back-end developers và web designers để cải thiện tính khả dụngĐảm bảo tiêu chuẩn đồ họa chất lượng cao và sự thống nhất trong brandThu thập ý kiến phản hồi và xây dựng các hướng giải quyết cho người sử dụng và khách hàngNghiên cứu, tìm hiểu các công nghệ về HTML/CSS Javascript mới nhất để áp dụng cái tiến sản phẩm
+
+Yêu cầu công việc:
+Ít nhất 6 tháng kinh nghiệm làm frontendCó kinh nghiệm làm việc với javascript, react js, css, htmlƯu tiên ứng viên có kinh nghiệm làm về ERP, Ecommerce
+
+Yêu cầu kinh nghiệm: Dưới 1 năm

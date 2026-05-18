@@ -1,0 +1,40 @@
+Senior Devops Engineer (On-Prems/Linux) (Không Yêu Cầu Tiếng Anh, Nghỉ T7,CN) - Lương Upto 40 Triệu/Tháng
+
+Chi tiết tin tuyển dụng
+Yêu cầu:
+3 năm kinh nghiệm
+Đại Học trở lên
+Tuổi 25 - 35
+Xem chi tiết Yêu cầu
+Quyền lợi:
+Nghỉ thứ 7
+Bảo hiểm xã hội
+Bảo hiểm sức khỏe
+Xem chi tiết Quyền lợi
+Chuyên môn:
+DevOps Engineer
+IT - Phần mềm
+Mô tả công việc
+Độ tin cậy & Mở rộng hạ tầng: Đảm bảo ứng dụng và hạ tầng có tính sẵn sàng cao (highly available), khả năng chịu lỗi (fault-tolerant) và có thể mở rộng (scalable) để đáp ứng nhu cầu
+của người dùng.
+Bảo mật & Mạng (Networking): Duy trì và tăng cường bảo mật hệ thống. Nắm vững và quản lý cấu trúc mạng (network topology), cấu hình tường lửa (pfSense) và hệ thống cân bằng tải (HAProxy).
+Toàn vẹn Dữ liệu & Sao lưu: Thiết kế, triển khai và thử nghiệm các chiến lược phục hồi sau thảm họa (disaster recovery) và sao lưu tự động cho tất cả các cơ sở dữ liệu quan trọng (MongoDB, MySQL, Redis, Elasticsearch).
+Giám sát hệ thống (Observability): Thiết lập và duy trì hệ thống logging, giám sát
+(monitoring) và cảnh báo (alerting) toàn diện nhằm chủ động phát hiện và giải quyết các điểm nghẽn hoặc sự cố gián đoạn.
+Quản lý CI/CD Pipeline: Quản lý và tối ưu hóa vòng đời triển khai phần mềm sử dụng Docker .
+Vận hành Cơ sở dữ liệu: Giám sát và duy trì các hệ thống cơ sở dữ liệu đạt tính sẵn sàng cao, bao gồm MongoDB Replica Sets, MySQL Clusters, Redis Sentinel và tích hợp Elasticsearch.
+Yêu cầu ứng viên
+Kinh nghiệm: Có từ 3-5+ năm kinh nghiệm ở vị trí DevOps, Quản trị hệ thống (SysAdmin), hoặc Kỹ sư SRE (Site Reliability Engineering).
+Hệ điều hành: Có chuyên môn sâu về quản trị hệ thống Linux.
+Hạ tầng On-Premise: Có kinh nghiệm thực tế trong việc quản lý máy chủ on-premise, mạng lưới và bảo mật.
+Mạng lưới (Networking): Hiểu biết sâu sắc về cấu trúc mạng, DNS, TCP/IP và cấu hình tường lửa. Ưu tiên cao ứng viên có kinh nghiệm thực tế với pfSense và HAProxy.
+Containerization: Sử dụng thành thạo Docker cho CI/CD và điều phối triển khai
+(deployment orchestration).
+Cơ sở dữ liệu: Có kinh nghiệm thực tế trong việc quản trị và mở rộng các hệ thống cơ sở dữ liệu lớn:
+MongoDB
+MySQL
+Redis
+Elasticsearch (Có kinh nghiệm với Monstache hoặc các công cụ đồng bộ tương tự là một
+lợi thế lớn).
+Giám sát & Cảnh báo: Có kinh nghiệm thiết lập các hệ thống giám sát (ví dụ: Prometheus, Grafana, ELK stack, Zabbix hoặc Datadog) và tích hợp hệ thống cảnh báo (PagerDuty, Slack,
+v.v.).

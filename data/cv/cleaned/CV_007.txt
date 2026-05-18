@@ -1,0 +1,60 @@
+Đỗ Quý Mùi
+
+Thực tập sinh công nghệ thông tin
+
+Mục tiêu nghề nghiệp
+
+Là một sinh viên IT sắp tốt nghiệp, tôi mong muốn được ứng dụng kiến thức
+và kỹ năng đã học vào môi trường làm việc thực tế. Tôi đang tìm kiếm cơ hội
+trở thành lập trình viên tại một công ty công nghệ để không ngừng học hỏi,
+nâng cao chuyên môn, đồng thời đóng góp tích cực vào các dự án thực tiễn.
+
+Kinh nghiệm làm việc
+
+Thông tin cá nhân Thực tập online // 8/2024 - 10/2024
+✉ quymui0608@gmail.com Công ty Oceantech
+
+0333127758
+Được trao dồi về ngôn ngữ JAVA và tham gia 1 số các dự án nhỏ về Spring Boot
+https://www.facebook.com/HiMui03
+Học vấn
+Tiến Đức - Hưng Hà - Thái Bình
+Công Nghệ Thông Tin // 9 - 2021 - nay
+Các kỹ năng
+Học viện Nông nghiệp Việt Nam
+Ngôn ngữ: Java,.Net, C++
+Backend: Spring boot
+Dự án
+
+Fontend: HTML, CSS, React.js Website thi online cho sinh viên // 10/2024 - 11/2024
+
+Link GitHub https://GitHub.com/hoangvuvan0611/VNUA-TEST-Web-BE
+Database: SQL Server, My SQL
+Số người tham gia 3
+Vị trí dev backend
+Tools: Git, Postman
+Sử dụng spring boot để xây dựng hệ thống backend, security, phân quyền
+Công nghệ sử dụng: Java (Spring boot), MySQL, PostMan, GitHub, React.js
+Orther: REST API, MVC patten
+
+Sở thích Website quản lý bến xe tích hợp bán vé // 4/2025 - 6/2025
+Link GitHub https://GitHub.com/dqm200368/KLTN-Bus-management
+Bóng đá, nghe nhạc, chơi game
+Số người tham gia 1
+
+Vị trí dev tech-stack
+Xây dựng toàn bộ hệ thống quản lý bến xe và bán vé cho khách hàng
+
+Công nghệ sử dụng: Java (Spring boot), MySQL, Postman, GitHub, React.js (Next.js)
+
+Quản lý danh sách sinh viên // 10/8/2023 - 25/8/2023
+Khách hàng
+
+Số lượng người tham gia 1
+Vị trí Phát triển
+
+© topcv vn
+
+© topcv.vn
+Công nghệ sử dụng
+Java Core

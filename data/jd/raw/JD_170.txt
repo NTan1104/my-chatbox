@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên PHP (Linkhay)
+
+Mô tả công việc:
+• Lập trình và phát triển ứng dụng web, web service.• Xây dựng các tool quản lý.• Sử dụng Framework Laravel (version 8.x) để xây dựng Backend.• Sử dụng Framework Angular2 (version 11.x, 12.x) để xây dựng Frontend.• Ứng viên có kinh nghiệm làm PHP nhưng sẵn sàng học và làm thêm NodeJS ( vào sẽ được đào tạo làm NodeJS)• Bộ phận hiện có 20 dự án nội bộ lớn nhỏ khác nhau, ứng viên khi vào làm sẽ được điều động làm qua nhiều dự án đa dạng chứ không chỉ theo 1 dự án cố định, nên cần ứng viên yêu thích học hỏi và áp dụng công nghệ mới, không ngại tham gia nhiều dự án khác nhau.
+
+Yêu cầu công việc:
+● Có kinh nghiệm tối thiểu 1 năm làm việc với ngôn ngữ PHP (bắt buộc làm cả Frontend và Backend), MySQL và thành thạo Laravel.● Ưu tiên các ứng viên có kinh nghiệm làm việc với NodeJS và Angular2.● Có kinh nghiệm sử dụng các framework của PHP như: CodeIgniter, Laravel, …● Nắm vững kiến thức nền tảng về hệ quản trị cơ sở dữ liệu: SQL, MySQL, MariaDB, Javascript, HTML5/CSS3, có kinh nghiệm sử dụng jQuery, Bootstrap.● Nắm vững mô hình MVC, OOP, có hiểu biết về Design Pattern là một lợi thế.● Có kinh nghiệm xử lý với hệ thống có lượng dữ liệu lớn, khả năng tư duy tốt.● Chủ động trong công việc, tính tự giác cao, ham học hỏi, tinh thần làm việc hăng hái, chăm chỉ, tích cực, chịu được áp lực.
+
+Yêu cầu kinh nghiệm: 1-3 năm

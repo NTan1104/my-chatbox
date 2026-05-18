@@ -1,0 +1,52 @@
+IT Manager
+
+Chi tiết tin tuyển dụng
+Yêu cầu:
+3 năm kinh nghiệm
+Đại Học trở lên
+Xem chi tiết Yêu cầu
+Quyền lợi:
+Nghỉ thứ 7
+Xem chi tiết Quyền lợi
+Chuyên môn:
+DevOps Engineer
+IT - Phần mềm
+IT - Phần cứng và máy tính
+Mô tả công việc
+- Xây dựng và triển khai hệ thống CNTT và ứng dụng chuyên môn để nâng cao năng lực quản trị và điều hành công ty.
+
+- Giám sát hệ thống công nghệ thông tin của doanh nghiệp:
+
+- Định hướng phát triển phòng IT:
+
+Xác định định hướng phát triển.
+Lập kế hoạch, chính sách hoạt động cho phòng IT.
+Thực hiện việc phân công công việc cho các nhân viên phòng IT hiệu quả.
+Có kế hoạch cụ thể để đánh giá kết quả công việc toàn bộ phận và có biện pháp khen thưởng, kỷ luật nhân viên phù hợp.
+Xây dựng ngân sách hoạt động IT, có trách nhiệm quản lý việc sử dụng ngân sách, đảm bảo các hoạt động được thực hiện trong phạm vi ngân sách được duyệt.
+- Đánh giá xu hướng công nghệ và đề xuất ứng dụng phù hợp.
+
+- Thiết kế, xây dựng và quản lý hệ thống cơ sở vật chất, hạ tầng công nghệ, mạng công nghệ thông tin trong Công ty.
+
+- Quản lý tài nguyên thông tin và dữ liệu của công ty.
+
+- Lập kế hoạch và vận hành hệ thống mạng và viễn thông.
+
+- Chỉ đạo việc nghiên cứu nhằm xác định mục tiêu và xây dựng kế hoạch thực hiện các dự án phát triển công nghệ thông tin cho toàn công ty
+
+- Tham mưu triển khai xây dựng hệ thống CNTT và ứng dụng chuyên môn để tăng cường năng lực quản trị và điều hành toàn diện của công ty.
+
+- Làm báo cáo và các công việc khác theo yêu cầu của cấp trên trực tiếp và Ban Lãnh Đạo.
+
+Yêu cầu ứng viên
+- Tốt nghiệp Đại học trở lên chuyên ngành: Công nghệ thông tin, Khoa học máy tính, An toàn thông tin hoặc các chuyên ngành khác liên quan.
+
+- Có 3 năm kinh nghiệm ở vị trí tương đương.
+
+- Hiểu biết sâu sắc về lập trình, khoa học máy tính và bảo mật kỹ thuật số.
+
+- Hiểu biết rõ về công nghệ máy chủ, máy chủ ảo hóa, VMware, VMware ESXI, VMware vSphere,... Xây dựng và quản trị hệ thống máy chủ.
+
+- Có sự nhạy bén với những bất thường của hệ thống để quản trị rủi ro khi hệ thống gặp sự cố.
+
+- Có kỹ năng quản lý đội nhóm, lập ngân sách cho phòng IT.

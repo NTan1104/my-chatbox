@@ -1,0 +1,149 @@
+HỒ SƠ ỨNG VIÊN
+
+Vị trí ứng cử: ………………………………………………………
+
+Thông tin cá nhân
+
+Họ Tên: Nguyễn Đông Hoàng
+Giới Tính: Nam
+
+Năm sinh: 1993
+
+Trình độ: Đại học
+Năm tốt nghiệp: 2015
+
+Số năm kinh nghiệm: 10 năm
+Email: hi@hoangnguyendong.dev
+
+Website: https://hoangnguyendong.dev
+
+Thông tin học vấn.
+
+Hệ đào tạo: Đại học chính quy.
+Trường: Đại học công nghiệp Việt Nam – Hungary (Việt – Hung).
+
+Thời gian học: 4 năm
+
+Chuyên ngành: Công Nghệ Thông Tin.
+Tốt nghiệp loại: Khá.
+
+Điểm trung bình hệ số 4: 3,17
+
+Kỹ năng chuyên môn.
+
+Giỏi/Thông
+Kỹ năng chuyên môn Khá Trung bình Có biết
+thạo
+SQL √
+Lập trình web PHP √
+Lập trình Front-end √
+
+Lập trình React Native √
+Lập trình Java Android √
+
+Source control (Git) √
+GitLab CI/CD √
+
+Docker √
+
+Azure DevOps CI/CD √
+Linux Server Admin √
+
+Flutter √
+Swift √
+
+Python √
+
+Kinh nghiệm làm việc.
+Thời gian Công ty Vị trí làm việc
+Kỹ sư phần mềm
+• Ứng dụng Java Android
+
+• Ứng dụng di động đa nền tảng
+React Native
+• Bóc tách dữ liệu website bằng
+Làm tự do / cá
+2015 - HIỆN TẠI Python với PyQuery
+nhân
+• Website quản lý docker container
+với python và framework
+TuborGears
+• Ứng dụng di đông đa nền tảng
+Flutter
+Kỹ sư phần mềm + technical leader
+• PHP thuần và Laravel framework
+5.4
+• Lập trình viên FrontEnd với
+RIKKEISOFT Ractivejs và Backbone
+09/2017 - HIỆN TẠI
+JSC • FrontEnd Team Leader (Team 4 –
+7)
+• FrontEnd Project Tech Lead
+(Project size 30)
+• Lập trình viên ứng dụng Swift iOS
+
+Kỹ sư phần mềm
+• PHP với Yii2 framework
+• HTML5, cắt giao diện HTML
+• Ứng dụng Java web Spring MVC,
+HELLOMEDIA Spring JDBC
+07/2015 - 08/2017
+JSC • Quản trị máy chủ Windows Server,
+máy chủ Linux
+• Phát triển trang web bằng Node.js
+với công nghệ server render (SSR)
+với React.js
+
+Một số sản phẩm từng thực hiện/tham gia.
+• Hệ thống quản lý nghiệp vụ công ty dựa trên công nghê thông tin 500MM ở
+
+giai đoạn phát triển và 20MM/tháng ở giai đoạn bảo trì
+• Dịch vụ DNS riêng trả phí dựa trên python framework TuborGears, MySQL,
+docker, iptables routing và AdguardHome container https://private-
+dns.abpvn.com
+
+• Ứng dụng mini game chọn nhà hàng đi ăn Eat & Eat:
+https://play.google.com/store/apps/details?id=com.eatandeat
+• Ứng dụng nghe nhạc trực tuyến: https://csn.abpvn.com (hiện không còn hoạt
+động) (Java Android, React Native for iOS)
+
+• Ứng dụng VPN cho Android:
+
+o Google Play:
+https://play.google.com/store/apps/details?id=vn.unlimit.vpngate
+o Open Source trên GitHub: https://GitHub.com/hoang-rio/vpngate-connector
+• Ứng dụng VPN Server list cho iOS: https://apps.apple.com/us/app/vpn-gate-
+
+list/id1453048816
+• Ứng dụng ghi chú cho Android và iOS
+o Google Play:
+https://play.google.com/store/apps/details?id=vn.unlimit.magicnote
+
+o AppStore: https://apps.apple.com/us/app/magic-note-green/id1614998775
+• Ứng dụng OTP cho Android và iOS
+o Google Play:
+https://play.google.com/store/apps/details?id=vn.unlimit.magicauth
+
+o AppStore: https://apps.apple.com/us/app/magic-authenticator/id1450259986
+• Website tin tức bóng đá http://90phut.vn
+• Landing page: http://hellomedia.vn/
+
+Tự bạch.
+
+• Tương đối trầm tính nhưng cũng nhanh chóng hòa nhập vào môi trường mới.
+• Khả năng tiếp cận công nghệ mới tương đối nhanh.
+
+• Có đam mê, có hoài bão dành cho công việc ưa thích.
+• Thích đi du lịch, thích làm việc để có tiền đi du lịch.
+• Mong muốn làm việc với vị trí Solution Artchitect, kỹ sư phần mềm hoặc
+
+trưởng nhóm (team leader), Techinal Leader.
+Tôi cam đoan những thông tin tôi khai báo ở trên là đúng sự thật và hoàn toàn chịu
+
+trách nhiệm về việc cung cấp những thông tin trên.
+Hà Nội, Ngày 27 Tháng 08 Năm 2025
+
+Người khai thông tin
+(Ký và ghi rõ họ tên)
+
+Nguyễn Đông Hoàng

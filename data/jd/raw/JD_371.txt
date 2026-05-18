@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên Serverside/Backend
+
+Mô tả công việc:
+ Xây dựng các giải pháp về kiến trúc (architecture) và nền tảng (platform) cho các hệ thống phần mềm Xây dựng tài liệu thiết kế tổng thể, thiết kế chi tiết, thiết kế CSDL Xây dựng các chức năng theo tài liệu giải pháp chi tiết Xây dựng các API, ứng dụng web, thư viện dùng chung có khả năng chịu lỗi tốt, tính bảo mật cao, dễ dàng mở rộng và tích hợp với các hệ thống khác Viết và thực hiện unit test Tối ưu các hệ thống nhằm đáp ứng khả năng xử lý lượng giao dịch lớn và khả năng phục vụ lượng lớn người dùng đồng thời Nghiên cứu, áp dụng các công nghệ mới nhằm tối ưu hệ thống Xây dựng các tài liệu mô tả dịch vụ/hệ thống, tài liệu cài đặt/cấu hình, tài liệu vận hành, tài liệu kiểm tra hệ thống hàng ngày liên quan đến lĩnh vực được giao nhiệm vụ
+
+Yêu cầu công việc:
+ Kỹ sư CNTT/ĐTVT, hệ chính quy, dưới 35 tuổi Có chứng chỉ B/Toeic 450 trở lên hoặc tương đương. Thành thạo một trong các ngôn ngữ lập trình Java, Golang, Nodejs, PHP… Thành thạo một trong các công nghệ: Webservices (SOAP/RESTful), Websocket, Hibernate, JPA, HTML5/CSS3, Spring MVC, Struts… Có kinh nghiệm làm việc với các hệ quản trị cơ sở dữ liệu SQL, NoSQL Có kinh nghiệm sử dụng Github Kiến thức về lập trình và thiết kế hướng đối tượng (OOP) Kiến thức về cấu trúc dữ liệu & giải thuật, design patterns Kiến thức về quy trình phát triển phần mềm Tư duy tốt, có khả năng nghiên cứu, đánh giá và cập nhật công nghệ mới
+
+Yêu cầu kinh nghiệm: 1-3 năm

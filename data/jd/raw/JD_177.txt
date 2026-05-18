@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Chuyên Viên Kiểm Thử Phần Mềm
+
+Mô tả công việc:
+Lập kế hoạch kiểm thử, lập kịch bản kiểm thử, thực hiện kiểm thử Phân tích luồng công việc, báo cáo kiểm thử và đề xuất cải tiến chất lượng Làm việc với đội phát triển để khắc phục lỗi, chẩn đoán và cải tiến cấu hình sản phẩm đối với các module hiện tại hoặc tương lai
+
+Yêu cầu công việc:
+Yêu cầu:. - Có khả năng xây dựng tài liệu kiểm thử độc lập dựa trên việc áp dụng các kỹ thuật kiểm thử phần mềm. - Có khả năng phân tích và phản biện về đặc tả yêu cầu phần mềm. - Có khả năng ước lượng nỗ lực kiểm thử và xác định được những rủi ro cho các task được giao. - Có khả năng hướng dẫn, review về thiết kế kiểm thử, kịch bản kiểm thử cho các bạn level thấp hơn hoặc level tương đương. - Có khả năng xây dựng và thực hiện các query cơ bản với hệ cơ sở dữ liệu của sản phẩm để tạo, sửa, xóa hoặc truy vấn dữ liệu với các bảng đơn. - Có khả năng sử dụng các công cụ/framework hỗ trợ kiểm thử có sẵn (như kiểm thử api, kiểm thử hiệu năng web, kiểm thử tự động web/mobile/api. Kiến thức chuyên môn:. - Kiến thức CNTT:. + Nắm vững quy trình phát triển phần mềm, đặc biệt là Agile, Scrum. + Có kiến thức nâng cao về SQL hoặc các hệ sở sở dữ liệu mà sản phẩm sử dụng. + Nắm được giao thức HTTP/HTTPS. - Kiến thức Kiểm thử phần mềm. + Nắm vững quy trình kiểm thử phần mềm được ban hành tại công ty. + Nắm được các mức độ kiểm thử (Kiểm thử thành phần, Kiểm thử tích hợp, Kiểm thử hệ thống, Kiểm thử chấp nhận). + Nắm được các loại kiểm thử kiểm thử phi chức năng, kiểm thử thăm dò, kiểm thử đoán lỗi. + Hiểu và áp dụng thành thạo các kỹ thuật thiết kế kiểm thử kiểm thử hộp đen, kiểm thử dựa trên kinh nghiệm. + Nắm vững nghiệp vụ hệ thống của sản phẩm tham gia kiểm thử. - Kiến thức chuyên môn ATTT: Không yêu cầu
+
+Yêu cầu kinh nghiệm: 1-3 năm

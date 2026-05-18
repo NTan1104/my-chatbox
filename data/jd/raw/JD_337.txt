@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Chuyên Viên Kiểm Thử Phần Mềm
+
+Mô tả công việc:
+-Đọc hiểu các tài liệu proposal, specs, design, Tham gia phân tích làm rõ yêu cầu. -Lên kế hoạch (test plan) và viết kịch bản test (test case). -Cài đặt triển khai môi trường test và các module, báo cáo cần test. -Test sản phẩm, viết/ kiểm tra tài liệu hướng dẫn cài đặt và hướng dẫn sử dụng. -Viết báo cáo test. -Chịu trách nhiệm đảm bảo sản phẩm không còn lỗi, tài liệu hướng dẫn đúng và chính xác. -Hỗ trợ các bộ phận phân tích nghiệp vụ, triển khai và đạo tạo người sử dụng
+
+Yêu cầu công việc:
+- Kinh nghiệm từ 6 tháng trở lên kinh nghiệm ở vị trí Tester- Hiểu biết performance test, hiểu biết về các sản phẩm công nghệ trong lĩnh vực y tế, sản phẩm EMR là lợi thế- Thành thạo SQL- Sử dụng thành thạo tiếng Anh là lợi thế- Kỹ năng tin học văn phòng, Excel Cảm ơn ứng viên đã quan tâm ứng tuyển job tại Công ty, trong vòng tối đa 05 ngày mà bộ phận tuyển dụng chưa liên hệ thì rất tiếc CV bạn chưa đạt yêu cầu. Ứng viên lưu ý chủ động công việc cá nhân.
+
+Yêu cầu kinh nghiệm: Dưới 1 năm

@@ -1,0 +1,52 @@
+AI Engineer - Kỹ Sư AI (Fresher Up)
+
+Chi tiết tin tuyển dụng
+Yêu cầu:
+1 năm kinh nghiệm
+Đại Học trở lên
+Tiếng Anh Đọc hiểu
+Xem chi tiết Yêu cầu
+Quyền lợi:
+Nghỉ thứ 7
+Xem chi tiết Quyền lợi
+Chuyên môn:
+AI Engineer
+IT - Phần cứng và máy tính
+IT - Phần mềm
+Game
+Mô tả công việc
+Tại Sonat Game, chúng tôi tin rằng dữ liệu và công nghệ là nền tảng để mở rộng quy mô sản phẩm và phát triển bền vững. Là một AI Engineer thuộc phòng Business Intelligence. Bạn sẽ chịu trách nhiệm thiết kế, huấn luyện và triển khai các mô hình AI/ML nhằm cá nhân hóa trải nghiệm người dùng và tối ưu hóa hiệu quả kinh doanh trong game và ứng dụng di động, bạn sẽ làm việc chặt chẽ với các nhóm Product, Data, Business Intelligence (BI) và Engineering để đưa các giải pháp AI vào thực tiễn.
+
+Trách nhiệm chính của AI Engineer Fresher/Junior
+
+Tham gia phát triển, thử nghiệm các mô hình Machine Learning và Deep Learning phục vụ các bài toán vận hành, phân tích hành vi người dùng, phân loại content, dự đoán xu hướng...
+Hỗ trợ làm sạch, phân tích và trực quan hóa dữ liệu.
+Thực hiện thử nghiệm các thuật toán AI trên tập dữ liệu thực tế.
+Viết tài liệu kỹ thuật và báo cáo kết quả mô hình.
+Học tập và áp dụng các kiến thức mới trong lĩnh vực AI vào dự án nội bộ.
+Yêu cầu ứng viên
+Kiến thức
+
+Tốt nghiệp chuyên ngành Khoa học Máy tính, Kỹ thuật phần mềm, Toán – Tin, Công nghệ thông tin hoặc các lĩnh vực liên quan
+Có kinh nghiệm từ 1 năm trong lĩnh vực AI/ML hoặc các dự án Machine Learning ở quy mô production.
+Nắm vững xác suất thống kê, đại số tuyến tính, vi phân – tích phân, tối ưu hóa.
+Có kiến thức về phân tích dữ liệu, tiền xử lý dữ liệu, trực quan hóa dữ liệu.
+Kỹ năng
+
+Thành thạo Python, Pandas, NumPy, SQL.
+Có kinh nghiệm với TensorFlow / PyTorch / Scikit-learn / Hugging Face.
+Kinh nghiệm triển khai mô hình trên cloud platform (GCP, AWS, Azure) và container hóa bằng Docker/Kubernetes.
+Hiểu A/B Testing, causal inference và đánh giá model trong môi trường thực tế.
+Có khả năng thiết kế pipeline AI/ML từ data → training → deployment.
+Kinh nghiệm trong Recommendation Systems, LTV prediction, Churn prediction, User Segmentation là lợi thế lớn.
+Có kinh nghiệm làm việc với LLM (fine-tuning, RAG) và triển khai qua LangChain/API framework; từng sử dụng nền tảng MLOps như Vertex AI, SageMaker là lợi thế.
+Kỹ năng tư duy hệ thống, xử lý vấn đề chủ động và tối ưu hoá hiệu suất mô hình
+Có khả năng viết tài liệu, báo cáo và truyền đạt kết quả phân tích
+Thái độ
+
+Tư duy sản phẩm và định hướng ứng dụng thực tế
+Cẩn thận, có trách nhiệm với dữ liệu và hệ thống
+Chủ động phát hiện vấn đề và đề xuất hướng cải tiến
+Có tinh thần học hỏi, cầu tiến, sẵn sàng tiếp cận công nghệ mới
+Làm việc tốt trong môi trường tốc độ cao
+Gắn bó lâu dài và mong muốn phát triển chuyên sâu trong lĩnh vực dữ liệu

@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên IOS (Tại Hà Nội)
+
+Mô tả công việc:
+Phát triển các ứng dụng nâng cao trên nền tảng IOS.Bảo trì ứng dụng hiện tại, sửa lỗi và thiết kế các chức năng mới Xây dựng ứng dụng mới nhằm cải tiến hiệu năng và thân thiện với người dùng. Tham gia vào tất cả các khâu trong quá trình phát triển phần mềm, bao gồm: tìm hiểu yêu cầu, phân tích, thiết kế, nghiên cứu công nghệ mới; Làm việc với Designer để chuyển ý tưởng design sang coding Làm việc với Tester để đảm bảo tốt nhất chất lượng công việc Nghiên cứu và áp dụng các công nghệ mới vào dự án
+
+Yêu cầu công việc:
+• Tối thiểu 2 năm kinh nghiệm phát triển ứng dụng cho mobile native trên nền tảng IOS • Có kiến thức tốt về Web services, REST APIs, Oauth 2.0 và các ứng dụng giao diện dạng Client-Server• Có kiến thức vững chắc về lập trình hướng đối tượng OOP, MVC, MVP, Design Patterns, iOS SDK cũng như cấu trúc dữ liệu và giải thuật.• Luôn tìm tòi công nghệ mới để giải quyết các vấn đề kỹ thuật khó.• Kỹ năng vững chắc trong việc phân tích và giải quyết vấn đề.• Có khả năng tự học và cập nhật công nghệ mới.• Có khả năng làm việc độc lập và tinh thần trách nhiệm cao.
+
+Yêu cầu kinh nghiệm: 1-3 năm

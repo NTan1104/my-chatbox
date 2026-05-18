@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Ứng Dụng
+
+Mô tả công việc:
+- Lập trình, triển khai và bảo trì / vận hành các ứng dụng Websitres, di động, hệ thống phần mềm ERP... dựa trên phân tích thiết kế;- Cập nhật và bố trí nội dung trên các ứng dụng Websites, di động, hệ thống phần mềm ERP cũng như các yêu cầu khác liên quan đến lập trình;- Trực tiếp làm việc với người dùng chính để tiếp nhận yêu cầu phát triển chức năng và cài đặt những tính năng mới cho các ứng dụng;- Hỗ trợ người sử dụng khắc phục lỗi của ứng dụng liên quan đến code của phần mềm theo quy trình hoạt động của Phòng IT;- Lập trình hoặc phát triển các ứng dụng khác theo yêu cầu thực tế từ Công ty;- Thực hiện một số công việc phát sinh khác theo phân công từ Quản lý trực tiếp trong từng thời điểm.Địa điểm làm việc: 12 Nguyễn Hiền, Phường 4, Quận 3, Tp.HCM.
+
+Yêu cầu công việc:
+- Nam / Nữ có sức khỏe tốt, ngoại hình cân đối và dễ nhìn.- Tốt nghiệp Cao đẳng trở lên chuyên ngành CNTT phần mềm.- Kinh nghiệm 1 năm trở lên tại vị trí tương đương, ưu tiên biết ngôn ngữ lập trình .NET- Có kiến thức về thiết kế Cơ sở dữ liệu, SQL Reporting Service (SSRS) trên môi trường Microsoft SQL Server.- Có kiến thức cơ bản về HTML / HTML5 / CSS, MVC3, Webservices, Javascript (JQuery, JSON).- Kỹ năng phân tích, xử lý vấn đề trên hệ thống.- Năng động, khéo léo và khả năng chịu được áp lực công việc cao.
+
+Yêu cầu kinh nghiệm: 1-3 năm

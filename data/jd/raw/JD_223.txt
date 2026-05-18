@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên .Net
+
+Mô tả công việc:
+Tham gia phát triển và vận hành hệ thống, nghiên cứu công nghệ, tích hợp hệ thống phục vụ cho công việc của FPT Telecom trên nền tảng .Net, Oracle, SQL serverTham gia phát triển hệ thống APILập trình ứng dụng theo yêu cầu của quản lý
+
+Yêu cầu công việc:
+Kinh nghiệm về: Xây dựng hệ thống quản lý trên nền tảng .Net/OracleAm hiểu về: .Net, thành thạo các framework về data modelThành thạo lập trình MVC framework, NetCoreThành thạo Oracle (programer) , MS SQL serverCó kỹ năng làm việc với các design patternCó kiến thức về ORM (Object-relational mapping) và OOP (Object-oriented programming)Năng động, sẳn sàng trở thành một người đa năng trong công việc, có khả năng phản biệnSố năm kinh nghiệm > 2 năm trong cùng lĩnh vực lập trìnhSẳn sàng học hỏi một ngôn ngữ lập trình mới.
+
+Yêu cầu kinh nghiệm: 1-3 năm

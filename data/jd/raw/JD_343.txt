@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên PHP (Thu Nhập Từ 14 - 20 Triệu/Tháng)
+
+Mô tả công việc:
+- Lập trình PHP & Mysql trên nền Zend Framework. - Tham gia phân tích, thiết kế, phát triển extension cho Magento 2. - Tham gia vào các dự án phát triển website thương mại điện tử cho khách hàng trên toàn cầu. - Tùy biến sản phẩm theo yêu cầu của khách hàng. - Tham gia hỗ trợ khách hàng khi sử dụng sản phẩm. - Làm việc nhóm với những lập trình viên PHP khác. - Tối ưu sản phẩm, ứng dụng, website của khách hàng và công ty.. - Tham gia quản lý nhóm nếu có khả năng phù hợp.
+
+Yêu cầu công việc:
+- Trên 6 tháng kinh nghiệm làm việc với PHP.. - Có kiến thức tốt về PHP, lập trình hướng đối tượng, mô hình MVC.. - Có kiến thức tốt về HTML, CSS, Javascript, jQuery.. - Đọc, hiểu, viết tiếng Anh chuyên ngành tốt. Sử dụng thành thạo Tiếng Anh là một lợi thế.. - Có tinh thần học hỏi cao, năng động, sáng tạo và nhiệt tình trong công việc.. - Có trách nhiệm cao với công việc.. - Có tư duy logic tốt, có kỹ năng giải quyết vấn đề và làm việc trong môi trường áp lực.. - Ưu tiên ứng viên đã có kinh nghiệm với những thư viện, mã nguồn mở như Laravel, Magento, Wordpress, Opencart, Prestashop,...
+
+Yêu cầu kinh nghiệm: Dưới 1 năm

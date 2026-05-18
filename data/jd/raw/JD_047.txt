@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên Python (Eng Khá) - Upto $2000
+
+Mô tả công việc:
+-Phát triển các ứng dụng trên nền Web sử dụng Python -Phân tích yêu cầu, thiết kế function/class, lên kế hoạch phát triển ứng dụng-Chịu trách nhiệm hoàn thành ứng dụng đúng tiến độ, đảm bảo chất lượng-Trao đổi, báo cáo công việc hàng ngày trực tiếp với Leader/PM-Hỗ trợ cho các thành viên mới trong dự án
+
+Yêu cầu công việc:
+-Giao tiếp tiếng Anh mức khá -Có kinh nghiệm sử dụng các Framework như Flask/Django và các Webserver như Nginx, Haproxy.-Có kinh nghiệm sử dụng các database như Mongodb, MySQL, Postgresql, Redis, Memcached, Elastic search...-Có kinh nghiệm về HTML5/CSS, Javascript, Bootstrap, Jquery/Ajax .-Nắm vững mô hình MVC-Có khả năng phân tích, giải quyết vấn đề tốt-Nhiệt tình và cẩn thận trong công việc.----------------------------------------------------------------------------------Ưu tiên ứng viên có kinh nghiệm làm việc với NodeJS, AngularJS, React JS-Ưu tiên ứng viên có kinh nghiệm sử dụng các công cụ hỗ trợ như Git, Ansible, Docker là một lợi thế...-Ưu tiên ứng viên có kiến thức xử lý đa luồng, xử lý bất đồng bộ và tối ưu hóa performance-Ưu tiên ứng viên có kinh nghiệm về Cloud như AWS, Azure, ..-Ưu tiên ứng viên có khả năng phân tích và thiết kế database. Thiết kế luồng theo yêu cầu của khách hàng
+
+Yêu cầu kinh nghiệm: 1-3 năm

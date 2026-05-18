@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: LẬP TRÌNH VIÊN JAVA ( GAME)
+
+Mô tả công việc:
+Tham gia nhóm phát triển game từ khâu phân tích đến triển khai. - Nghiên cứu công nghệ mới, đề xuất ý tưởng cải tiến và đổi mới công nghệ cho công ty. - Hoàn thành đúng hạn Deadline được giao - Thực hiện các nhiệm vụ, công việc khác được giao bởi cấp trên
+
+Yêu cầu công việc:
+- Có kinh nghiệm với Java Core và 1 Java Web Frameworks, ví dụ Spring Boot. - Có kinh nghiệm làm việc với MySQL hoặc các loại cơ sở dữ liệu khác như Postgre, MongoDB. - Sử dụng công cụ quản lý source code Git hoặc SVN. - Khả năng đọc hiểu tiếng Anh chuyên ngành - Là lợi thế (không bắt buộc): + Có kinh nghiệm lập trình server cho các dự án game multi client và xử lý realtime. + Có kiến thức đọc hiểu UML.
+
+Yêu cầu kinh nghiệm: Dưới 1 năm

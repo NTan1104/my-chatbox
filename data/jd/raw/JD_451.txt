@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: .NET DEVELOPER (DỰ ÁN CHUYỂN ĐỔI SỐ)
+
+Mô tả công việc:
+- Tham gia đội ngũ phát triển các dự án chuyển đổi số trên nền tảng web. - Tham gia dự án chuyển đổi nền tảng ứng dụng, phát triển giải pháp back-end theo mô hình microservice. - Tham gia phát triển hệ thống Core-service với các nghiệp vụ về quản lý viễn thông, hệ thống thông tin. - Các công việc khác theo phân công của trưởng đơn vị.
+
+Yêu cầu công việc:
+- Tốt nghiệp Đại học các chuyên ngành Công nghệ thông tin, hệ thống thông tin, Khoa học máy tính hoặc ngành liên quan. - Kinh nghiệm từ 1 - 3 năm, thành thạo .Net C# MVC, .Net Core. - Hiểu biết về lập trình web (html, css, ajax, angular/kendo/react). - Am hiểu lập trình hướng đối tượng (OOP) và áp dụng design pattern. - Am hiểu việc gọi và xử lý RESTFul API. - Am hiểu một trong các database: SQL server, Oracle, MySQL - Có khả năng học hỏi nghiên cứu công nghệ mới. - Ưu tiên các ứng viên fullstack, biết thiết kế kiến trúc hệ thống, có chứng chỉ quốc tế. - Ưu tiên các ứng viên năng nổ hoạt động phong trào, thể dục thể thao.
+
+Yêu cầu kinh nghiệm: Dưới 1 năm

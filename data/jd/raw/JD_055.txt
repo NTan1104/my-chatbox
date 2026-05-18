@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Nhân Viên IT
+
+Mô tả công việc:
+Tối ưu, nâng cấp các chức năng, cải tiến và bảo trì hệ thống Website đang hoạt động của Công ty.Phụ trách xây dựng chiến lược, thiết kế, triển khai các dự án Website bằng ngôn ngữ lập trình PHP các CMS: Wordpress hay Framework: Laravel, YII...Hỗ trợ quản lý, khắc phục sự cố hệ thống mạng nội bộ, máy tính văn phòng,…Thực hiện các công tác khác theo yêu cầu của Ban lãnh đạo.Từ T2-T6 và 2 ngày T7/tháng (8h00 - 17h30 (nghỉ trưa 1,5 tiếng))
+
+Yêu cầu công việc:
+Tốt nghiệp CĐ/ĐH chuyên ngành CNTT, Khoa học máy tính, Công nghệ phần mềm, Lập trình,… Có kinh nghiệm làm các dự án PHP từ 1 năm trở lên.Có kiến thức và kỹ năng về Laravel hoặc Yii2,…Sử dụng thành thạo các ngôn ngữ lập trình khác trong việc phát triển web như: HTML, CSS, JS…Kỹ năng giao tiếp và giải quyết vấn đề, phân tích, đưa ra giải pháp theo yêu cầu.Tinh thần trách nhiệm, chủ động và tỉ mỉ trong công việc
+
+Yêu cầu kinh nghiệm: 1-3 năm

@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Back-End Developer
+
+Mô tả công việc:
+Tham gia nghiên cứu và phát triển hệ thống phần mềm chia sẻ dữ liệu và làm việc nhóm cho lĩnh vực xây dựng hạ tầng.Nâng cấp và tích hợp vào hệ thống hiện cóHỗ trợ và đóng góp ý kiến cho các thành viên trong nhóm dự án đối với các chức năng phức tạpPhối hợp với các thành viên trong nhóm để làm sản phẩm với chất lượng cao.
+
+Yêu cầu công việc:
+Tốt nghiệp ĐH ngành Công nghệ thông tin hoặc lĩnh vực kỹ thuật liên quan.Tối thiểu 1 năm kinh nghiệm Back-end với ngôn ngữ NodeJS.Có tư duy lập trình và tư duy hệ thống tốt, ưu tiên khả năng đọc hiểu tài liệu tiếng AnhƯu tiên có kinh nghiệm thiết kế giao diện HTML, CSSƯu tiên ứng viên có kinh nghiệm làm việc với MongoDB, Firebase, Linux serverCó khả năng làm việc độc lập dưới áp lực cao.Có kỹ năng làm việc nhóm và sẵn sàng học hỏi, chia sẻ kiến thức chuyên môn.
+
+Yêu cầu kinh nghiệm: 1-3 năm

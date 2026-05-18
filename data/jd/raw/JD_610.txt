@@ -1,0 +1,32 @@
+Trưởng Nhóm DevSecOps
+
+Chi tiết tin tuyển dụng
+Yêu cầu:
+3 năm kinh nghiệm
+Đại Học trở lên
+Tiếng Anh Đọc hiểu
+Xem chi tiết Yêu cầu
+Quyền lợi:
+Nghỉ thứ 7
+Xem chi tiết Quyền lợi
+Chuyên môn:
+DevOps Engineer
+IT - Phần mềm
+Mô tả công việc
+Xây dựng, triển khai và vận hành quy trình DevSecOps trong vòng đời phát triển phần mềm (SDLC)
+Tích hợp các công cụ bảo mật (Security) vào pipeline CI/CD (SAST, DAST, SCA, Container Security,…)
+Thiết kế và duy trì hệ thống CI/CD đảm bảo tự động hóa, an toàn và tuân thủ tiêu chuẩn ngân hàng
+Phối hợp với Dev, QA, Security để phát hiện và xử lý lỗ hổng bảo mật sớm trong quá trình phát triển
+Thực hiện kiểm tra, đánh giá và giám sát các rủi ro bảo mật trong hệ thống (application, infrastructure, cloud)
+Xây dựng và áp dụng các chính sách bảo mật: IAM, secrets management, vulnerability management
+Hỗ trợ triển khai, vận hành hệ thống trên môi trường Cloud/Kubernetes/On-premise
+Theo dõi hệ thống, log, alert và phản ứng sự cố bảo mật
+Yêu cầu ứng viên
+Từ 3 năm kinh nghiệm xây dựng và duy trì cơ sở hạ tầng cloud
+Hiểu biết sâu sắc về cách bảo mật môi trường cloud và đáp ứng các yêu cầu tuân thủ
+Có chuyên môn sử dụng Chef để quản lý cấu hình
+Kinh nghiệm thực hành triển khai và quản lý cơ sở hạ tầng với Terraform
+Nền tảng vững chắc về mạng và quản trị Linux
+Kinh nghiệm với Docker, GitHub, Jenkins, ELK và triển khai các ứng dụng trên AWS
+Có khả năng học hỏi / sử dụng nhiều loại công nghệ và công cụ mã nguồn mở
+Kinh nghiệm trong ngành Tài chính & Ngân hàng

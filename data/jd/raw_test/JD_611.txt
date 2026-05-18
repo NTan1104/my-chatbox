@@ -1,0 +1,35 @@
+DevOps Engineer
+
+Chi tiết tin tuyển dụng
+Yêu cầu:
+3 năm kinh nghiệm
+Đại Học trở lên
+Xem chi tiết Yêu cầu
+Quyền lợi:
+Nghỉ thứ 7
+Xem chi tiết Quyền lợi
+Chuyên môn:
+DevOps Engineer
+IT - Phần mềm
+Mô tả công việc
+- Thiết kế, triển khai và vận hành hạ tầng hệ thống cho ứng dụng web theo mô hình microservice.
+- Xây dựng, duy trì và tối ưu CI/CD cho backend, frontend và các service liên quan.
+- Quản lý và vận hành môi trường Docker, Kubernetes (on-premise, cloud hoặc hybrid).
+- Cấu hình, giám sát và tối ưu hạ tầng cloud/on-prem (compute, network, storage).
+- Phối hợp với team phát triển triển khai ứng dụng, cấu hình runtime và xử lý sự cố production.
+- Triển khai và quản lý các dịch vụ hạ tầng dùng chung như Kafka/Message Queue, Redis/Cache.
+- Vận hành Database (PostgreSQL/MySQL/NoSQL) ở mức hạ tầng.
+- Thiết lập và giám sát hệ thống monitoring, logging, alerting.
+- Đảm bảo HA, scalability, backup và disaster recovery cho hệ thống.
+- Thực hiện bảo mật hạ tầng, tối ưu hiệu năng, chi phí và chuẩn hóa tài liệu vận hành.
+
+Yêu cầu ứng viên
+- Tối thiểu 3 năm kinh nghiệm làm việc ở vai trò DevOps/System Engineer.
+- Thành thạo Docker, Kubernetes, thiết kế và vận hành hệ thống containerized, CI/CD pipeline.
+- Kinh nghiệm triển khai và quản lý hạ tầng trên Cloud (AWS/Azure/GCP) hoặc On-Premise/Hybrid.
+- Hiểu rõ Linux, Networking, Security, monitoring, logging, backup, DR.
+- Có kinh nghiệm làm việc với microservice, high availability, high traffic system.
+- Thành thạo các công cụ CI/CD (GitLab CI, Jenkins, GitHub Actions…), IaC (Terraform/Ansible).
+- Có khả năng phối hợp chặt chẽ với team Backend/Frontend, đảm bảo stability – scalability – security.
+- Tư duy hệ thống tốt, chủ động, chịu trách nhiệm cao.
+- Có kinh nghiệm dẫn dắt kỹ thuật hoặc mentoring là lợi thế.

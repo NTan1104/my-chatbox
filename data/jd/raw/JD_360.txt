@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên PHP (Lương Từ 10 Triệu)
+
+Mô tả công việc:
+• Lập trình và phát triển ứng dụng web, web service.• Xây dựng các tool quản lý.• Sử dụng Framework Laravel (version 8.x) để xây dựng Backend.• Sử dụng Framework Angular2 (version 11.x, 12.x) để xây dựng Frontend.
+
+Yêu cầu công việc:
+● Có kinh nghiệm 1 - 2 năm làm việc với ngôn ngữ PHP (bắt buộc làm cả Frontend và Backend), MySQL và thành thạo Laravel.● Ưu tiên các ứng viên có kinh nghiệm làm việc với Angular2.● Có kinh nghiệm sử dụng các framework của PHP như: CodeIgniter, Laravel, …● Nắm vững kiến thức nền tảng về hệ quản trị cơ sở dữ liệu: SQL, MySQL, MariaDB, Javascript, HTML5/CSS3, có kinh nghiệm sử dụng jQuery, Bootstrap.● Nắm vững mô hình MVC, OOP, có hiểu biết về Design Pattern là một lợi thế.● Có kinh nghiệm xử lý với hệ thống có lượng dữ liệu lớn, khả năng tư duy tốt.
+
+Yêu cầu kinh nghiệm: 1-3 năm

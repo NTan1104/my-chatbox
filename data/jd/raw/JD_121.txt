@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: PHP Developer (Laravel)
+
+Mô tả công việc:
+Xây dựng các module mới cho cms ví điện tử trên nền PHP;. Phát triển các service tích hợp với các đối tác lớn như ngân hàng;. Tham gia nghiên cứu, phát triển và ứng dụng các công nghệ mới trong dự án về cổng thanh toán trực truyến và dịch vụ tài chính;. Phối hợp các thành viên trong team để đảm bảo tiến độ công việc, lên kế hoạch cho công việc, hỗ trợ , thảo luận các vấn đề mới;. Phân tích yêu cầu,thiết kế hệ thống dựa trên tài liệu của BA, lập kế hoạch thực hiện;. Làm việc với tester, vận hành, marketing để hoàn thiện các tính năng;. Chịu trách nhiệm hoàn thành công việc theo đúng tiến độ, đảm bảo chất lượng.
+
+Yêu cầu công việc:
+Tốt nghiệp Đại học chuyên ngành CNTT hoặc các chuyên ngành liên quan;. 2 + năm kinh nghiệm PHP;. Sử dụng thành thao framework laravel;. Hiểu về ORM, RESTful,OOP, MVC, design pattern;. Sử dụng git để quản lý source code;. Biết sử dụng docker, làm việc với redis cache;. Có kinh nghiệm framework js là 1 lợi thế (reactjs, vue js) ;. Có kinh nghiệm xử lí và thao tác với các CSDL và người dùng lớn, truy vấn CSDL trên môi trường MySQL, MongoDB;. Làm việc tốt với HTML & CSS, AJAX, Jquery, Javascript;. Có khả năng đọc hiểu tài liệu tiếng Anh;.Có khả năng làm việc độc lập hoặc làm việc theo nhóm tốt.
+
+Yêu cầu kinh nghiệm: 3-5 năm

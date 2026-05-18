@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên IT - Backend PHP
+
+Mô tả công việc:
+- Phối hợp với team lập trình phát triển sản phẩm để triển khai giao diện Website.- Thu thập và xử lí các yêu cầu thiết kế và kĩ thuật; hỗ trợ chỉnh sửa, cải tiến các chức năng hiện tại.- Nghiên cứu, đề xuất các giải pháp kỹ thuật giúp nâng cao chất lượng sản phẩm và tối ưu chi phí phát triển.- Tham gia vào các quá trình thiết kế và tối ưu trải nghiệm người dùng.
+
+Yêu cầu công việc:
+- Tốt nghiệp Cao đẳng, Đại học chuyên ngành CNTT, phần mềm chuyên sâu, giải pháp CNTT ứng dụng hoặc các ngành liên quan.- Có kinh nghiệm tối thiểu từ 08 tháng trở lên trong việc lập trình và phát triển ứng dụng/services về mặt Back-End, thành thạo PHP Lavarel.- Hiểu biết về quá trình phát triển web (thiết kế, phát triển và thực thi) là một điểm cộng.- Có hiểu biết về cơ sở dữ liệu và hệ thống: MySQL, MongoDB hay PostgreSQL là ưu thế.- Có kiến thức về lập trình hướng đối tượng.
+
+Yêu cầu kinh nghiệm: Dưới 1 năm

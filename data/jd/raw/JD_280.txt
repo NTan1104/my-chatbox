@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: PHP Fresher
+
+Mô tả công việc:
+WHO WE ARE:Với tầm nhìn dài hạn là xây dựng thế hệ kỹ sư mới xuất sắc về cả chuyên môn và kỹ năng mềm, Sun Asterisk Inc. tuyển dụng những bạn sinh viên sắp tốt nghiệp hoặc mới ra trường để đào tạo trở thành nguồn nhân lực then chốt cho công ty.Lộ trình đào tạo theo quy chuẩn Nhật Bản kết hợp với sự hướng dẫn của đội ngũ chuyên gia, trainers tâm huyết đã đào tạo thành công nhiều lứa kỹ sư giỏi về kỹ thuật và chuyên nghiệp trong phong cách làm việc. Môi trường làm việc trẻ trung, năng động, đề cao tính nhân văn và tính chủ động, sáng tạo của từng cá nhân sẽ là nơi thích hợp để các bạn học hỏi, tích lũy kinh nghiệm và phát triển bản thân.WHAT WE DO:Được đào tạo bài bản về kỹ thuật, quy trình và các công cụ hỗ trợ công việc trước khi tham gia dự ánTrực tiếp tham gia các dự án với khách hàng NhậtXây dựng các ứng dụng Web bằng ngôn ngữ PHPNghiên cứu và ứng dụng công nghệ mới vào công việc
+
+Yêu cầu công việc:
+Sinh viên sắp tốt nghiệp, hoặc mới tốt nghiệp có thể đi làm full-timeNắm vững kiến thức nền tảng (HTML, CSS,OOP, Cấu trúc dữ liệu và giải thuật…)Có hiểu biết về một trong các ngôn ngữ lập trình: Java, PHP, Ruby, C sharp, Python…Có kinh nghiệm làm việc thực tế là điểm cộngCó khả năng đọc hiểu tài liệu chuyên ngành bằng tiếng AnhĐam mê với lập trình, sẵn sàng học hỏiCó khả năng làm việc nhóm, làm việc độc lập, có tinh thần trách nhiệm cao.
+
+Yêu cầu kinh nghiệm: Không yêu cầu kinh nghiệm

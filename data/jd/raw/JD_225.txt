@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên Python (Upto 30M)
+
+Mô tả công việc:
+• Tham gia xây dựng BO, thành phần NOSQL cho các trang: Kenh14, Dân Việt, Tổ Quốc, Tuổi Trẻ....• Thiết kế và phát triển RESTful API• Thiết kế và tố ưu hóa cơ sở dữ liệu• Duy trì và hỗ trợ sản phẩm để hoạt động ổn định• Nghiên cứu, đề xuất các giải pháp kỹ thuật giúp nâng cao chất lượng sản phẩm và tối ưu chi phí phát triển.
+
+Yêu cầu công việc:
+Kỹ năng lập trình• Nắm rõ cơ chế vận hành của một chương trình Python• Nắm được các giải thuật cơ sở (sort, search, graph...) • Thiết kế được các module, class, funtion với yêu cầu chung của một bài toán • Hiểu về cơ chế đồng bộ và đa luồng• Có khẳ năng tối ưu code về performance và memory • Code rõ ràng, dễ maintain, thiết kế testcase cụ thể và chặt chẽ trước khi build và release project • Sử dụng các design pattern: singleton, factory, …(creational / structural / behavioral / functional pattern)• Triển khai các dự án trên: multiple serverKỹ năng DataBase:• Redis: hiểu rõ các kiểu dữ liệu, tổ chức được dữ liệu theo yêu cầu bài toán đảm bảo tố ưu hiệu năng• Elastic: hiểu rõ các kiểu dữ liệu, tạo mapping đáp ứng theo yêu cầu bài toán, viết được các query phức tạp
+
+Yêu cầu kinh nghiệm: Dưới 1 năm

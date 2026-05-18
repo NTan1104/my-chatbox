@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Devops
+
+Mô tả công việc:
+Phụ trách công việc: deploy, optimizing, monitoring, analysis…Có kĩ năng scripting để automation hệ thống.Hiểu biết sản phẩm công ty đang sử dụng và triển khai, ngoài ra có thể cùng review bug hay viết những unit test thông thường.Tham gia ngay vào giai đoạn phát triển sản phẩm.Chuẩn hóa môi trường làm việc từ local cho đến production
+
+Yêu cầu công việc:
+Độ tuổi: 22 - 29Có kinh nghiệm làm việc trên aws là một lợi thế.Am hiểu, nắm vững quy trình phát triển phần mềm..Có kiến thức cơ bản về: Process Management, Threads and Concurrency, Sockets, I/O Management, Virtualization, Memory storage and File systems.Có kiến thức cơ bản về: DNS, HTTP, HTTPS, FTP, SSL. Hoặc tìm hiểu thêm về các lỗ hổng bảo mật thường gặp.Có kinh nghiệm dùng 1 số tool để triển khai CI&CD như jenkins, jira , git (Gitlab, Bitbucket…)Cài đặt và sử dụng Containers: Docker, Kubernetes.Các công cụ quản lý cấu hình: AnsibleTối thiểu 6 tháng làm việc trong lĩnh vực CNTT với vai trò DevOps vận hành các công cụ jenkins, jira , git (Gitlab, Bitbucket…), hệ điều hành Linux
+
+Yêu cầu kinh nghiệm: Dưới 1 năm

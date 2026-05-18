@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên Java Dự Án Blockchain
+
+Mô tả công việc:
+- Phân tích thiết kế hệ thống: Khảo sát, phân tích thiết kế phần mềm blockchain- Phân tích và phát triển kỹ thuật, thiết kế để xác định tính khả thi, chi phí và thời gian yêu cầu, khả năng tương thích phần mềm.- Tham gia triển khai dự án lập trình trên nền tảng Java.- Phát triển hệ thống mới hoặc chỉnh sửa, nâng cấp hệ thống sẵn có.- Quản lý các thành viên trong team để đảm bảo deadline- Tiếp xúc và giải quyết bài toán lớn cho hàng triệu người dùng, phục vụ cho các bệnh viện lớn tại Việt Nam- Có cơ hội làm chủ một dự án, phát triển dự án theo định hướng của bản thân.- Nghiên cứu công nghệ mới để áp dụng cho các dự án của công ty.
+
+Yêu cầu công việc:
+- Thành thạo về core Java, Lập trình hướng đối tượng, kinh nghiệm từ 2 năm trở lên- Thành thạo và từng làm về một trong các nền tảng như J2EE, JSP, Struts, Spring Framework, MVC, SQL (RDBMS Knowledge e.g SQLServer), No-SQL, App server Knowledge (Tomcat), OSGi, SOAP/REST webservices.- Có khả năng tự nghiên cứu, phân tích và giải quyết vấn đề
+
+Yêu cầu kinh nghiệm: 1-3 năm

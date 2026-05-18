@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên Back-End Developer
+
+Mô tả công việc:
+- Tham gia vào phân tích thiết kế hế thống - Tham gia xây dựng database- Lập trình các module, tính năng theo yêu cầu.- Hợp tác với những thành viên khác trong nhóm để hoàn thành các dự án đúng thời gian.- Hỗ trợ deploy các sản phẩm lên server nếu cần- Ngoài ra chi tiết công việc sẽ được trao đổi khi phỏng vấn.
+
+Yêu cầu công việc:
+- Thành thạo ít nhất 1 trong các ngôn ngữ: Java, Python,NodeJs ...- Có kinh nghiệm về SpringBoot, Hibernate, JPA, Design Pattern - Có kiến thức về các database: PostgreSQL, MySQL, MongoDB- Có hiểu biết và sử dụng Elastic Search, Logstash, Kibana, Redis, Memcached là một lợi thế- Quen thuộc với docker, linux, Restful API, microservice- Có kiến thức về google cloud service là một lợi thế: firebase, bigquery, cloud function...- Có khả năng đưa ra giải pháp và học hỏi nhanh
+
+Yêu cầu kinh nghiệm: Không yêu cầu kinh nghiệm

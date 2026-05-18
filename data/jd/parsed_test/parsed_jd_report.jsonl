@@ -1,0 +1,2 @@
+{"jd_id": "JD_611", "source_file": "D:\\Projects\\XAI\\data\\jd\\raw_test\\JD_611.txt", "status": "ok", "validation": {"is_valid": true, "issues": []}, "error": null}
+{"jd_id": "JD_612", "source_file": "D:\\Projects\\XAI\\data\\jd\\raw_test\\JD_612.txt", "status": "warning", "validation": {"is_valid": false, "issues": ["too_few_must_have_skills"]}, "error": null}

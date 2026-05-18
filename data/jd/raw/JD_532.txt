@@ -1,0 +1,38 @@
+AI Engineer
+
+Chi tiết tin tuyển dụng
+Yêu cầu:
+2 năm kinh nghiệm
+Đại Học trở lên
+Xem chi tiết Yêu cầu
+Quyền lợi:
+Nghỉ thứ 7
+Xem chi tiết Quyền lợi
+Chuyên môn:
+AI Engineer
+IT - Phần mềm
+Tài chính
+Ngân hàng
+Mô tả công việc
+Phối hợp với các đơn vị trong Tổng công ty để phân tích nhu cầu, xác định bài toán và đề xuất giải pháp ứng dụng AI vào hoạt động sản xuất – kinh doanh.
+Nghiên cứu, thiết kế và triển khai các mô hình, thuật toán, ứng dụng AI nhằm tối ưu vận hành, nâng cao năng suất, giảm chi phí và cải thiện trải nghiệm khách hàng phù hợp với yêu cầu nghiệp vụ và điều kiện thực tế.
+Đánh giá, phối hợp với các đối tác cung cấp giải pháp AI trong quá trình triển khai, tích hợp và vận hành hệ thống AI tại Tổng công ty.
+Triển khai và vận hành hạ tầng AI on-premise; cài đặt, cấu hình và tối ưu các nền tảng, framework phục vụ phát triển và triển khai ứng dụng AI.
+Thực hiện công tác dữ liệu cho các dự án AI: thu thập, làm sạch, tiền xử lý, chuẩn hóa và đánh nhãn dữ liệu.
+Đánh giá, fine-tune và tối ưu hiệu năng các mô hình AI nhằm đảm bảo độ chính xác, ổn định và khả năng mở rộng.
+Xây dựng KPI và phương pháp đo lường hiệu quả của các chương trình, sản phẩm AI dựa trên dữ liệu hành vi người dùng đa kênh (Web/App, hệ thống nội bộ, khảo sát, mạng xã hội...).
+Các bài toán cần triển khai: Robo Advisor, Chatbot CSKH, Chatbot hỗ trợ nghiệp vụ, Callbot nhắc nợ, ...
+Yêu cầu ứng viên
+Tốt nghiệp đại học loại Giỏi trở lên. Ưu tiên học vị tiến sĩ, thạc sĩ các ngành khoa học dữ liệu, thống kê, toán kinh tế, toán tài chính, khoa học máy tính
+Tiếng Anh tương đương 650+ TOEIC
+Có ít nhất 02 năm kinh nghiệm làm việc trong lĩnh vực AI, ưu tiên ứng viên có kinh nghiệm với:
+LLM, Prompt Engineering, RAG, Agent-based AI, ...
+NLP, xử lý hội thoại, speech (ASR/TTS)
+MLOps/LLMOps: versioning, monitoring, logging, đánh giá hiệu quả mô hình
+Sử dụng thành thạo Python; có kinh nghiệm với các framework AI/ML/GenAI (PyTorch, TensorFlow, LangChain, LlamaIndex, ...)
+Kinh nghiệm tích hợp AI với hệ thống backend (REST API, microservices), thiết kế và triển khai các giao thức như MCP (Model Context Protocol), A2A (Agent to Agent), ....
+Chủ động tìm hiểu, nghiên cứu công nghệ mới để áp dụng vào các dự án nhằm nâng cao trải nghiệm khách hàng, hiệu quả vận hành, ...
+Có kinh nghiệm sử dụng AI để tối ưu công việc thực tế (nghiên cứu, phân tích, viết tài liệu, tự động hóa quy trình...).
+Có khả năng thiết kế prompt hiệu quả và kiểm soát chất lượng đầu ra của AI.
+Ưu tiên ứng viên có thể trình bày/demonstrate một use case đã ứng dụng AI trong công việc.
+Tinh thần làm việc tự giác, chủ động, nhiệt tình và có kỷ luật

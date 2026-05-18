@@ -1,0 +1,48 @@
+Artificial Intelligence (AI) 2026
+
+Chi tiết tin tuyển dụng
+Yêu cầu:
+1 năm kinh nghiệm
+Đại Học trở lên
+Xem chi tiết Yêu cầu
+Chuyên môn:
+AI Engineer
+IT - Phần mềm
+Mô tả công việc
+- Mục tiêu công việc: Nghiên cứu và hiện thực hóa sức mạnh của Trí tuệ nhân tạo (AI) vào quy trình vận hành, trọng tâm là xây dựng hệ thống AGENTIC thông minh nhằm tối ưu hóa hiệu suất và tự động hóa các công đoạn trong chu kỳ phát triển phần mềm (SDLC).
+
+- Nhiệm vụ trọng tâm
+
+R&D & Đổi mới sáng tạo:
+Chủ động nghiên cứu các công nghệ mới, mô hình ngôn ngữ lớn (LLMs) và các giải pháp AI tiên tiến nhất để ứng dụng vào thực tế công việc.
+Đề xuất các phương án cải thiện hiệu suất vận hành dựa trên dữ liệu và công nghệ.
+Phát triển Hệ sinh thái AI Agent:
+Thiết kế và xây dựng các Multi-Agent System chuyên biệt cho từng vai trò trong dự án phần mềm (ví dụ: Requirement Agent, Coding Agent, Test Case Generator Agent, Project Manager Assistant...).
+Tối ưu hóa quy trình tương tác và phối hợp giữa các Agent để tự động hóa tối đa các tác vụ lặp lại.
+Phối hợp liên chức năng (Cross-functional):
+Làm việc chặt chẽ với đội ngũ Product, Design, Dev và Tester để tích hợp các tính năng AI vào sản phẩm hiện có.
+Đóng vai trò cầu nối kỹ thuật, đảm bảo giải pháp AI khả thi và giải quyết đúng bài toán của người dùng/nội bộ.
+Tối ưu hóa & Đảm bảo chất lượng:
+Thiết kế các kịch bản thử nghiệm, thu thập dữ liệu phản hồi (feedback loop) để liên tục tinh chỉnh và nâng cấp độ chính xác của AI.
+Theo dõi, đánh giá hiệu quả của các giải pháp AI sau khi triển khai.
+Các công việc khác: Thực hiện các nhiệm vụ phát triển dự án theo định hướng của Trưởng bộ phận.
+Yêu cầu ứng viên
+- Yêu cầu chung
+
+Học vấn: Tốt nghiệp Đại học chuyên ngành Công nghệ thông tin hoặc các khối ngành kỹ thuật liên quan.
+Giới tính: Nam/Nữ.
+Thái độ: Tư duy giải quyết vấn đề (Problem-solving) quyết liệt, sẵn sàng thử sai và cập nhật công nghệ mới với tốc độ nhanh
+- Kỹ năng chuyên môn (Hard Skills)
+
+Nền tảng lập trình: Tối thiểu 1 năm kinh nghiệm làm việc thành thạo với ngôn ngữ Python.
+Am hiểu AI & LLMs: Có kinh nghiệm thực tế triển khai các mô hình ngôn ngữ lớn: Google Gemini, OpenAI, Anthropic.
+Thành thạo kỹ thuật Prompt Engineering để tối ưu hóa đầu ra cho AI.
+Sử dụng tốt các framework hỗ trợ xây dựng ứng dụng AI như LangChain.
+Tư duy Agentic & Công cụ:
+Có trải nghiệm thực tế (Vibecode/Workflow) với các công cụ Agentic hiện đại như: VS Code Cursor, Claude Code, Gemini CLI, Antigravity...
+Có khả năng đọc hiểu, phân tích và nghiên cứu sâu các Open-source Repo về AI Agent trên GitHub.
+- Kinh nghiệm & Ưu tiên (Experience & Plus)
+
+Quy trình làm việc: Hiểu sâu về quy trình phát triển phần mềm, ưu tiên ứng viên đã làm việc trong môi trường Agile/Scrum.
+Điểm cộng ưu tiên: Ứng viên có sản phẩm Demo thực tế liên quan đến Agentic (Bot tự động hóa, hệ thống Multi-agent...).
+Có tư duy Product-mindset: Không chỉ viết code mà còn hiểu mục đích sản phẩm và cách AI giải quyết nỗi đau của người dùng.

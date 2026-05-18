@@ -1,0 +1,31 @@
+Junior DevOps Engineer
+
+Chi tiết tin tuyển dụng
+Yêu cầu:
+Dưới 1 năm kinh nghiệm
+Đại Học trở lên
+Tiếng Anh Đọc hiểu
+Tiếng Anh Giao tiếp cơ bản
+Xem chi tiết Yêu cầu
+Quyền lợi:
+Nghỉ thứ 7
+Xem chi tiết Quyền lợi
+Chuyên môn:
+DevOps Engineer
+Mô tả công việc
+Xây dựng, triển khai và duy trì hệ thống CI/CD trên nền tảng như GitLab CI/CD, Jenkins, GitHub Actions.
+Quản lý và tối ưu hóa cơ sở hạ tầng trên các nền tảng Cloud (AWS, GCP, Azure) hoặc On-premise.
+Xây dựng và vận hành hệ thống containerization (Docker, Kubernetes).
+Giám sát và logging hệ thống bằng các công cụ như Prometheus, Grafana, ELK Stack.
+Hỗ trợ team phát triển trong việc triển khai ứng dụng và xử lý sự cố.
+Tối ưu hóa hiệu suất hệ thống, đảm bảo bảo mật và tính ổn định của dịch vụ.
+Tự động hóa quy trình vận hành bằng scripting (Bash, Python, Ansible, Terraform).
+Tham gia nghiên cứu và đề xuất các công nghệ mới để cải thiện hệ thống.
+Yêu cầu ứng viên
+Có từ 6 tháng kinh nghiệm trong lĩnh vực DevOps hoặc SysAdmin.
+Có kiến thức về Linux, Docker, Kubernetes, Git, CI/CD.
+Có kinh nghiệm làm việc với các nền tảng Cloud (AWS/GCP/Azure).
+Có kiến thức AI Level 2 trở lên, ưu tiên ứng viên đã từng làm việc với AI Trainer/AI Agent hoặc có kinh nghiệm ứng dụng AI vào công việc thực tế.
+Biết sử dụng Infrastructure as Code (Terraform, Ansible).
+Có kiến thức về networking, bảo mật hệ thống và tối ưu hóa hiệu suất.
+Kinh nghiệm giám sát hệ thống với Prometheus, Grafana hoặc ELK là một lợi thế

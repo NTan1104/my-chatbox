@@ -1,0 +1,33 @@
+Lập Trình Viên Backend
+
+Chi tiết tin tuyển dụng
+Yêu cầu:
+Dưới 1 năm kinh nghiệm
+Đại Học trở lên
+Xem chi tiết Yêu cầu
+Quyền lợi:
+Thưởng tháng 13
+Team building
+Xem chi tiết Quyền lợi
+Chuyên môn:
+Backend Developer
+IT - Phần mềm
+
+Mô tả công việc
+Phát triển, vận hành và bảo trì hệ thống Backend sử dụng Node.js
+Tham gia xây dựng và mở rộng hệ thống theo kiến trúc Microservice
+Thiết kế, phát triển và tối ưu RESTful API
+Làm việc với Database: MongoDB / PostgreSQL / MySQL (tùy hệ thống)
+Phối hợp với Frontend, Mobile, BA/PM để triển khai tính năng
+Fix bug, tối ưu hiệu năng và đảm bảo chất lượng hệ thống
+Đóng góp ý kiến cải tiến giải pháp kỹ thuật và kiến trúc hệ thống
+
+Yêu cầu ứng viên
+Có ít nhất từ 6 tháng kinh nghiệm Backend với Node.js
+Có kiến thức nền tảng về Backend, API, RESTful API.
+Biết sử dụng NodeJS; có hiểu biết về ExpressJS hoặc NestJS là lợi thế.
+Có kiến thức cơ bản về database: MySQL, PostgreSQL, MongoDB hoặc tương đương.
+Hiểu cơ bản về Git, GitFlow và quy trình làm việc trong dự án phần mềm.
+Có tư duy logic tốt, chủ động học hỏi và chịu khó tìm hiểu công nghệ mới.
+Có khả năng đọc hiểu tài liệu kỹ thuật cơ bản bằng tiếng Anh.
+Ưu tiên ứng viên đã từng làm project cá nhân, đồ án hoặc thực tập liên quan đến NodeJS

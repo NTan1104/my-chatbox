@@ -1,0 +1,30 @@
+Thực Tập Sinh Devops (Sysops) 
+
+Yêu cầu:
+Không cần kinh nghiệm
+Đại Học trở lên
+Xem chi tiết Yêu cầu
+Quyền lợi:
+Nghỉ thứ 7
+Xem chi tiết Quyền lợi
+Chuyên môn:
+Chuyên môn DevOps Engineer
+IT - Phần cứng và máy tính
+Mô tả công việc
+Xây dựng hệ thống Monitor, Logging, Alert-Cảnh báo
+Triển khai hạ tầng cho hệ thống tích hợp ESB, API của ngân hàng
+Làm việc với các hệ thống liên quan đến container: openshift
+Cài đặt và cấu hình các máy chủ, thiết bị mạng và tường lửa hệ thống
+Tham gia vào quy trình xây dựng CI/CD pipeline, DevSecOps
+Yêu cầu ứng viên
+Sinh viên năm 3,4 Đại học khoa CNTT, Điện tử viễn thông, khoa học máy tính, ... và các chuyên ngành liên quan khác,
+Tiếng Anh đọc hiểu, nghiên cứu tài liệu chuyên ngành
+Ham học hỏi và tìm hiểu các Công nghệ mới
+Có khả năng làm việc độc lập và làm việc nhóm 
+Yêu cầu kiến thức: 
+
+Biết sử dụng Shell Script và các ngôn ngữ: Python, Powershell là lợi thế;
+Có hiểu biết về hệ CSDL: MSSQL, Oracle hoặc Postgre, .. 
+Có hiểu biết về Windows, Linux (CentOS, Redhat, Ubuntu) và Queue technology như Rabbit MQ, Kafka ;
+Có hiểu biết về Caching và proxy như: Redis, Apache, Nginx;
+Có hiểu biết về Docker, Container, K8s;

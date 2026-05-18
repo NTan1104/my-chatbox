@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Nhân Viên IT Phần Mềm
+
+Mô tả công việc:
+- Phát triển các chức năng nâng cao trong hệ thống (AddOns), thiết kế biểu mẫu, báo cáo theo yêu cầu dự án.- Lập trình các ứng dụng tích hợp SAP Business One với hệ thống khác.- Cài đặt, cấu hình hệ thống.- Thiết kế, xây dựng các tài liệu kỹ thuật liên quan đến dự án.- Làm việc cùng với đội tư vấn triển phân tích và giải quyết các vấn đề trong việc sử dụng phần mềm, phát triển phần mềm theo yêu cầu của mỗi dự án dưới sự kiểm soát của Leader và Project manager.- Kiểm tra và khắc phục sự cố về việc sử dụng phần mềm.- Hỗ trợ người dùng các vấn đề liên quan đến kỹ thuật.
+
+Yêu cầu công việc:
+- Tốt nghiệp đại học, cao đẳng trở lên các chuyên ngành liên quan đến lập trình.- Ứng viên có từ 1 - 2 năm kinh nghiệm, đặc biệt các bạn mới ra trường sẽ được đào tạo kỹ càng.- Sử dụng tốt một trong các ngôn ngữ C, .NET, JSON, XML, ASP....- Làm việc được trên các nền tảng CSDL như SQL, HANA- Có khả năng đọc hiểu tài liệu tiếng anh, chủ động làm việc độc lập, khả năng phối hợp theo nhóm.- Sẵn sàng đi công tác theo dự án.- Am hiểu và có kiến thức Angular 13, Node JS, phát triển hệ thống SAP Business One là một cực phẩm để chúng tôi chọn bạn.
+
+Yêu cầu kinh nghiệm: Không yêu cầu kinh nghiệm

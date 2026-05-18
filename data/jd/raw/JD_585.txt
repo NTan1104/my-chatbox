@@ -1,0 +1,35 @@
+DevOps Engineer
+
+Chi tiết tin tuyển dụng
+Yêu cầu:
+1 năm kinh nghiệm
+Đại Học trở lên
+Xem chi tiết Yêu cầu
+Quyền lợi:
+Nghỉ thứ 7
+Bảo hiểm xã hội
+Bảo hiểm sức khỏe
+Xem chi tiết Quyền lợi
+Chuyên môn:
+DevOps Engineer
+Điện toán đám mây (Cloud)
+IT - Phần mềm
+Mô tả công việc
+Tham gia thiết kế, xây dựng và triển khai hệ thống private cloud
+Tham gia xây dựng, triển khai và vận hành các dự án công nghệ thông tin có liên quan Kubernetes/Docker Container cho Nội bộ và Khách hàng.
+Phát triển và duy trì các script tự động triển khai các dịch vụ cho hệ thống nội bộ (CI-CD)
+Xây dựng và quản trị hệ thống giám sát cho hệ thống máy chủ, hệ thống mạng đảm bảo các dịch vụ được theo dõi, giám sát vận hành thời gian thực, truy vết và ứng cứu nhanh chóng.
+Thực hiện cải thiện tốc độ, sự hiệu quả và khả năng chịu tải của toàn bộ hệ thống.
+Theo dõi sự phát triển của hệ thống, đề xuất và đưa phương án nâng cấp, mở rộng đảm bảo tính tự động hoá, có tính toán rủi ro và khả năng phục hồi nếu gặp sự cố.
+Tham gia xử lý sự cố hệ thống
+Chi tiết về công việc sẽ được trao đổi thêm khi phỏng vấn.
+Yêu cầu ứng viên
+Tốt nghiệp đại học chuyên ngành CNTT, an toàn thông tin, điện tử viễn thông loại khá trở lên
+Có tối thiểu 1 năm kinh nghiệm về DevOps.
+Có kinh nghiệm xây dựng và quản lý quy trình DevOps/DevSecOps, áp dụng tự động hóa trong triển khai và quản lý các ứng dụng.
+Làm việc quản trị về Container/ Microservices/Quản lý Container tự động/ Kubernetes (K8S)/ OpenShift(OCP)
+Quản trị Kinh nghiệm với quản lý cấu hình (Ansible), Infrastructure as Code (Terraform/CloudFormation), mô hình GitOps
+Thiết kế và triển khai chiến lược chuyển đổi cloud, bao gồm tư vấn, thiết kế, và thực hiện các giải pháp cloud tiên tiến, đồng thời đảm bảo tích hợp các nguyên lý DevOps/DevSecOps, quản lý độ tin cậy (SRE) và tự động hóa để nâng cao hiệu quả và bảo mật cho các ứng dụng.
+Đảm bảo cam kết chất lượng, tuân thủ quy định và chính sách của công ty.
+Đảm bảo tính sẵn sàng và phục hồi của hệ thống theo SLAs.
+Tìm hiểu và nghiên cứu các công nghệ, xu hướng mới và lên lộ trình phổ biến/ứng dụng vào các dự án

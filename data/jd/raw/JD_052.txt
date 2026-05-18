@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Android Developer
+
+Mô tả công việc:
+Thiết kế ứng dụng di động trên nền tảng Android.. Kết hợp với iOS, Web-Server Team, QC team để thảo luận và thiết kế các tính năng cho ứng dụng.. Thiết kế, đánh giá mã nguồn, fix bug và cải thiện hiệu suất của một số dự án Out-source.. Chia sẻ và học hỏi kiến thức với nhiều thành viên trong nhóm cơ sở thông qua các cuộc đàm phán kỹ thuật, hướng dẫn kỹ thuật.. Nghiên cứu và triển khai các nền tảng kĩ thuật, công nghệ mới.. Chịu trách nhiệm cùng với team.
+
+Yêu cầu công việc:
+Có ít nhất 1 năm kinh nghiệm trong lĩnh vực Android development.. Có kiến thức vững chắc về cấu trúc dữ liệu và thuật toán.. Hiểu biết về các công nghệ mới và có kỹ năng tốt với Java, Kotlin, Android SDK, Android Studio.. Có kinh nghiệm về Android APIs và Frameworks.. Có kinh nghiệm trong việc sử dụng SQL, cơ sở dữ liệu SQLite công nghệ về Map-Bản đồ.. Có kinh nghiệm về UI programming và Social Network Open API platform (như là Facebook, Google).. Kiến thức về OOP, Design patterns.. Có kiến thức sử dụng SVN, GIT.. Có khả năng về đọc và viết tài liệu tiếng Anh.. Ưu tiên các ứng viên có kinh nghiệm về lập trình với socket trên Android, các ứng viên có kinh nghiệm hoặc có đam mê làm trong lĩnh vực mới IoT (Internet Of Things), các ứng viên có kinh nghiệm làm việc với Android OS.
+
+Yêu cầu kinh nghiệm: 1-3 năm

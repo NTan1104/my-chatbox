@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Python Odoo (Từ 1 Năm Kn, Tiếng Anh Giao Tiếp Tốt - Cty Công Nghệ > 1.200 Nhân Sự )
+
+Mô tả công việc:
+- Lập trình viên Python Web trên nền Framework Odoo cho dự án product về phần mềm quản lý nhân sự ERP- Tham gia vào quá trình phát triển, bảo trì, triển khai phần mềm quản trị doanh nghiệp - Đọc hiểu các tài liệu mô tả yêu cầu người dùng- Phối hợp với thành viên nhóm dự án, BA, Test, người dùng để triển khai dự án.- Lên kế hoạch công nghệ và phát triển dựa trên phân công của leader- Được training on job nếu chưa có nhiều kinh nghiệm
+
+Yêu cầu công việc:
+- Từ 1 năm kinh nghiệm triển khai các dự án thực tế trên Odoo - Có kiến thức tốt về HTML, CSS (Bootstrap) và Javascript (jQuery)- Có khả năng phát triển/customize hoàn chỉnh cho 1 module theo yêu cầu nghiệp vụ- Hiểu biết về triển khai, vận hành các hệ thống ERP- Có khả năng hiểu business logic, tìm tòi hướng giải quyết các vấn đề mới- Có kinh nghiệm customize module/report; xử lý đọc/ghi file Excel- Tư duy tốt, chủ động trong công việc- Tiếng Anh giao tiếp tốt
+
+Yêu cầu kinh nghiệm: 1-3 năm

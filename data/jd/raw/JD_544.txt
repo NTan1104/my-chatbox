@@ -1,0 +1,57 @@
+Trưởng Phòng AI Engineer
+
+Chi tiết tin tuyển dụng
+Yêu cầu:
+3 năm kinh nghiệm
+Đại Học trở lên
+Tiếng Anh Đọc hiểu
+Xem chi tiết Yêu cầu
+Quyền lợi:
+Bảo hiểm xã hội
+Bảo hiểm sức khỏe
+Team building
+Xem chi tiết Quyền lợi
+Chuyên môn:
+AI Engineer
+IT - Phần mềm
+Mô tả công việc
+1. Phát triển hệ thống AI Production-ready:
+
+Thiết kế, xây dựng và vận hành các hệ thống AI (LLM-based) có thể chạy thực tế với độ ổn định cao, tối ưu chi phí và hiệu năng.
+2. Xây dựng & tối ưu RAG Pipeline:
+
+Thiết kế pipeline xử lý dữ liệu.
+Liên tục cải thiện độ chính xác, giảm hallucination và tối ưu chi phí token.
+3. Thiết kế Agent Workflow:
+
+Xây dựng các AI Agent có khả năng thực hiện multi-step reasoning, tool calling, và workflow phức tạp.
+Phối hợp nhiều agent để giải quyết các bài toán thực tế (automation, decision-making, user interaction).
+4. Tối ưu hệ thống AI:
+
+Giảm latency, tối ưu token usage, caching, streaming response.
+Thiết kế chiến lược fallback, retry, monitoring để đảm bảo hệ thống ổn định.
+5. Tư duy hệ thống & tích hợp:\
+
+Phân tích bài toán sản phẩm để thiết kế kiến trúc AI phù hợp (microservices, async processing, event-driven).
+Tích hợp AI vào hệ thống backend hiện có thông qua API (REST/gRPC).
+6. Phân tích & giải quyết bài toán thực tế:
+
+Làm việc trực tiếp với Product/Business để hiểu “nỗi đau” người dùng.
+Không chỉ implement, mà cần phản biện và đề xuất giải pháp AI tối ưu hơn.
+7. Làm chủ vòng đời AI feature:
+
+Từ nghiên cứu → prototype → production → monitoring → iterate.
+Chịu trách nhiệm end-to-end cho chất lượng output của AI.
+Yêu cầu ứng viên
+- Có từ 3 năm kinh nghiệm trong lĩnh vực Software Engineering / Backend Engineering / AI Engineering.
+
+- Thành thạo Python.
+
+- Có kinh nghiệm thực tế phát triển hoặc triển khai các ứng dụng AI/LLM trong môi trường doanh nghiệp hoặc sản phẩm thực tế.
+
+- Có kinh nghiệm với một trong các mảng: RAG, Embedding / Vector Search, AI Chatbot / AI Workflow
+
+- Có kinh nghiệm làm việc với API, database và tích hợp hệ thống backend.
+- Có tư duy system design tốt, hiểu cách đưa một tính năng AI từ giai đoạn thử nghiệm vào vận hành thực tế.
+- Có khả năng phân tích bài toán nghiệp vụ và đề xuất giải pháp công nghệ phù hợp.
+- Khả năng trao đổi, trình bày giải pháp rõ ràng với cả team kỹ thuật và non-tech.

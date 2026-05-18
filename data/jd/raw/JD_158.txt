@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Frontend Developer (JavaScript, Html, Css, Vuejs) (15-25M)
+
+Mô tả công việc:
+- Tham gia vào các dự án phát triển, vận hành và bảo trì các sản phẩm phần mềm, hệ thống của Công ty, là các hệ thống backend hoặc Web - Sản phẩm edubit/ acabiz- Hướng dẫn khách hàng sử dụng sản phẩm- Lập báo cáo và đề xuất giải pháp tối ưu, nâng cao chất lượng sản phẩm
+
+Yêu cầu công việc:
+- Ưu tiên tốt nghiệp đại học ngành CNTT, Điện tử viễn thông, ...- Có kiến thức, kỹ năng nền tảng tốt về lập trình hướng đối tượng và SQL.- Thành thạo kỹ năng code javascript, html, css, ưu tiên vuejs- Có kinh nghiệm lập trình Web sử dụng ngôn ngữ lập trình PHP hoặc Notejs
+
+Yêu cầu kinh nghiệm: 1-3 năm

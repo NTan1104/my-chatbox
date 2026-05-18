@@ -1,0 +1,57 @@
+Kỹ Sư Cloud/AI
+
+Chi tiết tin tuyển dụng
+Yêu cầu:
+5 năm kinh nghiệm
+Đại Học trở lên
+Xem chi tiết Yêu cầu
+Quyền lợi:
+Nghỉ thứ 7
+Xem chi tiết Quyền lợi
+Chuyên môn:
+Cloud Engineer
+Mô tả công việc
+- Làm việc với khách hàng để thu thập yêu cầu, phân tích, phát hiện cơ hội đầu tư, mua sắm và đề xuất các giải pháp về Cloud/ AI;
+
+- Nắm bắt thông tin về hoạt động kỹ thuật của các hãng, đối thủ cạnh tranh;
+
+- Tổ chức, quản lý và thực hiện các dự án presale của khách hàng phụ trách;
+
+- Xây dựng tài liệu, lên danh mục thiết bị (BoM) và viết giải pháp kỹ thuật đáp ứng yêu cầu cụ thể của từng dự án. Tham gia trực tiếp công tác đấu thầu;
+
+- Thực hiện PoC (Proof of Concept), demo giải pháp cho khách hàng. Tham gia giai đoạn triển khai khi cần;
+
+- Trình bày giới thiệu giải pháp, phương án thiết kế;
+
+- Nghiên cứu, cập nhật các công nghệ, giải pháp mới và xu hướng thị trường; làm việc với các hãng công nghệ lớn để nắm bắt sản phẩm và giải pháp mới nhất để phục vụ tư vấn, triển khai và đấu thầu;
+
+- Xây dựng kiến trúc tổng thể, định hướng công nghệ, blueprint giải pháp/vendor phù hợp cho từng khối khách hàng;
+
+- Đảm bảo giải pháp đề xuất phù hợp với quy mô, mô hình vận hành, ngân sách và định hướng phát triển dài hạn của khách hàng;
+
+Yêu cầu ứng viên
+- Tốt nghiệp đại học chuyên ngành Công nghệ Thông tin, Điện tử Viễn thông, hoặc các ngành liên quan;
+
+- Có ít nhất 5 năm kinh nghiệm trong lĩnh vực tư vấn giải pháp hoặc >5 năm triển khai các giải pháp mảng Cloud/AI;
+
+- Có tư duy kiến trúc tổng thể (End-to-End Architecture): từ hạ tầng, cloud platform, dữ liệu, AI workloads đến bảo mật và vận hành;
+
+- Có khả năng phân tích hiện trạng, nhận diện điểm nghẽn, rủi ro và cơ hội chuyển đổi Cloud/AI;
+
+- Kỹ năng viết tài liệu giải pháp kỹ thuật, kỹ năng giao tiếp và trình bày thuyết phục;
+
+- Khả năng nghiên cứu, học hỏi và nắm bắt nhanh các công nghệ mới;
+
+- Có am hiểu về một hoặc nhiều nền tảng public cloud, private cloud;
+
+- Có am hiểu về các kiến trúc AI/ML, Model training vs inference, MLOps,...;
+
+- Ưu tiên có kinh nghiệm thiết kế, tư vấn, xây dựng hồ sơ thầu, triển khai cho các nền tảng kiến trúc Cloud, Hybrid Cloud, Multi-Cloud, AI-Ready Infrastructure;
+
+- Ưu tiên có chứng chỉ quốc tế AWS Solutions Architect, Azure Solutions Architect, Google Professional Cloud Architect, chứng chỉ của các hãng (NVIDIA, VMWare...);
+
+- Có tinh thần trách nhiệm và khả năng làm việc trong môi trường nhóm;
+
+- Có khả năng dẫn dắt, chủ động xử lý, đưa ra phương án khi thực thi công việc;
+
+- Tiếng Anh thành thạo (nói và viết) là một lợi thế

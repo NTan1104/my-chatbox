@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên .Net (Đi Làm Trước/Sau Tết)
+
+Mô tả công việc:
+- Tham gia phát triển các sản phẩm phục vụ cho đối tác về các mảng báo chí, truyền thông, truyền hình;- Phối hợp cùng đội ngũ BA phân tích, thiết kế, đưa ra giải pháp để phát triển phần mềm đáp ứng đúng, đủ, tiện các yêu cầu của người dùng cuối;- Cập nhật công nghệ mới, tinh chỉnh, tối ưu các phần mềm hiện có; - Tham mưu cho cấp trên trực tiếp những vấn đề thuộc lĩnh vực chuyên môn.
+
+Yêu cầu công việc:
+- Tốt nghiệp ĐH/ CĐ chuyên ngành CNTT hoặc các chuyên ngành liên quan;- Thành thạo các kiến thức về .NET Framework hoặc .NET Core (C, ASP.NET, MVC, ...). Có kinh nghiệm xây dựng các hệ thống sử dụng .NET là lợi thế;- Ưu tiên ứng viện có kinh nghiệm làm việc với Web API;- Có kinh nghiệm với 1 trong các cơ sở dữ liệu SQL Server, MySQL, PostgreSQL. Đã từng làm sản phẩm sử dụng NoSQL: MongoDB, CouchBase, Redis, RabbitMQ, … là lợi thế;- Có kiến thức về OOP, Design Pattern, nguyên lý SOLID, SOA/Micro Service;- Ưu tiên có kinh nghiệm với HTML5, CSS, JavaScript, Boostrap, Webservices; Angular/ReactJS;- Ưu tiên ứng viên thích làm product, tư duy làm sản phẩm cao, sản phẩm hướng người dùng cuối;- Giao tiếp tốt, chủ động, khả năng làm việc nhóm tốt.
+
+Yêu cầu kinh nghiệm: 1-3 năm

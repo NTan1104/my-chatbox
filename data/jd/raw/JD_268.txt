@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Chuyên Viên Kiểm Thử Công Nghệ (Automation Test) - Mảng Banking
+
+Mô tả công việc:
+Tham gia đóng góp xây dựng quy trình phát triển phần mềm.Xây dựng script automation phục vụ regression functional test và performance testLập kế hoạch kiểm thử, thiết kế các trường hợp kiểm thử và thực hiện kiểm tra, ghi nhận lỗi.Kiểm soát và đánh giá chất lượng ứng dụng dựa trên bảng phân tích lỗi.Nghiên cứu, tìm hiểu và vận hành các công cụ kiểm thử hiệu năng và kiểm thử an toàn.Viết tài liệu hướng dẫn sử dụng, hỗ trợ, tham gia hướng dẫn, đào tạo người dùng.Hỗ trợ, phối hợp với các phòng, ban thực hiện, xử lý các vấn đề liên quan đến dịch vụ CNTT và các công việc khác theo chỉ đạo của cấp trênThực hiện các công việc khác theo sự phân công của cấp trên.
+
+Yêu cầu công việc:
+- Kinh nghiệm công tác:Tối thiểu 02 năm kinh nghiệm chuyên môn trở lên.- Có kinh nghiệm automation cho Web, Mobile, API - Có kinh nghiệm sử dụng các công cụ selenium webdriver, jmeter, postman, newman, SoapUI hoặc katalon, appium, jenkin…- Có thể sử dụng ngôn ngữ, script như javascript, python, groovy, robotframework.Bằng cấp: tốt nghiệp Đại học trở lên chuyên ngành CNTT, Hệ thống thông tin quản lý, ...
+
+Yêu cầu kinh nghiệm: 1-3 năm

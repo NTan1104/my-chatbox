@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Java Developer
+
+Mô tả công việc:
+•Tiếp nhận yêu cầu bài toán từ khách hàng, viết tài liệu phân tích yêu cầu, đặc tả yêu cầu, thiết kế chi tiết, thiết kế CSDL. •Lập trình các chức năng được giao theo tài liệu giải pháp chi tiết.. •Thực hiện các nhiệm vụ sửa lỗi được phát hiện trong quá trình phát triển và triển khai.. •Viết và thực hiện unit test.. •Thực hiện upcode các yêu cầu nâng cấp của dự án.. •Đào tạo các dev level thấp hơn. •Thiết kế được các module thành phần, các chức năng chi tiết theo kiến trúc đã có sẵn.. •Tích hợp mã nguồn (merge code), tích hợp hệ thống.. •Viết tài liệu Hướng dẫn cài đặt, vận hành, khai thác.
+
+Yêu cầu công việc:
+•Tốt nghiệp Đại học bằng khá trở lên chuyên ngành CNTT, ĐTVT, Toán tin Ứng dụng. •Ít nhất 1 năm kinh nghiệm phát triển ứng dụng phần mềm bằng ngôn ngữ Java. •Có kiến thức tốt về lập trình và thiết kế hướng đối tượng (OOP), Design Patterns. •Có nền tảng cấu trúc dữ liệu và giải thuật tốt. •Có kiến thức tốt về quy trình phát triển phần mềm. •Thành thạo một trong các công nghệ: Webservices (SOAP/RESTful), Websocket, Hibernate, JPA, HTML5/CSS3, Spring MVC, Struts. •Thành thạo một trong các hệ quản trị CSDL quan hệ: Oralce, MySQL, SQL Server. •Tiếng Anh tương đương TOEIC 550 trở lên•Năng động, sáng tạo, có khả năng tự nghiên cứu. •Ưu tiên ứng viên có chứng chỉ quốc tế của Oracle về phát triển ứng dụng Java: Java SE, Java EE
+
+Yêu cầu kinh nghiệm: Dưới 1 năm

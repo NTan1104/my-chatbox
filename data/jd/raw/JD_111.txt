@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Kỹ Sư Phát Triển Frontend (Angular, JavaScript )
+
+Mô tả công việc:
+Xây dựng frontend của hệ thống Hợp đồng điện tử, Hoá đơn điện tử, Cloud CA và các dịch vụ liên quan khácTiếp nhận yêu cầu bài toán từ khách hàng, viết tài liệu phân tích yêu cầu, đặc tả yêu cầu, thiết kế chi tiết, thiết kế CSDLLập trình các chức năng được giao theo tài liệu giải pháp chi tiết.Thực hiện các nhiệm vụ sửa lỗi được phát hiện trong quá trình phát triển và triển khai.Viết và thực hiện unit test.Thực hiện upcode các yêu cầu nâng cấp của dự án.Thiết kế được các module thành phần, các chức năng chi tiết theo kiến trúc đã có sẵn.Tích hợp mã nguồn (merge code), tích hợp hệ thống.Viết tài liệu Hướng dẫn cài đặt, vận hành, khai thác.Cài đặt, triển khai hệ thốngTối ưu hệ thống.
+
+Yêu cầu công việc:
+Tốt nghiệp Đại học, loại khá ngành CNTT Toeic 550 trở lên hoặc tương đươngHơn 3 năm kinh nghiệm xây dựng các sản phẩm dựa trên web với các khung công tác Front-End hiện đại và tiên tiến, chẳng hạn như Bootstrap, AngularThành thạo HTML5, CSS3, JavaScript, TypeScriptTrải nghiệm với các công cụ xây dựng Front-End: Webpack, Yarn, GulpKiến thức sâu rộng về DOM, Ajax, JSON, Dịch vụ web, API Web, API Restful, xác thực dựa trên mã thông báo.Quen thuộc với các công cụ phát triển và gỡ lỗi cho các vấn đề đa nền tảng, trình duyệt chéoCó kinh nghiệm Web socket/ socket.io/ JavaScript không đồng bộHiểu biết và thành thạo các công cụ Devop như Jenkins, Git,... là một lợi thế.
+
+Yêu cầu kinh nghiệm: 1-3 năm

@@ -1,0 +1,48 @@
+DevOps Expert
+
+Chi tiết tin tuyển dụng
+Yêu cầu:
+5 năm kinh nghiệm
+Đại Học trở lên
+Xem chi tiết Yêu cầu
+Quyền lợi:
+Nghỉ thứ 7
+Xem chi tiết Quyền lợi
+Chuyên môn:
+DevOps Engineer
+IT - Phần mềm
+IT - Phần cứng và máy tính
+Ngân hàng
+Mô tả công việc
+1. Quản lý, vận hành, thiết kế và nâng cấp các nền tảng Container như OpenShift / EKS / Kubernetes / Docker.
+
+2. Quản lý, vận hành và thiết kế các hệ thống liên quan đến CI/CD pipeline như GitLab / Jenkins / ArgoCD / Vault / Helm.
+
+3. Hỗ trợ tiếp nhận và triển khai hệ thống lên các nền tảng Container ở các môi trường Dev / SIT / UAT / PROD.
+
+4. Thiết kế và quản lý mô hình kết nối cho các ứng dụng chạy trên nền tảng Container.
+
+5. Phối hợp với đội AppOps nhằm tối đa hóa việc áp dụng quy trình CI/CD cho các hệ thống truyền thống (VM), bao gồm Deploy / Rollback.
+
+6. Quản lý, vận hành và thiết kế các công cụ giám sát như Prometheus / Grafana / Thanos / APM / ELK / Splunk.
+
+7. Phối hợp và hỗ trợ đội AppOps trong việc xử lý các sự cố hệ thống liên quan.
+
+8. Phối hợp với ITS và Dev Team để cập nhật bản vá cho Image.
+
+9. Quản lý và vận hành các hệ thống trên AWS.
+
+10. Đề xuất cải tiến và tự động hóa các quy trình trong công việc.
+
+Yêu cầu ứng viên
+1. Yêu cầu chuyên môn:
+- Ít nhất 05 năm kinh nghiệm ở vị trí DevOps Engineer.
+- Hiểu biết vững về quy trình triển khai CI/CD.
+- Có kinh nghiệm làm việc trong lĩnh vực ngân hàng, tài chính là một lợi thế.
+2. Kỹ năng:
+- Kiến thức về Kubernetes / CI/CD / AWS (cơ bản) / Linux.
+- Có khả năng làm việc độc lập, cẩn thận và trách nhiệm cao.
+- Có kiến thức về MongoDB là một lợi thế.
+- Có kiến thức về bảo mật trong quá trình phát triển và triển khai ứng dụng là một lợi thế.
+- Có kiến thức triển khai dịch vụ trên hệ thống Kubernetes đa cụm (Multi-Cluster – DC/DR) là một lợi thế.
+- Có kiến thức về quy trình build Mobile App (Android / iOS) là một lợi thế.

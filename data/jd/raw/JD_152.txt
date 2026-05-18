@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên Flutter
+
+Mô tả công việc:
+Tham gia xây dựng, phát triển các dự án về Flutter Mobile App và tích hợp các công cụ hỗ trợ dự án (Facebook SDK, Firebase SDK, Google MAP SDK, Chart SDK...)Nghiên cứu tài liệu, giải pháp và tích hợp mô hình triển khai hệ thống (design pattern). Tạo thiết kế chi tiết và viết các tài liệu kỹ thuật chi tiết khi được yêu cầu.Nhận các yêu cầu công việc từ trưởng nhóm, quản lý trực tiếp.Báo cáo kế hoạch, kết quả công việc đã thực hiện cho trưởng nhóm, quản lý trực tiếp.
+
+Yêu cầu công việc:
+• Học vấn: Sinh viên năm cuối Đại học/Cao Đẳng ngành Công nghệ thông tin, Lập trình ứng dụng hoặc các chuyên ngành liên quan khác.• Kinh nghiệm: Không yêu cầu kinh nghiệm (được đào tạo bài bản)• Kiến thức:✓ Có kiến thức cơ bản về lập trình iOS/Android/Flutter (Dart).✓ Nắm vững lập trình hướng đối tượng OOP.✓ Có khả năng đọc hiểu tài liệu kỹ thuật bằng tiếng anh cơ bản.✓ Biết sử dụng cơ bản các công cụ quản lý Source code: Git, Mercurial,SVN.✓ Đã làm việc với Restful API, biết sử dụng postman để kiểm thử API.• Thái độ/tố chất cần có:✓ Có trách nhiệm cao trong công việc✓ Có khả năng giao tiếp tốt cùng team, đồng nghiệp✓ Có tinh thần cầu tiến✓ Có khả năng làm việc độc lập hoặc theo nhóm
+
+Yêu cầu kinh nghiệm: Dưới 1 năm

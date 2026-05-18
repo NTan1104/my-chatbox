@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Python Developer (Fresher) - HCM
+
+Mô tả công việc:
+Tham gia phát triển các dự án về E-commerce, Logistics, CMS.Tham gia trao đổi, đóng góp ý kiến xây dựng hệ thống CSDL.Tham gia phát triển phần mềm theo kiến trúc microservice.Thực hiện các công việc khác theo yêu cầu của Trưởng bộ phận.
+
+Yêu cầu công việc:
+Tốt nghiệp Đại Học hoặc Cao Đẳng trở lên các chuyên ngành công nghệ thông tin.Thành thạo ngôn ngữ lập trình Python/Golang là một lợi thế.Có kinh nghiệm làm việc với các hệ cơ sở dữ liệu : MySQL, MongoDB.Có kinh nghiệm làm việc với RESTful API.Có hiểu biết về các kiến trúc phát triển phần mềm : Microservices, Monolithic.Thành thạo công cụ quản lý mã nguồn Git. Viết tài liệu cho API.Có kinh nghiệm làm việc với Kibana, Elasticsearch, Kafka, và các công cụ CI/CD.Có khả năng tư duy, làm việc nhóm. Có khả năng giao tiếp tốt.Có khả năng đọc hiểu các tài liệu tiếng Anh.Thích tìm hiểu, nghiên cứu các công nghệ lập trình mới.
+
+Yêu cầu kinh nghiệm: Dưới 1 năm

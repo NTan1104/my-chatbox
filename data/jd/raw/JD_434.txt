@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Middle Python Developer (Remote + Hybrid)
+
+Mô tả công việc:
+Phỏng vấn Online.Ứng viên được tự quyết định thời gian làm việc 8h hằng ngày của mình trong khung giờ từ 7h-21h (đảm bảo đủ số giờ làm việc, đảm bảo thời gian họp với các team member, đảm bảo việc đối ứng với khách hàng và các thành viên khác trong team kịp thời. Không chấp nhận làm 2 công ty song song cùng 1 lúc).Lên công ty vào thứ 5 hằng tuần. Trong tương lai tần suất lên công ty có thể tăng lên theo chỉ thị của ban giám đốc. (cần chuẩn bị tâm lý trước)Tham gia 1 trong các dự án sau:Phát triển WEB Application (Trao đổi giải thưởng, Hỗ trợ kinh doanh, Online Shopping,...)Phát triển App Điện thoại (EV Car Sharing, Quản lý giao hàng, nhận tiền khi giao hàng,...)Phát triển Robotic Process Automation: Tự động hóa các nghiệp vụ back office, ...
+
+Yêu cầu công việc:
+Nắm vững kinh nghiệm về ngôn ngữ PythonKhoảng 3 năm kinh nghiệm chuyên sâu với PythonCó tinh thần cộng tác và xây dựng tập thểCó tinh thần tự giác và ý thức làm việc trong quá trình làm việc Flextime và RemoteƯu tiên: Có hiểu biết về AWS và Database: Postgresql
+
+Yêu cầu kinh nghiệm: 3-5 năm

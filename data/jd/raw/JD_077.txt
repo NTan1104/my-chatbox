@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Android Developer
+
+Mô tả công việc:
+Hợp tác chặt chẽ với những bộ phận liên quan để phát triển ứng dụng Payoo trên nền tảng Android và hỗ trợ đối tác tích hợp SDK vào các dự án của họ nhằm thúc đẩy các tính năng cần thiết để phát triển sản phẩm.Phát triển thêm các ý tưởng mới cho ứng dụng Payoo.Tái kiến trúc lại ứng dụng Payoo trên nền tảng Android khi cần.Duy trì, cải thiện hiệu suất và sửa lỗi ứng dụng.Tham gia vào các cuộc thảo luận về thết kế ứng dụng, phát triển code/unit/intergration/UI và tài liệu thực hiện.Các dự án khác sẽ được thảo luận với Quản lý trực tiếp hoặc Ban Giám đốc.
+
+Yêu cầu công việc:
+Ít nhất 3 năm phát triển ứng dụng trên nền tảng Android.Thành thạo Java/ Kotlin.Có kinh nghiệm với các mẫu kiến trúc ứng dụng như MVC/MVP/MVVM.Có kinh nghiệm về kết nối API, Google Maps, GCM/FCM.Có kinh nghiệm về thiết kế UX/ UI application.Có kiến thức thiết kế OOP.Có kiến thức về các mẫu thiết kế là một lợi thế.Có khả năng làm việc độc lập và theo nhóm.
+
+Yêu cầu kinh nghiệm: 3-5 năm

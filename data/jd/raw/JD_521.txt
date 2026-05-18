@@ -1,0 +1,32 @@
+AI Engineer
+
+Chi tiết tin tuyển dụng
+Yêu cầu:
+2 năm kinh nghiệm
+Đại Học trở lên
+Xem chi tiết Yêu cầu
+Quyền lợi:
+Nghỉ thứ 7
+Xem chi tiết Quyền lợi
+Chuyên môn:
+AI Engineer
+IT - Phần mềm
+Mô tả công việc
+Nghiên cứu, thiết kế và triển khai các mô hình học máy và học sâu (Machine Learning/Deep Learning) phục vụ các sản phẩm phần mềm.
+Phân tích dữ liệu, xây dựng pipeline xử lý dữ liệu huấn luyện và đánh giá mô hình.
+Tối ưu hóa mô hình để đảm bảo hiệu suất và độ chính xác trong môi trường thực tế.
+Triển khai các mô hình AI vào hệ thống thực tế bằng các nền tảng như TensorFlow, PyTorch, ONNX, hoặc thông qua API.
+Phối hợp với các nhóm kỹ thuật (DevOps, Backend, Frontend) để tích hợp giải pháp AI vào sản phẩm.
+Theo dõi và cập nhật các xu hướng công nghệ AI mới nhất để cải tiến giải pháp.
+Tham gia phát triển các dự án tại nội bộ công ty.
+Thực hiện các công việc khác theo yêu cầu của lãnh đạo.
+Yêu cầu ứng viên
+Tốt nghiệp đại học các chuyên ngành về CNTT, dữ liệu, AI…
+Từ 2 - 5 năm kinh nghiệm trong lĩnh vực AI/ML, xử lý dữ liệu và triển khai mô hình vào sản phẩm thực tế.
+Ưu tiên ứng viên có kinh nghiệm thực tế trong việc huấn luyện và tối ưu hóa ML, DL và LLM trong các dự án quy mô lớn.
+Thành thạo Python và các thư viện AI/ML như TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy.
+Kinh nghiệm trong các bài toán như: phân loại, phát hiện đối tượng, NLP, nhận diện hình ảnh, xử lý video, v.v.
+Hiểu biết về MLOps, Docker, RESTful APIs, và triển khai mô hình AI ở môi trường production là lợi thế.
+Hiểu biết sâu sắc về cấu trúc dữ liệu và thuật toán.
+Kỹ năng giải quyết vấn đề và kỹ năng giao tiếp tốt.
+Chăm chỉ nhiệt tình và có trách nhiệm trong công việc.

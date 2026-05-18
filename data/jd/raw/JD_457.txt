@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Database Developer Administrator (Fresher)
+
+Mô tả công việc:
+1/ Tư vấn, thiết kế và triển khai giải pháp: Tham gia tư vấn/ triển khai các dự án nâng cấp, chuyển đổi công nghệ (SQL, Oracle, NoSQL,...). Hỗ trợ bộ phận Phát triển phần mềm các vấn đề liên quan đến Cơ sở dữ liệu trong việc xây dựng ứng dụng như nền tảng công nghệ (Data models, Data visualization, Dashboard & Ad hoc Reporting), thiết lập môi trường phát triển, môi trường kiểm thử. Tài liệu hóa thiết kế, quy trình, hướng dẫn tiêu chuẩn. Phát triển tài liệu kịch bản xử lý khắc phục sự cố cơ sở dữ liệu, chiến lược sao lưu & phục hồi dữ liệu, dự phòng thảm họa (Business Continuity Plan/ Disaster Recovery Plan). Xây dựng các giải pháp High Availability hệ thống Cơ sở dữ liệu như: Replication, Clustering, Always-On, RAC, GoldenGate, DataGuard, Sharding,... 2/ Hỗ trợ vận hành: Thiết kế, tuning Store Procedure, Functions, View, Trigger, Package... Lập bản đồ và giám sát hiệu suất cơ sở dữ liệu; nghiên cứu ứng dụng Big Data phân tích phát hiện sớm lỗi. Bảo trì chuẩn đoán hệ thống, đánh giá nâng cấp hệ thống Cơ sở dữ liệu. Phân tích, xử lý khắc phục các sự cố liên quan đến hệ thống CSDL. Sao lưu/ Phục hồi, dự phòng. Thực hiện các báo cáo hệ thống theo yêu cầu. 3/ Đảm bảo hoạt động và phục hồi hệ thống theo SLAs, BCP/DRP.
+
+Yêu cầu công việc:
+Tốt nghiệp Đại học/Cao đẳng chính quy chuyên ngành Hệ thống thông tin, Khoa học máy tính, Công nghệ thông tin. Trung thực, cẩn thận, cầu tiến. Yêu thích công việc DBA. Có kỹ năng lập trình T-SQL, PL/SQL. Có kiến thức chuyên môn về Performance và Tuning, Data models, Data Structure, các hệ quản trị CSDL (SQL, Oracle, MySQL, PostGres, MongoDB...). Khả năng đọc hiểu tài liệu tiếng anh tốt, giao tiếp cơ bản.
+
+Yêu cầu kinh nghiệm: Dưới 1 năm

@@ -1,0 +1,32 @@
+DevOps Engineer
+
+Chi tiết tin tuyển dụng
+Yêu cầu:
+2 năm kinh nghiệm
+Đại Học trở lên
+Tuổi 25 - 35
+Nam
+Tiếng Anh Đọc hiểu
+Xem chi tiết Yêu cầu
+Chuyên môn:
+DevOps Engineer
+An ninh mạng
+IT - Phần cứng và máy tính
+Mô tả công việc
+Triển khai, vận hành, quản trị và tối ưu các hệ thống/dịch vụ trên nền tảng Kubernetes,Openshift;
+Thiết lập, chuẩn hóa môi trường phát triển, môi trường kiểm thử từ Dev/Staging đến Production;
+Thiết kế, triển khai hệ thống giám sát, phân tích và cảnh báo hệ thống ở các mức độ infrastructure & services;
+Tài liệu hóa các quy trình triển khai/vận hành/bảo trì hệ thống;
+Đảm bảo tính sẵn sàng và phục hồi của hệ thống theo SLAs.
+Yêu cầu ứng viên
+Từ 2 năm kinh nghiệm trong việc vận hành và quản trị các hệ thống trên Linux (Centos, Debian, Ubuntu…)
+Tốt nghiệp đại học chuyên ngành Điện tử viễn thông, Công nghệ thông tin, An toàn thông tin hoặc các ngành tương đương
+Có kinh nghiêm với công nghệ container (docker, containerd…), container orchestration (Docker Swarm, K8S…)
+Có kinh nghiệm triển khai và vận hành hệ thống ứng dụng trên nền tảng IBM Cloud Pak (CP4D)
+Có kinh nghiệm với một trong các công cụ tự động hóa /quản lý cấu hình như Ansible, Terraform…
+Có kinh nghiệm với các tools CI/CD (Git, Gitlab CI, Jenkin…) – Có kinh nghiệm làm việc với các công cụ giám sát hệ thống như Zabbix, Prometheus, ELK
+Có hiểu biết về kiến trúc microservice và các kỹ thuật Load Balancing/Caching/Queue/Loging…
+Có chứng chỉ Quốc tế liên quan như: LPI, CKA, Redhat Openshift…là một lợi thế.
+Kỹ năng đọc hiểu tài liệu tiếng Anh tốt
+Kỹ năng nghiên cứu, làm việc độc lập dưới cường độ công việc cao
+Làm việc nhóm, năng động, trách nhiệm, trung thực

@@ -1,0 +1,67 @@
+Phạm Văn Lạ
+
+Ngày sinh: 10/03/1990
+
+Giới tính: Nam
+Điện thoại: 0906962740
+
+Email: phamvanla21009@gmail.com
+Địa chỉ: 105 Lô P C/c Ngô Gia Tự, P.02, Q.10, Hồ Chí Minh
+
+Website: https://www.linkedin.com/in/pham-van-la/
+
+MỤC TIÊU NGHỀ NGHIỆP
+
+Với sự đam mê lập trình, nguyện vọng của tôi là được làm việc ở vị trí lập trình viên Web PHP trong
+môi trường năng động, chuyên nghiệp, cởi mở và chú trọng phát triển con người. Được thử sức của
+mình trong công viêc với những kỹ năng đã tích lũy được.
+
+HỌC VẤN
+
+2008 - 2013 Cao đẳng Huflit
+Chuyên ngành: Phân tích thiết kế hệ thống thông tin
+
+Tốt nghiệp loại khá.
+
+KINH NGHIỆM LÀM VIỆC
+
+09/2017 - Hiện tại SOAR
+Full Stack Developer
+Xây dựng SOAR.VN (frontend, backend).
+
+Xây dựng APIs APP "SOAR for sales professionals",
+Quảng lý Server.
+
+Xây dựng và duy trì các hệ thống CRM cho SOAR.
+
+08/2015 - 09/2017 WE Technology Pte Ltd
+Senior Developer
+
+Xây dựng các API cho APP SingaporeBikes.com, API cho MV
+Agusta Singapore.
+
+Xây dựng trang web Singaporebikes.com (frontend),
+Boatnoodles.sg, Mah.com.sg vv
+
+05/2015 - 07/2015 TypeScript Media Advertising Company Limited
+Senior Developer
+
+Tôi xây dựng 10 dự án trang web với mã nguồn mở.
+
+04/2013 - 03/2015 Mai Han Group
+Developer
+
+Xây dựng hệ thống bán hàng
+Xây dựng công cụ quản lý từ khóa
+
+Thiết lập hệ thống bán hàng
+Quản lý DNS và máy chủ.
+
+CÁC KỸ NĂNG
+
+Tin học văn phòng - Sử dụng thành thạo các công cụ Word, Excel, Power Point
+
+Tiếng Anh - Khả năng đọc hiểu tài liệu tiếng Anh.
+
+Công việc - Kỹ năng lập trình PHP và sử dụng UNIX,.Net framework, HTML, CSS,
+JavaScript, MySQL, MSSQL, Sass, Codeigniter framework.

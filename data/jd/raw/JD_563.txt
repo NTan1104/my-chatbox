@@ -1,0 +1,31 @@
+Lập Trình Viên Backend (.Net/ Java/ NodeJS/Python)
+
+Chi tiết tin tuyển dụng
+Yêu cầu:
+3 năm kinh nghiệm
+Trung cấp trở lên
+Xem chi tiết Yêu cầu
+Chuyên môn:
+Backend Developer
+IT - Phần mềm
+Mô tả công việc
+Tham gia phát triển và bảo trì hệ thống Backend cho Web/App.
+Thiết kế, xây dựng và tối ưu RESTful APIs, Microservices.
+Làm việc với Database như MySQL, PostgreSQL, MongoDB hoặc Oracle.
+Tối ưu hiệu năng hệ thống, xử lý lỗi và đảm bảo tính ổn định của ứng dụng.
+Phối hợp với Frontend, QA và BA để triển khai tính năng mới.
+Tham gia review code và cải tiến chất lượng source code.
+Viết tài liệu kỹ thuật và hỗ trợ triển khai sản phẩm.
+Yêu cầu ứng viên
+Tối thiểu 3 năm kinh nghiệm phát triển Backend.
+Thành thạo một trong các ngôn ngữ: .NET, Java, NodeJS, Golang hoặc Python.
+Có kinh nghiệm với Framework Backend như Spring Boot, NestJS, ExpressJS, Laravel,...
+Hiểu biết về RESTful API, Microservices.
+Có kinh nghiệm làm việc với Database SQL/NoSQL.
+Sử dụng tốt Git/GitLab/GitHub.
+Hiểu biết về Docker, Jenkins, CI/CD là lợi thế.
+Có kinh nghiệm làm việc trong môi trường Agile/Scrum là lợi thế.
+Có kiến thức về bảo mật hệ thống và tối ưu hiệu năng.
+Kỹ năng làm việc nhóm và giao tiếp tốt.
+Chủ động, có trách nhiệm trong công việc.
+Có tư duy logic và khả năng giải quyết vấn đề tốt.

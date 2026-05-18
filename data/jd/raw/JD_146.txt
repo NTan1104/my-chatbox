@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: IT System
+
+Mô tả công việc:
++ Thiết kế, quản trị và vận hành hệ thống CNTT của công ty khách hàng.+ Quản trị hệ thống hạ tầng mạng nội bộ, mạng Lan, mạng không dây, hệ thống mạng Domain, Mạng Wireless Lan, tổng đài; cài đặt firewall, …+ Quản trị và vận hành hệ thống Email sever, hệ thống tổng đài, hệ thống hội nghị trực tuyến, hệ thống Camera+ Lên lịch bảo trì, nâng cấp và backup dữ liệu Sever hệ thống định kỳ+ Xử lý sự cố, chẩn đoán và giải quyết các lỗi về phần cứng và phần mềm trên các thiết bị của công ty cũng như khách hàng; đảm bảo các thiết bị luôn hoạt động ổn định, xuyên suốt trong quá trình làm việc, khắc phục sự cố máy tính môt cách nhanh nhất+ Quản lý tài sản Công nghệ thông tin; tổ chức bảo trì thường xuyên các trang thiết bị CNTT; trang thiết bị văn phòng+ Hỗ trợ người dùng cài đặt máy tính, phần mềm, thiết bị ngoại vi và xử lý các vấn đề về Công nghệ thông tin.
+
+Yêu cầu công việc:
+-Ưu tiên: nam. Độ tuổi: từ 23 đến 35 tuổi-Tốt nghiệp Cao Đẳng hoặc Đại Học chuyên ngành CNTT- Có khả năng giao tiếp tiếng anh. Đọc hiểu các tài liệu liên quan đến ngành nghề. - Có kiến thức tốt về hệ thống AD, DNS, DHCP, Web Server, Mail Server,…(đã từng triển khai các hệ thống liên quan Exchange online, Office 365 là một lợi thế). - Có kinh nghiệm làm việc với các thiết bị máy chủ, lưu trữ của các hãng IBM, HPE, DELL,...- Có kiến thức về thiết kế, triển khai, quản trị hệ thống ảo hóa VMWare, Hyper-V,...- Ưu tiên có kinh nghiệm làm việc với các hệ quản trị cơ sở dữ liệu SQL, MySQL, Oracle,…- Ưu tiên có kiến thức về các hệ thống chịu tải lớn, cluster-failover, load balancing,...
+
+Yêu cầu kinh nghiệm: 1-3 năm

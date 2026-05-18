@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Frontend Dev Reactjs (Junior)
+
+Mô tả công việc:
+Lisod là công ty công nghệ với sứ mệnhPhát huy công nghệ Việt, cùng khách hàng phát triển những dịch vụ tốt nhất có thể cạnh tranh trên toàn cầuTạo thói quen làm việc tích cực, giải quyết vấn đề cốt lõi cho khách hàng.Giá Trị mà Lisod mang lạiLà tập trung vào các giải pháp tốt nhất bằng cách luôn trao đổi và lắng nghe. Chúng tôi không ngừng học hỏi và phát triển.Lý do bạn nên ứng tuyển vị trí nàyCông nghệ Reactjs là thế mạnh của Lisod ngay từ khi thành lập với các sản phẩm nổi bật như Ứng dụng Matching, trang thương mại điện tửĐược dẫn dắt bởi các lập trình viên giỏi nhất công ty với nhiều năm kinh nghiệm.Các thành viên trong team đều là những thành viên ưu tú, luôn có thể hỗ trợ bạn mọi lúc mọi nơi.Được tiếp cận và học hỏi thêm nhiều kiến thức công nghệ đa dạng, :Phát triển web application sử dụng React JSNghiên cứu các công nghệ mới để áp dụng vào việc phát triển và tối ưu hoá sản phẩmPhát triển các sản phẩm web có chất lượng cao về UI/UX, đảm bảo sản phẩm hoạt động tốt trên đa nền tảng (máy tính, điện thoại)Trao đổi với các thành viên trong nhóm và leaders để đưa ra giải pháp tốt nhất cho sản phẩm
+
+Yêu cầu công việc:
+Kinh nghiệm 0.5 trở lên Thành thạo việc phát triển với Typescript là điểm cộng.Thành thạo ít nhất 1 framework Antd, Tailwind, BootstrapCó kinh nghiệm về các frontend web framework như React, Redux or VueJsCó kinh nghiệm, kiến thức làm việc với DB, backend là một lợi thế.Ưu tiên ứng viên có kinh nghiệm với React-native.
+
+Yêu cầu kinh nghiệm: Dưới 1 năm

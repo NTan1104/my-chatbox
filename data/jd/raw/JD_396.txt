@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Fresher Web (Dotnet, Vuejs, Reactjs , Angular..) - Từ 10.000.000 Vnđ
+
+Mô tả công việc:
+Lộ trình đào tạo Fullstack 2 giai đoạn và cơ hội trở thành nhân viên của MISA chỉ sau 2 tháng:Giai đoạn 1: Đào tạo kiến thức nền tảng HTML/CSS, JS Coding, các kỹ thuật Debug với Vue, UI Convention, ngôn ngữ C Sharp, .Netcore, Config, dựng Sever với ASP.NET Core,...Giai đoạn 2: Đào tạo thực tế tại dự án dưới sự dẫn dắt của Mentor, tham gia trực tiếp 1 trong 20 project của MISA như: Nền tảng Kế toán, Nền tảng quản trị Doanh nghiệp, MINTAX, GOLF HCP, MISA ID...Kết thúc chương trình: Cơ hội trở thành nhân viên với mức lương khởi điểm 10.000.000 VNĐ/tháng
+
+Yêu cầu công việc:
+- Sinh viên năm 3/4; 4/5; sinh viên năm cuối hoặc mới tốt nghiệp, cử nhân hoặc Kỹ sư các chuyên ngành: Công nghệ thông tin, Công nghệ phần mềm, Kỹ thuật phần mềm, Khoa học máy tính,...- Có kiến thức cơ bản về OOP, HTML, CSS, JS, Database và biết sử dụng ít nhất 1 hệ quản trị CSDL như MySQL, SQL Server.- Biết sử dụng Vue, Angular, React là một lợi thế.-Thời gian làm việc: 6 buổi/tuần trở lên.- Điểm tích lũy GPA từ 2.5 trở lên.- Chăm chỉ, chịu khó, cầu tiến và sẵn sàng gắn bó phát triển cùng MISA.
+
+Yêu cầu kinh nghiệm: Không yêu cầu kinh nghiệm

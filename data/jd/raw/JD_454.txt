@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Python Developer (TPHCM)
+
+Mô tả công việc:
+- Phối hợp với các nhóm phát triển để xây dựng dịch vụ và cơ sở hạ tầng sản phẩm. - Hoàn thiện và cung cấp một sản phẩm chất lượng cao với các chức năng và tính năng trong nước rút bằng cách tuân theo thông lệ và quy ước của phương pháp Agile. - Tích hợp các phần tử hướng tới người dùng. - Tích hợp các giải pháp lưu trữ dữ liệu. - Lập trình lại cơ sở dữ liệu hiện có để cải thiện chức năng. - Lên kế hoạch và đào tạo nhân sự fresher – junior. - Nghiên cứu các giải pháp công nghệ trên thị trường để áp dụng vào dự án hoặc sản phẩm mới.
+
+Yêu cầu công việc:
+Tốt nghiệp Đại học Công nghệ thông tin/Khoa học máy tính/Hệ thống thông tin quản lý/ Viễn thông. Ít nhất 1 năm kinh nghiệm làm việc với Python. Có kinh nghiệm HTTP, Web services, OAuth2, Restfull APIs. Có kinh nghiệm microservices architecture và event driven programming paradigm. Có kinh nghiệm làm việc với web framework như Django, Flask, FastAPI, Starlette, ... Có kinh nghiệm làm việc với hệ thống message queue như Celery, Redis queue, Dramatiq,... Có kinh nghiệm làm việc với hệ thống database như PostgreSQL, MongoDB. Có hiểu biết về queue như Redis, RabbitMQ, Apache Kafka. Hiểu biết và có kinh nghiệm làm việc với Unix/Linux là lợi thế. Kỹ năng làm việc nhóm và làm việc độc lập tốt. Chịu được áp lực về mặt thời gian, và sẵn sàng OT khi dự án cần. Chủ động, nhiệt tình trong công việc. Ham học hỏi và nghiên cứu, có tinh thần sáng tạo. Ưu tiên: – Ứng viên có nhiều kinh nghiệm tại vị trí ứng tuyển – Ứng viên tốt nghiệp Master, Ph.D ngành Công nghệ thông tin. – Ứng viên có kiến thức toán, tin học tốt, đạt giải trong các kỳ thi học sinh giỏi; tốt nghiệp lớp tài năng, chất lượng cao.
+
+Yêu cầu kinh nghiệm: 1-3 năm

@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Java Team Leader
+
+Mô tả công việc:
+- Phát triển website bằng PHP/Java.- Nghiên cứu các công nghệ mới áp dụng vào dự án.- Phát triển các tính năng mới cho sản phẩm theo yêu cầu của khách hàng.- PHP/Java Developper sẽ tham gia vào việc phát triển, nâng cấp, cập nhật các sản phẩm (web, ứng dụng, phần mềm) của khách hàng, kiểm tra bảo đảm chất lượng dự án.- Quản lý team 3-5 người- Chi tiết trao đổi khi phỏng vấn
+
+Yêu cầu công việc:
+- Tốt nghiệp đại học, cao đẳng chuyên ngành IT- Có kinh nghiệm làm web với PHP/Java, Moodle từ 3 năm trở lên- Thao tác tốt với HTML, CSS, JavaScript (Jquery, Ajax), Bootstrap, JSON, XML- Có kinh nghiệm sử dụng một trong các Framework PHP: CakePHP, CodeIgniter, Laravel- Hiểu biết về MVC Framework, RESTful, OOP- Có kinh nghiệm làm việc với MySQL hoặc Postgre- Thành thạo các công cụ quản lý mã nguồn: GIT, SVN- Có kinh nghiệm làm việc trong các dự án theo mô hình Agile- Có kinh nghiệm với Python và Odoo là một lợi thếƯu tiên : - Có kinh nghiệm với lập trình C/C++, Lua script.- Có kinh nghiệm phát triển game.- Có kinh nghiệm thiết kế kiến trúc, thiết kế chi tiết phần mềm.- Giao tiếp tốt (nói/viết) bằng tiếng Anh
+
+Yêu cầu kinh nghiệm: 3-5 năm

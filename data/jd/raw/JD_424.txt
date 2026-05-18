@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Mobile Developer (React Native)
+
+Mô tả công việc:
+Lập trình chính trong các dự án công nghệ sử dụng React Native.Tham gia phát triển ứng dụng mobile cho iOS và Android bằng React Native.Tham gia phát triển các dự án cho công ty, dịch vụ cho khách hàng.Tham gia các công đoạn tìm hiểu yêu cầu, phân tích, thiết kế, nghiên cứu công nghệ khi được phân công.Tham gia quản lý nhóm nếu có khả năng phù hợp.
+
+Yêu cầu công việc:
+1/Thái độTư duy tích cực, ham học hỏiĐam mê lập trìnhCẩn thận, chi tiết, có trách nhiệm cao, sẵn sàng học hỏi, chia sẻ và cải thiện.2/ Kĩ năngCó kinh nghiệm làm việc với React Native từ 06 tháng trở lên.Sử dụng thành thạo các thư viện React Native phổ biến như: NativeBase, RNUILibCó kinh nghiệm trong việc tối ưu hiệu suất ứng dụng (memory usage, memory leak, cache…)Kinh nghiệm tích hợp ứng dụng qua Ajax, JSON/REST, Web service APIs, Firebase, …; Đã có ứng dụng đẩy lên CHPLAY và AppStore. 3/ Kiến thứcTốt nghiệp các chuyên ngành có liên quan: Toán - Tin, CNTT, Hệ thống thông tin…Có khả năng đọc hiểu tài liệu tiếng Anh chuyên ngành..
+
+Yêu cầu kinh nghiệm: Dưới 1 năm

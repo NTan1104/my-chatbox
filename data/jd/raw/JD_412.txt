@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên Back End
+
+Mô tả công việc:
+- Lập trình các mô-đun phần mềm trong hệ thống phần mềm dạng Desktop App/Mobile/Website.- Tìm hiểu yêu cầu nghiệp vụ, yêu cầu phần mềm, xem xét các tài liệu phân tích thiết kế hệ thống.- Xây dựng, cập nhật tài liệu hướng dẫn sử dụng.- Đào tạo hướng dẫn sử dụng hệ thống. - Hỗ trợ triển khai (khi có yêu cầu).- Và một số tác vụ khác theo yêu cầu của trưởng bộ phận
+
+Yêu cầu công việc:
+- Có kiến thức, kinh nghiệm trong việc phát triển phần mềm trên nền Java, khuyến khích các bạn có thể sử dụng nhiều ngôn ngữ lập trình (bên cạnh Java).- Có kinh nghiệm lập trình giao tiếp giữa client với server qua các giao thức TCP/IP, Websocket, WebService sẽ được ưu tiên.Preference:- Ưu tiên ứng viên có hiểu biết về Software patterns, Micro-services/Service Oriented Architecture, Dev-Ops, cloud-based software(Azure, GCP).- Ưu tiên ứng viên có kinh nghiệm về Docker, Kubernetes, Jenkins.- Ưu tiên ứng viên có kinh nghiệm phát triển ứng dụng trên nền tảng VertX.- Có kinh nghiệm về các database & cache như MySQL, memcached, Redis..vv..- Có kinh nghiệm sử dụng Websocket.- Ưu tiên ứng viên có kinh nghiệm làm app mobile
+
+Yêu cầu kinh nghiệm: 1-3 năm

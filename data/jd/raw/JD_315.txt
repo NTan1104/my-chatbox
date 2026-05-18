@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: JavaScript Developer (Vuejs/Nodejs) - Keymember
+
+Mô tả công việc:
+Azoom Vietnam đang trong quá trình phát triển và mở rộng nên cần tuyển keymember ở cả Hà Nội và Đà Nẵng!Hà Nội: đã có trụ sở văn phòng - chế độ làm việc tại công tyĐà Nẵng: chi nhánh mới, văn phòng đang setup - chế độ làm việc remote đến 4/2023, sau đó lên công tyHãy ứng tuyển ngay để trở thành keymember tại Azoom Vietnam nhé!Tham gia thiết kế, xây dựng và triển khai phần mềm với công nghệ NodeJS/VueJSLập trình các phần mềm, ứng dụng theo yêu cầu của dự ánTham gia vào tất cả các khâu trong quá trình phát triển phần mềm, bao gồm: tìm hiểu yêu cầu, phân tích, thiết kế, nghiên cứu công nghệPhối hợp với các thành viên khác để giải quyết vấn đềCác công việc khác trao đổi cụ thể khi phỏng vấn
+
+Yêu cầu công việc:
+Tối thiểu 01 năm kinh nghiệm về NodeJS hoặc VueJSSử dụng tốt các hệ thống quản lý source code như Git, GithubCó tư duy phân tích tốt đẻ cùng team giải quyết các vấn đề trong công việcCó năng lực học hỏi và khả năng tìm hiểu về công nghệCó tinh thần trách nhiệm cao trong công việcCó khả năng làm việc độc lập, khả năng teamwork tốtƯu tiên:Có kinh nghiệm Teamleader hoặc định hướng TeamleaderCó định hướng phát triển thành Fullstack Developer
+
+Yêu cầu kinh nghiệm: 1-3 năm

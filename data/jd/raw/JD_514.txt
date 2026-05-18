@@ -1,0 +1,155 @@
+Senior AI Engineer (RAG / LLM) - Building Vietnam Legal AI Platform 
+
+Chi tiết tin tuyển dụng
+Yêu cầu:
+3 năm kinh nghiệm
+Đại Học trở lên
+Tuổi 21 - 45
+Xem chi tiết Yêu cầu
+Chuyên môn:
+AI Engineer
+Mô tả công việc
+Nếu bạn giỏi, hoặc đang ở nước ngoài, thì có thể làm online, bán thời gian, hoặc theo Dự án.
+
+1. Giới thiệu dự án
+
+THƯ VIỆN PHÁP LUẬT AI – WorkSpace là không gian làm việc AI pháp luật dành cho đội ngũ pháp lý của THƯ VIỆN PHÁP LUẬT, doanh nghiệp, chuyên gia pháp lý và người sử dụng pháp luật.
+
+Nó giúp:
+
+1. Hiểu và phân tích câu hỏi pháp luật;
+
+2. Truy xuất chính xác căn cứ pháp luật;
+
+3. Suy luận theo logic pháp lý;
+
+4. Trả lời kèm trích dẫn điều luật rõ ràng;
+
+5. Kiểm soát độ chính xác và khả năng kiểm chứng của kết quả;
+
+Chúng tôi tuyển 02 Senior AI Engineer với các chuyên môn RAG/LLM/Data/Evaluation để cùng tham gia thiết kế và hoàn thiện sản phẩm, hướng đến chất lượng đủ cho sử dụng nội bộ TVPL và thương mại hóa.
+
+Hệ thống hiện đã có bản thử nghiệm hoạt động, cần bổ sung Senior AI Engineer để phát triển ra nhiều phân khúc sản phẩm phù hợp từng nhóm khách hàng.
+
+2. Vai trò của Senior AI Engineer
+
+Cùng các Chuyên viên pháp lý, kỹ sư AI, kỹ sư phần mềm của TVPL hiện nay:
+
+1. Triển khai các thành phần trong kiến trúc AI pháp luật,
+
+2. Phát triển và tối ưu hệ thống RAG,
+
+3. Xây dựng pipeline xử lý dữ liệu pháp luật,
+
+4. Cải thiện độ chính xác của AI,
+
+5. Phối hợp với Senior AI Architect để hoàn thiện Legal AI Platform.
+
+3. Trách nhiệm chính của Senior AI Engineers
+
+Tham gia được các mảng sau cùng chuyên viên pháp lý, kỹ sư AI, kỹ sư phần mềm của TVPL:
+
+1) RAG / Retrieval System
+
+• Xây hệ thống legal document retrieval,
+
+• Tối ưu tìm kiếm văn bản luật,
+
+• Làm việc với vector database,
+
+2) LLM Application Pipeline
+
+• Xây pipeline xử lý câu hỏi pháp luật,
+
+• Tích hợp LLM API,
+
+• Tối ưu prompt và reasoning pipeline,
+
+3) AI Evaluation
+
+• Xây dataset (tập dữ liệu kiểm tra),
+
+• Thiết kế benchmark (bộ kiểm tra chuẩn),
+
+• Đo metric (chỉ số đo chất lượng AI),
+
+4) AI Data Pipeline
+
+• Xử lý dữ liệu văn bản pháp luật,
+
+• Xây document ingestion pipeline,
+
+4. Quy trình tuyển dụng
+
+Ứng viên sẽ trải qua các bước sau:
+
+1) Trao đổi online về kinh nghiệm AI production, kinh nghiệm RAG, test nhanh;
+
+2) Gặp trực tiếp chia sẻ hiện trạng sản phẩm, discussion/design exercise năng lực RAG và giải pháp cho hiện trạng sản phẩm;
+
+3) Thảo luận về chiến lược phát triển sản phẩm AI pháp luật, cùng bàn về nguyện vọng của bạn.
+
+
+
+
+
+
+
+Yêu cầu ứng viên
+Kinh nghiệm
+
+1) Có 3–7 năm kinh nghiệm AI / Machine Learning / NLP,
+
+2) Đã từng tham gia triển khai AI production (AI chạy thật với người dùng),
+
+3) Có kinh nghiệm với RAG system là lợi thế lớn,
+
+4) Đã có kinh nghiệm làm qua các vị trí quản lý nhóm/dự án là ưu thế;
+
+Năng lực kỹ thuật
+
+Ứng viên có kinh nghiệm với một hoặc nhiều công nghệ sau:
+
+1) Python,
+
+2) Vector database (FAISS / Qdrant / Milvus / pgvector),
+
+3) LLM API (OpenAI hoặc tương đương),
+
+4) Search / retrieval system,
+
+Kỹ năng hệ thống
+
+Ứng viên nên hiểu:
+
+1) Distributed systems (hệ thống phân tán),
+
+2) AI pipeline architecture (kiến trúc pipeline AI),
+
+3) Xử lý dữ liệu văn bản lớn.
+
+6. Tư duy sản phẩm
+
+Chúng tôi tìm người:
+
+1) Hiểu rằng AI phải giải quyết tốt vấn đề pháp lý thực tế,
+
+2) Giúp khách hàng kiểm soát được rủi ro pháp lý,
+
+3) Phục vụ hàng triệu khách hàng TVPL,
+
+4) Và phải kiếm tiền được,
+
+Điểm cộng
+
+Ứng viên có lợi thế nếu:
+
+1) Đã triển khai hệ thống RAG production
+
+2) Từng làm search engine
+
+3) Từng làm AI SaaS.
+
+Nếu,
+
+Bạn đã từng tự mình nhiều năm Startup hệ thống AI production nhưng chưa thành công? Hãy nộp hồ sơ, gặp chúng tôi.

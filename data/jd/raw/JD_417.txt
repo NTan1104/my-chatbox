@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Chuyên Viên Kiểm Thử - Tester
+
+Mô tả công việc:
+•Xem xét và phân tích tài liệu đặc tả hệ thống. •Thiết kế và viết testcase (kiểm thử thủ công), script (kiểm thử tự động). •Thực hiện kiểm thử chức năng (thủ công và tự động), ghi lại và thông báo các lỗi tìm được, phân tích kết quả. •Thực hiện kiểm thử phi chức năng: kiểm thử bảo mật, kiểm thử hiệu năng…. •Thực hiện nghiệm thu khách hàng và đào tạo người dùng. •Viết báo cáo test. •Viết hướng dẫn sử dụng. •Thông báo với trưởng nhóm kiểm thử, quản trị dự án về trạng thái của hệ thống, các vấn đề trong tiến trình kiểm thử
+
+Yêu cầu công việc:
+• Yêu cầu tốt nghiệp ngành CNTT, điện tử viễn thông or các chuyên ngành tương đương•Có kiến thức tốt về các loại hình kiểm thử (chức năng và phi chức năng), các kỹ thuật kiểm thử (các kỹ thuật kiểm thử hộp đen, hộp trắng…), các level của kiểm thử (kiểm thử đơn vị, kiểm thử tích hợp, kiểm thử hệ thống, kiểm thử chắp nhận).. •Có kiến thức tốt về quy trình phát triển phần mềm, quy trình kiểm thử và công việc trách nhiệm của kiểm thử trong dự án.. •Có kiến thức về ngôn ngữ truy vấn cơ sở dữ liệu: SQL, My SQL… Khả năng sử dụng ở mức khá.. •Có khả năng tư duy nhậy bén và phân tích vấn đề từ nhiều góc độ khác nhau. Có khả năng tư vấn lại các vấn đề liên quan đến sản phẩm cho đội dự án.. •Tiếng Anh: Toeic 550 trở lên
+
+Yêu cầu kinh nghiệm: Không yêu cầu kinh nghiệm

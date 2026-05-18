@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên Flutter Mobile
+
+Mô tả công việc:
+Lập trình ứng dụng di động.Xây dựng cross-platform mobile app để ứng dụng chạy trên nền tảng Android hoặc iOS.Đề xuất và hiện thực giải pháp khắc phục vấn đề performance, cải tiến UI/UX của ứng dụng.
+
+Yêu cầu công việc:
+Tốt nghiệp các trường đại học, cao đẳng chuyên ngành liên quan đến CNTT.Có từ 1 năm kinh nghiệm trở lênCó kiến thức về OOP, Data Structures, Algorithm, UI/UX.Có kinh nghiệm làm việc với backend Restful API.Có kinh nghiệm quản lý source code Git.Yêu cầu khả năng làm việc nhóm và tinh thần chịu trách nhiệm cao.
+
+Yêu cầu kinh nghiệm: 3-5 năm

@@ -1,0 +1,29 @@
+DevOps/Cloud Engineer (AWS/OCI/Azure)
+
+Chi tiết tin tuyển dụng
+Yêu cầu:
+3 năm kinh nghiệm
+Đại Học trở lên
+Xem chi tiết Yêu cầu
+Quyền lợi:
+Nghỉ thứ 7
+Xem chi tiết Quyền lợi
+Chuyên môn:
+Cloud Engineer
+IT - Phần mềm
+Điện toán đám mây (Cloud)
+Mô tả công việc
+- Xây dựng, Vận hành & Bảo trì Hạ tầng Đám mây: Triển khai và duy trì hệ thống trên các nền tảng đám mây lớn (AWS, OCI, Azure). Cấu hình, giám sát máy chủ, mạng và bảo mật; Xây dựng quy trình vận hành và xử lý sự cố.
+- Phát triển hạ tầng bằng AI Agents: Sử dụng các công cụ AI (như Claude Code) để triển khai Infrastructure as Code (IaC) bằng Terraform, CloudFormation. Ứng dụng AI vào việc tự động tạo code, review code và khắc phục sự cố. Quản lý mã nguồn nhóm qua GitHub.
+
+- Hỗ Trợ Giải Quyết Các Thách Thức Dự Án
+
+Thời gian làm việc: từ thứ Hai đến thứ Sáu (từ 08:00 – 17:00 hoặc chế độ làm việc linh hoạt)
+Nơi làm việc: 773 Ngô Quyền, Phường An Hải, TP. Đà Nẵng
+Yêu cầu ứng viên
+- Tốt nghiệp đại học chuyên ngành Khoa học Máy tính, Công nghệ Thông tin hoặc lĩnh vực liên quan.
+
+- Từ 3 năm kinh nghiệm về hạ tầng điện toán đám mây (Cloud), mạng (VPN, Firewall, Load Balancer) và hệ điều hành Linux.
+
+- Đam mê, có hứng thú với việc ứng dụng các công cụ AI (OpenAI, Claude, Gemini, GitHub Copilot) vào quá trình phát triển.
+- Ưu tiên ứng viên khả năng đọc hiểu tài liệu tiếng Anh cơ bản, đạt các chứng chỉ về Cloud (AWS, OCI, Azure).

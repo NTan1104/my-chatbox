@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Fresher Testing Embedded C
+
+Mô tả công việc:
+Từ mã nguồn C, tạo các trường hợp kiểm thử dựa trên quan điểm của khách hàngKiểm tra và phân tích đầu raKiểm tra mã lỗi theo quan điểm của khách hàngTạo lưu đồ từ mã nguồnTạo công cụ theo yêu cầu của khách hàng bằng VBA
+
+Yêu cầu công việc:
+Nắm vững kiến thức cơ bản về ngôn ngữ C & AssemblySử dụng thông thạo VBA, Excel, WordCó kinh nghiệm sử dụng WinAMS, CasePlayer2, QACƯu tiên kỹ năng đọc & viết tiếng Nhật tốtCó khả năng học hỏi, nắm bắt công nghệ, nghiệp vụ nhanh, logic tốtCam kết làm việc lâu dài
+
+Yêu cầu kinh nghiệm: Không yêu cầu kinh nghiệm

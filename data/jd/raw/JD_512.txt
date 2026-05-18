@@ -1,0 +1,77 @@
+Automation/Manual Tester - Dự Án AI Giáo Dục (Nghỉ Thứ 7, Chủ Nhật) - 3 Năm Kinh Nghiệm - Thu Nhập 15 - 30 Triệu - Tại Hà Nội
+
+Chi tiết tin tuyển dụng
+Yêu cầu:
+3 năm kinh nghiệm
+Đại Học trở lên
+Xem chi tiết Yêu cầu
+Quyền lợi:
+Nghỉ thứ 7
+Bảo hiểm xã hội
+Bảo hiểm sức khỏe
+Xem chi tiết Quyền lợi
+Chuyên môn:
+Software Tester (Automation & Manual)
+IT - Phần mềm
+Mô tả công việc
+Giới thiệu dự án
+
+GenieTeach là dự án EdTech tiên phong trong việc ứng dụng AI để tối ưu hóa mô hình giáo dục hiện đại. Tại GenieTeach, chúng tôi không chỉ xây dựng phần mềm, chúng tôi kiến tạo một tương lai nơi trí tuệ nhân tạo trở thành cánh tay đắc lực cho cả giáo viên và học sinh thông qua 4 trụ cột:
+
+Trợ giảng AI: Tự động hóa các tác vụ quản lý và hành chính cho giáo viên.
+Gia sư AI: Hỗ trợ học tập cá nhân hóa mọi lúc, mọi nơi.
+Khảo thí AI: Công cụ kiểm tra và đánh giá năng lực.
+AI Cá nhân hóa: Phân tích dữ liệu để kiến tạo lộ trình học tập tối ưu cho từng học viên.
+Hãy gia nhập cùng chúng tôi để cùng thay đổi tương lai giáo dục bằng sức mạnh công nghệ!
+
+Nhiệm vụ của bạn
+
+Với vai trò Automation/Manual Tester, bạn sẽ là người bảo vệ chất lượng sản phẩm, đảm bảo mọi tính năng của GenieTeach luôn vận hành hoàn hảo trước khi đến tay người dùng.
+
+1. Kiểm thử thủ công (Manual Testing)
+
+Xây dựng test plan, thiết kế test case chi tiết dựa trên yêu cầu từ đội ngũ Product/BA.
+Thực hiện kiểm thử thủ công (Functional, UI/UX, Regression) để phát hiện và kiểm soát lỗi hệ thống.
+Phối hợp chặt chẽ với team Dev để theo dõi, phân tích và xử lý triệt để các vấn đề phát sinh.
+2. Kiểm thử tự động (Automation Testing)
+
+Xây dựng và duy trì các kịch bản kiểm thử tự động (Automation scripts) cho các tính năng cốt lõi.
+Thực thi và phân tích kết quả test tự động để đảm bảo tính ổn định của hệ thống trong các lần nâng cấp.
+3. Viết tài liệu hướng dẫn
+
+Biên soạn tài liệu hướng dẫn sử dụng (User Manual) và bộ câu hỏi thường gặp (FAQs) cho người dùng.
+Khuyến khích ứng dụng các công cụ AI để hỗ trợ viết test case, tạo dữ liệu mẫu và soạn thảo tài liệu nhanh chóng.
+4. Hỗ trợ khách hàng
+
+Hỗ trợ đào tạo và hướng dẫn người dùng cuối (giáo viên, học sinh) sử dụng hệ thống hiệu quả.
+Trực tiếp tiếp nhận phản hồi, hỗ trợ kỹ thuật và đảm bảo sự hài lòng của khách hàng trong quá trình vận hành.
+Yêu cầu ứng viên
+Kinh nghiệm
+
+Có từ 3 năm kinh nghiệm làm việc trở lên với kiểm thử phần mềm (Manual/Automation).
+Ưu tiên các ứng viên có kinh nghiệm với các dự án giáo dục (Không bắt buộc).
+Kỹ năng
+
+Kỹ năng kiểm thử (Manual + Automation)
+Thành thạo Playwright (ưu tiên) hoặc Selenium, có kinh nghiệm automation bằng Playwright API, REST Assured, Postman/Newman, hoặc K6.
+Thiết kế và triển khai E2E/Regression/Smoke Automation theo mô hình POM hiện đại.
+Hiểu rõ HTTP, REST, status codes, JSON/XML, DOM, selectors, async events, network mocking/stubbing.
+Viết được SQL cơ bản để validate dữ liệu, biết cách debug hiệu quả qua browser devtools, network tracing, logs.
+Kỹ năng AI:
+Thành thảo trong việc sử dụng AI/LLM để: Sinh tự động test case, test scenario, test data; Phân tích root cause từ log, stack trace, error pattern.
+Từng ứng dụng các công cụ/tech liên quan: Katalon AI, Playwright + AI IDE
+Kỹ năng Teamwork
+Thực chiến trong team Agile/Scrum, hiểu backlog refinement, estimation, sprint ceremony.
+Biết làm việc chặt chẽ với BA/Dev/PO để refine requirement và đảm bảo chất lượng từ sớm (Shift Left).
+Điểm cộng
+Từng tham gia xây dựng QA Framework nội bộ hoặc guideline tiêu chuẩn test.
+Có chứng chỉ ISTQB Foundation – là điểm cộng nhưng không bắt buộc.
+Hiểu về UI/UX Design Systems
+Kỹ năng mềm & thái độ
+
+Có khả năng làm việc độc lập
+Cẩn thận và linh hoạt trong xử lý tình huống.
+Năng động, vui vẻ, hoạt bát, chủ động, có trách nhiệm trong công việc.
+Sẵn sàng học hỏi, cầu tiến, chủ động trong công việc.
+Dễ dàng hoà nhập môi trường năng động, vui vẻ, tích cực.
+Có khả năng chịu được áp lực trong công việc.

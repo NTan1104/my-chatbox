@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên Visual Studio .Net
+
+Mô tả công việc:
+Tham gia phát triển ứng dụng, dịch vụ trên nền tảng công nghệ .Net: winform, SOAP, Visual Studio,...Nghiên cứu code,làm tài liệu đề xuất phương án giảm số lượng request đến server thông qua Soap Thực hiện tùy chỉnh tính năng dựa trên yêu cầu từ người dùngTham gia đánh giá design/codeXác minh cơ sở dữ liệu và tính toàn vẹn của dữ liệuXác định và sửa chữa hoặc tư vấn về các vấn đề vận hành trong hệ thống máy tính của khách hàng.Cung cấp hỗ trợ, bao gồm tài liệu thủ tục.
+
+Yêu cầu công việc:
+Thành thạo Visual Studio .NET và đã làm việc với SOAP WebServiceThái độ: trung thực, cầu tiếnCó tư duy logic khả năng xử lý tình huống tốt, cẩn thận, trách nhiệm cao trong công việcCó khả năng làm việc độc lập, làm việc nhómTrình độ: Đại học Chuyên ngành CNTT, hoặc các ngành liên quan
+
+Yêu cầu kinh nghiệm: 1-3 năm

@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên Vuejs
+
+Mô tả công việc:
+– Xây dựng hệ thống web sử dụng VueJs– Phát triển, cải thiện tốc độ, trải nghiệm web– Tham gia phát triển, đề xuất giải pháp kỹ thuật cho các dự án web– Nghiên cứu, tìm hiểu các công nghệ, engine,… mới phục vụ các nhu cầu sản phẩm củɑ công ty– Làm việc, phối hợp công việc theo nhóm dưới sự phân công công việc của cấp trên– Phân tích thiết kế, viết tài liệu mô tả.
+
+Yêu cầu công việc:
+– Có từ 3 năm kinh nghiệm làm việc thực tế với VueJs, Vuex– Thành thạo HTML/CSS/Javascript– Có kinh nghiệm và tư duy tốt về Front End, UI/UX– Nhanh nhẹn, ham học hỏi và nghiên cứu công nghệ mới tốt– Có hiểu biết về server side rendering (SSR)– Đã sử dụng 1 số VueJs framework như NUXT… là 1 lợi thế– Biết thêm 1 trong các ngôn ngữ sau là 1 lợi thế: Nodejs, PHP, .Net, Java– Biết các framework client khác như ReactJs, AngularJs là 1 lợi thế– Chủ động, sáng tạo trong công việc
+
+Yêu cầu kinh nghiệm: 3-5 năm

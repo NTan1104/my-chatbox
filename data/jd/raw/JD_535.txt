@@ -1,0 +1,27 @@
+Chuyên Viên AI Automation & Tech-Marketing
+
+
+Chi tiết tin tuyển dụng
+Yêu cầu:
+1 năm kinh nghiệm
+Cao Đẳng trở lên
+Xem chi tiết Yêu cầu
+Quyền lợi:
+Thưởng hiệu quả làm việc
+Xem chi tiết Quyền lợi
+Chuyên môn:
+AI Engineer
+Marketing / Quảng cáo
+Công nghệ kỹ thuật
+Mô tả công việc
+Tối ưu vận hành: Nghiên cứu và trực tiếp xây dựng các workflow tự động hóa (Automation) bằng n8n để tối ưu hóa quy trình xử lý tác vụ trong Marketing, Truyền thông và Ecommerce.
+Phát triển sản phẩm (Vibe Code): Nghiên cứu và xây dựng các sản phẩm công nghệ ứng dụng thực tế như: Mini App, Tool, Website, Landing Page, SaaS, hoặc Extension... sử dụng phương pháp lập trình hiện đại.
+Xây dựng hệ thống kênh: Vận hành và phát triển hệ thống kênh truyền thông bằng AI số lượng lớn dựa trên các bộ công cụ sẵn có do công ty phát triển.
+Quản trị cộng đồng: Trực tiếp quản lý và thực hiện các chiến lược phát triển Cộng đồng AI lớn (quy mô trên 200K thành viên).
+Nghiên cứu & Đào tạo: Cập nhật các xu hướng AI mới nhất để đề xuất giải pháp ứng dụng vào các dự án của khách hàng tại Agency.
+Yêu cầu ứng viên
+Kinh nghiệm: Ít nhất 01 năm làm việc trong lĩnh vực AI, Automation hoặc Tech-marketing.
+Kỹ năng kỹ thuật: Thành thạo công cụ n8n; có tư duy về logic lập trình (Vibe code/No-code/Low-code).
+Tư duy cộng đồng: Có kinh nghiệm hoặc hiểu biết sâu về cách vận hành, tăng trưởng cộng đồng trên các nền tảng mạng xã hội.
+Kỹ năng bổ trợ: Sử dụng tốt các AI Agent (ChatGPT, Claude, Gemini) để hỗ trợ viết code hoặc tối ưu nội dung.
+Thái độ: Chủ động, có khả năng tự học cực tốt và chịu được nhịp độ nhanh của Agency.

@@ -1,0 +1,41 @@
+Devops Engineer Lead
+
+Chi tiết tin tuyển dụng
+Yêu cầu:
+4 năm kinh nghiệm
+Đại Học trở lên
+Xem chi tiết Yêu cầu
+Quyền lợi:
+Nghỉ thứ 7
+Xem chi tiết Quyền lợi
+Chuyên môn:
+DevOps Engineer
+Mô tả công việc
+Giám sát, vận hành hạ tầng on-premise và cloud (Google/AWS/Azure), các hệ thống máy chủ cho các hệ thống/sản phẩm CNTT quan trọng của công ty.
+Triển khai và thiết lập các môi trường phục vụ phát triển, và vận ứng dụng CNTT (Quản lý Container, Kubernetes, CI/CD).
+Thiết kế, triển khai hạ tầng Kubernetes On-premise và ứng dụng theo kiến trúc Microservices, Standalone.
+Thiết kế kiến trúc, triển khai và tối ưu hóa các cơ sở dữ liệu có dung lượng lớn và phân tán như ElasticSearch, MongoDB, Oracle, Postgresql,...
+Duy trì và vận hành hệ thống, thống kê, báo cáo định kỳ chất lượng hệ thống.
+Quản lý và vận hành hạ tầng server vật lý, triển khai và tối ưu hóa môi trường ảo hóa (Proxmox, VMware, KVM).
+Xây dựng và triển khai giải pháp Backup & Disaster Recovery cho VM và Kubernetes workloads.
+Quản trị hệ thống lưu trữ: SAN, NAS, NFS, Ceph, MinIO (Object Storage).
+Tích hợp CI/CD pipelines (Jenkins, GitLab CI) và triển khai Infrastructure as Code (Terraform, Ansible).
+Triển khai các công cụ monitoring như: Prometheus, Grafana, Alertmanager, Exporters.
+Yêu cầu ứng viên
+Tốt nghiệp CNTT, Khoa học máy tính, Điện tử viễn thông hoặc các ngành liên quan.
+4+ năm kinh nghiệm trong lĩnh vực DevOps/System Engineering on-premise.
+Có kiến thức sâu và kinh nghiệm vận hành hệ thống container như: Docker, Kubernetes.
+Hiểu biết về triển khai hệ thống K8S.
+Nắm vững quy trình tích hợp và triển khai (CI/CD) và sử dụng các công cụ: Gitlab, Gitlab Runner và các công cụ CI/CD khác.
+Hiểu biết về các công cụ monitoring như: Prometheus, Grafana, Alertmanager, Exporters.
+Hiểu biết về các công cụ logging như: Elasticsearch, Kibana, Logstash, Beats
+Có kiến thức về các hệ thống databases như: Redis, MongoDB, Postgresql, ...
+Thành thạo ảo hóa và containerization: VMware, Proxmox/KVM, Docker, Kubernetes.
+Kinh nghiệm quản trị storage (SAN/NAS, Ceph, MinIO, NFS).
+Thông thạo và hiểu sâu về hệ điều hành Linux(RHEL, Ubuntu), hiểu biết cơ bản về Network, Security.
+Tiếng Anh đọc hiểu tài liệu kỹ thuật tốt.
+
+Ưu tiên
+
+Có kinh nghiệm bảo mật và an ninh mạng, có kinh nghiệm với các nền tảng cloud như AWS, GCP là lợi thế.
+Am hiểu về DevSecOps: quét code, container security, policy enforcement.Có các chứng chỉ chuyên môn là một lợi thế.

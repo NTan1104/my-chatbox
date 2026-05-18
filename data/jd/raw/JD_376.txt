@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên PHP Laravel (Junior)
+
+Mô tả công việc:
+- Tham gia vào dự án phát triển hệ thống nghiệp vụ của khách hàng Nhật Bản-Âu Mỹ. - Tham gia vào việc thiết kế, xây dựng codebase và review source code.. - Lập trình các chức năng dựa trên detail design của khách hàng. - Lập trình frontend và backend cho các dự án khác của công ty.
+
+Yêu cầu công việc:
+- Có kinh nghiệm trong lập trình Web, ngôn ngữ PHP ít nhất 1 năm trở lên với Junior- Có kinh nghiệm sử dụng PHP Laravel. - Điểm cộng có hiểu biết về VueJS, ReactJS hoặc AngularJS,... - Có kinh nghiệm làm việc với môi trường Linux (CentOS, Ubuntu...). - Sử dụng thành thạo Javascript, CSS (jQuery, Bootstrap...) để làm việc với frontend
+
+Yêu cầu kinh nghiệm: 1-3 năm

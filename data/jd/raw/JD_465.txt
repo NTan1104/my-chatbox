@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Python - Django Developer
+
+Mô tả công việc:
+• Sử dụng Python và Django phát triển Backend/API cho sản phẩm của công ty. • Xây dựng Code Base, review code của team • Đảm bảo chất lượng sản phẩm. • Đề xuất các ứng dụng, dịch vụ mới phục vụ cho business của công ty. • Quy trình làm việc Agile/Scrum
+
+Yêu cầu công việc:
+• Mới ra trường/ít kinh nghiệm sẽ được đào tạo bởi founder giàu kinh nghiệm • Có ít nhất 1 năm làm việc với Python/Django • Nắm chắc kiến thức OOP, Cấu trúc dữ liệu và giải thuật, viết code sạch. • Có thể phân tích và thiết kế được CSDL • Có khả năng giải quyết vấn đề và làm việc độc lập • Hiểu rõ về RESTful API, Git flow
+
+Yêu cầu kinh nghiệm: Dưới 1 năm

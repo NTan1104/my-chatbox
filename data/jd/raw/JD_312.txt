@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Junior Nodejs Developer
+
+Mô tả công việc:
+Kiến thức về các giao thức dịch vụ web phổ biến (HTTP, JSON, Protobuf, REST).Kiến thức vững vàng về thiết kế cơ sở dữ liệu.Có kiến ​​thức tốt về Lập trình hướng đối tượng (OOP).Có kiến ​​thức tốt về Mysql hoặc Postgresql, MS SQL Server hoặc NoSQL (Mongodb, Ravendb).Có kiến ​​thức về bộ nhớ cache phân tán và hàng đợi tin nhắn.Có kỹ năng thiết kế cấu trúc cơ sở dữ liệu thế giới thực và lưu trữ, quản lý và phân tích lượng lớn dữ liệu trong SQL là một lợi thế.Có kiến ​​thức tốt về cách sử dụng ExpressJS
+
+Yêu cầu công việc:
+Có từ 6 tháng - 1 năm kinh nghiệm về NodeJS Có kinh nghiệm trong các quy trình và ứng dụng phát triển nhanh như Trello, Jira.Có kinh nghiệm về Docker và GIT là một lợi thế.Có tư duy logic và tư duy kiến ​​trúc.Giao tiếp tiếng Anh tốt là một điểm cộng.Khả năng cộng tác với người khác đã được chứng minh.
+
+Yêu cầu kinh nghiệm: 1-3 năm

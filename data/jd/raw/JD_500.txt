@@ -1,0 +1,33 @@
+Java Developer 3 Năm Kinh Nghiệm Onsite Bank 
+Mức lương tới 27 triệu
+Địa điểm Hà Nội
+Kinh nghiệm 3 năm
+
+Chi tiết tin tuyển dụng
+Yêu cầu:
+3 năm kinh nghiệm
+Cao Đẳng trở lên
+Xem chi tiết Yêu cầu
+Chuyên môn:
+Backend Developer
+IT - Phần mềm
+Mô tả công việc
+Phát triển và vận hành hệ thống backend, xây dựng API (RESTful/GraphQL/gRPC) phục vụ web và mobile.
+Xử lý logic nghiệp vụ, xác thực, phân quyền và đảm bảo hệ thống hoạt động ổn định.
+Thiết kế và tối ưu cơ sở dữ liệu (SQL/NoSQL), đảm bảo hiệu năng và tính toàn vẹn dữ liệu.
+Viết migration, tối ưu truy vấn và áp dụng các kỹ thuật caching khi cần thiết.
+Xây dựng và tài liệu hóa API rõ ràng, hỗ trợ tích hợp với frontend và hệ thống bên thứ ba.
+Tích hợp các dịch vụ ngoài như thanh toán, email, SMS, cloud… đảm bảo bảo mật và xử lý lỗi.
+Triển khai các giải pháp bảo mật (JWT, OAuth2, chống XSS, CSRF, SQL Injection…).
+Viết unit test, integration test và áp dụng CI/CD để đảm bảo chất lượng code.
+Tối ưu hiệu năng hệ thống với caching, queue, logging và monitoring.
+Phối hợp với các team (Frontend, QA, DevOps…) và tham gia quy trình Agile/Scrum, triển khai hệ thống trên môi trường production.
+
+Yêu cầu ứng viên
+Từ 3 năm kinh nghiệm phát triển hệ thống Back-end sử dụng Spring Boot.
+Thành thạo trong việc thiết kế, phát triển và tối ưu RESTful APIs.
+Có kinh nghiệm làm việc với các hệ thống tài chính, đặc biệt là các nghiệp vụ liên quan đến giao dịch, thanh toán, bảo mật dữ liệu người dùng và tuân thủ quy định (compliance).
+Hiểu biết sâu về quản lý cơ sở dữ liệu (Oracle, PostgreSQL, hoặc tương đương) và caching (Redis, Memcached, v.v.).
+Ưu tiên ứng viên có kinh nghiệm với Spring Security, OAuth2, JWT, và quản lý session phân tán.
+Có hiểu biết về microservices architecture, message queue (Kafka, RabbitMQ), và triển khai trên môi trường Docker/Kubernetes.
+Ưu tiên có kinh nghiệm triển khai hệ thống theo mô hình CI/CD và làm việc trong môi trường Agile/Scrum.

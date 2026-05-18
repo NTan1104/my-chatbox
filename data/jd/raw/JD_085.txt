@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên .Net
+
+Mô tả công việc:
+– Được tham gia phát triển các sản phầm quản lý file tập trung, cổng thông tin trên nền tảng công nghệ .Net, Angular…– Được tìm hiểu về quy trình phát triển phần mềm, cách thức làm việc team work, đóng góp ý kiến để phát triển sản phẩm;– Được làm việc và học hỏi trên các nền tảng công nghệ đang hot hiện nay như: .Net Core, Angular, React….– Được tham gia vào các dự án của công ty thuộc các lĩnh vực như chính phủ, ý tế, giáo dục, banking… trên nền tảng công nghệ của Microsoft như .Net Framework, .Net Core, Entity Framework, SQL Server…– Được tham gia vào các buổi đào tạo của công ty về công nghệ, giải pháp… để nâng cao trình độ;– Được định hướng về road map công việc cũng như sự nghiệp, tư vấn hướng phát triển sự nghiệp theo tiềm năng của bản thân.
+
+Yêu cầu công việc:
+– Tốt nghiệp Đại học, Cao đẳng chuyên ngành Công nghệ thông tin, Khoa học máy tính hoặc các ngành liên quan;– Ưu tiên các ứng viên là sinh viên mới ra trường, chưa có kinh nghiệm làm việc hoặc có kinh nghiệm từ 01 năm – 02 năm;– Có hiểu biết về ngôn ngữ lập trình, sử dụng được .NET Framework, có hiểu biết về ASP.NET MVC, ASP.NET Web API, Entity Framework.– Ưu tiên các ứng viên có kiến thức hoặc đã làm việc trên các quy trình phát triển phần mềm : Scrum, Agile;– Đặc biệt ưu tiên các ứng viên có niềm đam mê với CNTT, các ứng viên đã có sản phẩm của riêng mình trong suốt quá trình học tập và làm việc.
+
+Yêu cầu kinh nghiệm: 1-3 năm

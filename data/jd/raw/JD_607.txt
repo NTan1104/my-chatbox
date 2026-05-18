@@ -1,0 +1,60 @@
+Chuyên Viên Devops
+
+Chi tiết tin tuyển dụng
+Yêu cầu:
+2 năm kinh nghiệm
+Đại Học trở lên
+Xem chi tiết Yêu cầu
+Quyền lợi:
+Nghỉ thứ 7
+Xem chi tiết Quyền lợi
+Chuyên môn:
+Kỹ sư triển khai
+IT - Phần mềm
+Mô tả công việc
+o Thiết kế, triển khai và duy trì các hệ thống máy chủ, cơ sở hạ tầng mạng và dịch vụ đám mây. Đảm bảo tính sẵn sàng, bảo mật và hiệu suất của hệ thống.
+
+o Phát triển và duy trì các script và công cụ tự động hóa cho việc triển khai, quản lý và giám sát hệ thống.
+
+o Sử dụng các công cụ CI/CD để cải thiện quy trình phát triển và triển khai phần mềm.
+
+o Thiết lập và cấu hình các công cụ giám sát để theo dõi hiệu suất và tình trạng của hệ thống.
+
+o Maintain và tối ưu các hệ thống Database và Message Queue
+
+o Phân tích và khắc phục sự cố hệ thống nhanh chóng và hiệu quả.
+
+o Thực hiện các biện pháp bảo mật để bảo vệ hệ thống và dữ liệu.
+
+Yêu cầu ứng viên
+o Kinh nghiệm làm việc với Linux và xử lý sự cố thực tế (log, process, network)
+
+o Kinh nghiệm triển khai và vận hành ứng dụng trên Kubernetes: Deploy, debug pod/service, xử lý lỗi runtime
+
+o Kinh nghiệm xây dựng hoặc vận hành CI/CD (GitLab CI, Jenkins…)
+
+o Kinh nghiệm làm việc với monitoring/logging: Prometheus, Grafana, ELK / OpenSearch
+
+o Kinh nghiệm làm việc với ít nhất một trong các database: PostgreSQL / MongoDB / Redis
+
+o Kinh nghiệm triển khai, vận hành hoặc troubleshoot Apache Kafka
+
+o Kinh nghiệm làm việc với network thực tế:Reverse proxy (Nginx/HAProxy), load balancing, Debug kết nối (curl, tcpdump…)
+
+o Kinh nghiệm làm việc với API Gateway (ưu tiên): Kong API Gateway
+
+o Kinh nghiệm triển khai DevSecOps trong pipeline: Scan image/dependency, quản lý secret, SSL/TLS
+
+o Kinh nghiệm cài đặt, cấu hình và vận hành hệ thống: MongoDB (sharding), Apache Kafka (cluster, tuning)
+
+o Kinh nghiệm nghiên cứu, triển khai giải pháp mới trong hệ thống thực tế
+
+o Kinh nghiệm phân tích và xử lý sự cố end-to-end (root cause)
+
+Ưu Tiên (Không bắt buộc)
+
+o Biết ít nhất 1 ngôn ngữ lập trình (Nodejs – Reactjs hoặc các ngôn ngữ lập trình khác).
+
+o Kinh nghiệm với các dịch vụ đám mây (AWS, Azure, Google Cloud).
+
+o Có chứng chỉ là một lợi thế (CKA, CKS, LPIC, …)

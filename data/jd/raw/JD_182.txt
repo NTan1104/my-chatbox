@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Fresher C/C++ Embedded
+
+Mô tả công việc:
+- Tham gia khóa đào tạo chuyên sâu về lập trình từ 3-6 tháng về ngôn ngữ C/C++ Embedded- Cơ hội trở thành lập trình viên C/C++ Embedded tại FPT Software. Tham gia dự án Healthcare domain (Endoscopy device)- Phát triển toàn diện học viên: Ngoài hoàn thiện kiến thức lập trình, khóa học còn phát triển các kỹ năng cá nhân bao gồm khả năng ngoại ngữ, kỹ năng mềm (làm việc nhóm, giao tiếp,…), kỹ năng tuyển dụng (viết CV, phỏng vấn) và trải nghiệm các hoạt động văn hóa, thể thao tại công ty.
+
+Yêu cầu công việc:
+- Tham gia đào tạo/làm việc Full-time từ thứ 2 - thứ 6.- Nắm vững kiến thức lập trình căn bản: OOP; C/C++; cấu trúc cơ sở dữ liệu và giải thuật…- Có kiến thức về một trong những lĩnh vực sau là một lợi thế: Desktop Application programming, Image processing, multi-threading, multi-processing…- Có thể sử dụng Git/SVN tool, có kiến thức về Agile/Scrum là một lợi thế- Có khả năng đọc hiểu & giao tiếp tiếng Anh cơ bản.
+
+Yêu cầu kinh nghiệm: Không yêu cầu kinh nghiệm

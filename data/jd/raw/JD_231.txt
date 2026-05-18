@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên Nodejs (Kinh Nghiệm Từ 1 Năm, Mức Lương Upto 30M)
+
+Mô tả công việc:
+What You Will Do Is- Tham gia thiết kế và xây dựng kiến trúc dự án từ “con số 0”.- Tự do đề xuất cũng như ứng dụng các phương thức chuẩn hóa nhằm tối ưu chất lượng sản phẩm cũng như gia tăng tốc độ phát triển dự án.- Dành thời gian và tâm huyết để chăm chút từng dự án, từng sản phẩm như những “đứa con tinh thần” của mình.
+
+Yêu cầu công việc:
+Must have- Tối thiểu 1 năm kinh nghiệm làm việc với NodeJS.- Kiến thức chắc về NodeJS, ExpressJS, Restful API.- Có kinh nghiệm làm việc với cơ sở dữ liệu MySQL, MongoDB…- Có kiến thức về design pattern, OOP, MVC.- Sử dụng thành thạo các tool quản lý source code như: github, gitlab,....Nice to have- Có kinh nghiệm làm việc với Docker.- Có kinh nghiệm làm việc với các FrontEnd Framework: ReactJS, VueJS.- Có hiểu biết về GraphQL, Nginx, Web Security, Caching.- Có kinh nghiệm sử dụng Cloud Service như AWS, GCP, Azure là một lợi thế cực lớn.- Biết DevOps là 1 lợi thế.
+
+Yêu cầu kinh nghiệm: 1-3 năm

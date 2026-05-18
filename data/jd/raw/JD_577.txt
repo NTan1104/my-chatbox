@@ -1,0 +1,50 @@
+Backend Developer - Java - Dự Án Bank - 5 Năm Kinh Nghiệm
+
+Chi tiết tin tuyển dụng
+Yêu cầu:
+5 năm kinh nghiệm
+Đại Học trở lên
+Xem chi tiết Yêu cầu
+Quyền lợi:
+Nghỉ thứ 7
+Xem chi tiết Quyền lợi
+Chuyên môn:
+Backend Developer
+IT - Phần mềm
+Mô tả công việc
+Phát triển hệ thống ebanking của ngân hàng có lượng khách hàng, số lượng giao dịch và giá trị giao dịch rất lớn
+Tham gia vào các công đoạn: kiến trúc hệ thống, thiết kế chức năng, lập trình, unit test, viết tài liệu chức năng, tối ưu performance…
+Lập trình hệ thống các ứng dụng trên nền Java Core, Java Spring Boot và các hệ thống Middleware trên nền tảng java
+Viết code và Unit test theo mô hình phát triển DevOps CI/CD
+Tối ưu performance các xử lý giải thuật
+Tham gia tìm hiểu các công nghệ, kỹ thuật mới.
+Yêu cầu ứng viên
+- Có kinh nghiệm lập trình tối thiếu 5 năm về:
+
++ Lập trình Java
+
++ Microservice, Message Queue, Redis
+
++ Database Oracle/SQL;
+
+- Có các kỹ năng lập trình tốt, có khả năng phân tích, đưa giải pháp để giải quyết các vấn đề;
+
+- Tốt nghiệp Đại Học một trong các chuyên ngành: CNTT, Toán Tin, Điện tử viễn thông Hoặc có chứng chỉ lập trình viên tương đương (Aptech, Quốc tế)
+
+Ưu tiên:
+
++ Hiểu biết và có kinh nghiệm về kiến trúc FrontEnd - BackEnd.
+
++ Có kinh nghiệm về Docker/k8s, Cloud
+
++ Có kinh nghiệm về Message Queue hoặc tương tự.
+
++ Có kinh nghiệm về Redis hoặc tương tự.
+
++ Có kinh nghiệm xây dựng Unit Test
+
++ Có kinh nghiệm làm việc trong ngành tài chính ngân hàng, am hiểu nghiệp vụ ngân hàng
+
++ Có kiến thức và kinh nghiệm làm việc trên nền tảng Backbase
+
++ Có kinh nghiệm triển khai công việc theo mô hình Agile.

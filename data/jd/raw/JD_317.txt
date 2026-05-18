@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Java Developer
+
+Mô tả công việc:
+- Tham gia vào rất nhiều dự án với các khách hàng khối ngân hàng và chính phủ, chủ yếu là các hệ thống Web, hệ thống quản lý với nền tảng Java và Oracle.- Nghiên cứu các công nghệ mới và áp dụng vào các dự án của công ty.- Tham gia vào tất cả các giai đoạn của một dự án như: lập kế hoạch, phân tích, thiết kế, thực thi, kiểm thử và triển khai cũng như bảo trì.
+
+Yêu cầu công việc:
+Technical Skill:- Tốt nghiệp đại học chính quy về Công nghệ thông tin- Kinh nghiệm làm việc: từ 2 năm kinh nghiệm.- Có kiến thức sâu về Java Core và J2EE (EJB 3.x, JMS, JPA 2.0/Hibernate);- Có kiến thức lập trình ít nhất một trong các nền tảng sau: J2EE, JSP, Struts, SpringFramework, MVC- Có kiến thức sâu về hệ quản trị CSDL: Oracle, PostgreSQL, MySQL, SQL Server- Có kinh nghiệm lập trình Web Services và SOA- Sử dụng thành thạo các công cụ quản lý lập trình (Git, SVN ...)Skill:- Có khả năng phân tích yêu cầu tốt.- Có kỹ năng viết code sạch, đơn giản, dễ hiểu.- Có kỹ năng tổng hợp thông tin và tạo báo cáo.- Có khả năng làm việc tự chủ và kỹ năng làm việc theo nhóm. Khả năng nắm bắt,học hỏi kỹ thuật mới nhanh.Ưu tiên:- Ứng Viên có kinh nghiệm làm việc trên Oracle DB- Ứng Viên có nhiều năm kinh nghiệm, đã tham gia phát triển các hệ thống lớn cho chính phủ, ngân hàng
+
+Yêu cầu kinh nghiệm: 1-3 năm

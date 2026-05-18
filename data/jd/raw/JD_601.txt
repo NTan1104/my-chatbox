@@ -1,0 +1,45 @@
+Devops Engineer
+
+Chi tiết tin tuyển dụng
+Yêu cầu:
+2 năm kinh nghiệm
+Đại Học trở lên
+Nam
+Xem chi tiết Yêu cầu
+Quyền lợi:
+Nghỉ thứ 7
+Xem chi tiết Quyền lợi
+Chuyên môn:
+DevOps Engineer
+IT - Phần mềm
+Mô tả công việc
+- Phân tích yêu cầu nghiệp vụ và tham gia thiết kế hệ thống phần mềm.
+
+- Phát triển, bảo trì và nâng cấp các ứng dụng/web/mobile theo yêu cầu dự án.
+
+- Viết mã nguồn sạch, dễ bảo trì và tối ưu hiệu năng.
+
+- Kiểm tra, sửa lỗi (debug) và tối ưu hệ thống.
+
+- Phối hợp với các bộ phận QA, BA, UI/UX và vận hành để triển khai sản phẩm.
+
+- Tham gia review code và đề xuất cải tiến kỹ thuật.
+
+- Viết tài liệu kỹ thuật, hướng dẫn sử dụng và tài liệu triển khai.
+
+- Nghiên cứu công nghệ mới để áp dụng vào dự án.
+
+Yêu cầu ứng viên
+- Tốt nghiệp đại học chuyên ngành Công nghệ thông tin, Khoa học máy tính hoặc các ngành liên quan
+
+- Tối thiểu 2 năm kinh nghiệm phát triển phần mềm Thành thạo ít nhất một ngôn ngữ lập trình backend: Java, .Net, Python, Node.js, ...
+
+- Thành thạo làm việc với RESTful API / gRPC và các tiêu chuẩn thiết kế API
+
+- Thành thạo một trong những cơ sở dữ liệu: Oracle, SQL Server, MySQL, PostgreSQL,…
+
+- Có kinh nghiệm với các hệ thống xử lý lượng dữ liệu lớn hoặc hệ thống real-time phục vụ AI là một lợi thế
+
+- Có kiến thức về bảo mật ứng dụng (authentication, authorization, OWASP Top 10) là điểm cộng - Có kinh nghiệm vận hành, triển khai hệ thống ứng dụng CNTT là điểm cộng Kỹ năng tư duy hệ thống tốt, có khả năng phân tích và giải quyết vấn đề phức tạp
+
+- Chủ động, trách nhiệm cao và có khả năng làm việc độc lập cũng như theo nhóm

@@ -1,0 +1,33 @@
+Mô tả công việc
+Phát triển:
+Tham gia vào quá trình phân tích yêu cầu, thiết kế và triển khai các tính năng mới cho ứng dụng.
+Viết code chất lượng cao, có cấu trúc tốt, dễ đọc, dễ bảo trì và có khả năng mở rộng.
+Xây dựng và tích hợp APIs (RESTful, GraphQL, etc.) để kết nối các hệ thống và dịch vụ khác nhau.
+Triển khai và quản lý cơ sở dữ liệu (SQL, NoSQL) phù hợp với yêu cầu dự án.
+Tối ưu hóa hiệu suất ứng dụng, đảm bảo tốc độ và khả năng đáp ứng.
+Kiểm thử và Đảm bảo chất lượng:
+Viết unit test và integration test để đảm bảo chất lượng code và chức năng của ứng dụng.
+Thực hiện kiểm thử chức năng và hiệu năng của ứng dụng.
+Tham gia vào quá trình sửa lỗi (debugging) và giải quyết các vấn đề kỹ thuật.
+Tuân thủ các quy trình phát triển phần mềm, tiêu chuẩn lập trình và coding conventions của công ty.
+Hợp tác và Giao tiếp:
+Làm việc chặt chẽ với các thành viên khác trong nhóm (Product Owner, BA, Tester, Designer) để hiểu rõ yêu cầu và mục tiêu dự án.
+Giao tiếp hiệu quả với các bên liên quan (stakeholders) về tiến độ, vấn đề và giải pháp.
+Tham gia vào các cuộc họp nhóm, brainstorming và planning để đóng góp ý kiến và giải pháp.
+Chủ động chia sẻ thông tin và cập nhật tiến độ công việc cho quản lý và đồng nghiệp.
+Yêu cầu
+Kinh nghiệm:
+Tối thiểu 2-4 năm kinh nghiệm làm việc trong lĩnh vực phát triển phần mềm, trong đó có kinh nghiệm làm việc với cả frontend và backend.
+Ứng viên liệt kê một số dự án/sản phẩm tiêu biểu, trong đó mô tả thông tin vai trò và một số nhiệm vụ thực hiện trong dự án/ sản phẩm tiêu biểu đó
+Kiến thức và Kỹ năng:
+Thành thạo một hoặc nhiều ngôn ngữ lập trình backend phổ biến: Java, Kotlin
+Thành thạo một hoặc nhiều framework frontend hiện đại: Angular, Vue. js, React
+Hiểu biết sâu sắc về HTML, CSS, JavaScript và các công nghệ web tiêu chuẩn.
+Kinh nghiệm làm việc với cơ sở dữ liệu: SQL (MySQL, PostgreSQL, SQL Server) và/hoặc NoSQL (MongoDB, Redis, Cassandra).
+Kinh nghiệm xây dựng và sử dụng APIs: RESTful.
+Kinh nghiệm làm việc với các công cụ quản lý phiên bản: Git (bắt buộc).
+Kinh nghiệm với quy trình phát triển phần mềm Agile/Scrum.
+Kỹ năng giải quyết vấn đề và tư duy logic tốt.
+Kỹ năng giao tiếp và làm việc nhóm hiệu quả.
+Khả năng tự học và cập nhật công nghệ mới nhanh chóng.
+Tiếng Anh đọc hiểu tài liệu kỹ thuật tốt.

@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên Flutter
+
+Mô tả công việc:
+Thiết kế và xây dựng các ứng dụng Flutter dựa trên bản thiết kế của bên design và bản mô tả chức năng.Phối hợp với nhóm để xác định yêu cầu, thiết kế và chức năng cho các dự án.Xây dựng các chức năng hệ thống thông qua API.Xây dựng và chỉnh sửa các tính năng theo yêu cầu và fix bugs.Thiết kế giao diện để cải thiện trải nghiệm người dùng.Nghiên cứu các công nghệ mới nhất để áp dụng cho dự án.Phối hợp các thành viên trong team thực hiện các dự án
+
+Yêu cầu công việc:
+Có kinh nghiệm với FlutterCó kinh nghiệm về kết nối API và các kiến thức về RESTful, JSONHiểu biết về MVC, MVP, MVVM.Kỹ năng lập trình hướng đối tượng tốt.Tư duy logic tốt và có thể học nhanh các công nghệ mới.Có trách nhiệm cao trong công việc, chủ động, tự tổ chức và tinh thần đồng đội tốt.Kỹ năng làm việc nhómCó kinh nghiệm làm việc trực tiếp với khách hàng Nhật là một lợi thế
+
+Yêu cầu kinh nghiệm: Dưới 1 năm

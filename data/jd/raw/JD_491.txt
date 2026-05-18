@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: JAVA DEVELOPER
+
+Mô tả công việc:
+●Cùng với BA/SA phân tích các yêu cầu nghiệp vụ người yêu cầu, dựa trên kinh nghiệm làm việc tư vấn và cung cấp các giải pháp kỹ thuật nhằm đáp ứng nhu cầu sử dụng của người dùng đồng thời đảm bảo khả năng hoạt động, vận hành của hệ thống. ●Thiết kế, tích hợp và phát triển hệ thống quản lý dữ liệu của nền tảng Ngân hàng số; ●Tư vấn đưa ra các giải pháp kỹ thuật, nghiệp vụ, thiết kế liên quan đến nền tảng Ngân hàng số; ●Tham gia triển khai, phát triển các dự án liên quan; ●Tham gia khắc phục các lỗi, sự cố còn tồn đọng của hệ thống để nâng cao chất lượng hệ thống cũng như hiệu quả sử dụng của người dùng. ●Đảm bảo chất lượng của hệ thống ECM/BPM đảm bảo hệ thống hoạt động theo SLA cam kết về downtime thông qua các nguyên tắc và phương pháp phát triển phù hợp ●Đảm bảo hệ thống ECM/BPM không có lỗ hổng về ATTT, các vấn đề liên quan đến ATTT được phát hiện, theo dõi và lên kế hoạch xử lý triệt để.●Tham gia vào các dự án nhằm nâng cấp và đảm bảo khả năng hoạt động liên tục và ổn định của hệ thống
+
+Yêu cầu công việc:
+●Kiến thức và kinh nghiệm về các lập trình Java từ 2 năm trên nền tảng Windows/Linux/Web sử dụng các frame work Srping Boot, Hibernate, Java Script, JSP/Serverlet (Optionals) ●Kiến thức về hệ thống CSDL: MS SQL, Oracle, MySQL, PostgreSQL, DB2…. ●Kiến thức về phân tích và triển khai ứng dụng trên web server: JBoss, Tomcat ●Kiến thức về mô hình ứng dụng MVC/ Tier ●Có kinh nghiệm xây dựng tài liệu phân tích thiết kế hệ thống, tài liệu đề xuất giải pháp dựa trên yêu cầu của khách hàng. ●Có kinh nghiệm về phân tích và triển khai hệ thống ECM/BPM (lợi thế) ●Hiểu biết về nghiệp vụ ngân hàng và có kinh nghiệm phân tích và triển khai hệ thống CNTT cho ngân hàng là lợi thế ●Phân tích yêu cầu và tham ra triển khai hệ thống CNTT có số lượng giao dịch, người sử dụng lớn
+
+Yêu cầu kinh nghiệm: 1-3 năm

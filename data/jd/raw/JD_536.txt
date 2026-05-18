@@ -1,0 +1,74 @@
+Trưởng Nhóm AI Engineer
+
+Chi tiết tin tuyển dụng
+Yêu cầu:
+4 năm kinh nghiệm
+Đại Học trở lên
+Xem chi tiết Yêu cầu
+Quyền lợi:
+Nghỉ thứ 7
+Xem chi tiết Quyền lợi
+Chuyên môn:
+AI Researcher
+Mô tả công việc
+01. Kiến trúc AI Agent System
+
+Thiết kế và sở hữu kiến trúc multi-agent cho ERP multi-tenant
+Điều phối agent workflow bằng LangGraph: task planning, tool calling, multi-step execution
+Định nghĩa ranh giới và giao tiếp giữa các agent: Data Analysis, Workflow Automation, AI Assistant, Task Execution
+Đảm bảo isolation và context management giữa các tenant
+02. Multi-LLM System
+
+Xây dựng abstraction layer hỗ trợ OpenAI, Gemini, Qwen, Ollama
+Thiết kế model routing, fallback strategy, và cost optimization
+Đánh giá và lựa chọn model phù hợp theo từng use case (latency vs. accuracy vs. cost)
+03. AI Observability & Monitoring
+
+Vận hành và mở rộng hệ thống observability đang dùng: Langfuse + OpenTelemetry
+Theo dõi LLM call, prompt performance, error rate, latency, và cost theo tenant
+Xây dựng dashboard và alerting cho production AI system
+04. Data & Embedding Pipeline
+
+Thiết kế pipeline: document processing → embedding → indexing → semantic search
+Làm việc với MongoDB (primary DB) và Elasticsearch (search & analytics)
+Đảm bảo pipeline xử lý được khối lượng dữ liệu enterprise multi-tenant
+05. Async Processing & Messaging
+
+Vận hành và scale hệ thống messaging đang dùng: Kafka / RabbitMQ
+Thiết kế Celery worker topology cho agent tasks, document processing, AI jobs
+Đảm bảo reliability, idempotency, và dead-letter handling
+06. AI Memory & Context
+
+Phát triển memory layer sử dụng Mem0 và MCP (Model Context Protocol)
+Đảm bảo long-term memory, conversation context, và enterprise knowledge context
+Thiết kế context isolation giữa tenant và user
+07. Tích hợp với nền tảng 1Office
+
+Làm việc chặt chẽ với Application team để tích hợp AI layer vào hệ thống ERP hiện có
+Hiểu kiến trúc và data model của nền tảng 1Office để thiết kế AI phù hợp với product thực tế
+Đảm bảo AI feature tương thích và không làm ảnh hưởng đến stability của hệ thống đang live
+Tham gia product process: sprint planning, technical spec, và release coordination với Application team
+08. Hiệu năng & Chất lượng
+
+Xây dựng và duy trì benchmark suite để đo hiệu năng AI system (latency, throughput, accuracy)
+Tối ưu tốc độ response của agent pipeline trên môi trường production
+Thiết lập quy trình unit test và integration test cho AI module
+Đảm bảo coverage test đủ để deploy tự tin lên live product mà không gây regression
+Định nghĩa SLA và performance baseline cho từng AI feature trước khi release
+09. Leadership
+
+Lead và mentor team 3–4 AI Engineers
+Thực hiện architecture review và code review
+Phối hợp chặt với Application team (PHP/PostgreSQL), Product team, và DevOps
+Tham gia roadmap planning, technical estimation và định nghĩa engineering process cho team
+Yêu cầu ứng viên
+4+ năm Software Engineering
+2+ năm xây dựng AI/LLM system production
+Python thành thạo
+Thiết kế API / microservices
+RAG architecture & vector search
+Distributed system & async processing
+LLM integration (OpenAI/GPT, Claude, Gemini, hoặc tương đương)
+Triển khai và vận hành local LLM trên GPU self-hosted (Ollama, vLLM, hoặc tương đương)
+Xây dựng benchmark và performance profiling cho AI system
+Viết unit test và integration test cho AI module (pytest hoặc tương đương)

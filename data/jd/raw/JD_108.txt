@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Android Developer
+
+Mô tả công việc:
+- Làm việc onsite lâu dài tại Trung tâm Công nghệ Thông tin của Bảo Việt (có sẵn career path 1 - 3 năm trở lên)- Tham gia xây dựng tài liệu thiết kế chi tiết, tài liệu kỹ thuật;. - Thực hiện phát triển, triển khai ứng dụng;. - Kết hợp với UI/UX Designer, Backend Developer, Product Manager để xây dựng các ứng dụng. - Cộng tác với đồng nghiệp trong nhóm thiết kế và xây dựng phần mềm;. - Nâng cấp, cải tiến các chương trình hiện tại;. - Hỗ trợ người dùng chương trình và hỗ trợ kỹ thuật cho các đơn vị sử dụng
+
+Yêu cầu công việc:
+- Tốt nghiệp đại học các chuyên ngành liên quan (bắt buộc)- Có tối thiểu 1.5 năm kinh nghiệm đối với phát triển phần mềm trên nền tảng Android (Kotlin).- Có kinh nghiệm về Git, Social Network API, Firebase, Facebook SDK.- Có trách nhiệm trong công việc.- Có khả năng làm việc nhóm cũng như làm việc độc lập- Editor: Android Studio.
+
+Yêu cầu kinh nghiệm: 1-3 năm

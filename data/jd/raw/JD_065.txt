@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Java Developer
+
+Mô tả công việc:
+Tham gia các dự án sử dụng ngôn ngữ lập trình Java cùng framework SpringBoot và các công nghệ liên quan cho các khách hàng đến từ Nhật Bản.Phân tích thiết kế và lập trình chức năng của các website.Thực hiện công việc theo yêu cầu từ quản lý
+
+Yêu cầu công việc:
+Yêu cầu cơ bản: Tốt nghiệp đại học hoặc cao đẳng chuyên ngành ITThao tác tốt với HTML, CSS, JavaScript (Jquery, Ajax), Bootstrap, JSON, XML là lợi thế.Có ít nhất 1 năm kinh nghiệm làm việc với SpringBootCó tư duy và giải thuật tốtCó kinh nghiệm làm việc với AWS là một lợi thếHiểu biết về MVC Framework, ORM, RESTful, OOP, Design PatternCó kinh nghiệm làm việc với MySQL hoặc NoSQL (MongoDB)Thành thạo các công cụ quản lý mã nguồn: GIT, SVNƯu tiên có kinh nghiệm làm việc với VueJSYêu cầu chuyên môn: Viết code rõ ràng, dễ hiểu, dễ maintain, tuân thủ chặt chẽ conventionTương tác với nhiều resources, nhiều dạng database là lợi thế.Viết SQL tối ưu, không bị SQL Injection là lợi thếThiết kế database phù hợp yêu cầu, tối ưu cho performanceYêu cầu khác:Có tinh thần trách nhiệm cao trong công việc;Có khả năng làm việc độc lập và làm việc theo nhóm;Có khả năng đọc hiểu tiếng Anh, tiếng Nhật là lợi thế.
+
+Yêu cầu kinh nghiệm: 1-3 năm

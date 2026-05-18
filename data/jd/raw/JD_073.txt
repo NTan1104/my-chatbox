@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Python Odoo Developer (Từ 2 Năm Kinh Nghiệm)
+
+Mô tả công việc:
+- Phát triển tool nội bộ công ty sử dụng Odoo.- Tham gia lập trình và phát triển service bằng ngôn ngữ Python;- Tham gia vào quá trình phân tích và thiết kế hệ thống;- Thu thập và xử lí các yêu cầu thiết kế và kĩ thuật;- Tìm hiểu yêu cầu, phân tích, thiết kế, nghiên cứu công nghệ công nghệ mới, đưa ra giải pháp áp dụng vào sản phẩm dịch vụ của công ty.
+
+Yêu cầu công việc:
+- Có kinh nghiệm lập trình Python/Odoo ít nhất trên 2 năm.- Tư duy lập trình, logic tốt.- Cẩn thận, có trách nhiệm, đảm bảo chất lượng công việc.- Có kinh nghiệm lập trình python, sử dụng thành thạo Odoo và một trong các framework như Flask, Django,…- Có kinh nghiệm làm việc trên hệ điều hành Linux(Ubuntu), Window…- Có kiến thức lập trình OOP, design pattern.- Có hiểu biết cơ bản về cơ sở dữ liệu và hệ thống: MySQL, MongoDB hay PostgreSQL – Biết sử dụng công cụ quản lý mã nguồn: Git, Jira, SVN…- Biết tiếng Nhật là một lợi thế.
+
+Yêu cầu kinh nghiệm: 1-3 năm

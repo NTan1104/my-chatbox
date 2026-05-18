@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên Android ( Java , Kotlin)
+
+Mô tả công việc:
+Tham gia phát triển các ứng dụng trên nền tảng Android cho khách hàng Nhật Bản.. Đồng hành với những tập đoàn lớn của Nhật để xây dựng các sản phẩm Y tế hướng tới hàng triệu người dùng tại cả thị trường Nhật Bản và Việt Nam.. Phối hợp công việc theo nhóm dưới sự phân công công việc của quản lý dự án.
+
+Yêu cầu công việc:
+Có trên 1 năm kinh nghiệm trở lên ở vị trí tương đương.. Hiểu biết OOP, có kinh nghiệm với Kotlin, Java.. Thành thạo thiết kế layout , nắm được các thành phần cơ bản của Android như Activity, Fragment, tab host, listview, animation... Có kinh nghiệm làm việc với Restful API: retrofit, okhttp,…. Ưu tiên hiểu biết về facebook API, google api, social network…. Ưu tiên người có ứng dụng đã public lên google play.. Kinh nghiệm làm việc với SQLite, Room, Realm là lợi thế.. Có khả năng tư duy thuật toán tốt.
+
+Yêu cầu kinh nghiệm: 1-3 năm

@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Fresher Developer .Net
+
+Mô tả công việc:
+- Tham gia khóa đào tạo chuyên sâu về lập trình từ 1-3 tháng;- Trở thành nhân viên chính thức, tham gia các dự án phát triển phần mềm với các khách hàng lớn của Công ty sau khi được đào tạo.- Thực hiện các công việc khác theo yêu cầu của cấp trên- Địa điểm làm việc: FPT SOFTWARE HO CHI MINH
+
+Yêu cầu công việc:
+- Là sinh viên đã/sắp tốt nghiệp ngành Công nghệ thông tin hoặc các chuyên ngành có liên quan và có thể đi làm full time từ thứ 2 đến thứ 6- Nắm vững kiến thức cơ bản về lập trình hướng đối tượng và .Net, cụ thể như sau:+ Có khả năng sử dụng và phát triển phần mềm cơ bản (ứng dụng console) sử dụng .NET (cú pháp cơ bản, xây dựng hàm/ phương thức và truyền tham số, quản lí flow,…)+ Quản lí và sử dụng Generic & Collection, Khai báo và sử dụng delegate, event, Xử lí bất đồng bộ, Quản lí bộ nhớ bằng GC+ Có kỹ năng đọc hiểu thiết kế CSDL, viết và biểu diễn các câu lệnh truy vấn SQL, khả năng viết các đối tượng dùng cho thao tác dữ liệu. Không bị mắc lỗi cơ bản+ Có kiến thức chuyên môn về: OOP, Database & Code Design, kiến trúc phần mềm (client-server, MVC), Microservices và Object-oriented analysis and design (OOAD), SQL, Html5, Css3, Javascript, Jquery, Bootstrap 4+ Có thể sử dụng được ORM Framework, xây dựng được Software Application cơ bản sử dụng các công nghệ phát triển web với .NET- Có Tiếng anh giao tiếp tốt (hoặc chứng chỉ TOIEC từ IIG với số điểm 550 trở lên)
+
+Yêu cầu kinh nghiệm: Không yêu cầu kinh nghiệm

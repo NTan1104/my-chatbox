@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Backend Developer Junior
+
+Mô tả công việc:
+Tham gia các dự án phát triển bài toán tích hợp giữa các hệ thống quản trị trong doanh nghiệp như ERP, CRM, MIS… Làm việc với Người quản lý dự án, kiến trúc sư, khách hàng và các bên liên quan khác để phát triển các API MuleSoft theo yêu cầu của doanh nghiệp.Đóng góp trong việc thiết kế và phát triển các API để đáp ứng yêu cầu và thời hạn của khách hàng.
+
+Yêu cầu công việc:
+Tốt nghiệp chuyên ngành Hệ thống thông tin, Công nghệ thông tin hoặc các ngành có liên quan.Có kinh nghiệm làm việc với các hệ thống RESTful API, Web Services,…Có kinh nghiệm làm việc với các hệ thống quản trị cơ sở dữ liệuCó kỹ năng giao tiếp, làm việc độc lập, làm việc nhóm tốt.Có kỹ năng đọc, hiểu tài liệu Tiếng Anh. Giao tiếp cơ bản.Có kỹ năng làm tài liệu để đào tạo, bàn giao công việc với khách hàng.Ham học hỏi, nhanh nhạy với các thay đổi mới về công nghệ.Ưu tiên dã từng tham gia các dự án hoặc có các sản phẩm về lập trình.Có kinh nghiệm lập trình với một loại ngôn ngữ bất kỳ là một lợi thế.
+
+Yêu cầu kinh nghiệm: Dưới 1 năm

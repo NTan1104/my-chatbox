@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên PHP
+
+Mô tả công việc:
+Tham gia tìm hiểu yêu cầu, phân tích – thiết kế, phát triển các sản phẩm trên nền tảng Web cho các dự án trong và ngoài Viettel.Tham gia vào quá trình nghiên cứu và tối ưu sản phẩm theo yêu cầu của khách hàng.Nghiên cứu và áp dụng các công nghệ mới áp dụng vào dự án.Triển khai, bảo trì dự án.
+
+Yêu cầu công việc:
+Có từ 2 năm trở lên kinh nghiệm lập trình web với công nghệ PHP Am hiểu thiết kế, lập trình hướng đối tượng, cấu trúc dữ liệu và thuật toán.Thành thạo Framework LaravelCó khả năng quản lý công việc và thời gian tốtĐiểm cộng: có kinh nghiệm làm việc với FE, sử dụng 1 trong các framework AngularJS/VueJS/ReactJSƯu tiên ứng viên có kinh nghiệm làm việc theo phương pháp phát triển phần mềm Agile/Scrum.
+
+Yêu cầu kinh nghiệm: 3-5 năm

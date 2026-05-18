@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Junior Developer (Angular/C#/.Net/ Python )
+
+Mô tả công việc:
+- Tham gia vào các dự án phát triển và bảo trì hệ thống trong các lĩnh vực như Quản lý sản xuất, Quản lý công, Y tế, Hàng không, Ngân hàng, Logistics v.v... cho khách hàng Nhật Bản;- Thực hiện Design, Coding, Code Review, Unit test, Fix bugs;. - Nội dung công việc chi tiết sẽ được trao đổi khi phỏng vấn.
+
+Yêu cầu công việc:
+- Biết 1 trong các ngôn ngữ lập trình Angular/.Net C#/Java. - Biết về CSDL: SQL Server/Oracle/ MySQL/ Postgres. - Có hiểu biết về mô hình hoạt động của web, framework- Có kinh nghiệm làm việc trong môi trường Nhật.. - Có kinh nghiệm về Azure/ Chứng chỉ về Azure Cloud là lợi thế
+
+Yêu cầu kinh nghiệm: 1-3 năm

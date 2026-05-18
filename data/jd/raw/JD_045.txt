@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên PHP ( Ec-Cube/ Symfony)
+
+Mô tả công việc:
+Triển khai các dự án website sử dụng PHP.Tham gia vào thiết kế và review source codeCập nhật tiến độ và thông báo tình trạng công việc trực tiếp tới quản lý dự ánTeamwork với các thành viên khác bao gồm Developer, QA, PM, BrSE để thực hiện dự án thành côngNâng cao performance, turning logic, cài đặt các nghiệp vụ mới
+
+Yêu cầu công việc:
+Có 1+ năm kinh nghiệm lập trình các ứng dụng Web dùng ngôn ngữ PHP, thành thạo framework EC-CUBE hoặc SymfonyNắm vững kiến thức về OOP, Solid. Hiểu biết về UI/UX.Sử dụng thành thạo công cụ GitCó kinh nghiệm triển khai dự án dùng dịch vụ AWS là một lợi thế.Thành thạo mô hình MVCCó hiểu biết CSS, HTML, JSCó kinh nghiệm sử dụng một trong các hệ quản trị cơ sở dữ liệu như MySQL, SQL Server....Khả năng tự nghiên cứu và nắm bắt nhanh các framework mớiCó tư duy logic, sử dụng thuật toán tốtLàm việc tận tâm, có trách nhiệmCó tư duy độc lập, sáng tạo trong công việc
+
+Yêu cầu kinh nghiệm: 1-3 năm

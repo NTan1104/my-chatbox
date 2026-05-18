@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Fullstack Web Developer (Nodejs, Vuejs)
+
+Mô tả công việc:
+• Tham gia thiết kế, triển khai ứng dụng web dùng trong hệ thống camera giám sát.• Thiết kế giao diện, lên ý tưởng cho hệ thống.• Tiếp nhận yêu cầu, góp ý từ sales, xây dựng giải pháp.
+
+Yêu cầu công việc:
+• Có kinh nghiệm phát triển frontend: HTML/CSS, Bootstrap, VueJS.. • Có kinh nghiệm xây dựng API sử dụng NodeJS.. • Làm việc với các database, ưu tiên MongoDB.. • Có khả năng tự nghiên cứu, đề xuất giải pháp, đề xuất thiết kế UI/UX.. • Có thêm các kỹ năng/kinh nghiệm sau là lợi thế:. Làm việc với các hệ thống camera, video streaming, indoor map. Kết nối và sử dụng kafka. Triển khai, kết nối và sử dụng elasticsearch. Sử dụng tốt tiếng Anh/Nhật
+
+Yêu cầu kinh nghiệm: 1-3 năm

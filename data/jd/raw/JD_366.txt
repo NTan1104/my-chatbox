@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: PHP Developer (Junior)
+
+Mô tả công việc:
+- Trao đổi và cung cấp giải pháp công nghệ cho các sản phẩm học online Tiếng Hàn.- Tham gia xây dựng các service backend, analysis phục vụ nhu cầu vận hành ngày càng lớn của công ty.- Tham gia xây dựng các hệ thống website- Tham gia các công đoạn tìm hiểu yêu cầu, phân tích, thiết kế, nghiên cứu công nghệ khi được phân công.- Lập trình các module CMS/ API- Theo dõi hệ thống để ngăn các lỗi hệ thống.- Báo cáo hàng tuần cho cấp trên trong dự án.
+
+Yêu cầu công việc:
+- Có từ 06 tháng kinh nghiệm làm việc với phát triển Backend;- Có kinh nghiệm lập trình PHP và thành thạo ít nhất 1 framework PHP bất kỳ (Laravel, Codeignite, ...);- Có kinh nghiệm làm việc với MySQL, Nosql, tối ưu SQL,Redis, MongoDB;- Ưu tiên có kiến thức về lập trình Web ( HTML, CSS, Javascript, jQuery, XML);- Có kiến thức và hiểu về MVC, OOP, design pattern;- Có kiến thức về phát triển hệ thống REST, API;- Có hiểu biết về môi trường quản lý code sử dụng GIT, SVN;- Hiểu biết về bảo mật (web security), lập trình tối ưu (high performance) và lập trình hướng đối tượng;- Thái độ làm việc tốt, có mong muốn học hỏi và thể hiện bản thân;- Có tư duy lập trình tốt, tư duy lập trình hướng đối tượng, khả năng tự học hỏi và tìm hiểu các công nghệ mới trên nền tảng web;- Có kỹ năng làm việc theo nhóm, chịu được áp lực trong công việc và tinh thần trách nhiệm- Ưu tiên có kinh nghiệm Java.
+
+Yêu cầu kinh nghiệm: 1-3 năm

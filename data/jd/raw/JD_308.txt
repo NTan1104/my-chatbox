@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Junior Devops Engineer Up To 25 Triệu
+
+Mô tả công việc:
+Tham gia triển khai các dự án về Microservices/Container cho các khách hàng trong lĩnh vực Tài chính, Ngân hàng (MB, VP, VIB, TCB…). Thực hiện cài đặt, cấu hình các giải pháp về container của Redhat, Vmware lên hệ thống của khách hàng.. Tham gia xây dựng các tài liệu về Testing, nghiệm thu, bàn giao trong dự án.. Thực hiện các bài User Acceptance Testing (UAT) với khách hàng.. Nghiên cứu các giải pháp, công nghệ phần mềm theo định hướng của công ty.
+
+Yêu cầu công việc:
+Tốt nghiệp ĐH chuyên ngành CNTT hoặc Điện tử Viễn thông. Có ít nhất 01 năm kinh nghiệm làm hoặc nghiên cứu về một trong các container platform: Redhat Openshift hoặc VMware Tanzu hoặc Kubernetes.. Có ít nhất 01 năm kinh nghiệm tham gia vào các dự án trên môi trường Linux.. Có khả năng giao tiếp & đọc hiểu tài liệu kỹ thuật tiếng Anh.. Kỹ năng ứng xử, giao tiếp, thuyết trình tốt Kỹ năng giải quyết vấn đề và làm việc theo nhómCó khả năng làm việc độc lập, chủ động, trách nhiệm, nhiệt tình trong công việc.
+
+Yêu cầu kinh nghiệm: 1-3 năm

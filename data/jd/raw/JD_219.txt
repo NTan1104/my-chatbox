@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên Web App (Thu Nhập 10 - 18 Triệu)
+
+Mô tả công việc:
+- Xây dựng các ứng dụng trên nền tảng web bằng React Js và Dotnet/NodeJs/PHP. - Tham gia công đoạn tìm hiểu yêu cầu, phân tích, thiết kế, nghiên cứu công nghệ khi được phân công. - Thực hiện công việc theo yêu cầu từ quả lý
+
+Yêu cầu công việc:
+Thành thạo HTML/CSSCó kinh nghiệm xây dựng web bằng ReactCó khả năng xây dựng API bằng một trong những ngôn ngữ lập trình php, java, js (node js), python...Thành thạo các câu lệnh truy vấn SQLAm hiểu về dotnet là một lợi thế
+
+Yêu cầu kinh nghiệm: Dưới 1 năm

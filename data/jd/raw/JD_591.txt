@@ -1,0 +1,39 @@
+Devops Manager (IT)
+
+Chi tiết tin tuyển dụng
+Yêu cầu:
+Trên 5 năm kinh nghiệm
+Đại Học trở lên
+Xem chi tiết Yêu cầu
+Quyền lợi:
+Nghỉ thứ 7
+Xem chi tiết Quyền lợi
+Chuyên môn:
+DevOps Engineer
+Ngân hàng
+Tài chính
+Chứng khoán
+Mô tả công việc
+- Quản lý và vận hàng toàn bộ hệ thống giám sát, log tập trung đảm bảo họat động giám sát hoạt động an toàn, tin cậy.
+- Chịu trách nhiệm xây dựng các tài liệu, quy trình giám sát toàn bộ dịch vụ CNTT của ngân hàng.
+- Quản lý các hệ thống IT tool chain của ngân hàng an toàn, hoạt động ổn định, độ tin cậy cao.
+- Thực hiện rà soát , đánh giá hiệu quả và quy hoạch sử dụng IT tool chain của ngân hàng.
+- Đào tạo, phát triển nhân sự; đề xuất ban lãnh đạo Trung tâm và Khối CNNH về chế độ đãi ngộ, khen thưởng, kỷ luật đối với nhân viên thuộc chức năng.
+- Phối hợp các đơn vị chức năng khác trong Khối CNNH để hoàn thành nhiệm vụ chung của Khối CNNH.
+
+- Quản lý, vận hành toàn bộ hệ thống monitor, logging
+- Quản lý, triển khai vận hành hệ thống DevSecOps
+- Quản lý, triển khai, vận hành hệ thống IT Tool chain
+- Quản lý, triển khai, vận hành hệ thống IT Automation
+- Chịu trách nhiệm triển khai, giám sát hệ thống trong và ngoài giờ làm việc.
+- Chịu trách nhiệm xây dựng các kịch bản, diễn tập DRP, BCP.
+- Chịu trách nhiệm lên kế hoạch và triển khai các dự án đầu tư , bảo trì và tối ưu dịch vụ và dự án CNTT của ngân hàng.
+-Thực hiện rà soát , đánh giá hiệu quả và quy hoạch sử dụng tài nguyên CNTT của ngân hàng.
+- Đào tạo, phát triển nhân sự; đề xuất ban lãnh đạo Trung tâm và Khối CNNH về chế độ đãi ngộ, khen thưởng, kỷ luật đối với nhân viên thuộc chức năng.
+- Phối hợp các đơn vị chức năng khác trong Khối CNNH để hoàn thành nhiệm vụ chung của Khối CNNH
+- Thực hiện báo cáo theo quy định của ngân hàng.
+
+Yêu cầu ứng viên
+Bằng cấp: Tốt nghiệp Đại học trở lên các chuyên ngành Công nghệ thông tin/ Điện tử viễn thông/ Toán tin.
+Có các chứng chỉ về Cloud là lợi thế
+Kinh nghiệm: Có tối thiểu 05 năm kinh nghiệm liên quan (trong đó có 2 năm cấp dưới liền kề), trong việc quản lý dịch vụ CNTT, triển khai hạ tầng kỹ thuật ngân hàng bao gồm hệ thống mạng và an ninh mạng và hệ thống phần cứng.

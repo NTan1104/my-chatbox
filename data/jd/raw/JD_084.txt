@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên Frontend
+
+Mô tả công việc:
+Địa điểm: Tầng 17, Tòa nhà Center Building – Số 85, Vũ Trọng Phụng, Thanh Xuân, Hà Nội.Thời gian làm việc: 9h00 - 17h30 (Thứ 2 đến sáng thứ 7)Số lượng cần tuyển: 05 ngườiMÔ TẢ CÔNG VIỆC:Có khả năng lập trình HTML5, CSS3, Javascript, Jquery.Chuyển từ giao diện PSD sang giao diện Web.Có hiểu biết về 1 trong các JS framework (AngularJS, VueJS, ReactJS,...)Có khả năng làm giao diện cho các loại Browser (IE, Chrome, Firefox,…)
+
+Yêu cầu công việc:
+Kinh nghiệm từ 6 tháng trở lên (được đào tạo về chuyên môn)Ưu tiên các ứng viên có kinh nghiệm tối ưu frontend webBiết sử dụng phần mềm thiết kế Figma, sketch là lợi thếTinh thần cầu tiến, ham học hỏi, chủ động nghiên cứu công nghệ mới.
+
+Yêu cầu kinh nghiệm: Dưới 1 năm

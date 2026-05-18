@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên Vuejs (Offer Upto 35M)
+
+Mô tả công việc:
+-Làm Các dự án product/outsource cho khách hàng Mỹ/Sing/Úc/Thụy Sĩ/Nhật: Lĩnh vực: Tài chính, Y tế, E-commerce…-Đề ra các kế hoạch cải tiến giao diện phần mềm. -Tham gia vào review code Frontend.-Thực hiện các công việc liên quan khác theo sự phân công của người quản lý.
+
+Yêu cầu công việc:
+-Có kinh nghiệm làm việc với Javascript-Có kinh nghiệm làm việc TypeScript-Có ít nhất 3 năm làm việc với VueJS (NuxtJS)-Thành thạo HTML/CSS, Responsive-Sử dụng thành thạo 1 số tool: Webpack, Gulp…-Ưu tiên ứng viên biết 1 trong những ngôn ngữ Backend: PHP/NodeJS-Ưu tiên ứng viên có thể giao tiếp tiếng Anh
+
+Yêu cầu kinh nghiệm: 3-5 năm

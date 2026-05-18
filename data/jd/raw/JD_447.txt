@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên Angular (Dự Án Ngân Hàng)
+
+Mô tả công việc:
+- Phát triển các tính năng giao diện người dùng sử dụng Angular 2+- Xây dựng và phát triển các sản phẩm hoặc hệ thống có số lượng người dùng cao.- Chuyển đổi ý tưởng thành giải pháp phần mềm cụ thể.- Liên tục tối ưu và hiện đại hóa các giải pháp để tối ưu hóa hiệu năng và nâng cao hiệu quả của các sản phẩm hiện có.- Góp phần cải thiện các quy trình và tiêu chuẩn kỹ thuật hiện có, để mang lại kết quả làm việc cao hơn cho nhóm.- Nghiên cứu các công nghệ mới để ứng dụng vào các dự án hiện tại và tương lai.- Tuân thủ quy trình phát triển dự án của công ty.
+
+Yêu cầu công việc:
+- Có kinh nghiệm từ 2 năm làm Angular tại dự án thực tế- Có kinh nghiệm với Angular, Javascript, TypeScript, CSS/SCSS, HTML, Webpack, MaterialUI hoặc Node JS- Sử dụng thành thạo GIT và các công cụ hỗ trợ quản lý dự án khác.- Thể hiện tinh thần không ngừng học hỏi và sẵn sàng tiếp cận công nghệ mới.- Khả năng làm việc trong môi trường nhóm.
+
+Yêu cầu kinh nghiệm: Không yêu cầu kinh nghiệm

@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên .Net
+
+Mô tả công việc:
+• Tham gia phát triển các hệ thống lớn theo yêu cầu của công ty trên nền tảng .NET Core.• Tham gia vào quá trình phân tích và thiết kế hệ thống• Thực hiện các công việc lập trình: Dựng hệ thống và cấp các Restful API cho phát triển chức năng/tính năng mới • Nghiên cứu, đề xuất và triển khai các giải pháp kỹ thuật giúp nâng cấp chất lượng dịch vụ.• Hỗ trợ golive và vận hành hệ thống hoạt động ổn định
+
+Yêu cầu công việc:
+Kỹ năng lập trình• Hiểu nguyên lý lập trình hướng đối tượng• Nắm được các kiến thức cơ bản của ngôn ngữ lập trình C Sharp (biết khai báo biến, hàm, class, interface,.. sử dụng các từ khóa async/await, thread, task, ...)• Biết code bất đồng bộ với multi-thread và lập lịch• Biết sử dụng được các class, thư viện, component có sẵn để giải quyết vấn đề• Hiểu về các cấu trúc dữ liệu cơ bản (list, stack, queue, hash table, tree...)Kỹ năng database:• Biết cách truy vấn cơ bản• Biết cách insert và xóa dữ liệu• Biết cách kết nối với CSDL bằng ngôn ngữ lập trình• Biết cách tạo bảng xóa bảng, edit bảng• Biết cách chuyển dữ liệu dữ ngôn ngữ lập trình vào CSDL và ngược lạiKỹ năng máy tính:• Sử dụng thành thạo các công cụ IDE lập trình để quản lý project• Có kỹ năng debug được trên IDE (Visual studio)• Sử dụng được Git• Biết dùng các lệnh cơ bản của HĐH Linux và Windows là lợi thếPhẩm chất con người:• Chủ động trong công việc• Có tình thần học hỏi cao• Có trách nhiệm trong công việc
+
+Yêu cầu kinh nghiệm: 1-3 năm

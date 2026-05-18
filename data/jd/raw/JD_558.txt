@@ -1,0 +1,31 @@
+Java Back-End Engineer
+Chi tiết tin tuyển dụng
+Yêu cầu: 1 năm kinh nghiệm
+Đại Học trở lên Xem chi tiết Yêu cầu
+
+Chuyên môn:Backend Developer Tài chính Marketing / Quảng cáo
+
+
+Mô tả công việc
+Thiết kế và phát triển hệ thống backend sử dụng Java (Spring Boot) theo kiến trúc microservices.
+Xây dựng và tối ưu các RESTful APIs phục vụ các nền tảng giao dịch tài chính.
+Làm việc với các hệ thống dữ liệu và message streaming như PostgreSQL, Redis, Kafka.
+Tối ưu hiệu năng hệ thống, xử lý các bài toán concurrency, data consistency và high throughput.
+Phối hợp với Product, QA và DevOps để triển khai và vận hành hệ thống trên môi trường production.
+Tham gia nghiên cứu và triển khai các công nghệ mới trong hệ thống tài chính và dữ liệu thị trường.
+Yêu cầu ứng viên
+Technical Requirements
+
+Tốt nghiệp ngành Công nghệ thông tin hoặc tương đương.
+Có từ 1 năm kinh nghiệm phát triển backend với Java.
+Thành thạo Spring Boot, RESTful APIs.
+Có kinh nghiệm làm việc với Git và build tools (Maven / Gradle).
+Hiểu các nguyên tắc thiết kế hệ thống backend (layered architecture, clean code).
+Có kinh nghiệm làm việc với database (PostgreSQL / MySQL).
+Nice to have
+
+Hiểu biết về Microservices Architecture.
+Kinh nghiệm làm việc với Kafka, Redis.
+Có kinh nghiệm triển khai Docker / Kubernetes.
+Có kinh nghiệm trong các hệ thống tài chính, chứng khoán hoặc Fintech.
+Có kinh nghiệm sử dụng AI code assistant (Cursor, Copilot, ChatGPT, Claude).

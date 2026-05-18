@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên Wordpress ( PHP )
+
+Mô tả công việc:
+- Phụ trách, đảm nhiệm 1 dự án của công ty (fullstack)- Xây dựng dự án trên nền tảng wordpress- Dùng PHP để code các chức năng phù hợp- Chỉnh sửa, fix bug nếu có- Theo dõi và phụ trách dự án lâu dài-Làm việc với bạn react native để phối hợp kết nối link web với app tạo app webview (được training)
+
+Yêu cầu công việc:
+- Thông thạo sử dụng, cài đặt wordpress, lập trình được themes, plugin, tùy biến theo yêu cầu- Phát triển hệ thống CRM quản lý dự án, đơn hàng, khách hàng, nhân viên,...- HTML, CSS, bootstrap, JS (Jquery, Ajax)- PHP, nắm được mô hình MVC, OOP- Có kiến thức về domain, hosting, SEO onpage, tối ưu tốc độ, bảo mật, xử lý sự cố mã độc.- Đã làm việc nhiều với các plugin WPML, Woocommerce, ACF pro, SEO,...- Sử dụng được các phần mềm thiết kế web-Thật thà, siêng năng
+
+Yêu cầu kinh nghiệm: 1-3 năm

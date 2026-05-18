@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Backend Developer
+
+Mô tả công việc:
+Phát triển những ứng dụng nội bộ của cty. Làm việc kết nối với các sản phẩm nội bộ cũng như public.Phát triển mới, đồng thời đảm bảo vận hành tính năng hiện có cho những dự án của công ty.Cập nhật kiến thức về những công nghệ mới để áp ứng cho công việcCông việc cụ thể sẽ trao đổi khi phỏng vấn
+
+Yêu cầu công việc:
+Kinh nghiệm: có kinh nghiệm, tốt nghiệp cao đẳng trở lên chuyên ngành liên quanLập trình dùng ngôn ngữ SQL Server/MySQLMạnh về backend, có hiểu biết về phần mềm kế toán là một lợi thế.Có kinh nghiệm dựng DB server với data lớn là lợi thế.Có nhiều kinh nghiệm lập trình với nhiều ngôn ngữ như .Net,C++,Java,DelphiThiết kế, phát triển và vận hành service có access quy mô lớn.Có khả năng làm việc độc lập và làm việc nhóm
+
+Yêu cầu kinh nghiệm: 1-3 năm

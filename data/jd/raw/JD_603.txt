@@ -1,0 +1,34 @@
+Account Manager - AWS
+
+Chi tiết tin tuyển dụng
+Yêu cầu:
+1 năm kinh nghiệm
+Đại Học trở lên
+Xem chi tiết Yêu cầu
+Quyền lợi:
+Nghỉ thứ 7
+Xem chi tiết Quyền lợi
+Chuyên môn:
+Account Manager (Quản lý khách hàng)
+B2B
+Mô tả công việc
+– Là đầu mối liên hệ chính (Point of Contact) cho danh sách khách hàng doanh nghiệp được phân công.
+– Xây dựng và duy trì mối quan hệ bền chặt với các cấp quản lý (C-level, IT Manager) của khách hàng.
+– Tổ chức các buổi họp định kỳ (Quarterly Business Review - QBR) để báo cáo tình hình sử dụng dịch vụ và lắng nghe phản hồi.
+– Phân tích báo cáo chi phí AWS hàng tháng của khách hàng.
+– Tư vấn cho khách hàng các giải pháp tiết kiệm ngân sách như: Reserved Instances (RI), Savings Plans, Spot Instances.
+– Hướng dẫn khách hàng sử dụng các công cụ quản lý chi phí của AWS và CloudAZ.
+– Nhận diện các cơ hội mới từ tệp khách hàng hiện tại
+– Phối hợp với đội ngũ Solution Architect (SA) để xây dựng giải pháp kỹ thuật và làm báo giá (Proposal) gửi khách hàng.
+– Đàm phán và thực hiện các thủ tục tái ký hợp đồng (Renewals), đảm bảo tỷ lệ khách hàng ở lại (Retention Rate) cao.
+– Làm việc chặt chẽ với đội ngũ quản lý đối tác của AWS (AWS Partner Team) để cập nhật các chính sách ưu đãi, chương trình hỗ trợ (Funding/Credits) cho khách hàng.
+
+Yêu cầu ứng viên
+– Tối thiểu 1-3 năm kinh nghiệm tại vị trí Account Manager hoặc Sales B2B trong lĩnh vực IT (Ưu tiên các đơn vị Managed Services hoặc Partner của AWS/GCP/Azure).
+– Hiểu biết rõ ràng về các dịch vụ cốt lõi của AWS (EC2, S3, RDS, Lambda, Networking).
+- Kỹ năng thuyết trình, đàm phán và quản lý thời gian tốt. Có tư duy phân tích số liệu (Data-driven).
+- Khả năng giao tiếp khéo léo, xử lý tình huống linh hoạt dưới áp lực cao.
+- Tiếng Anh giao tiếp cơ bản
+- Tinh thần chủ động (Proactive) trong việc giải quyết vấn đề của khách hàng.
+
+Ưu tiên ứng viên có chứng chỉ AWS Certified Cloud Practitioner hoặc AWS Certified Solutions Architect – Associate.

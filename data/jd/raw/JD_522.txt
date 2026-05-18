@@ -1,0 +1,37 @@
+Business AI Operations Specialist (Sales & Marketing Focus) Lương 20-25 Triệu
+
+Chi tiết tin tuyển dụng
+Yêu cầu:
+1 năm kinh nghiệm
+Đại Học trở lên
+Xem chi tiết Yêu cầu
+Quyền lợi:
+Bảo hiểm xã hội
+Thưởng tháng 13
+Du lịch hàng năm
+Xem chi tiết Quyền lợi
+Chuyên môn:
+AI Engineer
+IT - Phần mềm
+Marketing / Quảng cáo
+Mô tả công việc
+1. Phân tích & Tái cấu trúc: Khảo sát quy trình Sales, Marketing tại 15 chi nhánh để tìm ra các điểm nghẽn có thể tự động hóa bằng AI.
+
+2. Thiết kế AI Workflow: Phối hợp cùng AI Engineer xây dựng các Agent trên Open Claw (VD: Agent soi lỗi Content, Agent phân tích nợ xấu, Agent dự báo doanh số).
+
+3. Chuyển đổi thao tác: Thay thế các bảng tính Excel theo dõi Ads, báo cáo Sale phức tạp bằng luồng hội thoại AI.
+
+4. Đào tạo & Triển khai: Hướng dẫn đội ngũ Sale/MKT cách sử dụng Prompt để khai thác tối đa năng lực của AI Agent.
+
+Yêu cầu ứng viên
+Bằng cấp/chuyên môn: Tốt nghiệp chuyên ngành CNTT, Hệ thống thông tin hoặc Kinh tế (có tư duy logic tốt).
+
+Kinh nghiệm: Có 1-2 năm kinh nghiệm ở vị trí BA hoặc triển khai hệ thống (ưu tiên đã làm qua Odoo)
+
+Kỹ năng khác:
+
+Hiểu biết về cấu trúc dữ liệu Odoo (Sale, CRM, Marketing).
+Kỹ năng Prompt Engineering tốt, có kinh nghiệm build AI Agent (trên các platform như Open Claw, Coze, Flowise...).
+Tư duy Hệ thống (Systems Thinking) mạnh.
+Đam mê, nhạy bén với các công nghệ AI mới (LLMs, RAG, Agents).
+Kỹ năng giao tiếp và truyền đạt tốt để đào tạo người dùng cuối.

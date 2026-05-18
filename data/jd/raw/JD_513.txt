@@ -1,0 +1,205 @@
+Lập Trình Viên TRIỂN KHAI HỆ THỐNG AI COMMERCE/ AI Engineer
+
+Chi tiết tin tuyển dụng
+Yêu cầu:
+Không cần kinh nghiệm
+Cao Đẳng trở lên
+Xem chi tiết Yêu cầu
+Chuyên môn:
+AI Engineer
+Mô tả công việc
+Tham gia phân tích tài liệu, thiết kế kỹ thuật, viết code, tích hợp API, xây database, triển khai worker, test, smoke, release và vận hành hệ thống AI Commerce cho Ginsengfood.
+
+Đọc và chuyển tài liệu thành thiết kế triển khai
+
+Đọc bộ tài liệu AI Advisor / Gateway / Ads / Live / Messenger / CRM.
+Tách yêu cầu thành module, API, DB, worker, admin screen, test case.
+Xác định rõ phần nào thuộc AI Advisor, phần nào thuộc Facebook Channel Gateway, phần nào thuộc Runtime Core.
+Không tự suy luận nghiệp vụ ngoài tài liệu đã khóa.
+Không bỏ qua các gate như ClaimGuard, FinalGuard, QuoteSnapshot, CustomerConfirmation, CRMEligibilityGuard.
+Triển khai Backend API
+
+Xây dựng API cho AI Advisor, quote, order, CRM, live/comment, Messenger handoff, Ads attribution.
+Thiết kế request/response DTO rõ ràng.
+Tách query và command.
+Tạo API theo đúng boundary, không để Gateway tự quote/order/CRM.
+Xử lý idempotency để tránh tạo trùng quote, order, CRM hoặc reply.
+Xử lý lỗi chuẩn: validation, business rule, permission, conflict, external integration error.
+Thiết kế và triển khai database
+
+Thiết kế bảng dữ liệu cho các module:
+AI conversation.
+DecisionEnvelope.
+resolver/guard log.
+quote cart.
+quote snapshot.
+order confirmation draft.
+customer confirmation.
+CRM lifecycle.
+Facebook raw event.
+normalized event.
+delivery log.
+attribution context.
+page registry.
+webhook event.
+idempotency record.
+audit log.
+Viết migration, seed data, validation.
+Đảm bảo không lưu token/secret thật trong DB/log tài liệu.
+Đảm bảo các dữ liệu nội bộ như campaign/adset/ad/ROAS không bị public ra khách.
+Triển khai AI Advisor runtime
+
+Xây dựng hoặc tham gia xây dựng:
+AdvisorOrchestrator.
+SituationRecognition.
+IntentClassification.
+EntityExtraction.
+VariableBinding.
+ProductRoutingResolver.
+ProductKnowledgeResolver.
+CustomerMemoryResolver.
+FacebookContextResolver.
+LiveSessionResolver.
+AdsAttributionResolver.
+MessengerHandoffResolver.
+GoldenHourResolver.
+ProgramPriceResolver.
+QuoteSnapshotResolver.
+CRMEligibilityGuard.
+ClaimGuard.
+PublicPrivateSurfaceGuard.
+ROASInternalOnlyGuard.
+FinalGuard.
+Đảm bảo AI không tự bịa giá, tồn kho, chương trình, quyền lợi thành viên, Diamond, payment, order status.
+Đảm bảo live/comment public không báo giá cuối, không xác nhận đơn, không lặp PII.
+Triển khai Facebook Channel Gateway
+
+Triển khai webhook endpoint cho Meta.
+Xử lý verify token handshake.
+Validate chữ ký X-Hub-Signature-256.
+Lưu raw event an toàn.
+Normalize event thành schema nội bộ.
+Dedup / idempotency event.
+Route normalized event vào AI Advisor.
+Tạo retry queue, dead-letter queue, delivery log.
+Đảm bảo Gateway chỉ là lớp hạ tầng Meta/Facebook, không tự tư vấn, không tự báo giá, không tự tạo quote/order/CRM.
+Tích hợp Messenger / Live / Comment / Handoff
+
+Xử lý live comment, post comment, Messenger message, message echo, delivery status.
+Phân biệt public surface và private surface.
+Tạo handoff từ comment/live sang Messenger.
+Giữ context khi khách chuyển từ live/comment sang Messenger.
+Không để duplicate webhook tạo nhiều reply.
+Không để message echo kích hoạt AI trả lời lại.
+Ghi log outbound và trạng thái gửi.
+Tích hợp Ads Attribution / ROAS Dashboard
+
+Gắn attribution từ campaign/adset/ad/live/page/comment/Messenger vào sales session, quote và order.
+Ghi nhận measurement events.
+Đảm bảo ROAS chỉ tính bằng ORDER_VERIFIED revenue.
+Không tính doanh thu bằng comment, inbox, quote hoặc order chưa xác minh.
+Không public campaign/adset/ad/ROAS cho khách.
+Hỗ trợ dashboard vận hành Ads/Live/CRM nếu được phân công.
+Triển khai CRM lifecycle
+
+Xây dựng logic CRM sau mua.
+Hỗ trợ CRM 12 tháng theo Customer Memory.
+Kiểm tra suppression: opt-out, open case, message fatigue, quiet hour.
+Gửi CRM theo Product Effectiveness Block khi gợi ý sản phẩm.
+Không gửi CRM nếu chưa qua CRMEligibilityGuard.
+Không bịa lịch sử mua, hạng thành viên, quyền lợi hoặc số phần ăn còn lại.
+Triển khai Admin UI / Dashboard nội bộ
+
+Xây dựng màn hình admin theo phân quyền:
+Page Registry.
+Webhook event.
+Normalized event.
+AI decision log.
+Quote/Order log.
+CRM outbox.
+Delivery log.
+Ads/ROAS dashboard.
+Error/DLQ/replay dashboard.
+Feature flag / release status.
+Đảm bảo RBAC, audit và permission cho các action rủi ro cao.
+Không để admin UI hiển thị raw token, App Secret hoặc Page Access Token.
+Test, smoke, release, rollback
+
+Viết unit test, integration test, API test, E2E smoke test.
+Test các case P0:
+live public không báo giá;
+live public không lặp PII;
+Messenger handoff giữ context;
+duplicate webhook không tạo duplicate reply/order;
+QuoteSnapshot bắt buộc trước báo giá;
+CustomerConfirmation bắt buộc trước tạo order;
+order success phải có order_code;
+CRM suppression hoạt động;
+ROAS internal-only;
+Gateway signature validation;
+App Review / token / Page registry theo policy.
+Chuẩn bị rollback plan, feature flags, monitoring.
+Không release nếu P0 fail.
+
+
+Yêu cầu ứng viên
+Yêu cầu kỹ thuật chính
+
+Bắt buộc
+
+Có kinh nghiệm lập trình backend hoặc full-stack.
+Biết thiết kế API REST.
+Biết làm việc với database quan hệ như PostgreSQL, MySQL hoặc SQL Server.
+Biết thiết kế bảng, migration, seed data, index, constraint.
+Hiểu authentication, authorization, RBAC, audit log.
+Hiểu queue/worker/background job ở mức triển khai.
+Biết xử lý webhook, retry, idempotency, duplicate event.
+Có khả năng đọc tài liệu nghiệp vụ dài và chuyển thành task/code.
+Có khả năng debug lỗi API, DB, worker, integration.
+Biết Git, GitHub/GitLab, pull request, review code.
+Có tư duy test, smoke, release, rollback.
+Ưu tiên
+
+Biết .NET / C# / ASP.NET Core.
+Biết PostgreSQL.
+Biết React / Next.js / TypeScript.
+Biết tích hợp Facebook Graph API, Messenger Platform, Meta Webhook, Meta Ads API.
+Biết OpenAPI / Swagger.
+Biết Docker, Linux, CI/CD là lợi thế.
+Biết Redis, message queue, background worker là lợi thế.
+Biết AI API / LLM / prompt orchestration / function calling là lợi thế.
+Biết CRM, e-commerce, order, payment, live commerce là lợi thế.
+Biết dashboard dữ liệu, tracking, attribution, ROAS là lợi thế.
+Stack công nghệ dự kiến
+
+Ứng viên không bắt buộc biết tất cả, nhưng cần sẵn sàng học và triển khai theo stack dự án:
+Backend: .NET / ASP.NET Core hoặc stack backend tương đương.
+Database: PostgreSQL.
+Frontend/Admin: React / Next.js / TypeScript.
+API Contract: REST API / OpenAPI / Swagger.
+Integration: Meta Webhook, Messenger, Facebook Page, Ads attribution.
+Worker: Background jobs, retry queue, DLQ, event processing.
+Security: Signature validation, secret ref, token governance, RBAC.
+AI Runtime: Orchestrator, resolver, guard, content render, final guard.
+DevOps: Git, CI/CD, environment config, staging, production, rollback.
+Yêu cầu tư duy làm việc
+
+Ứng viên phù hợp phải có tư duy:
+Không copy code rời rạc rồi ghép tạm.
+Không để AI sinh code xong dán vào mà không hiểu context.
+Không tự ý sửa nghiệp vụ lõi.
+Không bỏ qua test vì thấy “chạy được”.
+Không hardcode giá, tồn kho, token, chương trình, quyền lợi, payment.
+Không làm tắt quote/order/CRM.
+Không để Gateway bypass AI Advisor.
+Không để content bypass ClaimGuard/FinalGuard.
+Không để public surface lộ giá, PII, order, payment, campaign, ROAS.
+Luôn triển khai theo tài liệu, test case, done gate và owner approval.
+Phù hợp với ứng viên
+
+Muốn tham gia xây dựng hệ thống AI Commerce thực tế, không phải chatbot đơn giản.
+Thích làm backend/API/database/integration.
+Có khả năng đọc tài liệu nghiệp vụ và biến thành phần mềm thật.
+Muốn làm dự án có sản phẩm thật, nhà máy thật, live thật, ads thật, khách hàng thật.
+Muốn phát triển thành Backend Lead, Full-stack Lead, AI System Engineer, Solution Developer hoặc Technical Lead.
+Có hứng thú với AI, social commerce, live commerce, CRM, Ads tracking và hệ thống vận hành số.

@@ -1,0 +1,54 @@
+NGUYỄN VIỆT HOÀN
+
+Java Developer
+
+Thông tin liên hệ Mục tiêu nghề nghiệp
+
+Là người có tư duy logic, khả năng tự học và có tinh
+26/01/2001
+thần ham học hỏi, mong muốn trở thành một trong
+
+0966712135 những lập trình viên chủ chốt của công ty để mang
+lại những giải pháp công nghệ tối ưu cho khách hàng.
+
+hoannv261@gmail.com
+Đồng thời, tôi muốn được nâng cao trình độ chuyên
+môn và năng lực nghề nghiệp thông qua môi trường
+https://GitHub.com/viethoan261
+làm việc chuyên nghiệp của công ty.
+
+Tòa CT6B, Xa La, Hà Đông, HN
+Các kỹ năng
+Học vấn
+Lập trình::
+Đại học Công nghệ - Đại học quốc gia Hà Nội
+- Backend: Sử dụng ngôn ngữ chính
+| 9/2019 - 6/2023
+là Java, framework Spring Boot
+- Frontend: Làm việc chủ yếu với Chuyên ngành: Công Nghệ Thông Tin
+Angular
+Sinh viên năm 4 chuyên ngành Công nghệ thông
+- Sử dụng cơ bản MySQL, Postgress,
+tin, GPA 3.03
+SQL Server, Oracle.
+- Nắm cơ bản về cấu trúc dữ liệu
+giải thuật.
+- Sử dụng cơ bản Git.
+- Hiểu cơ bản về Microservices.
+Kinh nghiệm làm việc
+Tiếng Anh::
+Java Backend | 3/2022 - nay
+- Tiếng Anh đang ở mức trung bình
+Java Developer
+và đang tự trau dồi thêm.
+- Được tham gia một số dự án thực tế chủ yếu là
+Java và Angular và theo kiểu Microservices, hiểu cơ
+bản về các thành phần trong một dự án
+Microservices.
+- Dựng một số module của dự án theo mô hình
+DDD (Driven domain design), viết API kết hợp với
+
+xây dựng giao diện bằng Angular.
+- Một số project cá nhân nhỏ tự thực hành ở nhà.
+
+© topcv.vn

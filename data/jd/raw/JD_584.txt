@@ -1,0 +1,40 @@
+Data Engineer (AWS, Spark, Kafka, ETL/ELT, Banking/Fintech Domain) Từ 3 Năm Kinh Nghiệm
+
+Chi tiết tin tuyển dụng
+Yêu cầu:
+3 năm kinh nghiệm
+Đại Học trở lên
+Xem chi tiết Yêu cầu
+Quyền lợi:
+Nghỉ thứ 7
+Xem chi tiết Quyền lợi
+Chuyên môn:
+Data Engineer
+Mô tả công việc
+Thiết kế và phát triển các giải pháp Data Lake, Data Integration, App Engine phục vụ xử lý dữ liệu lớn, đảm bảo đúng tiến độ và ngân sách.
+Phối hợp với Data Expert để xây dựng kiến trúc và giải pháp dữ liệu phù hợp.
+Xây dựng, tối ưu và vận hành các pipeline ETL/ELT trên AWS (Glue, Lambda, Kinesis...).
+Thiết kế và quản lý hệ thống lưu trữ dữ liệu trên AWS: S3, Redshift, RDS, DynamoDB, Athena.
+Xây dựng quy trình ingest dữ liệu từ nhiều nguồn, đảm bảo chất lượng và tính toàn vẹn dữ liệu.
+Thiết kế data model (Staging, Atomic, Data Mart, Semantic Layer) phục vụ BI và downstream systems.
+Làm việc với BA để triển khai các giải pháp dữ liệu theo yêu cầu nghiệp vụ.
+Phát triển và tối ưu hệ thống xử lý dữ liệu batch & real-time (Kafka, Spark, Flink, Hadoop...).
+Tham gia xây dựng tiêu chuẩn Data Integration cho các dự án IT mới.
+Thực hiện troubleshooting, xử lý sự cố ở mức Level 3 support.
+Nghiên cứu, đề xuất các công nghệ dữ liệu mới (cloud, advanced data platform).
+Viết tài liệu kỹ thuật, tài liệu vận hành và triển khai hệ thống.
+Tuân thủ quy trình IT và quy định trong lĩnh vực ngân hàng.
+Yêu cầu ứng viên
+Tốt nghiệp Đại học chuyên ngành CNTT, Hệ thống thông tin hoặc tương đương.
+Tối thiểu 3–5 năm kinh nghiệm Data Engineer/Data Developer, ưu tiên làm việc với AWS.
+Kinh nghiệm thực tế với các dịch vụ AWS: Glue, Lambda, S3, Redshift, RDS, DynamoDB, Athena, Kinesis, EMR.
+Thành thạo SQL, có kinh nghiệm với cả Relational & NoSQL databases.
+Có kinh nghiệm với các framework Big Data: Spark, Hadoop hoặc tương đương.
+Có kỹ năng lập trình với Python, Java hoặc Scala.
+Hiểu và có kinh nghiệm xây dựng pipeline ETL/ELT, orchestration (Airflow...).
+Có kiến thức về IaC (Terraform/CloudFormation), DevOps, CI/CD.
+Tối thiểu 3 năm làm việc với các hệ quản trị CSDL: Oracle, SQL Server, MySQL, PostgreSQL.
+Kinh nghiệm về Data Warehouse, Data Modeling, Data Integration.
+Hiểu biết về domain ngân hàng là lợi thế.
+Tiếng Anh: đọc/viết tốt (bắt buộc), giao tiếp là lợi thế.
+Kỹ năng mềm: làm việc nhóm, cẩn thận, tư duy logic, chú ý chi tiết.

@@ -1,0 +1,45 @@
+DevOps Specialist
+
+Chi tiết tin tuyển dụng
+Yêu cầu:
+5 năm kinh nghiệm
+Đại Học trở lên
+Xem chi tiết Yêu cầu
+Quyền lợi:
+Nghỉ thứ 7
+Bảo hiểm sức khỏe
+Bảo hiểm xã hội
+Xem chi tiết Quyền lợi
+Chuyên môn:
+DevOps Engineer
+IT - Phần mềm
+Điện toán đám mây (Cloud)
+Mô tả công việc
+DevOps Specialist
+Thiết kế, triển khai và duy trì quy trình CI/CD nhằm hỗ trợ tích hợp, phân phối và triển khai liên tục trên nhiều môi trường.
+Tự động hóa việc cung cấp hạ tầng bằng Infrastructure-as-Code (Terraform, Pulumi, CloudFormation).
+Quản lý và tối ưu hóa các hệ thống Kubernetes, Container và kiến trúc Microservices.
+Đảm bảo tính sẵn sàng, khả năng mở rộng và bảo mật của hệ thống trên các nền tảng đám mây (AWS/GCP/Azure).
+Phát triển các giải pháp tự động cho quản lý cấu hình, điều phối thời gian chạy và chuẩn hóa môi trường.
+Xử lý sự cố và thực hiện đánh giá sau sự cố (post-mortem) nhằm cải thiện độ tin cậy của hệ thống.
+AIOps/MLOps Specialist
+Xây dựng và duy trì các quy trình giám sát thông minh cho logs, metrics, traces và application events.
+Phát triển hoặc tích hợp các hệ thống phát hiện bất thường, cảnh báo và phân loại sự cố tự động.
+Tự động hóa các quy trình vận hành như tự động khắc phục sự cố, khởi động lại dịch vụ, mở rộng quy mô và giảm nhiễu cảnh báo.
+Tích hợp các công cụ vận hành thông minh (Datadog, Dynatrace, New Relic, Elastic, OpenTelemetry) vào hệ thống.
+Phối hợp với các nhóm dữ liệu và Machine Learning để tối ưu hóa quy trình dữ liệu phục vụ các mô hình AIOps.
+Yêu cầu ứng viên
+Kỹ năng chuyên môn
+Tối thiểu 5 năm kinh nghiệm tại các vị trí DevOps hoặc MLOps hoặc AIOps hoặc tương đương
+Có khả năng thiết kế các giải pháp tự động hóa nhằm giảm thiểu thao tác thủ công.
+Có kinh nghiệm xây dựng hệ thống vận hành cho các sản phẩm AI là lợi thế
+Tư duy phân tích tốt, có khả năng xử lý các vấn đề phức tạp của hệ thống.
+Kỹ năng giao tiếp tốt và khả năng phối hợp với các nhóm kỹ thuật đa chức năng.
+Kỹ năng kỹ thuật
+Thành thạo các công cụ CI/CD như GitHub Actions, GitLab CI, Jenkins, ArgoCD, Tekton.
+Thành thạo Kubernetes, Docker và các công nghệ Cloud Native.
+Có kinh nghiệm thực tế với Infrastructure-as-Code (Terraform, Pulumi, Ansible).
+Khả năng lập trình tốt với Python, Bash hoặc Go.
+Hiểu biết về các hệ thống quan sát và giám sát (Prometheus, Loki, Grafana, ELK, OpenTelemetry).
+Có kiến thức về quy trình dữ liệu và các nguyên tắc cơ bản của Machine Learning cho từng use case AIOps.
+Am hiểu các nền tảng đám mây (AWS, GCP, Azure) và thiết kế hệ thống phân tán.

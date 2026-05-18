@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Network Engineer
+
+Mô tả công việc:
+- Làm việc cùng khách hàng để quy hoạch thiết kế tối ưu các hệ thống truyền dẫn và đồng bộ IP/Fiber trong viễn thông và truyền hình.- Triển khai lắp đặt và cấu hình hệ thống Network switch (Cisco, Arista etc…), Loadbalancer & Firewall, truyền dẫn truyền hình (IP/Fiber) etc…cho các dự án mới.- Hỗ trợ sửa lỗi, khắc phục các vấn đề gặp phải của khách hàng trong quá trình vận hành, triển khai hệ thống theo SLA hàng năm.- Nghiên cứu và học hỏi để nắm bắt được các công nghệ mới trong lĩnh vực truyền dẫn, truyền hình và viễn thông...
+
+Yêu cầu công việc:
+- Có kiến thức hay kinh nghiệm về Networking: Cấu hình switch và router, hệ thống Firewall, Loadbalancer etc…- Có kiến thức hay kinh nghiệm về Linux: Cài đặt Centos, Linux OS,.. - Có kiến thức hay kinh nghiệm cài đặt phần mềm ảo hoá, máy ảo, máy chủ, cài đặt Kubernetes K8S, hệ thống lưu trữ là một lợi thế- Tiếng Anh tốt là một lợi thế- Có một trong các chứng chỉ CCNA/CCNP, LPI là một lợi thế
+
+Yêu cầu kinh nghiệm: 1-3 năm

@@ -1,0 +1,38 @@
+Senior Backend Developer (Banking, Finance)
+Chi tiết tin tuyển dụng
+Yêu cầu:
+3 năm kinh nghiệm
+Đại Học trở lên
+Xem chi tiết Yêu cầu
+Quyền lợi:
+Nghỉ thứ 7
+Bảo hiểm xã hội
+Bảo hiểm sức khỏe
+Xem chi tiết Quyền lợi
+Chuyên môn:
+Backend Developer
+IT - Phần mềm
+Ngân hàng
+Tài chính
+Mô tả công việc
+Phân tích và thiết kế các hệ thống backend, đảm bảo lựa chọn công nghệ phù hợp cho từng sản phẩm và yêu cầu cụ thể
+Phát triển các tính năng backend mới và tích hợp chúng vào hệ thống hiện có, đảm bảo tính hiệu quả và ổn định của hệ thống
+Hợp tác chặt chẽ với các nhóm liên quan để tích hợp các tính năng backend vào các ứng dụng web và di động
+Hỗ trợ triển khai ứng dụng lên môi trường kiểm thử và thực tế, đảm bảo quá trình triển khai diễn ra suôn sẻ và hệ thống hoạt động ổn định
+Thực hiện cấu hình và triển khai các nghiệp vụ trên hệ thống Business Process Management (BPM).
+Yêu cầu ứng viên
+Tốt nghiệp đại học chuyên ngành CNTT, Toán tin, Điện tử viễn thông hoặc tương đương
+Có kinh nghiệm tham gia các dự án phát triển phần mềm trong lĩnh vực ngân hàng, tài chính, hoặc đầu tư, đặc biệt là các hệ thống onboarding khách hàng cá nhân cho các sản phẩm tài chính
+Có kinh nghiệm thực tế trong việc thiết kế, truy vấn, và tối ưu hóa cơ sở dữ liệu quan hệ (Oracle, PostgreSQL, MySQL) và phi quan hệ (MongoDB)
+Thành thạo phát triển ứng dụng backend với Java 8+ và các framework liên quan như Spring Boot và Hibernate
+Kinh nghiệm với các công nghệ bảo mật như Spring Security và xử lý API qua RestEasy, tích hợp hệ thống sử dụng RabbitMQ trong kiến trúc event-driven
+Có ít nhất 3 năm kinh nghiệm phát triển backend sử dụng các ngôn ngữ như Java, NodeJS, Python hoặc Golang, với kỹ năng mạnh mẽ trong phát triển RESTful APIs theo kiến trúc microservice
+Hiểu biết sâu về phát triển các API mạnh mẽ, có độ sẵn sàng cao và chịu tải tốt
+Kinh nghiệm với các công nghệ đám mây như AWS hoặc Azure, bao gồm cả việc tối vụ hóa hệ thống trên môi trường đám mây
+Kỹ năng giao tiếp tốt, tư duy sản phẩm và khả năng phối hợp hiệu quả trong nhóm đa chức năng.
+Điều kiện ưu tiên:
+
+Có kinh nghiệm triển khai hệ thống qua container hóa (ECS, Kubernetes, Docker) hoặc các dịch vụ FAAS như AWS Lambda
+Kinh nghiệm sử dụng các công cụ CCD như Git, Jenkins, Ansible, npm, hoặc Gradle đê tự động hóa quá trình phát triển và triển khai
+Có kinh nghiệm thiết kế kiến trúc phần mềm phức tạp và tối ưu hóa hiệu năng hệ thống cho các sản phẩm quy mô lớn.
+Có kinh nghiệm triển khai hệ thống CRM cho doanh nghiệp hoặc tổ chức tài chính.

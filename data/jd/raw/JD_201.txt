@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Data Engineer (Big Data)
+
+Mô tả công việc:
+- Tiếp cận và được đào tạo khi làm việc với các tập dữ liệu lớn.- Hỗ trợ kĩ thuật cho team BI để xây dựng dashboard- Tham gia phát triển và triển khai các dịch vụ sử dụng các công nghệ big data: Hadoop ecosystem, kafka, spark, …;- Nghiên cứu và triển khai các công nghệ lưu trữ và tính toán trên hệ thống bigdata;- Vận hành, triển khai các job ETL, tổng hợp dữ liệu;- Xây dựng và triển khai hệ thống phát hiện bất thường, hệ thống Hồ sơ khách hàng đảm bảo hiệu năng và tính sẵn sàng cao;- Làm việc với các team khác: Vận hành, Sản phẩm, BA.
+
+Yêu cầu công việc:
+1. Kiến thức chuyên môn- Tốt nghiệp đại học, cao đẳng chuyên ngành công nghệ thông tin;- Tối thiểu 2 năm kinh nghiệm về lĩnh vực Bigdata.- Có khả năng đọc hiểu tiếng anh chuyên ngành công nghệ thông tin.2. Kỹ năng lập trình- Có khả năng lập trình chuyên sâu java/python/scala, thông thạo spark, spark-streaming- Lập trình xử lý dữ liệu binary (byte, bit).- Có kinh nghiệm làm việc về các hệ thống big data, Data-warehouse, BI, sử dụng các mã nguồn mở như Hadoop ecosystem, spark, hive, kafka, hbase, cassandra;- Có kiến thức và kinh nghiệm xây dựng hệ thống chuyên sâu về dữ liệu với kiến trúc Lambda/Kappa/Data Lake;- Có kinh nghiệm xây dựng các hệ thống customer 360 đảm bảo hiệu năng và tính sẵn sàng cao là lợi thế.3. Các kỹ năng khác- Tư duy tốt, có khả năng nghiên cứu, đánh giá và cập nhật công nghệ mới.- Đam mê, nhiệt tình với công việc.- Có khả năng làm việc độc lập, làm việc nhóm.- Có khả năng chịu áp lực cao trong công việc.
+
+Yêu cầu kinh nghiệm: 1-3 năm

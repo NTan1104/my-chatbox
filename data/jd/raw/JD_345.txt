@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Full Stack Developer (Nodejs/Reactjs/JavaScript ) - Lương Up To 40 Triệu
+
+Mô tả công việc:
+Lập trình và phát triển các ứng dụng web/service trong các dự án products của công tyXây dựng giao diện người dùng (đối với frontend developer) và giao diện dịch vụ/API (đối với backend developer).Kết hợp với các bộ phận khác (kiểm thử, hệ thống,...) để hoàn thành, triển khai dự ánLàm việc trong nhóm phát triển các ứng dụng và dịch vụ theo phương pháp Agile.Đóng góp cho bộ phận và tổ chức để nâng cao quy trình, hiệu quả công việc.Các công việc khác theo phân công của quản lý.
+
+Yêu cầu công việc:
+Tốt nghiệp Cao đẳng /đại học ngành Công nghệ thông tin... hoặc những ngành liên quan khácCó kiến thức và kinh nghiệm thực tế về Javascript, Nodejs, Reactjs từ 6 tháng trở lênĐọc hiểu tài liệu tiếng Anh chuyên ngành.Có kiến thức về lập trình hướng đối tượng.Cẩn thận, kiên nhẫn và sẵn sàng học hỏi các công nghệ mớiCó kỹ năng phân tích và giải quyết vấn đề; Có khả năng làm việc độc lập và theo nhóm- Ưu tiên:Có kinh nghiệm làm việc với Facebook Graph API; dự án Livestream và CRMFull-stack developer.Đã có kinh nghiệm thực tế với NodeJS, ReactJS, AngularJS, Django.Có kinh nghiệm sử dụng và giải quyết vấn đề đối với các hệ thống Linux.Có hiểu biết về Docker/Container.
+
+Yêu cầu kinh nghiệm: 1-3 năm

@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Full Stack Developer (Nodejs/Reactjs) - Senior
+
+Mô tả công việc:
+Lisod Việt Nam là nhà cung cấp và phát triển giải pháp phần mềm đảm bảo chất lượng quốc tế. Chúng tôi tìm cách thu hút và giữ chân đội ngũ nhân viên thông minh và có năng lực nhất trên cả nước để có thể cung cấp dịch vụ ở mức cao nhất cho khách hàng .Chúng tôi là một công ty năng động, theo định hướng quy trình với trọng tâm là phân phối chất lượng cao và cải tiến liên tục. Chúng tôi đang tìm kiếm các chuyên gia cởi mở, sáng tạo, năng động, có khả năng tư duy vượt trội và thoải mái chia sẻ ý tưởng của mình.Cơ hội phát triển bản thân khi ứng tuyểnCó cơ hội được trợ cấp phí cho các khóa học phục vụ cho công việc Được tạo điều kiện học tập, nâng cao kiến thứcĐược thử thách trong các dự án lớn, có cơ hội khẳng định năng lực bản thân và phát triển sự nghiệp:Xây dựng và thiết kế kiến trúc hệ thống đáp ứng khả năng mở rộng và phát triển nhanh nhất.Viết các tài liệu và hướng dẫn yêu cầu chức năngĐảm bảo chất lượng mã nguồn và viết automated tests, có khả năng tham gia vào code reviews và design reviewsTham gia vào các cuộc thảo luận về thiết kế, đánh giá mã nguồn và brainstorming hoạt động nhóm
+
+Yêu cầu công việc:
+Nền tảng vững chắc về khoa học máy tính (thuật toán, cấu trúc dữ liệu)Hơn 3+ năm kinh nghiệm làm việc với backend hoặc các kỹ thuật tương đươngCó khả năng xây dựng và đề xuất giải pháp đáp ứng được lượng lớn người dùng.Có hiểu biết và kinh nghiệm về thực thi bảo mật và bảo vệ dữ liệu. Ưu tiên ứng viên có kinh nghiệm với CI/CD, automated testing.Có kĩ năng giải quyết vấn đề, tổ chức và quản lý thời gian tốt – Khả năng research tốt, teamwork tốt.
+
+Yêu cầu kinh nghiệm: 3-5 năm

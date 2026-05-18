@@ -1,0 +1,38 @@
+DevOps Engineer
+
+Yêu cầu:
+1 năm kinh nghiệm
+Đại Học trở lên
+Xem chi tiết Yêu cầu
+Quyền lợi:
+Nghỉ thứ 7
+Bảo hiểm xã hội
+Bảo hiểm sức khỏe
+Xem chi tiết Quyền lợi
+Chuyên môn:
+Chuyên môn DevOps Engineer
+IT - Phần mềm
+Nhân sự
+
+Mô tả công việc
+Vận hành hệ thống Linux server, giám sát và tối ưu hiệu năng hệ thống.
+Thiết lập và duy trì các pipeline CI/CD, versioning, GitOps.
+Quản lý dịch vụ Kubernetes Cluster (self-hosted), volume, ingress, helm.
+Tự động hóa quy trình với Ansible, Terraform, GitLab CI, ArgoCD.
+Quản trị hệ thống lưu trữ (NFS, Ceph, S3), giám sát hệ thống với Prometheus/Grafana.
+Quản lý người dùng, phân quyền, bảo mật hệ thống.
+Đảm bảo an toàn dữ liệu, thực hiện backup/restore.
+Làm việc với team dev để xây dựng môi trường staging, testing, production.
+Hỗ trợ vận hành các hệ thống CI/CD, giám sát và ứng cứu sự cố 24/7 (khi cần)
+Yêu cầu ứng viên
+Tối thiểu 01 năm kinh nghiệm DevOps hoặc System Admin.
+Thành thạo hệ điều hành Linux (Ubuntu/CentOS).
+Hiểu biết tốt về TCP/IP, HTTP, DNS, firewall.
+Có kinh nghiệm với container & orchestrator: Docker, Kubernetes.
+Kinh nghiệm xây dựng CI/CD, quản trị GitLab hoặc Jenkins.
+Thành thạo ít nhất một ngôn ngữ scripting: Bash, Python.
+Có kiến thức về giám sát, cảnh báo (Prometheus, Grafana, Zabbix, ELK…).
+Kinh nghiệm triển khai hệ thống HA, Load Balancing, Backup & Recovery.
+Có kinh nghiệm làm việc với database như mysql, postgresql, mongo là một lợi thế.
+Có khả năng xử lý sự cố, troubleshooting network & system.
+Giao tiếp tốt, tinh thần trách nhiệm cao, có khả năng làm việc nhóm độc lập.

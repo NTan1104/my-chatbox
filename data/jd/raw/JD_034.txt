@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Fresher Back - End Developer ( Nodejs )
+
+Mô tả công việc:
+Thực hiện các dự án theo mô hình Microservices và chịu trách nhiệm viết các API cần thiết cho hệ thống sử dụng NodeJSThu thập và xử lí các yêu cầu thiết kế và kĩ thuật.Tham gia vào quá trình phân tích và thiết kế hệ thống.Nghiên cứu và áp dụng các công nghệ mới để tối ưu hóa hiệu quả phát triển sản phẩm.Đảm bảo sản phẩm làm ra cần phải chạy đúng nghiệp vụ và tốc độ xử lý cũng phải tối ưu cho lượng người dùng lớn.
+
+Yêu cầu công việc:
+Yêu cầu từ 6 tháng kinh nghiệm thực tế trong dự ánCó hiểu biết về NodeJS Server Side (ExpressJS, NestJS, TypeORM, Mongoose, Socket IO…)Kinh nghiệm làm việc với REST APIKinh nghiệm làm việc với graphQLHiểu biết về modern JavaScript, TypeScriptCó kinh nghiệm với MongoDB, Database Postgresql, RedisKhả năng teamwork tốtKỹ năng được ưu tiên:Kinh nghiệm làm việc với các Chat Platform (Sendbird …) là lợi thếHiểu biết về mô hình Agile/ScrumKinh nghiệm về thiết kế SOA, MicroservicesHiểu biết về Docker, GCP là một lợi thếKinh nghiệm về Webpack
+
+Yêu cầu kinh nghiệm: 1-3 năm

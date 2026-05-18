@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Fresher PHP Develop
+
+Mô tả công việc:
+- Tham gia thiết kế và phát triển các sản phẩm của Công ty (sử dụng ngôn ngữ PHP)- Tham gia vào các dự án xây dựng ứng dụng bằng PHP & MySQL, Javascript hoặc các dự án Website của công ty.- Duy trì và phát triển các website, code và cấu trúc dữ liệu có sẵn của công ty.- Thực hiện nâng cấp đều đặn để giúp website và các hệ thống trở nên bảo mật và hiệu quả hơn.
+
+Yêu cầu công việc:
+- Hiểu biết về CSS3, HTML/HTML5, Bootstrap- Sử dụng tốt JavaScript, Jquery, JSON, XML…- Biết các công cụ quản lý mã nguồn: SVN hoặc GIT. - Có kinh nghiệm làm việc với cơ sở dữ liệu (MySQL).- Có kinh nghiệm ít nhất từ 6 tháng - 1 năm (tối đa 2năm) trong lập trình PHP và 1 trong các framework (Laravel, CodeIgniter, ...) biết về CodeIgniter là một lợi thế
+
+Yêu cầu kinh nghiệm: Dưới 1 năm

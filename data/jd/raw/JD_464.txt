@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Java Developer (15-40M)
+
+Mô tả công việc:
+Tham gia lập kế hoạch và thiết kế sản phẩm, đồng thời cung cấp các giải pháp triển khai kỹ thuật Chịu trách nhiệm thiết kế kiến trúc cốt lõi, tạo mã nghiệp vụ và phát triển công cụ. Hoàn thành việc code và gỡ lỗi các mô-đun được chỉ định đúng thời gian theo kế hoạch và tiến độ công việc của dự án. Rà soát các nguồn dự án để điều chỉnh, tối ưu hóa và mở rộng hệ thống hiện có theo nhu cầu của doanh nghiệp. Giải quyết các vấn đề kỹ thuật khác nhau như performance và Multithread.
+
+Yêu cầu công việc:
+Tốt nghiệp ngành IT hoặc chuyên ngành liên quan (hơn 1 năm kinh nghiệm làm việc) Kỹ năng phát triển JAVA vững chắc và khả năng viết mã và thuật toán. Làm quen với các kiến trúc công nghệ mã nguồn mở như Spring, SpringMVC, Springboot, Springcloud, Struts, Hibernate, MyBatis. Quen thuộc với phát triển Servlet, JMS, Jdbc và vận hành thành công các công nghệ phát triển như HTML, JavaScript, CSS, XML, các dịch vụ Web, AJAX. Quen thuộc với việc thiết kế và phát triển cơ sở dữ liệu dựa trên DB2, Oracle, postegre, MySql hoặc SqlServer. Giỏi lập trình multithread, thành thạo jquery, json, rest, v.v. Bạn nên làm quen với các máy chủ WEB như Tomcat, WAS, Weblogic. Có thể đi làm luôn
+
+Yêu cầu kinh nghiệm: 1-3 năm

@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Fresher Devops
+
+Mô tả công việc:
+Được đào tạo chuyên sâu về các hệ thống cloudTham gia thiết kế và xây dựng Cloud infrastructure platformTham gia thiết kế và xây dựng hệ thống giám sátTham gia thiết kế và xây dựng hệ thống CI/CDBảo trì hệ thống đang chạyHỗ trợ team dev thiết kế kiến trúc trong quá trình phát triển
+
+Yêu cầu công việc:
+Kinh nghiệm hơn 6 tháng ở vị trí tương đươngTốt nghiệp đại học chuyên ngành công nghệ thông tin, an toàn thông tin hoặc các ngành liên quanHiểu biết về hệ điều hành linuxNhững hiểu biết và kỹ năng cơ bản về NetworkingHiểu biết về Docker, hoặc các công nghệ ảo hóa khácCó kiến thức về Web App, Web ApiCó thể đọc hiểu tài liệu tiếng anhHiểu biết và có kĩ năng lập trình cơ bảnƯu tiên các ứng viên có kiến thức về bảo mật
+
+Yêu cầu kinh nghiệm: Dưới 1 năm

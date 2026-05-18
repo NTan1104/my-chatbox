@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Game Server (C#)
+
+Mô tả công việc:
+-Phát triển và triển khai tính năng mới của game-Vận hành server game một cách ổn định và kiểm tra/update server-Phối hợp với các bộ phận khác để xử lý các vấn đề phát sinh trong quá trình làm việc và vận hành game
+
+Yêu cầu công việc:
+-Có kinh nghiệm làm việc, triển khai window server, IIS-Thành thạo và có kỹ năng tốt xử lý stored procedure in SQL-Có kiến thức tốt về C# cũng như .NET framework-Có kinh nghiệm làm việc với MySQL hoặc Mssql, Redis (cache)•Ưu tiên:-Ưu tiên có kinh nghiệm làm game thể loại MMORPG mobile-Ưu tiên người có kinh nghiệm làm việc với zookeeper hoặc các hệ thống tương tự-Có kinh nghiệm về devops, CICD là lợi thế-Nắm vững về Web service, SOAP là một lợi thế-Có kinh nghiệm về mặt kỹ thuật, linh hoạt và làm việc teamwork
+
+Yêu cầu kinh nghiệm: 1-3 năm

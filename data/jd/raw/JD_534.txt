@@ -1,0 +1,33 @@
+AI Engineer
+
+Chi tiết tin tuyển dụng
+Yêu cầu:
+3 năm kinh nghiệm
+Cao Đẳng trở lên
+Xem chi tiết Yêu cầu
+Quyền lợi:
+Nghỉ thứ 7
+Xem chi tiết Quyền lợi
+Chuyên môn:
+AI Engineer
+Mô tả công việc
+Tham gia làm việc với các đơn vị nghiệp vụ để xác định nhu cầu cùng team
+Tham gia xây dựng giải pháp tổng thể và giải pháp chi tiết để giải quyết vấn đề cùng team
+Tham gia quy trình xây dựng và bảo trì model: Cleaning data, analytic data, building model, testing model, sharing with business for feedback, deploying model, visualization, maintenance model, educating business and teams
+Yêu cầu ứng viên
+Cử nhân chuyên ngành Công nghệ thông tin, Điện tử viễn thông, Tài chính, Ngân hàng, Kinh tế hoặc tương đương. Hoặc có các chứng chỉ chuyên ngành cho DE, DS, DA
+Có kinh nghiệm làm việc thực tế tại các công ty, dự án về vị trí tuyển dụng
+Xử lý NLP biết các kỹ thuật về xử lý NLP như Text Representation, Name Entity Recognition, Keyword Extraction, Sentiment Analysis Knowlegde, Extraction Techniques, Lemmatization và Stemming, Knowlegde Graph, etc và các mô hình đặc thù
+Xử lý NLP biết cài đặt trên các NLP Platform trên Hadoop, AWS, GCP, etc, cùng các tech stack thông dụng như Transformer, NLTK, CoreNLP, Vocabulary, Gensim, TextBold, Pattern, etc
+Xử lý ảnh cần nắm các kỹ thuật cơ bản về xử lý ảnh số bao gồm: Face Recognition, Text Recognition, Fraud Detection, etc
+Có kiến thức về các công cụ hệ thống xử lý ảnh như: Image-Processing Eco-System/DGX với các thư viện NumPy, PyTorch, Scikit-Learn, SciPy, Pytorch, TensorFlow, OpenCV, Keras, Pytorch, Rapid
+Kiến thức cơ bản về Data Mining
+Có kinh nghiệm làm trong lĩnh vực ngân hàng như Mobile App, Biz App, T24 Core Banking
+Có kinh nghiệm làm việc theo mô hình Agile
+Có khả năng đọc viết tiếng Anh (cơ bản) nghe nói (nếu có thể). Ưu tiên ứng viên có chứng chỉ
+Khả năng quản lý nhóm
+Khả năng đào tạo, dẫn dắt
+Sẵn sàng làm việc ngoài giờ hành chính
+Tự tin, nhanh nhẹn, xử lý tình huống tốt khi đánh giá năng lực
+Thái độ chuyên nghiệp khi tham gia đánh giá năng lực
+Xử lý Graph cần nắm các kỹ thuật về Graph Analytics, Graph Algorithms

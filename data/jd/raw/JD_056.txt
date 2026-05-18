@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Kỹ Sư Quản Trị Hệ Thống Server Và Network
+
+Mô tả công việc:
+- Triển khai xây dựng hệ thống Server, Network, Storage, Backup, Security, Monitor, VMWARE của Tập đoàn- Triển khai các dịch vụ trên nền tảng Windows Server, Linux- Vận hành hệ thống Server dịch vụ và phần mềm như: Server SQL, DNS, AD, DHCP, FILE, EMAIL EXCHANGE, WEBSITE- Vận hành các hệ thống Network bao gồm: Core Switch, Access Switch, Firewall, Load Balancer, WIFI, IP PHONE, CAMERA, ACCESS- Vận hành các hệ thống Storage, Backup- Quy hoạch hạ tầng Network, Server, địa chỉ IP hệ thống mạng WAN, LAN, wifi, Internet của Công ty- Quản trị, đảm bảo kết nối internet cho các dịch vụ của công ty- Theo dõi đánh giá hiệu năng đường truyền và lập báo cáo về chất lượng đường truyền.- Theo dõi đánh giá hiệu năng thiết bị mạng, lập báo cáo về chất lượng mạng.- Phối hợp các bên xử lý sự cố đường truyền, sự cố mạng.- Theo dõi đánh giá hiệu năng các thiết bị máy chủ và ứng dụng- Phối hợp triển khai tuân thủ các chính sách CNTT.
+
+Yêu cầu công việc:
+- Tốt nghiệp Đại học chuyên ngành: CNTT- Kinh nghiệm quản trị hệ thống network, server cho các doanh nghiệp với quy mô 1000 users- Ưu tiên ứng viên có chứng chỉ CCNP, MCSE- Có khả năng làm việc chuyên sâu với các thiết bị mạng và server của Cisco, HP, Fortinet, Dell, HP- Có khả năng cài đặt, cấu hình thuần thục các dịch vụ trên nền tảng Windows Server- Có khả năng cài đặt, cấu hình, quản trị hệ thống ảo hóa với Vmware- Có khả năng cài đặt, cấu hình, quản trị backup với Veeam- Có khả năng cài đặt, cấu hình các dịch vụ HA Proxy, Loadbalancing, SQL Cluster- Có khả năng cài đặt và sử dụng các công cụ giám sát hệ thống mạng như Opmanager, Cacti, PRTG…- Có khả năng lập kế hoạch, báo cáo liên quan đến việc triển khai, bảo trì hệ thống Network, Server.
+
+Yêu cầu kinh nghiệm: 3-5 năm

@@ -1,0 +1,30 @@
+Fullstack Developer (Java/Reactjs)
+
+Chi tiết tin tuyển dụng
+Yêu cầu: 2 năm kinh nghiệm Cao Đẳng trở lên
+Xem chi tiết Yêu cầu
+Quyền lợi:
+Nghỉ thứ 7
+Bảo hiểm xã hội
+Team building
+Xem chi tiết Quyền lợi
+Chuyên môn: Software Engineer, IT - Phần mềm, Viễn thông, Bưu chính
+
+
+Mô tả công việc
+- Xây dựng các sản phẩm mới hoặc nâng cấp các tính năng của sản phẩm đã có.
+- Phát triển ứng dụng trên nền tảng web, xử lý dữ liệu cho các hệ thống vận hành, giám sát và quản lý.
+- Đọc hiểu yêu cầu, tài liệu kỹ thuật.
+- Xây dựng các tài liệu kỹ thuật: Phân tích yêu cầu, tài liệu thiết kế.
+Yêu cầu ứng viên
+- Hiểu biết về lập trình hướng Đối tượng, cấu trúc dữ liệu và giải thuật.
+- Đối với ứng viên backend: Thành thạo ngôn ngữ lập trình Java. Có kinh nghiệm sử dụng Go là một lợi thế.
+- Đối với ứng viên fullstack developer, yêu cầu thành thạo JavaScript / TypeScript. Sử dụng thành thạo framework AngularJS /ReactJS hoặc tương đương.
+- Có khả năng thiết kế và triển khai REST API hoặc SOAP API.
+- Có kinh nghiệm làm việc với ORM (JPA, Hibernate).
+- Có kinh nghiệm làm việc với CSDL (MySQL/MariaDB hoặc PostgreSQL hoặc tương đương), bao gồm: phát triển giao tiếp backend - CSDL, viết các truy vấn phức tạp, tối ưu CSDL và câu truy vấn SQL.
+- Có kinh nghiệm phát triển backend sử dụng Spring framework: Spring Boot, Spring Core, Spring MVC, Spring Data JPA, Spring Security.
+- Có kinh nghiệm sử dụng các công cụ build và deployment: Maven/Ant, Docker, Jenkin.
+- Viết và triển khai unit testing, integration testing sử dụng các framework: Junit, Mockito.
+- Có kinh nghiệm làm việc với Git (hoặc công cụ quản lý phiên bản tương đương).
+- Ưu tiên ứng viên có kiến thức về các hệ thống message queues (Kafka / RabbitMQ)

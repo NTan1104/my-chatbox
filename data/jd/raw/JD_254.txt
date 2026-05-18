@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Web
+
+Mô tả công việc:
+• Lập trình phát triển Web Site công ty DTSoft và các trang lading pages cho khoản 20 site sản phẩm.• Chỉnh sửa web theo yêu câu công ty theo tưng thời điểm kinh doanh.• Thiết kế các hình ảnh icon cho các app web hay moblie app.
+
+Yêu cầu công việc:
+Kỹ năng kinh nghiệm• Tools làm web: Sublime Text 3, NetBeans, PHPStorm, Dreamweaver• Có khả năng lập trình thành thạo các ngôn ngữ PHP, HTML, CSS, JAVASCRIPT, JSON, AJAX.• CSDL: phpmyadmin MYSQL, MARIADB• Design: Photoshop, Corel, AITrình độ chuyện môn:Tốt nghiệp Cao đẳng trở lên chuyên nghành CNTT hoặc chuyên ngành khác đào tạo làm web site chuyên nghiệp
+
+Yêu cầu kinh nghiệm: 1-3 năm

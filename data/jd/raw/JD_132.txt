@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Junior Sql Developer
+
+Mô tả công việc:
+Lập trình báo cáo, chức năng cho hệ thống Netsuite (sử dụng ngôn ngữ lập trình kết hợp cùng Json, XML,…)Xây dựng các tools tích hợp với các hệ thống khác.Hỗ trợ vận hành hệ thống, xử lý các issue từ khách hàng.
+
+Yêu cầu công việc:
+Bằng cấp: Tốt nghiệp hoặc năm cuối chuyên ngành CNTT hoặc Hệ thống thông tin.Có thể sử dụng hoặc có kiến thức về SQL, các ngôn ngữ lập trình như: Java, HTML, CSS, Javascript, …Có khả năng đọc hiểu tiếng Anh, kinh nghiệm làm việc, Có kiến thức về API tích hợp là 1 lợi thế.Có khả năng viết Procedure hoặc Function là 1 lợi thế.Có tư duy lập trình, logic tốt, chịu khó học hỏi.Có mong muốn phát triển trong ngành phân tích dữ liệu (data analyst)
+
+Yêu cầu kinh nghiệm: Dưới 1 năm

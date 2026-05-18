@@ -1,0 +1,108 @@
+PHẠM VĂN HOÀN
+
+BACKEND DEVELOPER
+
+MỤC TIÊU NGHỀ NGHIỆP
+
+Mong muốn được học hỏi, nâng cao kiến thức và kinh nghiệm phát triển website. Từ đó nâng
+cao chất lượng sản phẩm. Hướng tới sự tối ưu hóa, sáng tạo, bảo mật cho mỗi sản phẩm
+mình tạo ra.
+
+KINH NGHIỆM LÀM VIỆC
+
+LẬP TRÌNH VIÊN // 2021 - hiện tại
+THÔNG TIN CÁ NHÂN Công ty Saishunkan System Vietnam
+
+• Xây dựng, phát triển các chức năng cho website, ứng dụng và hệ thống quản lý
+✉ phamhoan020501@gmail.com
+bán hàng, chăm sóc khách hàng cho công ty Dược phẩm.
+0377788187 • Trực tiếp tham gia toàn bộ quy trình phát triển phần mềm từ phân tích yêu cầu,
+thiết kế chức năng (Logical & Physical Design), lập trình, kiểm thử đến tổng hợp
+https://hoanpv.id.vn và đánh giá hiệu quả dự án.
+• Làm việc với khách hàng để tiếp nhận yêu cầu, tổ chức họp trao đổi và làm rõ
+Quảng Bình
+nghiệp vụ và đưa ra phương án phù hợp với mục tiêu dự án.
+• Thực hiện estimation, lập WBS, quản lý tiến độ và theo dõi tình trạng công việc
+CÁC KỸ NĂNG hàng ngày của team để đáp ứng tiến độ dự án.
+• Tạo tài liệu thiết kế, tài liệu điều tra nghiệp vụ, tài liệu kiểm thử và tổng hợp
+evidence kiểm thử để đảm bảo chất lượng sản phẩm.
+KỸ NĂNG CODE:
+• Ngôn ngữ: PHP, C#, HTML, CSS, • Thực hiện Unit Test và xây dựng kiểm thử tự động hóa nhằm nâng cao hiệu quả
+và độ tin cậy của hệ thống.
+JavaScript, Python,...
+• Frameworks: CakePHP • Tổng hợp, đánh giá kết quả và lập tài liệu tổng kết dự án sau khi hoàn thành.
+• Libraries/Platform: Shopify, GraphQL,...
+HỌC VẤN
+• Databases: MySQL, SQL Server, Oracle
+SQL, PostgreSQL
+• Tool: GitHub, Docker, SourceTree,... ỨNG DỤNG PHẦN MỀM // 2019 - 2022
+Trường Cao Đẳng Công Nghiệp Huế
+KỸ NĂNG KIỂM THỬ:
+• Có thể thực hiện kiểm thử và tạo tài • Tốt nghiệp loại Xuất sắc
+liệu Unit Test. • GPA: 3.7/4
+• Có thể phát triển kiểm thử tự động hóa.
+HOẠT ĐỘNG
+CHỨNG CHỈ
+2021 THÀNH VIÊN // 2020 - 2021
+MOS (Microsoft Oce Speciallist) Câu lạc bộ HueIC-IT
+• Phát triển robot Omni để tham gia cuộc thi "Robocon HueIC 2021".
+SỞ THÍCH • Đại diện tham gia cuộc thi MOS Championship (vòng loại khu vực miền Trung).
+• Tham gia hoạt động hỗ trợ cộng đồng do nhà trường tổ chức.
+Chụp ảnh, Phượt, Đọc sách
+
+DANH HIỆU VÀ GIẢI THƯỞNG PHÓ CHỦ NHIỆM // 2020 - 2021
+Đội Truyền Thông Trường Cao Đẳng Công Nghiệp Huế
+2021 Giải khuyến khích cuộc thi "Tin
+học Văn phòng MOS - HueIC • Tổ chức cuộc thi về các sự kiện của trường, thu hút sinh viên của trường tham
+2021" gia.
+• Viết bài, chụp ảnh cho các hoạt động của trường.
+
+DỰ ÁN
+
+WEBSITE CÁ NHÂN(PORTFOLIO) // 2023 - hiện nay
+
+Website: https://hoanpv.id.vn
+Số người tham gia: 1
+
+Vị trí: Lập trình viên
+• Thiết kế giao diện và phát triển toàn bộ website cá nhân bằng CakePHP để giới
+
+thiệu bản thân, kỹ năng và dự án.
+• Triển khai website lên server riêng, đảm bảo hoạt động ổn định trên môi trường
+thực tế.
+• Xây dựng nội dung giới thiệu thông tin cá nhân, kỹ năng chuyên môn và định
+hướng phát triển nghề nghiệp.
+• Tích hợp chatbot trả lời tự động về thông tin cá nhân để nâng cao trải nghiệm
+người dùng.
+• Chia sẻ kiến thức, kinh nghiệm công nghệ đến cộng đồng thông qua các bài viết
+và chức năng tương tác.
+
+Công nghệ sử dụng
+• PHP(CakePHP), HTML, CSS, JavaScript,...
+
+WEBSITE BÁN HÀNG // 09/2021 - 12/2021
+Link GitHub: https://GitHub.com/PhamHoan25201/cakePHP
+
+Số người tham gia: 1
+Vị trí: Lập trình viên
+
+• Thiết kế và code website bán điện thoại sử dụng PHP(CakePHP), HTML, CSS,
+JavaScript và một số thư viện hỗ trợ.
+• Thực hiện các chức năng như thống kê bán hàng, bán hàng, đăng nhập, đăng ký,
+lấy lại mật khẩu bằng cách gửi mail, CRUD,...
+
+Công nghệ sử dụng:
+• PHP(CakePHP), HTML, CSS, JavaScript và một số thư viện hỗ trợ.
+
+ROBOT OMNI // 09/2021 - 12/2021
+
+Link GitHub: https://GitHub.com/PhamHoan25201/roboconHueIC2021
+Số người tham gia chính: 2
+
+Vị trí: Lập trình viên
+• Xây dựng và phát triển robot từ mạch Arduino.
+• Thiết kế, coding để robot có thể thực hiện gắp, thả quà đúng vị trí.
+• Áp dụng các cơ chế dò line, đo tốc độ encoder, sử dụng servo để gắp/thả quà,...
+
+Công nghệ sử dụng:
+• Sử dụng Wiring để thực hiện code trên Arduino IDE

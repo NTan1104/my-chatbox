@@ -1,0 +1,21 @@
+AWS Data Engineer
+
+Chi tiết tin tuyển dụng
+Yêu cầu:
+2 năm kinh nghiệm
+Đại Học trở lên
+Xem chi tiết Yêu cầu
+Chuyên môn:
+Data Engineer
+Mô tả công việc
+Phát triển các luồng (Data Pipeline) thu thập, chuẩn hóa, làm sạch, làm giàu, lưu trữ, xử lý, phân tích và hiển thị dữ liệu lớn (dùng code hoặc dùng tool ETL)
+Cài đặt và cấu hình môi trường
+Tối ưu hiệu năng của hệ thống
+Phân tích và thiết kế kho dữ liệu, phát triển báo cáo
+Phân tích các vấn đề liên quan tới chất lượng dữ liệu, nghiên cứu và đưa ra phương pháp để tối ưu việc kết xuất, chuyển đổi dữ liệu
+Yêu cầu ứng viên
+Tốt nghiệp các ngành liên quan CNTT, điện tử viễn thông, MIS, các ngành liên quan đến kỹ thuật / lập trình
+Từ 2 năm kinh nghiệm Data Engineer
+Thành thạo SQL, Python
+Có kinh nghiệm với Spark
+Có kinh nghiệm với AWS

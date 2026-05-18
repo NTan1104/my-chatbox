@@ -1,0 +1,61 @@
+Trưởng Phòng IT Senior Backend - Đi Làm Ngay - Thu Nhập Từ 30 - 60 Triệu / Tháng
+Chi tiết tin tuyển dụng
+Yêu cầu:
+Trên 5 năm kinh nghiệm
+Đại Học trở lên
+Từ 28 tuổi trở lên
+Nam
+Xem chi tiết Yêu cầu
+Quyền lợi:
+Bảo hiểm xã hội
+Du lịch hàng năm
+Bảo hiểm sức khỏe
+Xem chi tiết Quyền lợi
+Chuyên môn:
+Fullstack Developer
+IT - Phần mềm
+Điện toán đám mây (Cloud)
+Mô tả công việc
+Thiết kế và phát triển hệ thống backend sử dụng .NET (C#) theo hướng scalable, maintainable
+Xây dựng kiến trúc hệ thống: Monolith → Modular Monolith → Microservices (tuỳ bài toán)
+Áp dụng các mô hình kiến trúc như Clean Architecture, Onion Architecture, DDD
+Thiết kế API (RESTful / gRPC), đảm bảo consistency và performance
+Làm việc với database qua Entity Framework Core và Dapper, tối ưu query ở mức sâu (execution plan, indexing)
+Thiết kế và implement các pattern: Repository, Unit of Work, CQRS, Mediator
+Xây dựng hệ thống event-driven (publish/subscribe, eventual consistency)
+Review code, define coding standard, guideline cho team
+Tham gia decision về tech stack và kiến trúc hệ thống
+Yêu cầu ứng viên
+Yêu cầu kề kiến thức
+
+Nắm vững OOP, SOLID, Design Pattern (không chỉ biết mà phải dùng đúng chỗ)
+Hiểu rõ về:
+Layered Architecture vs Clean Architecture
+Monolith vs Microservices (trade-off)
+Sync vs Async communication
+Có kinh nghiệm áp dụng Domain-Driven Design (DDD):
+Entity, Value Object, Aggregate Root
+Bounded Context
+Domain Event
+Biết thiết kế hệ thống:
+High availability
+Scalability (horizontal scaling)
+Fault tolerance
+Yêu cầu về hệ thống phân tán
+
+Kinh nghiệm với message broker (RabbitMQ, Kafka)
+Xây dựng hệ thống event-driven:
+Event sourcing (optional nhưng biết là điểm mạnh)
+Saga / distributed transaction
+API Gateway, Service Discovery là lợi thế
+Yêu cầu về DevOps & Hạ tầng
+
+Sử dụng Docker, container orchestration (K8s là bonus)
+Setup CI/CD (GitLab CI, GitHub Actions, Azure DevOps)
+Monitoring & logging (ELK, Grafana, Prometheus)
+Làm việc với Linux server (Nginx, reverse proxy)
+Yêu cầu khác
+
+Có khả năng làm việc độc lập và làm việc nhóm tốt.
+Có khả năng tư duy logic và giải quyết vấn đề tốt.
+Có khả năng đọc hiểu tài liệu kỹ thuật bằng tiếng Anh.

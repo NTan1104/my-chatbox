@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên Frontend Developer
+
+Mô tả công việc:
+Tham gia phát triển các dự án về Web, xây dựng các chức năng front-end của Website, Web application.Triển khai giao diện HTML/CSS Javascript theo yêu cầu của khách hàng trên hệ thống website xây dựng sẵnPhối hợp với các back-end developers và web designers để cải thiện tính khả dụngĐảm bảo tiêu chuẩn đồ họa chất lượng cao và sự thống nhất trong brandThu thập ý kiến phản hồi và xây dựng các hướng giải quyết cho người sử dụng và khách hàngNghiên cứu, tìm hiểu các công nghệ về HTML/CSS Javascript mới nhất để áp dụng cái tiến sản phẩm
+
+Yêu cầu công việc:
+Là sinh viên năm cuối hoặc mới tốt nghiệp chuyên ngành ITƯu tiên các bạn đã có kinh nghiệm làm việc tại các công ty phần mềm ở vị trí frontend, biết về JS, ReactJSLàm việc toàn thời gianChủ động giải quyết vấn đề, có tinh thần làm việc tốt, kỹ năng tự học hỏi tốt và học hỏi nhanh
+
+Yêu cầu kinh nghiệm: Không yêu cầu kinh nghiệm

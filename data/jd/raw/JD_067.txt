@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: IT Developer
+
+Mô tả công việc:
+Thực hiện, tham gia vào quá trình xây dựng và thiết kế dịch vụ mới;Nâng cấp, bảo hành, sửa chữa và cải thiện web, ứng dụng có sẵn của doanh nghiệp;Xây dựng các tính năng, chức năng xử lý của hệ thống, ứng dụng;Sử dụng các ngôn ngữ lập trình như C++, Java, NodeJS, PHP,… để phục vụ cho công việc của mình.Quản lý server lưu trữ dữ liệu: cấu hình, cài đặt, sửa chữa, liên hệ với nhà cung cấp. Quản lý hệ thống mail của Công ty Quản lý tên miền, liên hệ nhà cung cấp làm hợp đồng, gia hạn tên miền, xử lý các vấn đề thanh toán liên quan đến tên miền, domainThực hiện các báo cáo, công việc hỗ trợ khác theo yêu cầu của quản lý.
+
+Yêu cầu công việc:
+Kinh nghiệm ít nhất 18 - 24 tháng ở vị trí tương đươngƯu tiên các bạn đã từng làm việc tại các công ty có hệ thống chi nhánh hoặc chuỗi Nha khoa, thẩm mỹ, bệnh việnThành thạo PHP, MySQL, JS, Ajax, JQuery, CSS, HTML... là một lợi thếCó khả năng làm việc độc lập, làm việc nhómKỹ năng giải quyết và xử lý vấn đề nhanh chóngCó khả năng học hỏi nhanh, thái độ làm việc tốt
+
+Yêu cầu kinh nghiệm: 1-3 năm

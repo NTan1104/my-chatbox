@@ -1,0 +1,51 @@
+AI Engineer
+
+Chi tiết tin tuyển dụng
+Yêu cầu:
+3 năm kinh nghiệm
+Đại Học trở lên
+Tiếng Anh Đọc hiểu
+Xem chi tiết Yêu cầu
+Quyền lợi:
+Nghỉ thứ 7
+Bảo hiểm xã hội
+Bảo hiểm sức khỏe
+Xem chi tiết Quyền lợi
+Chuyên môn:
+AI Engineer
+IT - Phần mềm
+Mô tả công việc
+Xây dựng và triển khai các ứng dụng AI, chatbot và hệ thống tự động hóa phục vụ hoạt động của L&C Global.
+Nghiên cứu và ứng dụng các mô hình LLM (GPT, Claude, Gemini...) vào các quy trình tư vấn và vận hành nội bộ.
+Thiết kế và tối ưu hóa pipeline dữ liệu, RAG (Retrieval-Augmented Generation) và các hệ thống AI Agent.
+Tích hợp các công cụ AI vào nền tảng hiện có: CRM, website, kênh chăm sóc khách hàng.
+Phối hợp với đội Marketing, Sales để ứng dụng AI tăng hiệu suất công việc.
+Theo dõi, đánh giá hiệu suất các giải pháp AI và đề xuất cải tiến liên tục.
+Cập nhật xu hướng AI mới, đề xuất công nghệ và giải pháp phù hợp với chiến lược công ty.
+Yêu cầu ứng viên
+Học vấn & Kinh nghiệm
+
+Tốt nghiệp Đại học ngành CNTT, Khoa học máy tính, Kỹ thuật phần mềm hoặc các ngành liên quan.
+Có từ 3 năm kinh nghiệm phát triển phần mềm, trong đó có kinh nghiệm làm việc thực tế với AI/ML/LLM/NLP.
+Thành thạo Python.
+Có nền tảng tốt về backend, API, xử lý dữ liệu và tư duy thiết kế hệ thống.
+Đã từng tham gia triển khai ít nhất 1 hệ thống AI/LLM vào môi trường vận hành thực tế.
+Có kinh nghiệm thực tế với ít nhất 2 trong các nhóm sau:
+LLM / chatbot / RAG
+AI workflow / automation
+pipeline dữ liệu / retrieval / vector database
+evaluation / monitoring / observability
+Có khả năng làm việc độc lập, chủ động bám việc đến cùng.
+Có tư duy cân đối giữa chất lượng – tốc độ – chi phí – rủi ro – khả năng mở rộng trong quá trình triển khai.
+Có khả năng đọc hiểu bài toán nghiệp vụ và chuyển hóa thành giải pháp kỹ thuật khả thi.
+Kỹ năng kỹ thuật
+
+Python / Node.js LLM & Prompt Eng. RAG / AI Agent
+OpenAI / Claude API LangChain / LlamaIndex Vector DB
+REST API / Webhook n8n / Make / Zapier Git / CI-CD
+Kỹ năng khác
+
+Khả năng đọc hiểu tài liệu kỹ thuật tiếng Anh.
+Tư duy giải quyết vấn đề, chủ động nghiên cứu và học hỏi công nghệ mới.
+Có khả năng giải thích giải pháp AI cho các bộ phận non-technical.
+Làm việc độc lập và chịu trách nhiệm cao với sản phẩm.

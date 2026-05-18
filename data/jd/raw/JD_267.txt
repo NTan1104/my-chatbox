@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: .Net Developer (Product Company, Signing Bonus)
+
+Mô tả công việc:
+- Tham gia phát triển sản phẩm phần mềm quản lý bán hàng Kiotviet.- Phối hợp các phòng ban khác trong phân tích nghiệp vụ, phát triển và triển khai sản phẩm.- Xây dựng chức năng của sản phẩm bao gồm back-end và front-end cho hệ thống hơn 100K người sử dụng.- Giải quyết các vấn đề khó về tối ưu hệ thống cũng như nghiệp vụ người dùng.- Nghiên cứu các giải pháp, công nghệ mới để cải tiến sản phẩm- Thực hiện các công việc liên quan khác được giao
+
+Yêu cầu công việc:
+1. Học vấn, kiến thức và trình độ chuyên môn: Tốt nghiệp đại học chuyên ngành CNTT2. Những kỹ năng cần thiết cho công việc- Có kinh nghiệm với .Net/ .Net Core- Có kinh nghiệm làm việc với SQL Server, có khả năng tối ưu query là lợi thế- Hiểu biết và có khả năng áp dụng OOP, SOLID, Design Pattern- Có kiến thức nền tảng và kinh nghiệm về: JQuery, Angular, Typescript, HTML5/CSS3, HTML/XHTML/XML,CSS, Bootstrap…- Ưu tiên: Có hiểu biết và kinh nghiệm về Kafka, RabbitMQ, Redis, Mongodb- Ưu tiên: Có kinh nghiệm làm việc với các hệ thống Microservice- Ưu tiên: Có kinh nghiệm phát triển hệ thống với EDA (Event Driven Design), DDD (Domain Driven Design), CQRS
+
+Yêu cầu kinh nghiệm: 1-3 năm

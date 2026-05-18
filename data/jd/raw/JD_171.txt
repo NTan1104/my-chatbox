@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên PHP ( PHP Developer)
+
+Mô tả công việc:
+- Phát triển, quản trị, thiết kế, tối ưu hệ thống sản phẩm Clipping, Monitoring.- Phát triển các dự án khác của phòng được giao- Phối hợp công việc với phòng Khách hàng
+
+Yêu cầu công việc:
+- Tốt nghiệp Đại học chuyên ngành CNTT.- Có kinh nghiệm làm việc với Framework: Laravel- Có kinh nghiệm về Javascript, Jquery.- Có kinh nghiệm về Search Engine (Elasticsearch)- Có kinh nghiệm về Database MySQL.- Thành thạo PHP, CSS3, HTML5 và Responsive Design- Có hiểu biết về Crawler dữ liệu- Có khả năng làm việc độc lập và theo nhóm- Là người cẩn thận, kiên nhẫn và ham học hỏi- Kỹ năng quản lý công việc và thời gian tốt- Tư duy mở, sáng tạo- Nhiệt tình, năng động, và có trách nhiệm với công việc và chịu được áp lực công việc
+
+Yêu cầu kinh nghiệm: 1-3 năm

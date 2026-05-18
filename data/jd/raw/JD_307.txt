@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên React Native - Lương Lên Đến 2000$
+
+Mô tả công việc:
+-Tham gia phát triển ứng dụng điện thoại trên nền tảng React Native (Android/IOS).. -Hoàn thiện trải nhiệm người dùng(UX), đảm bảo tính ổn định của Mobile Apps. -Thiết kế và phát triển tính năng mới.. -Tham gia vào phân tích và phát triển những sản phẩm dịch vụ mới của công ty. -Làm việc với backend developer, BA, thiết kế để tạo ra ứng dụng tốt nhất cho khách hàng
+
+Yêu cầu công việc:
+-Có kinh nghiệm phát triển ứng dụng mobile với 1 trong các ngôn ngữ: Java, Swift/Object C.. -Ưu tiên có từ 1 năm kinh nghiệm trong phát triển ứng dụng và API sử dụng React Native.. -Có kinh nghiệm lập trình giao tiếp giữa mobile với server qua các giao thức TCP/IP, Firebase, Websocket, WebService và JSON/XML.. -Có kinh nghiệm và xử lý tốt về animation, quản lý state (redux, flux, mobx), offline mode.. -Hiểu biết về Cloud Message API và Push Notification.. -Có kinh nghiệm trong việc sử dụng Javascript để tham gia phát triển các website, ứng dụng mobile là một lợi thế.. -Có kinh nghiệm làm việc với local database như SQLite, Realm hoặc các thư viện khác là một lợi thế.
+
+Yêu cầu kinh nghiệm: 1-3 năm

@@ -1,0 +1,24 @@
+Thực Tập Sinh IT (Java/Nodejs)
+
+Chi tiết tin tuyển dụng
+Yêu cầu: Không cần kinh nghiệm, Đại Học trở lên, Tuổi 21 - 24, Tiếng Anh IELTS 6.0, Tiếng Anh TOEIC 750
+Chuyên môn:Backend Developer, IT - Phần mềm
+
+Mô tả công việc
+- Phối hợp với đội ngũ phát triển để thiết kế, phát triển và triển khai các giải pháp phần mềm chất lượng cao.
+- Đóng góp vào các tác vụ phát triển fullstack, đảm bảo tích hợp và chức năng liền mạch.
+- Kiểm tra và khắc phục lỗi (debug) để duy trì hiệu suất tối ưu và trải nghiệm người dùng.
+- Cập nhật các công nghệ mới và các phương pháp hay nhất (best practices) trong phát triển phần mềm.
+- Giao tiếp hiệu quả với các thành viên trong nhóm để đảm bảo đáp ứng các yêu cầu của dự án
+
+Yêu cầu ứng viên
+- Đang là sinh viên năm cuối hoặc mới tốt nghiệp ngành CNTT tại các trường Đại học.
+- Kỹ năng giao tiếp tiếng Anh tốt (cả nói và viết).
+- Có thể đi được fulltime.
+- Kiến thức vững chắc về một trong hai framework: Spring Boot hoặc Nodejs.
+- Có khả năng làm việc toàn thời gian trong suốt thời gian thực tập.
+- Có hiểu biết về RESTful APIs, OOP (Lập trình hướng đối tượng) và Design Patterns.
+- Có kiến thức và kinh nghiệm về thiết kế cơ sở dữ liệu SQL, Git, CI/CD là một lợi thế.
+- Chủ động, có trách nhiệm và ham học hỏi.
+- Có khả năng làm việc độc lập cũng như làm việc nhóm.
+

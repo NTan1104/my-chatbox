@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: PHP Developer Laravel - Upto 2000$
+
+Mô tả công việc:
+- Tham gia phát triển các dự án sử dụng PHP:○ Dự án outsource: phát triển sản phẩm cho khách hàng Nhật Bản○ Dự án sản phẩm của công ty: phát triển hệ thống quản lý nội bộ của công ty hoặc service hợp tác phát triển với các đối tác trong và ngoài nước - Thực hiện details design, unit test, coding cho các dự án phần mềm;- Tham gia vào tất cả các khâu trong quá trình phát triển phần mềm, bao gồm: tìm hiểu yêu cầu, phân tích, thiết kế, nghiên cứu công nghệ mới để cải tiến chất lượng sản phầm,…- Xây dựng kế hoạch và quản lý tiến độ lập trình theo kế hoạch. - Thực hiện các công việc theo chỉ đạo của Ban lãnh đạo.
+
+Yêu cầu công việc:
+- Có KN làm việc với PHP: Từ 2-3 năm đối với Middle và 4 năm đối với Senior.- Tốt nghiệp đại học chuyên ngành CNTT, toán tin, Kỹ thuật phần mềm hoặc có KN ở vị trí tương đương.- Có kiến thức chuyên sâu về lập trình hướng đối tượng, cấu trúc dữ liệu.- Sử dụng tốt JavaScript/HTML, CSS, PostgreSQL/MySQL, Boostrap... - Hiểu rõ kiến thức về OOP, MVC, Coding conventions.- Thành thạo các công cụ quản lý mã nguồn: SVN GIT, docker. - Sử dụng thành thạo các framework PHP (Workpress, CakePress, Codeigniter, Laravel, Zend,...) - Đọc hiểu tiếng anh chuyên ngành.- Chủ động trong công việc, khả năng làm việc nhóm tốt. Có trách nhiệm cao trong công việc.- Tư duy, logic tốt. Có kỹ năng đọc hiểu và phân tích yêu cầu kỹ thuật mà khách hàng đưa ra
+
+Yêu cầu kinh nghiệm: 1-3 năm

@@ -1,0 +1,37 @@
+AI Engineer (Gen AI)
+
+Chi tiết tin tuyển dụng
+Yêu cầu:
+3 năm kinh nghiệm
+Đại Học trở lên
+Xem chi tiết Yêu cầu
+Quyền lợi:
+Nghỉ thứ 7
+Xem chi tiết Quyền lợi
+Chuyên môn:
+AI Engineer
+Mô tả công việc
+Thiết kế, triển khai các giải pháp ứng dụng AI trong các hệ thống an toàn thông tin. Xây dựng các phần mềm, hệ thống sử dụng AI nhằm tự động hóa các quá trình theo dõi, giám sát, phát hiện thâm nhập, xử lý sự cố.
+Nghiên cứu và lựa chọn công nghệ cho các sản phẩm AI nội bộ phục vụ giám sát và phản ứng sự cố.
+Phát triển và tích hợp các công nghệ AI vào quy trình vận hành SOC hiện tại, kết hợp chặt chẽ với các nhóm phân tích, vận hành và phát triển sản phẩm để nâng cao hiệu suất và năng lực scale của dịch vụ giám sát an toàn thông tin
+Yêu cầu ứng viên
+Kiến thức/Kinh nghiệm:
+
+Có tối thiểu 5 năm làm việc hoặc nghiên cứu trong lĩnh vực AI/ML; Ưu tiên đã có kinh nghiệm làm việc trong các dự án lớn về NLP, LLM
+Thành thạo ngôn ngữ lập trình Python; Thành thạo các thư viện lập trình cho AI
+Có kiến thức sâu về chắc về cấu trúc dữ liệu và giải thuật
+Thành thạo các mô hình học máy, học sâu thông dụng
+Có kiến thức về design pattern của Agentic AI và đã từng triển khai tối thiểu 1 dự án thực tế
+Có khả năng sử dụng, tối ưu prompt và đã có kinh nghiệm phát triển ứng dụng tích hợp với các API của mô hình ngôn ngữ lớn (bao gồm function calling)
+Có kinh nghiệm làm việc với dữ liệu time series, tabular, text.
+Có kinh nghiệm làm việc với các mô hình LLM, GenAI, agenticAI, các kỹ thuật như RAG, CoT, ... là một lợi thế
+Có kiến thức sâu và rộng về kiến trúc hệ thống CNTT (SQL, NoSQL, Service, Micro Service, Tenor, Container, Message QUEUE,...) là một lợi thế.
+Có kinh nghiệm sử dụng các nền tảng xử lý dữ liệu lớn như: Hadoop, spark, notebook là một lợi thế
+Kỹ năng:
+
+Tư duy hệ thống, khả năng giải quyết bài toán phức tạp theo định hướng sản phẩm
+Giao tiếp hiệu quả, có khả năng truyền đạt giải pháp kỹ thuật rõ ràng cho cả kỹ thuật và phi kỹ thuật
+Có khả năng dẫn dắt đội nhóm
+Trình độ học vấn:
+
+Tốt nghiệp đại học trở lên, chuyên ngành CNTT (bao gồm các chuyên ngành nhỏ như: trí tuệ nhân tạo, khoa học dữ liệu, khoa học máy tính, kỹ thuật máy tính, an toàn thông tin, hệ thống thông tin, ...), Toán - Tin, Điện tử, hoặc các chuyên ngành khác có liên quan tới công nghệ thông tin và trí tuệ nhân tạo.

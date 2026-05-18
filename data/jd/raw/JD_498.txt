@@ -1,0 +1,40 @@
+Backend/Frontend Developer (ASP.Net Core,ReactJS)
+Mức lương 12 - 25 triệu
+Địa điểm Hồ Chí Minh
+Kinh nghiệm 2 năm
+Chi tiết tin tuyển dụng
+Yêu cầu:
+2 năm kinh nghiệm
+Đại Học trở lên
+Tiếng Anh TOEIC 500
+Tiếng Anh Giao tiếp thành thạo
+Tiếng Anh Đọc hiểu
+Xem chi tiết Yêu cầu
+Quyền lợi:
+Bảo hiểm xã hội
+Bảo hiểm sức khỏe
+Team building
+Xem chi tiết Quyền lợi
+Chuyên môn:
+Fullstack Developer
+IT - Phần mềm
+Viễn thông
+Công nghệ kỹ thuật
+Mô tả công việc
+1. Thiết kế và xây dựng các microservices đảm nhiệm các chức năng: giao tiếp với cơ sở dữ liệu, WebSocket, Message Queue, Search Engine.
+2. Triển khai hệ thống backend lên server với quy trình CI/CD.
+3. Đảm bảo tính ổn định và hiệu suất của hệ thống.
+
+4.Thiết kế và phát triển giao diện người dùng cho website bằng ReactJS.
+5. Kết hợp với backend để xây dựng hệ thống hiệu quả, tối ưu.
+6. Đảm bảo giao diện thân thiện, responsive trên nhiều thiết bị.
+
+Yêu cầu ứng viên
+1. Thành thạo ASP.Net Core (C#).
+2. Có kinh nghiệm làm việc với PostgreSQL, SQL Server, ElasticSearch.
+3. Hiểu biết về Docker, CI/CD là một lợi thế.
+4. Tư duy logic, có khả năng giải quyết vấn đề tốt.
+
+5. Thành thạo ReactJS, JavaScript, HTML, CSS.
+6. Có kinh nghiệm làm việc với REST API.
+7. Hiểu biết cơ bản về Git, Redux là một lợi thế.

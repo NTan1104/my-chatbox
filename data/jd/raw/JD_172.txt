@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Mobile Developer (Android/IOS, React Native, Flutter)
+
+Mô tả công việc:
+– Tham gia phát triển các sản phẩm của công ty theo yêu cầu của khách hàng và của ban giám đốc.– Tham gia dự án từ giai đoạn phân tích, thiết kế đến hoàn thiện sản phẩm.– Cơ hội trải nghiệm và ứng dụng nhiều công nghệ mới trong sản phẩm. Chi tiết công việc khác trao đổi trực tiếp khi phỏng vấn.– Chi tiết công việc khác trao đổi trực tiếp khi phỏng vấn.
+
+Yêu cầu công việc:
+– Nắm vững các kiến thức lập trình cơ bản– Nắm vững Lập trình hướng đối tượng, lập trình CSDL, CTDL…– Có ít nhất 1 năm kinh nghiệm trong lập trình phát triển mobile (Android/iOS, React Native, Flutter)– Có kinh nghiệm phát triển phía Server side (REST API services, microservices)– Có nhiều kinh nghiệm sử dụng các thư viện React Native libs, React Component, AsyncStorage, Redux– Có kinh nghiệm cải tiến performance ứng dụng là một lợi thế, khả năng tư duy tốt– Có hiểu biết quản lý source code với Git
+
+Yêu cầu kinh nghiệm: 1-3 năm

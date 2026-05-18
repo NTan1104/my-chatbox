@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Backend Developer (15-20M)
+
+Mô tả công việc:
+- Đảm bảo sự chính xác, linh hoạt, sẵn sàng mở rộng của hệ thống.- Bóc tách hệ thống Laravel cũ sang thành các microservice mới- Tham gia phát triển sản phẩm công nghệ kết hợp với tài chính cho dự án Univest trực thuộc tập đoàn NextTech (Tóm tắt dự án: ứng dụng fintech về tích lũy và đầu tư).
+
+Yêu cầu công việc:
+- Level: Junior. - Có kinh nghiệm ít nhất 1 năm với Node.js (ưu tiên framework NestJS). - Có kinh nghiệm sử dụng GIT, Docker, MySQL. - Đã từng làm việc với Laravel
+
+Yêu cầu kinh nghiệm: 1-3 năm

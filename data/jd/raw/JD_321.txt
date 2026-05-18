@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên Front-End (Senior)
+
+Mô tả công việc:
+- Tham gia vào quá trình phân tích, thiết kế, xây dựng, kiểm thử các module trong platform của SYMPER- Đóng góp ý kiến, giải pháp, phản biện các vấn đề kỹ thuật và nghiệp vụ- Được review code và review chéo giữa các thành viên- Lên kế hoạch và thực hiện theo tháng, quý trong năm- Hướng dẫn, đào tạo các thành viên mới- Tham gia xây dựng/ hoàn thiện quy trình phát triển sản phẩm của Công ty
+
+Yêu cầu công việc:
+- Có kiến thức tốt về OOP, mô hình MVC, ưu tiên có hiểu biết về các design patterns, sử dụng tiếng Anh cho công việc- Có khả năng tư duy giải quyết, tối ưu các vấn đề- Đã từng sử dụng 1 trong các framework Vuejs, React, Angular- Có kinh nghiệm làm việc với Javascript ít nhất 1.5 năm- Có khả năng tối ưu code- Có khả năng thiết kế component - Đã từng hướng dẫn, đào tạo các thành viên khác- Đã từng quản lý công việc của các thành viên trong nhóm - Hiểu và đã sử dụng webpack trong quá trình làm việc- Ưu tiên ứng viên có kinh nghiệm triển khai hoặc sử dụng OKR trong quá trình làm việc- Đã làm việc trong công ty product là 1 lợi thế- Đã từng làm việc với micro frontend là 1 lợi thế
+
+Yêu cầu kinh nghiệm: 1-3 năm

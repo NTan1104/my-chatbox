@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Junior Frontend Developer Thu Nhập Upto 25M
+
+Mô tả công việc:
+Phát triển Frontend phục vụ cho hệ sinh thái video editorNghiên cứu, tìm kiếm giải pháp cho các bài toán video editor ( Render video, cắt ghép chỉnh sửa hình ảnh...)Các công việc khác theo sự phân công của cấp trên
+
+Yêu cầu công việc:
+- Có ít nhất 1 năm kinh nghiệm ReactJS- Thuần thục trong việc sử dụng các dev tool như Babel, Webpack, NPM, Node- Thuần thục sử dụng các tool quản lý code như git, svn- Có kinh nghiệm trong việc sử dụng các tool UI/UX như figma- Tư duy logic tốt, có tinh thần ham học hỏi, cầu tiến
+
+Yêu cầu kinh nghiệm: 1-3 năm

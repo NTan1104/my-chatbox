@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên PHP (Laravel)
+
+Mô tả công việc:
+Bạn sẽ được tham gia là thành viên phát triển 1 trong các dự án trọng điểm của công ty về Streaming, E-learning, Thương mại điện tử,....Tham gia thiết kế cơ bản, viết hướng dẫn, review source code.Chịu trách nhiệm về tiến độ và chất lượng công việc, báo cáo hàng ngày trực tiếp cho người quản lý.
+
+Yêu cầu công việc:
+Có từ 1 năm kinh nghiệm trở lập trình PHP LaravelCó kinh nghiệm làm việc với MySQL
+
+Yêu cầu kinh nghiệm: 1-3 năm

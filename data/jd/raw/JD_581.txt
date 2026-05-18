@@ -1,0 +1,29 @@
+Backend Java - Onsite Bank - Cần Onboard Sớm - Làm Việc Tại Hà Nội
+
+Chi tiết tin tuyển dụng
+Yêu cầu:
+3 năm kinh nghiệm
+Đại Học trở lên
+Tuổi 24 - 35
+Xem chi tiết Yêu cầu
+Quyền lợi:
+Bảo hiểm xã hội
+Thưởng tháng 13
+Team building
+Xem chi tiết Quyền lợi
+Chuyên môn:
+Backend Developer
+IT - Phần mềm
+Ngân hàng
+Mô tả công việc
+Phân tích yêu cầu nghiệp vụ, thiết kế và phát triển hệ thống Microservice/API theo mô hình Agile/Scrum.
+Thiết kế solution, xây dựng tài liệu kỹ thuật và đặc tả API cho các hệ thống được phân công.
+Phát triển và triển khai ứng dụng sử dụng Java, Spring Boot, Microservices, Docker/Container.
+Hỗ trợ xử lý sự cố, vận hành hệ thống và cung cấp hỗ trợ L3 trên môi trường production.
+Review tài liệu thiết kế, source code và nghiên cứu cải tiến framework/standard cho hệ thống Microservice/API..
+Yêu cầu ứng viên
+Tốt nghiệp Đại học chuyên ngành CNTT, Kỹ thuật, Toán học hoặc các ngành liên quan.
+Có từ 3 năm kinh nghiệm trở lên trong phát triển phần mềm, phát triển ứng dụng Java sử dụng Spring Boot, Oracle, MySQL, MongoDB và Restful API.
+Có kinh nghiệm về Microservices, Domain-driven design, event-driven/message-driven architecture, Docker/Container và các công cụ CI/CD như Jenkins, Git, Maven, Gradle.
+Có kinh nghiệm trong lĩnh vực ngân hàng, ưu tiên online banking; có kinh nghiệm làm việc theo Agile/Scrum.
+Ưu tiên có khả năng đọc viết tiếng Anh tốt, kỹ năng teamwork, giao tiếp, tư duy logic và giải quyết vấn đề.

@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Angular Developer
+
+Mô tả công việc:
+Thúc đẩy và cung cấp mã giao diện người dùng HTML, CSS, JQuery và JavaScript chất lượng hàng đầu trên một loạt các dự án web tương tác.Sở hữu mã hướng tới người dùng của nền tảng Digital và kiến trúc của trải nghiệm người dùng, dẫn dắt các designer đưa wireframes từ giai đoạn phát triển đến triển khai. Cộng tác với các nhà phát triển back-end để khắc phục sự cố và giải quyết các vấn đề về mã hóa, cải thiện khả năng sử dụng.Đảm bảo rằng tất cả các vật liệu được sản xuất có chất lượng cao, chính xác, kịp thời và tuân thủ các tiêu chuẩn về khả năng tiếp cận.Duy trì các tiêu chuẩn đồ họa và thương hiệu xuyên suốt giao diện của sản phẩm.Chủ động kiểm tra và gỡ lỗi chương trình để đảm bảo tính ổn định và chính xác.Phát triển và duy trì mã giao diện người dùng để cải thiện các phương pháp mô hình phân tích và thống kê và dự báo để hỗ trợ tribes kinh doanh trong quá trình ra quyết định của họ..
+
+Yêu cầu công việc:
+Có từ 2 năm kinh nghiệm front-end phát triển bằng ít nhất 2 ngôn ngữ (Angular,HTML, CSS, JavaScript, React)Có kinh nghiệm làm việc với các thư viện và framework JavaScript phổ biến (AngularJS, Vue, jQuery)Có kinh nghiệm với các công cụ thiết kế và triển khai UI / UX như Bootstrap hoặc ZURB FoundationCó kinh nghiệm làm việc trong môi trường kiểm soát nguồn như GIT hoặc TFVC
+
+Yêu cầu kinh nghiệm: 1-3 năm

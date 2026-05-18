@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Chuyên Viên Kiểm Thử Phần Mềm ( Tester /QC)
+
+Mô tả công việc:
+- Nghiên cứu yêu cầu phần mềm để xác định yêu cầu kiểm thử của dự án- Lập kế hoạch kiểm thử phần mềm (Test Plan)- Viết tài liệu kịch bản kiểm thử phần mềm (Test Case)- Review tài liệu test case của các member khác- Chuẩn bị dữ liệu kiểm thử- Thực hiện kiểm thử phần mềm trên Web, Mobile, Backend, Frontend.- Thực hiện báo cáo lỗi của phần mềm lên các công cụ quản lý lỗi (JIRA).- Thực hiện các công việc khác theo sự phân công của quản lý dự án- Lập kế hoạch kiểm thử phần mềm (Test Plan)- Viết tài liệu kịch bản kiểm thử phần mềm (Test Case)- Review tài liệu test case của các member khác- Chuẩn bị dữ liệu kiểm thử- Thực hiện kiểm thử phần mềm trên Web, Mobile, Backend, Frontend.- Thực hiện báo cáo lỗi của phần mềm lên các công cụ quản lý lỗi (JIRA).- Thực hiện các công việc khác theo sự phân công của quản lý dự án
+
+Yêu cầu công việc:
+- Tốt nghiệp chuyên ngành công nghệ thông tin.- Ứng viên có từ 01 năm kinh nghiệm trong lĩnh vực kiểm thử web, app mobile- Có hiểu biết về các giai đoạn kiểm thử (Unit Test, Integration Test, System Test, Acceptance Test,…) và các kỹ thuật kiểm thử- Có khả năng nghiên cứu và sử dụng các công cụ hỗ trợ kiểm thử sản phẩm phần mềm- Có khả năng phân tích và trao đổi về yêu cầu phần mềm- Có khả năng phân tích yêu cầu công việc tốt- Có khả năng giao tiếp tốt, làm việc độc lập hoặc theo nhóm- Chịu được áp lực công việc
+
+Yêu cầu kinh nghiệm: 1-3 năm

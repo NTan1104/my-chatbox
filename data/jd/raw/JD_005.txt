@@ -1,0 +1,21 @@
+Mô tả công việc
+Lập trình bổ sung tính năng của các phân hệ trong sản phẩm ERP: kế toán, nhân sự, sản xuất, bán lẻ, quan hệ khách hàng...
+Khi làm việc với sản phẩm công ty, các bạn sẽ có cơ hội bồi dưỡng thêm những kiến thức xã hội thực tế như quy trình làm việc (vận hành, bán hàng, quản lý kho,...) của các doanh nghiệp từ nhỏ đến lớn.
+Xây dựng nhóm Lập trình/DEV có trình độ chuyên môn, nghiệp vụ đáp ứng yêu cầu công việc công ty giao.
+Hoàn thành các mục tiêu, chỉ tiêu và kế hoạch công việc Phòng ban/Công ty giao.
+Phát triển thành công sản phẩm/dự án và đạt được sự tín nhiệm, hài lòng của khách hàng.
+Tham gia, tiếp nhận, phân tích thiết kế các tính năng mới theo yêu cầu nội bộ và khách hàng.
+Chăm sóc, duy trì sự ổn định và cải tiến liên tục sản phẩm, đáp ứng ngày càng tốt hơn nhu cầu khách hàng.
+Hỗ trợ các phòng ban sửa lỗi/cải tiến sản phẩm.
+Làm tất cả những gì tốt nhất có thể vì bản thân và đồng đội.
+Yêu cầu
+Tốt nghiệp Đại học các chuyên ngành Công nghệ thông tin
+Kỹ năng chuyên ngành
+Có kinh nghiệm làm việc với: C#, ASP.NET MVC 4/5, Winforms, MS-SQL Server, Javascript, Jquery, HTML, CSS. Biết sử dụng Kendo UI là một lợi thế.
+Cấu trúc dữ liệu, quan hệ dữ liệu
+Tư duy logic
+Kỹ năng nên có
+Có kỹ năng giao tiếp/làm việc nhóm và giải quyết vấn đề tốt.
+Chủ động, tự lập và cam kết với công việc
+Kinh nghiệm quản lý team DEV tối thiểu 1 năm.
+Có kiến thức về nghiệp vụ quản trị doanh nghiệp: Nghiệp vụ công ty dịch vụ, công ty thương mại, công ty sản xuất, nhân sự,...

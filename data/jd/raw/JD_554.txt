@@ -1,0 +1,38 @@
+Senior Java Backend Developer
+
+Chi tiết tin tuyển dụng
+Yêu cầu: 3 năm kinh nghiệm Cao Đẳng trở lên
+Chuyên môn:
+- Backend Developer
+- IT - Phần mềm
+- Ngân hàng
+- Tài chính
+
+Mô tả công việc
+Lập trình, phát triển các hệ thống, ứng dụng của công ty.
+Quản lý, phát triển dịch vụ tích hợp với các hệ thống core và các nhà cung cấp khác.
+Quản lý, phát triển API trên API Gateway phục vụ tích hợp với các đối tác.
+Nghiên cứu, thử nghiệm, triển khai áp dụng các xu hướng công nghệ mới.
+Duy trì hoạt động của các sản phẩm dịch vụ trong phạm vi quản lý.
+Tham gia phân tích nghiệp vụ, đề xuất giải pháp, phương án triển khai nhằm cải tiến, nâng cao hiệu quả của các dự án trong quá trình làm việc.
+Yêu cầu ứng viên
+1. Trình độ học vấn: Tốt nghiệp Cao đẳng trở lên, chuyên ngành Khoa học máy tính, Công nghệ thông tin, Toán – Tin học.
+
+2. Kinh nghiệm:
+
+Có ít nhất 3 năm kinh nghiệm làm việc trong lĩnh vực phần mềm.
+Có kinh nghiệm trong ngành Tài chính tiêu dùng, Bảo hiểm, Ngân hàng là lợi thế.
+Có kinh nghiệm về mẫu thiết kế, cơ sở dữ liệu, micro-service, tối ưu hóa.
+3. Kỹ năng:
+
+Sử dụng thành thạo các công nghệ/công cụ: Java 8+ (bắt buộc)/ C/C#, NodeJS, Python, Lambda.
+Am hiểu về cơ sở dữ liệu: Relational databases (bắt buộc), NoSql, Redis.
+Sử dụng thành thạo công cụ kiểm thử: CucumberJS. Jest/ Mocha/ Chai/ Selenium.
+Am hiểu Phương pháp Agile (làm việc trong Scrum) sử dụng Jira/Gitlab/Trello.
+Có khả năng sử dụng Linux OS tốt.
+Có kiến thức nền tảng vững chắc trong khoa học máy tính, công nghệ thông tin.
+Có kiến thức về cấu trúc dữ liệu & thuật toán, OOP, quản lý bộ nhớ, mẫu thiết kế, SOLID.
+Am hiểu các công cụ sau là điểm cộng:
+Docker, CI/CD, Kubernetes, DevSecOps.
+Cloud AWS, Google Cloud.
+Message Queue, Kafka, Git flow.

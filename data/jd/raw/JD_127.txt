@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Android Developer
+
+Mô tả công việc:
+- Xây dựng các công cụ quản lý và hỗ trợ vận hành sản phẩm giáo dục đa quốc gia- Xây dựng và phát triển ứng dụng Mobile.- Công việc trao đổi cụ thể trong buổi phỏng vấn- Thời gian làm việc từ thứ 2 đến thứ 6 (8h30 - 18h nghỉ trưa 1,5 tiếng)
+
+Yêu cầu công việc:
+Tốt nghiệp CĐ/ĐH chuyên ngành CNTT hoặc các chuyên ngành liên quanCó từ 2 năm kinh nghiệm trở lên làm việc tại vị trí Android devSử dụng thành thạo Android Studio, GitNắm được kiến thức Android cơ bản: Activity, Fragment, Service, Intent, Networking, Database, Layout, Recyclerview, Jetpack components...Biết cách tổ chức code, xây dựng theo mô hình MVP, MVVM, MVI, biết modular architecture là lợi thếƯu tiên ứng viên biết KotlinCó kinh nghiệm lưu trữ dữ liệu offline, quản lý bộ nhớ, xử lý đa luồng.Có khả năng nghiên cứu độc lập, giải quyết vấn đề.Có kỹ năng giao tiếp và làm việc nhóm tốt.Sẵn sàng đào tạo các bạn có tư duy tốt và mong muốn được học hỏi.
+
+Yêu cầu kinh nghiệm: 3-5 năm

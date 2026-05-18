@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Developer ( PHP )
+
+Mô tả công việc:
+Fresher / Junior Developer- Lập trình và phát triển ứng dụng web, web service theo yêu cầu.- Xây dựng, phát triển, bảo trì và nâng cấp các dự án phần mềm của công ty và khách hàng.- Tìm hiểu, phát triển và ứng dụng công nghệ mới vào sản phẩm.- Thực hiện các công việc liên quan khác theo yêu cầu của công ty.
+
+Yêu cầu công việc:
+Ứng viên vui lòng cập nhật và gửi 2 CV (Tiếng Anh và Tiếng Việt) để được xử lý nhanh chóng.- Tốt nghiệp các ngành Khoa học máy tính, phần mềm tại các trường Cao Đẳng, Đại Học.- Có ít nhất 6 tháng kinh nghiệm (đối với Junior) hoặc đã nắm vững và biết vận dụng tốt kiến thức (đối với Fresher) phát triển ứng dụng web, lập trình web bằng ngôn ngữ PHP mảng back end hoặc yêu thích phát triển web với PHP:• PHP, MySQL• PHP Famework: Chúng tôi làm nhiều Framework khác nhau. (tùy vào yêu cầu của khách hàng: CodeIgniter, CakePHP, Zend, …)• Javascript và JS Frameworks (jQuery, AngularJS, Vuejs…)• DB (MySQL và thiết kế Database)Yêu cầu khác:- Tích cực, chủ động chia sẻ ý kiến, suy nghĩ của bản thân- Kỹ năng làm việc nhóm và giao tiếp tốt.- Kỹ năng quản lý thời gian- Kỹ năng giải quyết vấn đềLợi thế:- Từng làm việc hoặc yêu thích môi trường Nhật Bản là một điểm cộng. - Kỹ năng tạo & tổng hợp báo cáo tốt.- Kỹ năng tiếp cận và học hỏi công nghệ mới nhanh chóng.- Kiên trì, không từ bỏ khi gặp khó khăn – “Không gì là không thể”.
+
+Yêu cầu kinh nghiệm: Dưới 1 năm

@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập trình viên Front - End
+
+Mô tả công việc:
+• Tham gia phát triển các dự án về Web, xây dựng các chức năng frontend của Website, Web application; • Triển khai giao diện HTML/CSS Javascript theo yêu cầu của khách hàng trên hệ thống website xây dựng sẵn; • Phát triển kho giao diện; • Phối hợp với các Back-end developer và web Designer để cải thiện tính khả dụng; • Thu thập ý kiến phản hồi và xây dựng các hướng giải quyết cho người sử dụng và khách hàng; • Nghiên cứu, tìm hiểu các công nghệ về HTML/CSS Javascript mới nhất để áp dụng cái tiến sản phẩm;
+
+Yêu cầu công việc:
+• Thành thạo HTML, CSS, Boostrap, JavaScript và thư viện JQuery; • Thành thạo về responsive; • Thành thạo thao tác Photoshop, Figma phục vụ quá trình chuyển file thiết kế; • Nắm rõ toàn bộ quá trình phát triển web (thiết kế, phát triển và thực thi); • Có kiến thức về các quy tắc trong SEO; • Có kiến thức cơ bản về UX/UI; • Có kiến thức về Responsive Design; • Khả năng làm việc tốt trong môi trường tốc độ cao; • Ưu tiên ứng viên đã từng làm việc trên các framework js như: Reactjs, Vuejs hoặc các javascript framework tương đương;
+
+Yêu cầu kinh nghiệm: Dưới 1 năm

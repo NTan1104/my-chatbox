@@ -1,0 +1,69 @@
+Middle Developer (NodeJS/NestJS) - Dự Án AI Giáo Dục (Nghỉ Thứ 7, Chủ Nhật) - 3 Năm Kinh Nghiệm - Thu Nhập 20 - 35 Triệu - Tại Hà Nội
+
+Chi tiết tin tuyển dụng
+Yêu cầu:
+3 năm kinh nghiệm
+Đại Học trở lên
+Xem chi tiết Yêu cầu
+Quyền lợi:
+Nghỉ thứ 7
+Thưởng tháng 13
+Bảo hiểm sức khỏe
+Xem chi tiết Quyền lợi
+Chuyên môn:
+Backend Developer
+IT - Phần mềm
+
+Mô tả công việc
+Giới thiệu dự án
+
+GenieTeach là dự án EdTech tiên phong trong việc ứng dụng AI để tối ưu hóa mô hình giáo dục hiện đại. Tại GenieTeach, chúng tôi không chỉ xây dựng phần mềm, chúng tôi kiến tạo một tương lai nơi trí tuệ nhân tạo trở thành cánh tay đắc lực cho cả giáo viên và học sinh thông qua 4 trụ cột:
+
+Trợ giảng AI: Tự động hóa các tác vụ quản lý và hành chính cho giáo viên.
+Gia sư AI: Hỗ trợ học tập cá nhân hóa mọi lúc, mọi nơi.
+Khảo thí AI: Công cụ kiểm tra và đánh giá năng lực.
+AI Cá nhân hóa: Phân tích dữ liệu để kiến tạo lộ trình học tập tối ưu cho từng học viên.
+
+Hãy gia nhập cùng chúng tôi để cùng thay đổi tương lai giáo dục bằng sức mạnh công nghệ!
+
+Nhiệm vụ của bạn
+
+Với vai trò Backend Developer, bạn sẽ là người trực tiếp phát triển các tính năng cho sản phẩm:
+
+1. Phát triển Hệ thống (Development)
+
+Xây dựng hệ thống Backend và phát triển các module tính năng theo yêu cầu từ đội ngũ Product/BA.
+Nâng cấp, tối ưu và fix bug để đảm bảo sản phẩm luôn đạt chất lượng cao nhất.
+Khuyến khích ứng dụng các công cụ AI để tối ưu hóa quy trình lập trình.
+Phối hợp chặt chẽ với các thành viên trong team để hoàn thiện sản phẩm theo chuẩn Agile.
+2. Nghiên cứu & thử nghiệm (R&D)
+
+Nghiên cứu, đề xuất các kiến trúc Backend và giải pháp tích hợp AI phù hợp với định hướng dự án.
+Tối ưu hiệu năng hệ thống (Scalability & Performance) để đáp ứng quy mô người dùng lớn.
+Yêu cầu ứng viên
+Kinh nghiệm
+
+Có từ 3 năm kinh nghiệm làm việc trở lên với Node.js, NestJS.
+Ưu tiên các ứng viên có kinh nghiệm phát triển các ứng dụng AI hoặc các dự án giáo dục (Không bắt buộc).
+Kỹ năng
+
+Core Backend (Microservices Architecture)
+Node.js/NestJS (TypeScript): Xây dựng Core Services, API Gateway. Yêu cầu kinh nghiệm xử lý streaming data (SSE, WebSockets), đặc biệt giải quyết tốt bài toán state management và chống mất message cho các ứng dụng Chatbot AI.
+Python (FastAPI): Phát triển các AI/Data Services, tối ưu xử lý I/O bound (asyncio) - là điểm cộng nếu thành thạo.
+Microservices: Giao tiếp hiệu quả giữa các services bằng REST, gRPC hoặc Event-driven architecture.
+Vibecode thành thạo.
+AI & LLMs Integration
+LLMs & APIs: Thực chiến sâu với OpenAI API (Function Calling, Streaming, Token optimization).
+AI Frameworks: Có kinh nghiệm sử dụng LangChain, LangGraph để thiết kế các Agentic Workflows, State Machines và hệ thống RAG phức tạp - là điểm cộng nếu thành thạo.
+Database, Caching & Message Queue
+Databases: RDBMS (PostgreSQL/MySQL). Thành thạo các Vector Databases (Qdrant, Weaviate) phục vụ RAG - là điểm cộng nếu thành thạo.
+Message Brokers: Có kinh nghiệm sử dụng BullMQ (cho các task đơn giản trên Redis) hoặc Kafka cho heavy data streaming.
+Caching: Ứng dụng sâu Redis (Caching, Rate-limiting, Pub/Sub).
+Kỹ năng mềm & thái độ
+
+Có khả năng làm việc độc lập
+Cẩn thận và linh hoạt trong xử lý tình huống.
+Năng động, vui vẻ, hoạt bát, chủ động, có trách nhiệm trong công việc.
+Sẵn sàng học hỏi, cầu tiến, chủ động trong công việc.
+Dễ dàng hoà nhập môi trường năng động, vui vẻ, tích cực.
+Có khả năng chịu được áp lực trong công việc.

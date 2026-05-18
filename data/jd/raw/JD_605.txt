@@ -1,0 +1,52 @@
+Trưởng Phòng Lập Trình/Trưởng Phòng DEV
+
+hi tiết tin tuyển dụng
+Yêu cầu:
+1 năm kinh nghiệm
+Đại Học trở lên
+Xem chi tiết Yêu cầu
+Quyền lợi:
+Bảo hiểm xã hội
+Team building
+Du lịch hàng năm
+Xem chi tiết Quyền lợi
+Chuyên môn:
+DevOps Engineer
+IT - Phần mềm
+Mô tả công việc
+Quản lý & Lãnh đạo đội ngũ Lãnh đạo và điều phối toàn bộ hoạt động phát triển phần mềm của công ty:
+Xây dựng đội ngũ lập trình viên có năng lực cao, văn hóa chủ động và tư duy sản phẩm.
+Phân bổ nguồn lực, quản lý hiệu suất, đào tạo và phát triển năng lực kỹ thuật cho team. Xây dựng lộ trình phát triển nghề nghiệp (career path) cho Developer.
+2. Định hướng công nghệ & kiến trúc hệ thống:
+
+Xây dựng chiến lược công nghệ trung và dài hạn phù hợp với định hướng kinh doanh.
+Thiết kế và kiểm soát kiến trúc hệ thống (Microservices, Cloud-native, Distributed Systems...).
+Thiết lập tiêu chuẩn kỹ thuật, coding standard, review process và DevOps pipeline (CI/CD). Đảm bảo hệ thống có khả năng mở rộng (scalability), bảo mật (security) và hiệu năng cao.
+3. Dẫn dắt ứng dụng AI & AI Agent trong phát triển phần mềm (BẮT BUỘC):
+
+Xây dựng chiến lược ứng dụng AI trong quy trình phát triển phần mềm.
+Thiết kế và triển khai AI Agent phục vụ: Hỗ trợ coding (AI pair programming)
+Sinh tài liệu tự động
+Phân tích yêu cầu nghiệp vụ
+Review code & kiểm thử tự động
+Xây dựng quy trình sử dụng AI cho team Dev một cách hiệu quả và có kiểm soát.
+Đào tạo đội ngũ Developer về: Prompt Engineering
+Sử dụng LLM Xây dựng và tích hợp AI Agent vào sản phẩm
+Ứng dụng AI để tối ưu năng suất và chất lượng phát triển phần mềm.
+4. Phối hợp & vận hành Phối hợp với PM, QA, DevOps, kinh doanh để đảm bảo tiến độ và chất lượng sản phẩm.
+
+Tham gia phân tích nghiệp vụ và tư vấn giải pháp kỹ thuật cho Ban Giám đốc.
+Giải quyết các vấn đề kỹ thuật phức tạp và các tình huống khủng hoảng hệ thống.
+Yêu cầu ứng viên
+Kinh nghiệm Tối thiểu 4 năm kinh nghiệm phát triển phần mềm.
+Ít nhất 1 năm ở vị trí quản lý kỹ thuật (Tech Lead / Development Manager / Head of Dev).
+Có kinh nghiệm xây dựng và vận hành hệ thống quy mô lớn.
+Năng lực kỹ thuật, Thành thạo một hoặc nhiều ngôn ngữ: Java, .NET, Python, JavaScript/TypeScript.
+Am hiểu kiến trúc Microservices, Cloud (AWS/Azure/GCP), CI/CD. Có kinh nghiệm thiết kế kiến trúc hệ thống và tối ưu hiệu năng.
+Năng lực AI (BẮT BUỘC)
+Có kinh nghiệm làm việc với LLM (OpenAI, Claude hoặc mô hình tương đương).
+Có kinh nghiệm xây dựng AI Agent (multi-agent workflow, RAG, tool integration...).
+Hiểu rõ cách tích hợp AI vào quy trình SDLC.
+Có khả năng đào tạo và xây dựng guideline sử dụng AI cho team.
+Ưu tiên ứng viên đã triển khai AI vào sản phẩm thực tế.
+Kỹ năng: Quản lý Tư duy chiến lược công nghệ, Kỹ năng lãnh đạo và truyền cảm hứng, Khả năng ra quyết định và chịu trách nhiệm cao, Kỹ năng giao tiếp và phối hợp đa phòng ban.

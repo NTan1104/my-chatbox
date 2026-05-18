@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Developer (Angular, Nodejs , Reactjs)
+
+Mô tả công việc:
+Phụ trách lập trình, kiểm tra lỗi và báo cáo cho quản lý trực tiếp.Tham gia các dự án ERP, Web App, Website & Mobile của Khách hàng hoặc Nội bộ do cấp trên giaoThực hiện phát triển các dự án khác liên quan đến Angular, Nodejs (Biết thêm reactjs, db: mySQL, PostgreSQL là ưu tiên)
+
+Yêu cầu công việc:
+Đã học/biết về một trong các ngôn ngữ sau: Angular, Reactjs, NodeJS hoặc PHP Ưu tiên các ứng cử viên có kinh nghiệm: Angular, NodeJS hoặc PHP, và từng sử dụng db MySQL hoặc PostgresqlCó kiến thức về JavaScript, CSS3, HTML5Đề cao tinh thần cầu tiến, ham học hỏi và chủ động trong công việc.
+
+Yêu cầu kinh nghiệm: Không yêu cầu kinh nghiệm

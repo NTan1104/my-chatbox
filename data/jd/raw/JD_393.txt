@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: PHP Web Developer (3+ Năm Kinh Nghiệm - Lương Đến 2000 Usd)
+
+Mô tả công việc:
+Tham gia vào toàn bộ quá trình phát triển sản phẩm phần mềm, thiết kế website, phát triển API cho ứng dụng.Xử lý xuyên suốt quá trình phát triển sản phẩm, dự đoán và sửa chữa các vấn đề gặp phải.Quản trị hiệu năng, load testing và review code; đóng góp cho sự cải thiện của hệ thống kỹ thuật.Ngôn ngữ lập trình: PHP; Framework sử dụng: Laravel, Yii, Code Igniter.Tham gia các khóa huấn luyện nội bộ của công ty cả trong kỹ thuật và tiếng Anh.
+
+Yêu cầu công việc:
+Trên 3 năm kinh nghiệm trong việc sử dụng PHP và MySQL để xây dựng websiteCó kinh nghiệm làm việc với một trong các framework: Laravel, Yii, CodeIgniter.Hiểu rõ kiến thức về OOP, MVC, PHP Coding Standards (Convention)Có kinh nghiệm làm việc với cơ sở dữ liệu (ít nhất một trong MySQL, PostgreSQL, MongoDB,... )Có kiến thức về: HTML/CSS/JS, jQuery, Bootstrap.Sử dụng thành thạo GITCó lợi thế nếu từng làm qua một trong các PHP framework: Shopify, Prestashop, Wordpress, hoặc Ecommerce Open Source; một trong các JS framework: ReactJS, VueJS YÊU CẦU KHÁCCó trách nhiệm trong công việc, có khả năng làm việc độc lập và làm việc nhóm.Always think about \"what can be done\" rather than finding the reasons \"why cannot be done\" - Luôn nghĩ về “những gì có thể thực hiện được” thay gì tìm lý do “tại sao không thể thực hiện được”.Có thể đọc, viết và giao tiếp bằng Tiếng Anh.Sẵn sàng tham gia các hoạt động team building: tiệc, xem phim, du lịch,...(Chi tiết sẽ được nói rõ hơn trong buổi phỏng vấn)
+
+Yêu cầu kinh nghiệm: 3-5 năm

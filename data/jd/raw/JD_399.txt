@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Fresher C/C++/C Sharp Winapp
+
+Mô tả công việc:
+- Tham gia khóa đào tạo chuyên sâu về lập trình từ 3-6 tháng về ngôn ngữ C/C++/C Sharp- Cơ hội trở thành lập trình viên C/C++/C Sharp tại FPT Software. Tham gia dự án Healthcare domain (Medical device: Proton Beam Therapy, Ultra Sound, MRI, CT, X-ray)- Phát triển toàn diện học viên: Ngoài hoàn thiện kiến thức lập trình, khóa học còn phát triển các kỹ năng cá nhân bao gồm khả năng ngoại ngữ, kỹ năng mềm (làm việc nhóm, giao tiếp,…), kỹ năng tuyển dụng (viết CV, phỏng vấn) và trải nghiệm các hoạt động văn hóa, thể thao tại công ty.
+
+Yêu cầu công việc:
+- Tham gia đào tạo/làm việc Full-time từ thứ 2 - thứ 6.- Nắm vững kiến thức lập trình căn bản: OOP; cấu trúc cơ sở dữ liệu và giải thuật…- Có kinh nghiệm và yêu thích về ngôn ngữ lập trình C/C++/C Sharp: ASP.Net Web API, networking, relational database (SQL, Postgre…); .Net/.Net Core framework, Entity Framework/ entity framework core- Có kiến thức về một trong những lĩnh vực sau là một lợi thế: Desktop Application programming, Image processing, multi-threading, multi-processing…- Có thể sử dụng Git tool, có kiến thức về Agile/Scrum là một lợi thế- Có khả năng đọc hiểu & giao tiếp tiếng Anh cơ bản. Ưu tiên ứng viên có trình độ tương đương từ TOEIC 550 up / IELTS 5.0 trở lên.
+
+Yêu cầu kinh nghiệm: Không yêu cầu kinh nghiệm

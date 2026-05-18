@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Python Developer
+
+Mô tả công việc:
+- Tham gia vào các dự án lớn và xây dựng các sản phẩm của công ty như: ERP, IoT, Fintech, e-commerce, Management System- Lập trình backend ERP bằng Python.- Lập trình các hệ thống phân tích dữ liệu.- Phát triển các hệ thống SaaS.
+
+Yêu cầu công việc:
+- Chấp nhận sinh viên thực tập- Ưu tiên có kinh nghiệm từ 6 tháng lập trình với Python.- Có kinh nghiệm lập trình với các ERP framework như Odoo, ERPNext.- Có hiểu biết cơ bản về cơ sở dữ liệu và hệ thống.- Có kinh nghiệm làm việc với các CSDL SQL và NoSQL.- Làm việc trên nền tảng Linux.- Hiểu biết về Design Pattern.- Khả năng tự học hỏi và tính tự giác cao.- Kỹ năng giao tiếp tốt, cởi mở, thân thiện.- Kỹ năng làm việc nhóm hiệu quả.- Có khả năng đọc hiểu tài liệu tiếng Anh.Bạn có lợi thế nếu- Đã từng triển khai ERP tới các doanh nghiệp thực tế.- Có kinh nghiệm với framework Django, Flask, FastApi.- Có kinh nghiệm triển khai với Docker …- Có kinh nghiệm lập trình theo hướng TDD.- Có kinh nghiệm làm việc với mảng Data: datawarehouse, ETL, BI …
+
+Yêu cầu kinh nghiệm: Dưới 1 năm

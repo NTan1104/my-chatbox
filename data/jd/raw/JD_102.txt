@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Fresher Flutter
+
+Mô tả công việc:
+Định hướng, training, dẫn dắt các thành viên trong teamCùng team phát triển sản phẩm của công ty theo kế hoạch, tài liệu được đề raKết nối cùng team BA, Design, Marketing để hoàn thiện sản phẩmPhân tích, khắc phục các lỗi sản phẩm trong quá trình vận hànhThực hiện bảo trì, cập nhật sản phẩm, nghiên cứu các công nghệ mới.
+
+Yêu cầu công việc:
+Tốt nghiệp các trường Đại học ngành Công nghệ thông tin hoặc các chuyên ngành liên quan Nắm vững kiến thức cơ bản: lập trình hướng đối tượng, cơ sở dữ liệuNắm vững kiến thức lập trình mobile cơ bản (Android/IOS)Có kinh nghiệm làm việc với các mô hình MVP/ MVVMCó kinh nghiệm làm việc với Flutter từ 06 tháng - 01 nămCó khả năng giao tiếp Tiếng Anh ổnCó khả năng làm việc độc lập và làm việc nhóm.
+
+Yêu cầu kinh nghiệm: Dưới 1 năm

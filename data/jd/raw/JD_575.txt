@@ -1,0 +1,53 @@
+Nhân Viên Lập Trình Backend (Parttime)
+Chi tiết tin tuyển dụng
+Yêu cầu:
+Không cần kinh nghiệm
+Cao Đẳng trở lên
+Từ 20 tuổi trở lên
+Tiếng Anh Giao tiếp cơ bản
+Xem chi tiết Yêu cầu
+Quyền lợi:
+Thưởng hiệu quả làm việc
+Xem chi tiết Quyền lợi
+Chuyên môn:
+Backend Developer
+IT - Phần mềm
+Mô tả công việc
+Phân tích yêu cầu nghiệp vụ, đề xuất giải pháp phần mềm phù hợp
+Thiết kế, lập trình, tối ưu API backend bằng ASP.NET Core
+Thiết kế CSDL PostgreSQL, viết query, tối ưu hiệu năng, backup & restore
+Làm việc với Entity Framework Core (migration, querying, performance tuning)
+Xây dựng và bảo trì REST API cho frontend và các hệ thống tích hợp
+Triển khai và vận hành ứng dụng với Docker (build image, docker-compose, deploy)
+Hỗ trợ chỉnh sửa giao diện cơ bản (HTML/CSS/JS) khi cần
+Phân quyền, bảo vệ dữ liệu, đề xuất giải pháp bảo mật
+Viết tài liệu kỹ thuật và hướng dẫn sử dụng
+Tiếp nhận và xử lý yêu cầu từ các bộ phận liên quan
+
+Yêu cầu ứng viên
+1. Trình độ
+
+Sinh viên năm 2 trở lên hoặc tốt nghiệp Cao đẳng/Đại học chuyên ngành CNTT, Khoa học máy tính, Kỹ thuật phần mềm hoặc ngành liên quan.
+
+2. Kỹ năng
+
+ASP.NET Core (đã làm hoặc nắm vững kiến thức cơ bản)
+PostgreSQL — viết được query, hiểu index, join, transaction
+Entity Framework Core — biết viết migration, LINQ query, xử lý relationship
+REST API — hiểu nguyên tắc thiết kế, biết xây controller, validate input, xử lý response
+Docker — biết viết Dockerfile, chạy docker-compose, hiểu container basics
+HTML / CSS / JavaScript — đủ để chỉnh sửa giao diện, xử lý sự kiện cơ bản
+Tư duy logic tốt, chịu khó đọc code, bám sát yêu cầu
+Chủ động: nhận task → phân tích → đề xuất phương án → triển khai
+Có khả năng đọc hiểu tài liệu kỹ thuật tiếng Anh.
+Giao tiếp, làm việc theo nhóm hiệu quả.
+Tư duy logic tốt, khả năng tự học và giải quyết vấn đề.
+Có tinh thần trách nhiệm và chủ động trong công việc.
+3. Kinh nghiệm
+
+Không yêu cầu kinh nghiệm
+Ưu tiên
+
+Đã từng triển khai dự án thực tế với .NET Core + PostgreSQL
+Biết Git workflow cơ bản (branch, merge, pull request)
+Có kinh nghiệm sửa UI/bug nhanh theo yêu cầu

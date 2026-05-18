@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên Web Frontend
+
+Mô tả công việc:
+ Tham gia phát triển các dự án về Web, xây dựng các chức năng front-end của Website, Web application Triển khai giao diện HTML/CSS/Javascript theo yêu cầu trên hệ thống website xây dựng sẵn Thu thập ý kiến phản hồi và xây dựng các hướng giải quyết cho người sử dụng và khách hàng Nghiên cứu và áp dụng các phương pháp hoặc công nghệ thích hợp để giải quyết vấn đề
+
+Yêu cầu công việc:
+ Kỹ sư CNTT/ĐTVT, hệ chính quy, dưới 35 tuổi Có chứng chỉ B/Toeic 450 trở lên hoặc tương đương. Thành thạo ngôn ngữ lập trình Javascript/Typescript… Có kinh nghiệm sử dụng AngularJS/ReactJS/Vuejs… Kiến thức về lập trình và thiết kế hướng đối tượng (OOP) Kiến thức về cấu trúc dữ liệu & giải thuật, design patterns Kiến thức về quy trình phát triển phần mềm Tư duy tốt, có khả năng nghiên cứu, đánh giá và cập nhật công nghệ mới
+
+Yêu cầu kinh nghiệm: 1-3 năm

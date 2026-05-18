@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên Back-End
+
+Mô tả công việc:
+- Xác định và phân tích các yêu cầu của người dùng.- Ưu tiên, phân công và thực hiện các nhiệm vụ trong suốt vòng đời phát triển phần mềm.- Phát triển các ứng dụng Java.- Viết mã được thiết kế tốt, hiệu quả.- Xem lại, kiểm tra và gỡ lỗi (nếu có).- Thiết kế kiến trúc cơ sở dữ liệu.- Thử nghiệm, lên lịch phát hành sản phẩm phần mềm trong nội bộ nhóm.- Đảm bảo thông tin về các phần mềm, ứng dụng được bảo mật và cập nhật.- Đề xuất giải pháp phần mềm mới.- Lập kế hoạch, báo cáo về quá trình phát triển phần mềm.
+
+Yêu cầu công việc:
+- Từ 4 năm kinh nghiệm đã từng làm Back-End Java (Spring Boot/Tomcat/ Apache), JSP, HTML- Kinh nghiệm và kiến thức vững về Javascript (jQuery), HTML5, CSS- Có kỹ năng lập trình hướng đối tượng, kiến thức nền tảng về Web, Internet..., kinh nghiệm test/viết unit test là lợi thế.- Có kiến thức chuyên môn về Database và đã từng làm việc với Oracle là một lợi thế- Có kinh nghiệm hoàn thành công việc, teamwork- Chủ động, cẩn thận, có trách nhiệm với công việc- Suy nghĩ tích cực, hòa đồng, ham học hỏi- Tiếng Anh giao tiếp (với dự án của KH Mỹ)
+
+Yêu cầu kinh nghiệm: 3-5 năm

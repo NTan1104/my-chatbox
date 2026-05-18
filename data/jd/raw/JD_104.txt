@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên Full-Stack
+
+Mô tả công việc:
+- Tham gia phát triển sản phẩm là các hệ thống về thương mại điện tử, hệ thống Loyalty và sản phẩm khác…- Tham gia phát triển core, backend, frontend các dự án, sản phẩm của công ty.- Lập trình, xây dựng API cho các dịch vụ của công ty theo sự phân công của trưởng bộ phận.- Công việc khác:• Phân tích thiết kế hệ thống, phân tích thiết kế CSDL.• Triển khai hệ thống, hỗ trợ dự án.
+
+Yêu cầu công việc:
+- Nam từ 25 đến 35 tuổi- Tốt nghiệp đại học chính quy, ngành CNTT, Điện tử viễn thông, Toán tin; Ưu tiên sinh viên tốt nghiệp trường Đại học Bách Khoa, Đại học Khoa học tự nhiên, Đại học Công nghệ, Học viện bưu chính viễn thông- Thành thạo các kỹ thuật trong .NET technology:C(thăng), ASP.NET WebForms, .NET MVC ADO.NET, Webservice, XML…- Có kinh nghiệm các kỹ thuật lập trình Website: HTML, CSS, JS, Ajax, jQuery…- Hiểu biết tốt về Design pattern ( Singleton, factory … ),OOP, SOAP services, Web API- Sử dụng thành thạo các công cụ quản lý Source Code như Git, SVN…;- Thành thạo RESTful, SOAP.- Đã làm việc trên: Oracle hoặc có kinh nghiệm trên các hệ quản trị cơ sở dữ liệu khác: MSSQL server, MySQL, NonSQL…- Hiểu biết và có kinh nghiệm về xây dựng hệ thống bán hàng trực tuyến, php,java là một lợi thế- Có khả năng tự học tập, tra cứu và đọc hiểu tiếng Anh chuyên ngành- Có khả năng làm việc độc lập hoặc làm việc theo nhóm- Sáng tạo, chủ động và làm việc trong môi trường áp lực
+
+Yêu cầu kinh nghiệm: Dưới 1 năm

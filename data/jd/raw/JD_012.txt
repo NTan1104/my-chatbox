@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: PHP Developer (PHP, Laravel, Aws)
+
+Mô tả công việc:
+Thiết kế, phát triển và vận hành hệ thống back-end của các package.Từ thiết kế cơ bản đến phát triển và vận hành các chương trình khác nhau như hệ thống chiến dịch sử dụng API, CMS, hệ thống ứng dụng (application system), nội dung trò chơi (game content),…Trao đổi thêm khi phỏng vấn
+
+Yêu cầu công việc:
+【KỸ NĂNG CẦN THIẾT】Có kinh nghiệm phát triển PHP từ 3 năm trở lên.Có kinh nghiệm phát triển Laravel từ 1 năm trở lên.Có kinh nghiệm phát triển CMS bằng Laravel.Có kinh nghiệm thực tiễn trong phát triển Team từ 1 năm trở lên.Có kiến thức liên quan đến Vulnerability.【KỸ NĂNG MONG MUỐN】Có kinh nghiệm phát triển package.Có kiến thức về RDBMS performanceCó kiến thức thực tiễn về cloud server như AWS, GCP, Azure,…Có kiến thức về Around SecurityCó kinh nghiệm thực tiễn về lập test codeCó kiến thức về triển khai Front-endThích va chạm - thử thách với những công nghệ mới.Có năng lực sáng tạo và khả năng giao tiếp tốt.Nỗ nực hết mình trong mọi hoàn cảnh và đưa ra những ý kiến đóng góp để phát triển công việc.Khả năng nói-đọc-viết tiếng Anh/tiếng Nhật※Ưu tiên CV tiếng Anh hoặc tiếng Nhật
+
+Yêu cầu kinh nghiệm: 1-3 năm

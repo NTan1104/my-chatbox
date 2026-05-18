@@ -1,0 +1,24 @@
+Lập Trình Viên Java (Product Domain Bank, Fintech) 
+
+Chi tiết tin tuyển dụng
+Yêu cầu:
+3 năm kinh nghiệm
+Cao Đẳng trở lên
+Xem chi tiết Yêu cầu
+Quyền lợi:
+Nghỉ thứ 7
+Xem chi tiết Quyền lợi
+Chuyên môn:
+Backend Developer
+Mô tả công việc
+Tham gia phân tích, thiết kế và phát triển dự án Bank;
+Xây dựng và chỉnh sửa các module, tính năng theo yêu cầu;
+Nghiên cứu công nghệ mới, áp dụng cải tiến business framework;
+Được tham gia toàn bộ quy trình phát triển phần mềm;
+Yêu cầu ứng viên
+Tốt nghiệp CĐ/ĐH chuyên ngành CNTT hoặc tương đương;
+Kinh nghiệm từ 3 năm với các project liên quan trên nền tảng Java web;
+Khả năng giao tiếp, truyền đạt tốt, tư duy logic;
+Nắm vững về Java Core, và sử dụng thành thạo Oracle cũng như các database khác;
+Có khả năng sử dụng công nghệ : Spring+Hibernate, PrimeFaces;
+Có khả năng sử dụng các công nghệ về cloud như Docker, K8S.

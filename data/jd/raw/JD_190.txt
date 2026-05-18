@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: .Net Developer
+
+Mô tả công việc:
+- Tiếp nhận và thực hiện các yêu cầu do người quản lý phân công;- Tham gia phân tích, phát triển, bảo trì các hệ thống doanh nghiệp ERP, tài chính Fintech, quản trị nhân sự HRM, CRM, CMS, ...- Xây dựng các hệ thống api, microservice,...- Tham gia các buổi study and share về công nghệ..
+
+Yêu cầu công việc:
+- Có kinh nghiệm làm việc với ngôn ngữ lập trình C, .Net từ 06 tháng trở lên.- Thành thạo HTML, CSS, JavaScript, Jquery, Web Responsive- Có khả năng làm việc với các loại database: MS SQL Server, Oracle- Nắm được một trong những design pattern như MVC, Domain driven design, ...- Đã tiếp cận với Angular là một lợi thế.- Có khả năng làm việc độc lập/đội nhóm, tinh thần trách nhiệm, nhanh nhẹn, nghiêm túc trong công việc.
+
+Yêu cầu kinh nghiệm: Dưới 1 năm

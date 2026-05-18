@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Mobile Developer (React Native) Sản Phẩm Ứng Dụng Phần Mềm Tiềm Năng
+
+Mô tả công việc:
+Tham gia phát triển và xây dựng các sản phẩm mobile app bằng React Native của công tyTham gia thiết kế, xây dựng và phát triển các ứng dụng điện thoại di động.Cải thiện độ mượt của giao diện và nâng cao chất lượng phân giải trên nền tảng IOS/ AndroidTối ưu native APIs nhằm mục đích giúp ứng dụng mới ra mắt có thể tích hợp với các nền tảng sẵn có.Đảm bảo ứng dụng hoạt động hiệu quả, ổn định, an toàn bằng cách tối ưu và nâng cấp mã nguồn liên tục.Đảm bảo tiến độ công việc, luôn có thái độ cầu tiến; nghiên cứu và tìm kiếm các công nghệ mớiPhối hợp, hỗ trợ các bộ phận khác để hoàn thành các dự án ứng dụng cụ thể cho khách hàngBáo cáo công việc định kỳ
+
+Yêu cầu công việc:
+Có ít nhất 1 năm kinh nghiệm trong lập trình Mobile với React NativeCó kinh nghiệm với GIT source controlLàm được ReactJS là một lợi thếƯu tiên ứng viên có kinh nghiệm đưa app lên Appstore và GooglePlayHiểu biết về API REST, mô hình yêu cầu tài liệu và lưu trữ ngoại tuyếnKinh nghiệm với thư viện Redux, Socket, Push NotificationTư duy logic tốtCó khả năng làm việc độc lập, làm việc nhóm
+
+Yêu cầu kinh nghiệm: Dưới 1 năm

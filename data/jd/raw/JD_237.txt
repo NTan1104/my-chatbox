@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Backend Developer
+
+Mô tả công việc:
+I. MÔ TẢ CÔNG VIỆC- Lập trình phần server game cho game realtime (Phần server tương tự Clash Royale).- Thiết kế cơ sở dữ liệu cho sản phẩm.- Triển khai và vận hành Server.- Phát triển dịch vụ nền tảng và công cụ vận hành để xuất bản trò chơi.- Phát triển RESTful API dựa trên nền tảng và liên kết.- Phát triển các phân tích dữ liệu khác nhau và xử lý phân phối dữ liệu.- Phát triển các dịch vụ như quản lý thông tin, quản lý tài khoản và giám sát cần thiết cho các báo cáo thống kê.-Phát triển máy chủ phụ trợ cho các giao diện tích hợp nền tảng (cổng API, hàng đợi tin nhắn phân tán, v.v.)- Phát triển hệ thống xử lý thời gian thực cho trò chơi dữ liệu lớn.
+
+Yêu cầu công việc:
+II. YÊU CẦU ỨNG VIÊN- Thành thạo, có hiểu biết sâu sắc ngôn ngữ lập trình Java hoặc C, PHP- Có kinh nghiệm làm việc hoặc vận hành hệ thống trên AWS(EC2, DynamoDB, AutoScale)- Kỹ năng phân tích và giải quyết vấn đề tốt.- Ưu tiên những ứng viên có nhiều hơn 1 năm kinh nghiệm.- Có kinh nghiệm làm việc với các dịch vụ web RESTful.- Có kiến ​​thức hoặc kinh nghiệm về RDBMS, SQL / NoSQL.- Có kinh nghiệm lập trình ít nhất một trong các Javascript (Node.js), Java (Spring) và PHP- Có kinh nghiệm trong môi trường dựa trên Linux.- Khả năng học hỏi nhanh, không bắt buộc biết làm sever online, sẽ được đào tạo
+
+Yêu cầu kinh nghiệm: 1-3 năm

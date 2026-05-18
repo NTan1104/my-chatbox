@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: C++ Developer
+
+Mô tả công việc:
+Phối hợp với các thành viên khác trong team để xây dựng ý tưởng, đưa ra các giải pháp kỹ thuật để tạo được sản phẩm tốt nhất.Xây dựng và duy trì code hiệu quả, có thể tái sử dụng.Nâng cấp và tối ưu các sản phẩm của công ty.
+
+Yêu cầu công việc:
+Tốt nghiệp ĐH ngành Công nghệ thông tin hoặc lĩnh vực kỹ thuật liên quan.Có tối thiểu 1 năm kinh nghiệm lập trình C++Ứng viên có kinh nghiệm về MFC và mô hình MVC, ưu tiên biết sử dụng những phần mềm hỗ trợ thiết kế như Autocad, Revit. Hoặc ứng viên có kinh nghiệm trong các dự án multi-platform (Cocos2d-x, IOS, Android).Có khả năng làm việc độc lập dưới áp lực cao, Có tư duy logic tốt.Có kỹ năng làm việc nhóm và sẵn sàng học hỏi, chia sẻ kiến thức chuyên môn.
+
+Yêu cầu kinh nghiệm: 1-3 năm

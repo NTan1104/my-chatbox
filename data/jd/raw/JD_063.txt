@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên Frontend (React-Native) Developer
+
+Mô tả công việc:
+TRÁCH NHIỆM​Quyền lực lớn đi kèm với trách nhiệm lớn!Phát triển hệ thống giao dịch trên nền tảng mobileDuy trì một codebase mạnh mẽ chất lượng caoNhanh chóng xây dựng, lặp lại, thử nghiệm và triển khai các tính năng và sản phẩm mớiLàm việc với nhóm sử dụng quy trình Kanban
+
+Yêu cầu công việc:
+YÊU CẦUBất kỳ ai yêu thích lập trìnhCác levels tuyển dụng : Junior / Middle / Senior Kinh nghiệm: từ 2 năm trở lênKỸ NĂNGPhải cóNgôn ngữ: Typescript or Javascript (willing to learn Typescript), HTML, CSS, SCSSFramework: React Js, Redux, SagaVersion control: gitHiểu biết về Data Structure, AlgorithmKhả năng viết code tốtKhả năng làm việc với các bên liên quan thứ 3Quen thuộc với REST apiDÀNH CHO VỊ TRÍ SENIORKinh nghiệm trong các lĩnh vực liên quanTối ưu hóa kết quả công việcƯu tiên những hiểu biết về UX và giải quyết những lỗi saoGiải quyết mâu thuẫn giữa các bênƯU TIÊNHiểu biết về thị trường chứng khoánKĩ năng giao tiếp tiếng AnhLàm việc từ xa nếu cần thiếtJira
+
+Yêu cầu kinh nghiệm: 1-3 năm

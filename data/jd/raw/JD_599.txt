@@ -1,0 +1,26 @@
+DevOps Engineer
+
+Chi tiết tin tuyển dụng
+Yêu cầu:
+2 năm kinh nghiệm
+Đại Học trở lên
+Xem chi tiết Yêu cầu
+Chuyên môn:
+DevOps Engineer
+Mô tả công việc
+Giám sát, vận hành hệ thống hạ tầng và ứng dụng, bảo đảm hệ thống hoạt động ổn định, liên tục và đáp ứng yêu cầu về uptime, hiệu năng.
+Theo dõi, phát hiện, chẩn đoán nguyên nhân sự cố (RCA) và phối hợp với các bộ phận liên quan để xử lý lỗi phần mềm trên môi trường staging và production.
+Thực hiện khắc phục lỗi, triển khai hotfix, kiểm tra sau xử lý nhằm bảo đảm sự cố được giải quyết triệt để và hạn chế tái diễn.
+Ghi nhận, tổng hợp, báo cáo incident và cập nhật tiến độ xử lý tới các bên liên quan một cách kịp thời, rõ ràng.
+Xây dựng, duy trì và tối ưu hệ thống CI/CD, tự động hóa quy trình build, test, deploy nhằm tăng tốc độ triển khai và giảm thiểu rủi ro vận hành.
+Quản lý hạ tầng cloud, backup, bảo mật hệ thống; đồng thời theo dõi và tối ưu chi phí vận hành cho mô hình SaaS multi-project.
+Phối hợp với đội phát triển để cải thiện kiến trúc triển khai, nâng cao tính ổn định, khả năng mở rộng và mức độ an toàn của hệ thống.
+Tham gia xây dựng quy trình, tài liệu kỹ thuật, tiêu chuẩn vận hành và ứng phó sự cố.
+Yêu cầu ứng viên
+Có kinh nghiệm ở vị trí DevOps / System Engineer / Infrastructure Engineer hoặc các vị trí tương đương.
+Hiểu biết tốt về vận hành hệ thống trên môi trường Linux, web server, database và hạ tầng ứng dụng.
+Có kinh nghiệm làm việc với các nền tảng cloud.
+Thành thạo hoặc có kinh nghiệm với CI/CD tools, container, scripting và các công cụ tự động hóa triển khai.
+Có khả năng theo dõi log, phân tích lỗi, xử lý sự cố và thực hiện RCA.
+Có tư duy hệ thống, chủ động, trách nhiệm cao và phối hợp tốt với team phát triển.
+Ưu tiên ứng viên có kinh nghiệm về mô hình SaaS, hệ thống nhiều dự án.

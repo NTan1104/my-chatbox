@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: .Net Developer - HCM
+
+Mô tả công việc:
+Tham gia đội ngũ phát triển Dự án Healthcare/ Dự án chuyển đổi số trên nền tảng web với vai trò Backend/ Fullstack.Tham gia dự án chuyển đổi nền tảng ứng dụng, phát triển giải pháp back-end theo mô hình microservice.Tham gia phát triển hệ thống Core-service với các nghiệp vụ về healthcare, hệ thống thông tin, chuyển đổi số.Thực hiện code chính mảng Backend (.Net).Các công việc khác theo phân công của techlead.
+
+Yêu cầu công việc:
+Tốt nghiệp Đại Học hoặc Cao Đẳng trở lên các chuyên nghành Công nghệ thông tin, hệ thống thông tin, Khoa học máy tính hoặc ngành liên quan.Kinh nghiệm từ 1 năm trở lên, thành thạo .Net, C, MVC, .Net Core.Am hiểu lập trình hướng đối tượng (OOP) và áp dụng design pattern.Am hiểu việc gọi và xử lý RESTFul API.Am hiểu và có kinh nghiệm làm việc với database: SQL server, Oracle, MySQL.Có kiến thức về Design Software for Architects.Có khả năng học hỏi nghiên cứu công nghệ mới.Ưu tiên các ứng viên fullstack, biết thiết kế kiến trúc hệ thống, có chứng chỉ quốc tế.Ưu tiên các ứng viên năng nổ hoạt động phong trào, thể dục thể thao.
+
+Yêu cầu kinh nghiệm: 1-3 năm

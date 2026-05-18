@@ -1,0 +1,28 @@
+Kỹ Sư Phát Triển Phần Mềm Java - Java Backend Developer
+
+Chi tiết tin tuyển dụng
+Yêu cầu:
+3 năm kinh nghiệm
+Cao Đẳng trở lên
+Xem chi tiết Yêu cầu
+Quyền lợi:
+Nghỉ thứ 7
+Xem chi tiết Quyền lợi
+Chuyên môn:
+Backend Developer
+IT - Phần mềm
+Mô tả công việc
+Phát triển hệ thống backend cho dự án ngân hàng quy mô lớn
+Thiết kế, xây dựng và tối ưu API phục vụ nghiệp vụ
+Tham gia phân tích yêu cầu và đề xuất giải pháp kỹ thuật
+Phối hợp với BA, QA, DevOps để đảm bảo tiến độ dự án
+Tham gia review code, tối ưu hiệu năng và bảo mật hệ thống
+Đóng góp vào việc định hình kiến trúc hệ thống từ giai đoạn đầu
+Yêu cầu ứng viên
+Tối thiểu 3 năm kinh nghiệm lập trình Java
+Có kinh nghiệm phát triển backend (Spring Boot hoặc tương đương)
+Hiểu nguyên lý thiết kế hệ thống, API và xử lý dữ liệu
+Có khả năng đọc hiểu tài liệu kỹ thuật và làm việc nhóm
+Chủ động học hỏi và thích nghi với công nghệ mới
+Ưu tiên ứng viên có kinh nghiệm trong lĩnh vực ngân hàng/tài chính (core banking, thanh toán, tín dụng)
+Ưu tiên ứng viên có kinh nghiệm làm việc với hệ thống lớn, dữ liệu lớn

@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Devops Engineer
+
+Mô tả công việc:
+-Làm việc với hệ thống chạy Linux, Unix.. -Quản lý và triển khai CI/CD, tự động hóa build, deploy code.-Deploy, monitor ứng dụng chạy trên Kubernetes, áp dụng giải pháp giúp tự động, tối ưuTriển khai tools deploy, fixes, upgrade.- Xây dựng quy trình, triển khai các công cụ DevOps.. -Phân tích và xử lý lỗi trong quá trình triển khai gặp phải
+
+Yêu cầu công việc:
+• Thành thạo, am hiểu về hệ thống linux(CentOS/Ubuntu)• Có kiến thức về Network, Security ( TCP/UDP, DNS, NAT ... )• Có kiến thức về NoSQL/SQL database• Có kinh nghiệm trong CI/CD/ DevOps automation• Có kinh nghiệm triển khai sử dụng monitoring tools ( Jenkins, Gitlab, Grafana, Prometheus, Ansible,)• Có kinh nghiệm một trong các ngôn ngữ lập trình sau: Python, NodeJS, Java, ...• Có kinh nghiệm triển khai Docker, Kubernetes, ...Điểm cộng lớn :• Thành thạo một trong các ngôn ngữ lập trình sau: Python, NodeJS, Java, ...• Làm việc với nền tảng,hệ thống quy mô lớn.• Có kinh nghiệm thực tế về Docker, Kubernetes• Có kinh nghiệm thực tế về tối ưu NoSQL/SQL database• Có kinh nghiệm xây dựng hệ thống với tính sẵn sàng cao, chịu tải với lượng request lớn.• Có kinh nghiệm thực tế về một trong các automation tools chef, salt, ansible
+
+Yêu cầu kinh nghiệm: 1-3 năm

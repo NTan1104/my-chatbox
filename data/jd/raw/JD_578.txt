@@ -1,0 +1,27 @@
+Fullstack Developer (Reactjs, Nodejs)
+
+Chi tiết tin tuyển dụng
+Yêu cầu:
+1 năm kinh nghiệm
+Đại Học trở lên
+Xem chi tiết Yêu cầu
+Chuyên môn:
+Software Engineer
+IT - Phần mềm
+Mô tả công việc
+Phát triển giao diện người dùng của các sản phẩm trên nền tảng Web sử dụng React.js;
+Xây dựng các component UI tái sử dụng và tối ưu hiệu suất hiển thị;
+Tích hợp giao diện với API từ backend, đảm bảo hoạt động mượt mà và ổn định;
+Nghiên cứu, đề xuất các giải pháp cải tiến giao diện, nâng cao trải nghiệm người dùng (UX/UI);
+Tham gia phát triển các sản phẩm Web, đảm nhiệm cả frontend và backend;
+Phát triển các API, logic nghiệp vụ trên nest.js;
+Làm việc với cơ sở dữ liệu như MongoDB;
+Yêu cầu ứng viên
+Tốt nghiệp chuyên ngành Công nghệ Thông tin hoặc các ngành liên quan;
+Có kinh nghiệm từ 1-2 năm trở lên về lập trình Web sử dụng React.js, JavaScript;
+Có kinh nghiệm phát triển API với Node.js;
+Am hiểu các công nghệ backend: Express.js, NestJS, hoặc tương tự;
+Có kinh nghiệm làm việc với cơ sở dữ liệu như MongoDB, PostgreSQL, hoặc MySQL;
+Ưu tiên ứng viên có hiểu biết về SharePoint/SharePoint Online, Office 365;
+Có khả năng làm việc độc lập và theo nhóm, tư duy logic và giải quyết vấn đề tốt;
+Ưu tiên: Có kinh nghiệm với các công cụ DevOps, Docker, hoặc quản lý phiên bản Git.

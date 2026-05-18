@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên PHP
+
+Mô tả công việc:
+Phân tích yêu cầu và phát triển back-end cho các dự án web của khách hàng Nhật, Sing, Úc và product của công ty.Nghiên cứu và ứng dụng các công nghệ mới nhất vào dự án.Trở thành một trong các nhân sự cốt lõi đồng hành cùng sự phát triển của công ty.
+
+Yêu cầu công việc:
+• Từ gần 1 năm kinh nghiệm lập trình back-end bằng ngôn ngữ PHP, ưu tiên các ứng viên có kinh nghiệm với Laravel Framework, CakePHP.• Hiểu biết về các hệ CSDL SQL & NoSQL• Nắm vững kiến thức về OOP, Design Pattern.• Sử dụng tốt các công cụ quản lý source code: SVN, GIT.• Có kinh nghiệm phát triển dự án theo mô hình Agile Scrum• Có kinh nghiệm triển khai dự án dùng dịch vụ AWS, Azure là một lợi thế.• Đề cao trách nhiệm trong công việc, ý thức chất lượng sản phẩm tốt.• Đam mê tìm tòi nghiên cứu học hỏi công nghệ mới, phát triển bản thân.• Giao tiếp tiếng Anh/ tiếng Nhật là lợi thế.
+
+Yêu cầu kinh nghiệm: 3-5 năm

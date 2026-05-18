@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên Game Unity
+
+Mô tả công việc:
+- Sử dụng Unity để phát triển game online phát hành lên cho nền tảng Android, iOS.- Phối hợp với các thành viên trong team để xây dựng game: Art, UI, UX...- Đóng góp ý tưởng cho các tính năng của dự án.- Chủ động, sáng tạo, học hỏi kiến thức mới.- Tinh thần trách nhiệm cao, cam kết với công việc được giao.
+
+Yêu cầu công việc:
+Đáp ứng được 60% yêu cầu công việc nên apply ngay nhé- Có ít nhất 1 năm kinh nghiệm với lập trình game bằng unity, quen thuộc với UGUI, particle system, Spine, animation ...- Nắm được và các nguyên lý cơ bản của OOP, design pattern.- Có kinh nghiệm phát triển game online dùng Smartfox 2X là một lợi thế lớn.- Hiểu về cấu trúc dữ liệu và giải thuật, kiến thức tốt về toán học và vật lý trong game.- Có kinh nghiệm Optimization và sử dụng các công cụ debug, profiler của Unity.- Có sản phẩm demo.⁃ Đảm nhận một phần hoặc độc lập tác chiến một sản phẩm/dự án tùy theo năng lực và kinh nghiệm;- Tham gia quản lý nhóm nếu có khả năng phù hợp.
+
+Yêu cầu kinh nghiệm: 1-3 năm

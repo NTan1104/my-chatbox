@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên PHP (Laravel)
+
+Mô tả công việc:
+• Tham gia code bằng ngôn ngữ PHP Laravel nhằm phát triển các giải pháp: Chatbot, CRM, marketing automation, mail assistant, Web Solutions, payment, loyalty, ticket tool hỗ trợ cho doanh nghiệp, billing,...• Nghiên cứu và áp dụng công nghệ mới phù hợp với định hướng và chiến lược phát triển của dự án, công ty.
+
+Yêu cầu công việc:
+• Chủ động trong công việc, tính tự giác cao, ham học hỏi, tinh thần làm việc hăng hái, chăm chỉ, tích cực, chịu được áp lực.• Sử dụng thành thạo PHP, có từ 1 năm kinh nghiệm làm việc với framework Laravel.• Thành thạo javascript, CSS, HTML5• Thành thạo mongodb• Hiểu biết VueJs, ReactJs là lợi thế• Ưu tiên những ứng viên đã từng làm các ứng dụng quản lý: Quản lý đơn hàng, quản lý khách hàng, quản lý nhân sự…
+
+Yêu cầu kinh nghiệm: 1-3 năm

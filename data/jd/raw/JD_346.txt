@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Back End Developer (Golang, Python3) - Quận 2
+
+Mô tả công việc:
+Triển khai, xây dựng, và kiểm thử các tính năng mới cho các sản phẩmXây dựng cấu trúc dự án có hiệu suất cao, có thể dễ dàng mở rộng trong quá trình kiểm thử và phát triển.Làm việc với nhóm phát triển và người dùng để thay đổi, nâng cấp hệ thống theo yêu cầuKhắc phục sự cố, gỡ lỗi và nâng cấp phần mềm hiện cóĐề xuất và thực hiện các cải tiếnTạo tài liệu kỹ thuật để tham khảo và báo cáo
+
+Yêu cầu công việc:
+Must Have:Thành thạo nghe nói tiếng Anh và tiếng Việt.Chủ động sáng tạo để tìm cách cải tiến các giải pháp, hệ thống và quy trìnhCó kinh nghiệm thiết kế và phát triển phần mềm trong môi trường chạy thử nghiệmHiểu biết và có kinh nghiệm làm việc với ngôn ngữ lập trình và công nghệ phần mềm như: Python3, Golang (bắt buộc), nếu biết thêm React, Angular là một điểm cộngTốt nghiệp đại học về Khoa học máy tính hoặc một ngành liên quanGood to Have:Kỹ năng giao tiếp tốt với cả các thành viên trong nhóm và các bên liên quan bên ngoài doanh nghiệp bằng cả tiếng Anh và tiếng Việt Có kinh nghiệm ở vị trí như Nhân viên phát triển phần mềm, Kỹ thuật viên phát triển phần mềm hoặc các vị trí tương tựHiểu biết toàn diện về các lý thuyết và kỹ thuật phát triển ứng dụng hướng đối tượng và dịch vụCó kiến thức về các mô hình phát triển nhanh như Scrum (bắt buộc) và KanbanKhả năng học ngôn ngữ và công nghệ mớiSự tháo vát và năng khiếu xử lý sự cốSự chú ý đến chi tiết
+
+Yêu cầu kinh nghiệm: 1-3 năm

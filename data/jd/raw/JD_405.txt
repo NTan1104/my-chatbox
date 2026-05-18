@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Junior Python Developer
+
+Mô tả công việc:
+Cùng team dự án tìm hiểu, phân tích yêu cầu, nghiên cứu công nghệ và review source code những sản phẩm Y tế cho khách hàng Nhật trên nền tảng công nghệ Python (Django).Tiếp xúc khách hàng, thảo luận và phân tích yêu cầu khách hàng, phát triển thiết kế sản phẩm, code, test sản phẩm của mình làm ra.Nghiên cứu các công nghệ tiên tiến để đưa ra giải pháp cải tiến, hoàn thiện sản phẩm mình phát triển.
+
+Yêu cầu công việc:
+Có từ 1 năm kinh nghiệm trở lên code ngôn ngữ Python(ưu tiên) hoặc các ngôn ngữ khác: PHP, NodeJS, Java, .Net.Có kinh nghiệm với AWS (Lambda, Cognito, Secrets Manage, CodePipeline, Firebase) là 1 lợi thế.Hiểu biết cơ bản về lập trình Front End như JavaScript, HTML5 và CSS3. Sử dụng thành thạo một trong các công nghệ Angular, Reactjs là một lợi thế.Có kiến thức web service (RESTful).Có kinh nghiệm sử dụng các dịch vụ AWS, khả năng thiết kế, tối ưu database (MySQL/SQL,NoSQL) là một lợi thế.Hiểu biết thành thạo các công cụ quản lý source code như Github/Gitlab.
+
+Yêu cầu kinh nghiệm: 1-3 năm

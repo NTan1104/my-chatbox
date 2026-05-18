@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: PHP Developer (Middle - Senior) - Thu Nhập Upto 40M
+
+Mô tả công việc:
+1.Phát triển sản phẩm:Lập trình web trên nền tảng PHPXây dựng các component dựa trên nền tảng Core của 1Office.Tham gia phân tích, xây dựng các nghiệp vụ trong sản phẩm.Tìm hiểu các công nghệ, tích hợp mới được giao để đưa vào áp dụng cho phần mềmTích cực đóng góp những kinh nghiệm, ý tưởng cũng như giải pháp tốt nhất để phát triển cho dự án2. Tìm hiểu sản phẩmHọc về tài liệu, hệ sinh thái sản phẩm 1OfficeTìm hiểu yêu cầu từ khách hàng để hoàn thiện sản phẩm3. Thực hiện các công việc khác được giao bởi Manager
+
+Yêu cầu công việc:
+Đam mê và thành thạo lập trình PHP, HTML 5, kinh nghiệm ít nhất 3 năm;Có khả năng và sẵn sàng đọc hiểu framework, công nghệ mới;Có kiến thức và kinh nghiệm phân tích chức năng liên quan đến các nghiệp vụ phần mềm cho doanh nghiệp;Ưu tiên khả năng làm việc hoặc sẵn sàng tìm tòi với các ngôn ngữ như nodejs, java, python hoặc làm việc trong môi trường Linux.Thời gian làm việc: Từ Thứ 2 – Thứ 6
+
+Yêu cầu kinh nghiệm: 3-5 năm

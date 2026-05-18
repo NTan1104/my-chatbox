@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên Front End
+
+Mô tả công việc:
+- Tham gia phát triển các ứng dụng Frontend trên nền tảng ReactJs, VueJs, NodeJs,..- Phát triển các tính năng mới cho website theo yêu cầu người dùng.. - Làm việc, phối hợp công việc theo nhóm dưới sự phân công công việc của quản lý dự án. - Báo cáo tiến độ công việc theo quy trình làm việc công ty.
+
+Yêu cầu công việc:
+- Có kinh nghiệm làm việc với ReactJs, VueJs, NodeJs.. từ 6 tháng trở lên- Có kinh nghiệm làm việc với các framework phổ biến như Bootstrap, ES6. - Có kiến thức về HTML, CSS/CSS3, JavaScript/jQuery, SASS, Web Responsive. - Có kinh nghiêm làm việc với Resfull API, Web service
+
+Yêu cầu kinh nghiệm: Dưới 1 năm

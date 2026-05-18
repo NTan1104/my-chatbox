@@ -1,0 +1,46 @@
+Senior Devops ( Domain: Edtech, F&B, Ecommerce)
+
+Chi tiết tin tuyển dụng
+Yêu cầu:
+4 năm kinh nghiệm
+Cao Đẳng trở lên
+Xem chi tiết Yêu cầu
+Quyền lợi:
+Nghỉ thứ 7
+Xem chi tiết Quyền lợi
+Chuyên môn:
+DevOps Engineer
+
+
+Mô tả công việc
+Thiết kế, triển khai và vận hành hạ tầng cloud-native (AWS/GCP)
+Xây dựng và duy trì hệ thống CI/CD tối ưu, đảm bảo chất lượng và tốc độ release sản phẩm.
+Thiết lập các cơ chế giám sát, cảnh báo (Prometheus, Grafana, Loki, Sentry...) đảm bảo độ
+tin cậy hệ thống (SLA/SLO).
+Chủ trì triển khai và quản lý container orchestration (Docker, Kubernetes, Helm) với khả
+năng autoscaling, self-healing.
+Phối hợp chặt chẽ với các team Backend, QA, Security để chuẩn hóa quy trình release,
+rollback, versioning.
+Đề xuất và triển khai các chính sách bảo mật hệ thống, quản lý secrets, phân quyền truy cập
+(IAM, Vault, SSO...).
+Tối ưu chi phí vận hành (cost monitoring, resource usage), đảm bảo hệ thống luôn ở trạng
+thái hiệu quả – an toàn – ổn định
+Yêu cầu ứng viên
+Tối thiểu 04 năm kinh nghiệm làm việc trong vai trò DevOps Engineer hoặc SRE, ưu tiên
+ứng viên có kinh nghiệm tại công ty SaaS hoặc kiến trúc microservices.
+Thành thạo sử dụng các dịch vụ AWS: EKS, EC2, S3, IAM, VPC, ALB/NLB, CloudWatch,
+và công cụ IaC như Terraform (bắt buộc).
+Có kinh nghiệm thiết kế CI/CD với Jenkins: xây dựng shared libraries, sử dụng JCasC, tích
+hợp với các công cụ kiểm thử tự động.
+Hiểu biết sâu sắc về vận hành Kubernetes ở quy mô lớn, triển khai ứng dụng với Helm, có
+kinh nghiệm với mô hình multi-tenant architecture.
+Nắm vững khái niệm và công cụ Infrastructure as Code, GitOps workflow, automation
+pipelines.
+Kinh nghiệm triển khai và vận hành hệ thống monitoring, logging, tracing theo chuẩn
+observability.
+Hiểu rõ về bảo mật hệ thống: CI/CD hardening, secret management, IAM/RBAC, security
+automation, least privilege principles.
+Ưu tiên ứng viên từng làm việc với hệ thống lớn, phân tán, trên nền multi-cloud hoặc hybrid
+cloud environments.
+Tư duy hệ thống tốt, chủ động trong cải tiến và tối ưu, có khả năng giao tiếp hiệu quả và làm
+việc đa chức năng với các team khác nhau.

@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Fresher Java Developer
+
+Mô tả công việc:
+Tham gia phát triển và thiết kế các dự án trên nền tảng ngôn ngữ Java, Hibernate, MySQL.Tham gia phát triển các hệ thống Backend, API cho các sản phẩm trên ngôn ngữ Java.Phối hợp công việc với BA (Bussiness Analysis), Tester trong quá trình triển khai dự án.Làm việc, phối hợp công việc với thành viên trong nhóm dưới sự phân công công việc của quản lý dự án
+
+Yêu cầu công việc:
+Tốt nghiệp từ Cao đẳng chuyên ngành Công nghệ thông tin, kỹ thuật phần mềm, hệ thống thông tin quản lý.... hoặc các ngành tương đương của các trường công nghệ, kinh tếKinh nghiệm từ 6 tháng kinh nghiệm trở lên tham gia dự án thực tế, làm việc với Spring Boot/Spring MVC Java core, Hibernate.Nắm vững kiến thức và có kinh nghiệm triển khai Web service RESTful. Hiểu về Micro service là một lợi thế.Có kiến thức, kinh nghiệm triển khai với CSDL MySQL, Oracle.Nắm vững kiến thức về hướng đối tượng, design pattern và một số thuật toán cơ bảnƯu tiên các ứng viên có kinh nghiệm làm việc với các hệ thống Redis, Memcache, RabbitMQ, Kafka… các CSDL NoSQL
+
+Yêu cầu kinh nghiệm: Dưới 1 năm

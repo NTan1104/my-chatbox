@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên Frontend/ Front End Developer
+
+Mô tả công việc:
+• Cùng phía Back-end tham gia phân tích requirement, thiết kế hệ thống; Nghiên cứu và áp dụng các công nghệ mới• Tham gia vào các dự án outsource với nhiều đối tác lớn cũng như phát triển sản phẩm công ty• Cải tiến, nâng cao chất lượng các dự án hiện có
+
+Yêu cầu công việc:
+• Có từ gần 1 năm kinh nghiệm lập trình Frontend với VueJS, thành thạo HTML5, CSS, JavaScript/ TypeScript• Có kiến thức nền tảng chuyên ngành tốt.• Sử dụng tốt GIT để quản lý source code.• Có kinh nghiệm phát triển dự án theo mô hình Agile Scrum.• Đề cao trách nhiệm trong công việc, ý thức chất lượng sản phẩm tốt.• Đam mê tìm tòi nghiên cứu học hỏi công nghệ mới, phát triển bản thân.• Đọc hiểu tiếng Anh tốt. Có thể giao tiếp được tiếng Anh/ tiếng Nhật là lợi thế lớn.
+
+Yêu cầu kinh nghiệm: Dưới 1 năm

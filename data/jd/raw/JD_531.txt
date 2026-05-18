@@ -1,0 +1,33 @@
+Chuyên Viên Phát Triển Ứng Dụng AI
+
+Chi tiết tin tuyển dụng
+Yêu cầu:
+1 năm kinh nghiệm
+Đại Học trở lên
+Tuổi 22 - 35
+Xem chi tiết Yêu cầu
+Quyền lợi:
+Nghỉ thứ 7
+Bảo hiểm xã hội
+Team building
+Xem chi tiết Quyền lợi
+Chuyên môn:
+AI Researcher
+Tài chính
+Bảo hiểm
+Mô tả công việc
+
+Xây dựng mô hình AI đa phương thức: Tham gia xây dựng và tối ưu mô hình nhận diện cảm xúc từ dữ liệu Text, Audio và Video (kết hợp ASR, NLP, Multimodal Learning).
+Phát triển Real-time Pipeline: Thiết kế và triển khai luồng xử lý dữ liệu thời gian thực: Input (Audio/Stream) → Trích xuất đặc trưng (Feature Extraction) → Model → Inference, đảm bảo tốc độ phản hồi tức thì cho Chatbot/Voicebot.
+Tiếp nhận & Tinh chỉnh (Fine-tune): Sử dụng Core Engine có sẵn, thực hiện huấn luyện lại trên dữ liệu đặc thù ngành Tài chính/Bảo hiểm để tăng độ chính xác.
+Tích hợp hệ thống: Đóng gói model và phối hợp với team Backend để tích hợp các tính năng thông minh vào hệ thống CRM phục vụ kinh doanh.
+Yêu cầu ứng viên
+Kiến thức & Kỹ năng :
+
+Nền tảng: Có kiến thức vững chắc về Machine Learning/Deep Learning, đặc biệt là NLP và Speech Processing.
+Công cụ: Thành thạo Python và một trong các Framework: PyTorch hoặc TensorFlow.
+Kiến trúc Model: Hiểu biết về kiến trúc Transformer (BERT, Wav2Vec...) và các kỹ thuật Multimodal Fusion (kết hợp dữ liệu đa phương thức).
+Điểm cộng lớn (Ưu tiên):
+
+Có kinh nghiệm hoặc hiểu biết về quy trình Deploy Production (Docker, Model Serving, API).
+Đã từng làm các dự án liên quan đến xử lý Video hoặc Stream dữ liệu.

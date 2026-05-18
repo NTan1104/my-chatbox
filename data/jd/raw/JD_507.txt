@@ -1,0 +1,37 @@
+Senior Backend Developer (NodeJS/ NestJS) 
+Chi tiết tin tuyển dụng
+Yêu cầu:
+4 năm kinh nghiệm
+Đại Học trở lên
+Xem chi tiết Yêu cầu
+Quyền lợi:
+Nghỉ thứ 7
+Xem chi tiết Quyền lợi
+Chuyên môn:
+Backend Developer
+IT - Phần mềm
+Mô tả công việc
+Mô tả công việc
+
+Tham gia xây dựng và maintain các dự án Backend sử dụng NodeJS (ExpressJS, NestJS).
+Thiết kế, phát triển và triển khai các giải pháp scalable, reliable, secure.
+Triển khai các tính năng theo yêu cầu nghiệp vụ, đáp ứng nhu cầu vận hành thực tế.
+Phối hợp theo dõi, kiểm tra và đánh giá hiệu năng, chất lượng hệ thống, phân tích và xử lý sự cố/lỗi phát sinh.
+Tìm hiểu, nghiên cứu và đề xuất áp dụng các công nghệ mới nhằm nâng cao chất lượng sản phẩm.
+Mentor, hướng dẫn về mặt kỹ thuật cho các bạn Junior/Mid trong team.
+Yêu cầu ứng viên
+Yêu cầu ứng viên
+
+Kinh nghiệm & Chuyên môn
+
+Tối thiểu 4 năm kinh nghiệm lập trình Backend. Đã từng làm việc thực tế với các hệ thống lớn, yêu cầu hiệu năng cao (High performance, CCU cao).
+Thành thạo NodeJS. Yêu cầu bắt buộc có ít nhất 2 năm với NestJS.
+Có kinh nghiệm thiết kế và đặc biệt là kỹ năng tối ưu hóa Database (SQL).
+System Design: Có khả năng thiết kế kiến trúc sản phẩm, xây dựng hệ thống chịu tải cao và có khả năng mở rộng
+Kinh nghiệm với RESTful API, GraphQL, WebSocket. (Điểm cộng: Docker, Cloud AWS/GCP, CI/CD).
+Tư duy và Thái độ
+
+Tư duy solution-oriented, không chỉ code theo task mà phải hiểu bài toán để đưa ra giải pháp tối ưu.
+Có định hướng rõ ràng trong 3 năm tới tập trung sâu về Technical.
+Có khả năng tự chủ công việc cao và có trách nhiệm.
+Thích vọc vạch, tìm tòi và cập nhật các công nghệ/xu hướng mới.

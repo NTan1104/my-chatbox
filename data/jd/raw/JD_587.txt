@@ -1,0 +1,45 @@
+DevOps
+
+Chi tiết tin tuyển dụng
+Yêu cầu:
+2 năm kinh nghiệm
+Đại Học trở lên
+Nam
+Xem chi tiết Yêu cầu
+Quyền lợi:
+Nghỉ thứ 7
+Bảo hiểm xã hội
+Team building
+Xem chi tiết Quyền lợi
+Chuyên môn:
+DevOps Engineer
+IT - Phần mềm
+An ninh mạng
+Mô tả công việc
+Thiết kế, xây dựng và duy trì các luồng CI/CD để tự động hóa quá trình build, kiểm thử, triển khai lên các môi trường Development, Staging, Production và quy trình rollback bằng các công cụ như Jenkins, GitLab CI/CD hoặc tương tự.
+Phát triển và quản lý các ứng dụng container bằng Docker và điều phối qua Kubernetes, đảm bảo triển khai và mở rộng hiệu quả.
+Phát triển và nâng cao khả năng giám sát hệ thống bằng cách triển khai các công cụ như: Prometheus, Grafana, OpenTelemetry, Jaeger. Quản lý cảnh báo để chủ động phát hiện và xử lý các bất thường của hệ thống.
+Phối hợp với các đội phát triển phần mềm để cải thiện việc đo lường ứng dụng và khả năng giám sát, cung cấp thông tin chi tiết về hiệu suất hệ thống. Tham gia vào quản lý sự cố và phân tích nguyên nhân gốc rễ để cải thiện độ tin cậy, sẵn sàng của hệ thống.
+Tự động hóa các tác vụ vận hành thông qua lập trình (Python, Bash, PowerShell) để nâng cao hiệu quả và giảm thiểu can thiệp thủ công.
+Triển khai bảo mật và tuân thủ bằng cách tích hợp các thực hành DevSecOps, bao gồm quét lỗ hổng và cấu hình pipeline an toàn. Lập tài liệu về cơ sở hạ tầng, quy trình triển khai, cấu hình giám sát và quy trình vận hành.
+Cập nhật kiến thức về các công nghệ mới nổi và các thực hành tốt nhất trong DevOps, điều phối container và giám sát hạ tầng, giải pháp.
+Yêu cầu ứng viên
+Yêu cầu bắt buộc:
+
+Tốt nghiệp đại học chuyên ngành Công nghệ thông tin, Khoa học máy tính hoặc các lĩnh vực liên quan.
+Tối thiểu 02 năm kinh nghiệm làm việc ở vị trí DevOps, DevSecOps hoặc tương đương.
+Có kinh nghiệm thực tế với công nghệ container (Docker) và nền tảng điều phối (Kubernetes).
+Quen thuộc với các công cụ CI/CD như Jenkins, GitLab CI/CD hoặc tương tự.
+Hiểu biết sâu về các khái niệm giám sát hệ thống bao gồm số liệu, ghi log, theo dõi và cảnh báo.
+Có kinh nghiệm thực tế với các công cụ giám sát như Prometheus, Grafana, OpenTelemetry, Jaeger hoặc tương đương.
+Thành thạo các ngôn ngữ lập trình như Python, Bash hoặc PowerShell để tự động hóa.
+Có tư duy logic tốt, kỹ năng giải quyết vấn đề và khả năng làm việc nhóm hiệu quả.
+Tinh thần chủ động, ham học hỏi và có trách nhiệm cao trong công việc.
+Khả năng đọc hiểu tài liệu tiếng Anh tốt.
+Yêu cầu ưu tiên (Điểm cộng):
+
+Có kinh nghiệm vận hành thực tế công cụ GitOps.
+Có kiến thức về các thực hành bảo mật tốt nhất trong luồng CI/CD và môi trường container (DevSecOps).
+Có kinh nghiệm với các công cụ cảnh báo và quy trình quản lý sự cố. Đã làm qua môi trường Cloud và triển khai Multi Cloud.
+Đã từng làm việc trong môi trường phát triển theo phương pháp Agile/Scrum.
+Có tư duy sản phẩm, khả năng nhìn nhận vấn đề từ góc độ người dùng.

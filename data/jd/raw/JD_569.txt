@@ -1,0 +1,27 @@
+[HCM] Thực Tập Sinh Lập Trình (Mobile, Java, .NET, ABAP,…) 
+
+Yêu cầu:
+Dưới 1 năm kinh nghiệm
+Đại Học trở lên
+
+Chuyên môn:
+Chuyên môn Software Engineer
+
+
+Mô tả công việc
+-   Tham gia vào các dự án phần mềm thực tế của FPT IS dưới sự hướng dẫn của mentor.
+
+-   Thực hiện các công việc như phân tích yêu cầu, lập trình, kiểm thử, tối ưu và triển khai sản phẩm.
+
+-   Được đào tạo theo hướng chuyên sâu về Mobile, Frontend, Backend, tùy năng lực và định hướng của từng bạn.
+
+-   Làm việc theo quy trình phát triển phần mềm chuyên nghiệp (Agile/Scrum).
+
+Yêu cầu ứng viên
+-       Sinh viên năm cuối hoặc mới tốt nghiệp các ngành Công nghệ thông tin, Khoa học máy tính, Kỹ thuật phần mềm,...
+
+-       Có kiến thức cơ bản và từng lập trình bằng ít nhất một ngôn ngữ như: Mobile (Flutter, Kotlin, Swift,...), Frontend (HTML, CSS, JavaScript, ReactJS,...), Backend (Java, .NET (C#), NodeJS,...),
+
+-       Sẵn sàng học hỏi và có khả năng học hỏi nhanh các công nghệ, ngôn ngữ lập trình mới.
+
+-       Ưu tiên có thể thực tập full-time 3 tháng

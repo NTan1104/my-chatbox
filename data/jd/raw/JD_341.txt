@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Game Programer
+
+Mô tả công việc:
+- Làm việc trực tiếp với Game Director để tạo prototype và iterate các hệ thống khác nhau;- Hỗ trợ gameplay cũng như ý tưởng ban đầu của Game director thông qua UE4 Blueprint & C ++;- Tinh chỉnh trải nghiệm của người chơi thông qua test, iteration, cân bằng trò chơi và các hệ thống đã thiết kế;
+
+Yêu cầu công việc:
+Có kinh nghiệm làm UE4 blueprint với kiến ​​thức cơ bản về C ++Thiết kế và triển khai hệ thống và tính năng được yêu cầu từ Game directorTheo dõi bug, đánh giá code và tài liệu về công việcKiểm tra, sửa lỗi và tinh chỉnh các tính năng và hệ thốngCó kiến thức về các công cụ phát triển trong công cụ UE4Hiểu biết về các nguyên tắc thiết kế trò chơi.Khả năng giao tiếp rõ ràngChú ý đến tiểu tiếtĐiểm cộng:Thích chơi game, có khả năng phân tích kỹ lưỡng cơ chế chơi trò chơi và đề xuất các cải tiếnLàm việc trong các môi trường kiểm soát version như Git / Perforce.Liên tục tìm cách cải thiện hoặc mở rộng trải nghiệm trò chơiCó kinh nghiệm làm việc với các mô-đun hiện có của UE4 như Character Movement, physic simulation, v.v.
+
+Yêu cầu kinh nghiệm: 1-3 năm

@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên Java Onsite Tại Nhật Bản
+
+Mô tả công việc:
+• Tham gia phát triển các ứng dụng trên nền tảng Java cho khách hàng Nhật Bản.• Được tham gia đồng hành cùng các doanh nghiệp của Nhật để xây dựng hệ thống cho chính phủ, hệ thống tài chính ngân hàng và hệ thống thông tin đường cao tốc.• Làm việc theo sự phân công của Trưởng nhóm/Quản lý dự án, phối hợp giữa các nhóm để phát triển sản phẩm.• Hỗ trợ các thành viên trong nhóm với các chức năng phức tạp, tham gia nhận xét, đánh giá sourcecode của các thành viên trong nhóm.• Tham gia các công đoạn tìm hiểu yêu cầu, phân tích, thiết kế, nghiên cứu công nghệ khi được phân công.
+
+Yêu cầu công việc:
+_Kỹ năng giao tiếp:• Tiếng Nhật: tương đương N2 trở lên, giao tiếp được với khách hàng.• Chủ động trong giao tiếp._ Yêu cầu kỹ thuật chuyên môn:• Có trên 1 năm kinh nghiệm làm các dự án Java, sử dụng: Spring, Struts, Hibernate, JPA, Intra – mart là một lợi thế.• Có hiểu biết về Java Core, OOP, Design Pattern.• Có khả năng thiết kế, tối ưu database (SQL, NoSQL).• Có kiến thức web service (RESTful).• Có khả năng nhận xét, đánh giá sourcecode của các thành viên khác trong nhóm.• Ưu tiên ứng viên có kinh nghiệm làm việc ở Nhật Bản hoặc đang ở Nhật Bản.• Chủ động, tư duy tích cực và có tinh thần trách nhiệm cao với công việc.• Địa điểm làm việc: Tokyo – Japan
+
+Yêu cầu kinh nghiệm: 1-3 năm

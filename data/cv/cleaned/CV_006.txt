@@ -1,0 +1,156 @@
+ĐỖ QUỐC PHONG
+
+Lập trình viên
+
+Ngày sinh: 01/01/2002
+Giới tính: Nam
+Số điện thoại: 0868 490 940
+Email: phong01012k2@gmail.com
+
+Website: https://www.facebook.com/dophong.010102/
+Địa chỉ: Thanh Oai, Thanh Trì, Hà Nội
+
+MỤC TIÊU NGHỀ NGHIỆP
+
+Là một nhà phát triển Back-end với nền tảng Java và Spring Boot, có kinh nghiệm phát triển hệ thống web, xây dựng API và
+xử lý dữ liệu. Tôi mong muốn được làm việc trong môi trường chuyên nghiệp, có cơ hội áp dụng kiến thức và kinh nghiệm
+để xây dựng các hệ thống backend hiệu quả, an toàn và dễ mở rộng. Đồng thời không ngừng học hỏi công nghệ mới để phát
+triển sự nghiệp và đóng góp vào sự phát triển bền vững của công ty.
+
+HỌC VẤN
+
+2020 - 2025 Học viện Công nghệ Bưu chính Viễn thông
+Kĩ sư Công Nghệ Thông Tin
+• Được đào tạo bài bản về nền tảng công nghệ thông tin: Lập trình hướng đối tượng (Java), Cấu
+trúc dữ liệu & Giải thuật, Cơ sở dữ liệu,...
+• Tham gia dự án học thuật và thực hành nhóm, rèn luyện kỹ năng phát triển phần mềm, phân tích
+hệ thống và quản lý dữ liệu.
+
+• Rèn luyện tư duy logic, khả năng giải quyết vấn đề và tinh thần làm việc nhóm trong môi trường
+công nghệ năng động.
+
+KINH NGHIỆM LÀM VIỆC
+
+03/2025 - Hiện nay Công ty TNHH Đầu Tư Công Nghệ TechByte.
+Intern Fullstack
+
+• Phát triển và bảo trì hệ thống backend sử dụng Java Spring Boot, Spring Data JPA, Hibernate,
+MySQL/MariaDB.
+• Thiết kế RESTful APIs và tích hợp hệ thống với dịch vụ bên thứ ba (email service...).
+• Quản lý và tối ưu cơ sở dữ liệu MySQL/MariaDB.
+• Sử dụng Docker để đóng gói và triển khai ứng dụng.
+• Phối hợp cùng team Front-end, QA theo mô hình Agile/Scrum.
+
+6/2024 - 9/2024 FPT SOFTWARE
+Java Developer Intern
+
+• Hỗ trợ phát triển các module nhỏ cho ứng dụng quản lý khách hàng (CRM).
+• Fix bug và cải thiện code.
+• Sử dụng Git và Postman để quản lý version và kiểm thử API.
+• Làm quen với quy trình Agile/Scrum.
+Làm việc nhóm xây dựng hệ thống quản lý lịch phỏng vấn
+
+KỸ NĂNG CHUYÊN MÔN
+
+Ngôn ngữ lập trình: Java, SQL, JavaScript (cơ bản)
+Framework/Library: Spring Boot, Spring Data JPA, Hibernate, Spring Security
+
+Database: MySQL, MongoDB, SQL Server, MariaDB
+
+Công cụ: Git/GitHub, Maven, Docker, Postman
+
+Khác: ReactTypeScript, REST API
+
+DỰ ÁN TIÊU BIỂU
+
+12/2025 - 02/2026 AI5.vn-Nền tảng học online cùng chuyên gia
+Số lượng người tham gia: 04 - Lập trình Fullstack - Link dự án: https://ai5.vn/
+Công nghệ sử dụng: Java Spring Boot, Spring Security, Spring Data JPA, MySQL, Next.JavaScript
+Mô tả dự án: website/program trực tuyến hướng đến đào tạo kỹ năng MMO (Make Money Online),
+
+marketing số và phát triển công nghệ — bao gồm cả AI, tự động hóa, quảng cáo, aliate, tối ưu hoá
+nội dung, phát triển sản phẩm, v.v. Nội dung chính của trang giới thiệu về các lộ trình học và mô-đun
+đào tạo giúp người dùng: học cách kiếm tiền online, xây dựng kỹ năng không-code hoặc kỹ thuật,
+marketing số, sử dụng AI trong kinh doanh, và phát triển sản phẩm công nghệ.
+Vai trò & nhiệm vụ:
+
+• Thiết kế xây dựng database
+• Phát triển server backend với Spring Boot, triển khai RESTful APIs CRUD về khóa học, môn học,
+bài học.
+• Xây dựng real-time comment trong các khóa học để người dùng có thể hỏi đáp, đưa ra câu hỏi,
+góp ý
+• Tích hợp Spring Security cho đăng nhập/đăng xuất và phân quyền.
+
+• Xử lý gửi mail và chia luồng bất đồng bộ (asynchronous processing) để nâng cao hiệu suất.
+Công cụ hỗ trợ: IntelliJ IDEA, Visual Studio Code, Git, MySQL Workbench.
+
+10/2025 - 12/2025 Hệ thống Săn kẻ xấu, diệt kẻ gian: AI phát hiện lừa đảo thông minh
+Số lượng người tham gia: 08 - Lập trình Fullstack - Link dự án: https://ai6.vn
+Công nghệ sử dụng: Java Spring Boot, Spring Security, Spring Data JPA, OpenAI, Angular, MySQL,
+Docker
+Mô tả dự án: Ứng dụng web giúp người dùng tra cứu độ uy tín của website, doanh nghiệp, Tài
+
+khoản ngân hàng, Số điện thoại có tích hợp OpenAI để phân tích đánh giá dựa trên thông tin thu
+thập được.
+Vai trò & nhiệm vụ:
+• Xây dựng giao quản lý phía admin bằng Angular, tích hợp các API của server backend vào hệ
+thống.
+
+• Phát triển server backend với Spring Boot, triển khai RESTful APIs, xây dựng các API admin, tích
+hợp OpenAI xây dựng chatAI, AI phân tích dự liệu đưa ra đánh giá..
+• Tích hợp Spring Security cho đăng nhập/đăng xuất và phân quyền.
+• Xử lý gửi mail và chia luồng bất đồng bộ (asynchronous processing) để nâng cao hiệu suất.
+Công cụ hỗ trợ: IntelliJ IDEA, Visual Studio Code, Git, MySQL Workbench,Docker.
+
+07/2025 - 09/2025 Hệ thống quản lý & tư vấn pháp lý trực tuyến
+Lập trình Fullstack - Link dự án: https://luatpoip.com
+
+Công nghệ sử dụng: Java Spring Boot, Spring Security, Spring Data JPA, React TypeScript, Redis,
+MySQL, WebSocket, Docker
+Mô tả dự án: Ứng dụng web hỗ trợ quản lý và cung cấp dịch vụ tư vấn pháp lý trực tuyến, với tính
+năng nhắn tin, cung cấp thông tin dịch vụ,...
+Vai trò & nhiệm vụ:
+
+• Xây dựng giao diện người dùng bằng React TypeScript.
+• Phát triển server backend với Spring Boot, triển khai RESTful APIs.
+• Tích hợp Spring Security cho đăng nhập/đăng xuất và phân quyền.
+• Xử lý gửi mail và chia luồng bất đồng bộ (asynchronous processing) để nâng cao hiệu suất.
+• Sử dụng WebSocket cho tính năng thông báo.
+• Quản lý session đăng nhập/đăng xuất, chatsocket pub/sub bằng Redis.
+
+• Build & deploy backend lên Fly.io và frontend lên Vercel, cấu hình domain riêng.
+Công cụ hỗ trợ: IntelliJ IDEA, Visual Studio Code, Git, MySQL Workbench.
+
+04/2025 - 05/2025 Ứng dụng nghe nhạc trực tuyến – Rhythm of Soul
+Số lượng người tham gia: 03 - Link GitHub: https://GitHub.com/Ng-TTam/rhythm_of_soul
+Công nghệ sử dụng: Java Spring Boot, Spring Security, Spring Data JPA, React TypeScript, Redis,
+MariaDB, MongoDB, Docker.
+
+Mô tả dự án: Ứng dụng web hỗ trợ phát nhạc trực tuyến, cho phép người dùng đăng bài viết, tạo
+playlist/album, và nghe nhạc qua streaming.
+Vai trò & nhiệm vụ:
+• Xây dựng giao diện người dùng bằng ReactTS.
+• Phát triển API backend với Spring Boot, xử lý dữ liệu bài post.
+
+• Thiết kế và triển khai chức năng playlist và album.
+• Xử lý streaming nhạc với hiệu năng ổn định.
+Công cụ hỗ trợ: IntelliJ IDEA, Visual Studio Code, Git, MongoDB, MariaDB.
+
+12/2024 - 01/2025 Hệ thống Quản lý Công việc – Project Task Management
+Số lượng người tham gia: 2 - Link GitHub: https://GitHub.com/Babychandoi/Project-task-
+management
+Công nghệ sử dụng: Java Spring Boot, Spring Security, Spring Data JPA, React.js, Bootstrap,
+MySQL, Maven.
+
+Mô tả dự án: Ứng dụng web quản lý nhân sự, phòng ban và dự án; hỗ trợ phân công, theo dõi và
+thống kê tiến độ công việc cho doanh nghiệp.
+Vai trò & nhiệm vụ:
+• Thiết kế và xây dựng cơ sở dữ liệu với Spring Data JPA.
+• Triển khai Spring Security cho đăng nhập và quản lý truy cập API.
+
+• Xây dựng API cho phần Admin: quản lý nhân sự, phòng ban, dự án, báo cáo thống kê.
+• Xây dựng API cho phần Người dùng: tạo nhiệm vụ, xử lý task, tìm kiếm, thống kê, và hệ thống
+thông báo.
+Công cụ hỗ trợ: IntelliJ IDEA, Git, MySQL, Maven.
+
+© topcv.vn

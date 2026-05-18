@@ -1,0 +1,30 @@
+Middle JAVA Developer (Full Stack) 
+Chi tiết tin tuyển dụng
+Yêu cầu:
+3 năm kinh nghiệm
+Cao Đẳng trở lên
+Xem chi tiết Yêu cầu
+Chuyên môn:
+Software Engineer
+Mô tả công việc
+- Phát triển dự án cho khách hàng trong nước domain tài chính.
+- Thiết kế tài liệu kiến trúc hệ thống cho dự án.
+- Lên timeline công việc, quản lý tasks cho các thành viên developer trong dự án, giám sát và hỗ trợ các thành viên hoàn thành đúng cam kết.
+- Trực tiếp coding các module theo thiết kế và theo công việc được phân công trong dự án.
+- Tham gia quá trình tuyển dụng, đào tạo developer trong dự án
+- Dẫn dắt nhóm developer, đồng hành cùng các thành viên phát triển chuyên môn và hoàn thành công việc.
+- Thực hiện các công việc khác do cấp trên giao (nếu có)
+Yêu cầu ứng viên
+- Tốt nghiệp Đại học các chuyên ngành Công nghệ thông tin, Khoa học máy tính, Điện tử viễn thông, Công nghệ phần mềm, Hệ thống thông tin ...
+- Có từ 3 năm kinh nghiệm phát triển phần mềm ngôn ngữ Java. Nắm vững Java & các framework Java như EE, Spring, Hibernate ... và một số design pattern thông dụng
+- Thành thạo RESTful API, kiến trúc hệ thống microservices và nền tảng cloud.
+- Thành thạo SQL, PL/SQL, có kiến thức về các hệ quản trị cơ sở dữ liệu Oracle/MySQL, có khả năng tối ưu CSDL
+- Có kiến thức tốt về kiến trúc hệ thống. Thông thạo đa dạng thiết kế phần mềm.
+- Có khả năng tuning performance của ứng dụng, hệ thống.
+- Sử dụng thành thạo một số công cụ: Git, Jira, ...
+- Có kiến thức và kinh nghiệm phát triển phần mềm theo mô hình Agile/ Scrum
+- Có kinh nghiệm phát triển, sử dụng Cloud, AI, Front-end là 1 lợi thế.
+- Có kinh nghiệm làm việc trong các dự án về tài chính doanh nghiệp hoặc khối Chính phủ là một lợi thế
+- Có kinh nghiệm hướng dẫn, quản lý đội nhóm là lợi thế
+- Có khả năng tự học tốt, tư duy tốt, chịu được áp lực công việc cao.
+- Làm việc từ thứ 2 - thứ 6 và 2 ngày thứ 7/ tháng (cách tuần)

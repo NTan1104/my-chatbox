@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên Reactjs Tại Đà Nẵng - Up To $1500
+
+Mô tả công việc:
+Tham gia phát triển nhiều loại dự án khác nhau.Tham gia xuyên suốt các công đoạn Phân tích, thiết kế, phát triển web app.Thực hiện các công việc khác được phân công.
+
+Yêu cầu công việc:
+Bạn cần có:Ít nhất 3 năm kinh nghiệm làm về ReactJS, thành thạo HTML, CSS, JS. Biết Jquery là điểm cộngCó kinh nghiệm về Typescript, GITBạn có là lợi thế (Không bắt buộc):Có kinh nghiệ về Back-end là lợi thếCó kinh phát triển Web và responsive cho di độngCó kiến thức về NextJS, sử dụng thành thạo preprocessor như sass, scss ,…Sử dụng thành thạo các framework UI như Element-UI, vuetify, tailwindcs ,…Có kiến thức về các build tools, bundle tools như webpack, gulp,…
+
+Yêu cầu kinh nghiệm: 3-5 năm

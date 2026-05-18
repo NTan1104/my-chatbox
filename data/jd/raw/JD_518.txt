@@ -1,0 +1,35 @@
+AI Researcher 
+
+Chi tiết tin tuyển dụng
+Yêu cầu:
+5 năm kinh nghiệm
+Đại Học trở lên
+Xem chi tiết Yêu cầu
+Quyền lợi:
+Nghỉ thứ 7
+Xem chi tiết Quyền lợi
+Chuyên môn:
+AI Engineer
+Mô tả công việc
+Trực tiếp tham gia thiết kế kiến trúc pipeline thu thập, làm sạch, chuẩn hóa dữ liệu huấn luyện, pipeline huấn luyện mô hình học máy (ML), học sâu (DL) và mô hình tạo sinh (LLM), pipeline về serving các loại mô hình.
+Nghiên cứu và lựa chọn các thuật toán học máy, học sâu và mô hình tạo sinh phù hợp với cá bài toán cần giải quyết.
+Nghiên cứu và tối ưu tham số, kĩ thuật, chiến thuật huấn luyện mô hình học máy, học sâu, mô hình tạo sinh để giải quyết các bài toán cụ thể trong lĩnh vực ATTT tại VCS.
+Yêu cầu ứng viên
+Chuyên môn kỹ thuật:
+
+Tối thiểu 5 năm kinh nghiệm trong lĩnh vực AI/ML, ưu tiên đã có kinh nghiệm làm việc trong các dự án lớn chuyên sâu huấn luyện, tối ưu tham số, tối ưu hiệu năng serving các mô hình học máy, học sâu và mô hình tạo sinh (LLM
+Có kĩ năng, kinh nghiệm xây dựng dữ liệu huấn luyện các mô hình AI tạo sinh và ứng dụng hiệu quả mô hình học tăng cường trong huấn luyện mô hình tạo sinh là lợi thế
+Có kiến thức và kinh nghiệm về thiết kế, xây dựng môi trường LLMOps trong tổ chức.
+Kỹ năng lập trình tốt (thành thạo tối thiểu 1 loại ngôn ngữ)
+Có kiến thức về kiến trúc hệ thống CNTT (SQL, NoSQL, Service, Micro Service, Tenor, Container, Message QUEUE,...) là lợi thế
+Có kinh nghiệm sử dụng các nền tảng xử lý dữ liệu lớn như: Hadoop, spark, notebook là một lợi thế
+Có kiến thức sâu về cấu trúc dữ liệu và giải thuật
+Kỹ năng mềm:
+
+Tư duy hệ thống, khả năng giải quyết bài toán phức tạp theo định hướng sản phẩm
+Giao tiếp hiệu quả, có khả năng truyền đạt giải pháp kỹ thuật rõ ràng cho cả kỹ thuật và phi kỹ thuật.
+Có khả năng dẫn dắt đội nhóm
+Yêu cầu khác:
+
+Tốt nghiệp đại học trở lên chuyên ngành CNTT, Khoa học Máy tính, Toán – Tin hoặc liên quan.
+Tiếng Anh tương đương TOEIC từ 650 trở lên

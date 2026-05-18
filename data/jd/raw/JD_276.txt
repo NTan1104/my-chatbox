@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên Cobol (Từ 2 Năm Kn, Ưu Tiên Tiếng Anh Giao Tiếp - Cty Công Nghệ > 1.200 Nhân Sự ) Offer Upto $1500
+
+Mô tả công việc:
+Tham gia dự án quan trọng/ Mega account của Công tyTriển khai và phát triển các module và tính năng mới Được tham gia khoá đào tạo về nghiệp vụ và hệ thống sản phẩm từ chính các chuyên gia trong lĩnh vựcLàm việc trực tiếp với khách hàng về nội dung, tiến độ công việc của team,Lên kế hoạch triển khai, phát triển dự án cùng khách hàngMô tả hệ thống:Hệ thống kiến trúc microserviceTechstack: Java, Relational database, restful APIEnvironment: AWSProcess: Agile/ SCRUM
+
+Yêu cầu công việc:
+More than 2 years hands on experience with COBOL programing language.Understand basic COBOL such as: syntax, verbs, file handling,subroutines, database.COBOL with DB handling, performance tuning.Be able to write unit test and debug COBOL programs.Support team members in understanding COBOL from the existing COBOL programs.Analytical and troubleshooting skills in COBOL program.Knowledge of advanced debugging tools.Databases: Relational DB like Oracle, DB2.Platforms/systems: z/OS, Windows, Linux, UNIX, IBM Mainframe.
+
+Yêu cầu kinh nghiệm: 1-3 năm

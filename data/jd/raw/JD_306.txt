@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Nhân Viên IT , Đi Làm Luôn, Mức Lương Hấp Dẫn
+
+Mô tả công việc:
+Quản lý hệ thống mạng của công ty bao gồm mạng nội bộ, mạng internet.Quản lý người dùng bằng hệ thống Microsoft Active Directory và Azure AD.Hỗ trợ người dùng cài đặt phần mềm cho PC, Laptop, các thiết bị ngoại vi.Quản lý tài sản công nghệ thông tin của công ty gồm server, máy tính bàn, máy tính cá nhân.
+
+Yêu cầu công việc:
+Tốt nghiệp Đại học chính quy chuyên ngành Công nghệ thông tin.Có ít nhất 02 năm kinh nghiệm trong lĩnh vực Công nghệ thông tin.Có kiến thức về CNTT: Windows serve, Active Directory, Azure Active Directory, Policy, phầm mềm (Office, Windows…), phần cứng (PC, Laptop).Có kiến thức về mạng LAN, WAN, Router, Switch, Security.Có kinh nghiệm trong hỗ trợ người dùng, phần mềm văn phòng.Kỹ năng giao tiếp và làm việc nhóm.
+
+Yêu cầu kinh nghiệm: 1-3 năm

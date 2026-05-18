@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên Vuejs
+
+Mô tả công việc:
+- Sử dụng VueJS để xây dựng các ứng dụng modern web cho Doanh nghiệp (SPA, Cloud Native applications) - Tham gia vào quy trình thiết kế UI/UX - Thay đổi các thiết kế trở thành HTML & CSS markup
+
+Yêu cầu công việc:
+- Có tối thiểu 6 tháng sử dụng Vuejs- Sử dụng thành thạo các ngôn ngữ của FE: HTML/CSS/Javascript- Đã có kinh nghiệm làm việc với RESTful APIs- Có kinh nghiệm với HTML/CSS/Javascript (jQuery & its plugins)- Thiết kế Web tương ứng với Twitter Bootstrap- Có kiến thức và sử dụng Git- Hiểu biết cơ bản về UI/UX design- Sử dụng thành thạo các framework của FEs (e.g: React, Vue...)- Hiểu biết tốt về web standards & web accessibility- Có thể làm việc trên hệ điều hành Linux
+
+Yêu cầu kinh nghiệm: Dưới 1 năm

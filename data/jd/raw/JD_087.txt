@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: .Net Engineer
+
+Mô tả công việc:
+- Tham gia vào các dự án sử dụng .NET C#, ngoài ra có thể học và tham gia dự án Xamarin cho thị trường Nhật Bản, châu Á và châu u với các yêu cầu như sau:- Phân tích yêu cầu kỹ thuật.- Thiết kế chi tiết kỹ thuật, viết code và có thể viết cả unit test bằng code tùy theo yêu cầu của dự án.- Review code để đảm bảo chất lượng dự án- Với vị trí Senior hoặc Tech Lead, bạn thực hiện với vai trò như là key member để đưa ra các giải pháp kỹ thuật và tham gia quản lý team trong dự án.- Có cơ hội làm việc trực tiếp với PM và các kỹ sư người Nhật.
+
+Yêu cầu công việc:
+Yêu cầu kỹ thuật - Hiểu biết về .NET C#, .NET XAML, WPF, .NET MVC, SQL Server.- Có kinh nghiệm về Xamarin là một lợi thế.- Có kinh nghiệm làm việc với MVVM Model và Prism là một lợi thế.- Hiểu biết về React, React Native là lợi thế.Yêu cầu chung:- Tốt nghiệp kỹ sư Công nghệ thông tin.- Có tinh thần làm việc teamwork.- Có khả năng chịu áp lực để làm việc trong môi trường chuyên nghiệp có sức ép về deadline và môi trường cạnh tranh cao.- Có tư duy phân tích bài toán và khả năng nắm bắt vấn đề nhanh, độc lập tìm hiểu và giải quyết vấn đề phức tạp. - Có trách nhiệm cao trong công việc, sẵn sàng thu xếp thời gian để hoàn thành công việc theo yêu cầu dự án.- Nắm vững về flow làm việc với Git và Github- Biết tiếng Nhật hoặc thành thạo tiếng Anh là một lợi thế.
+
+Yêu cầu kinh nghiệm: Không yêu cầu kinh nghiệm

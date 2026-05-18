@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: PHP Developer
+
+Mô tả công việc:
+Tham gia phát triển các hệ thống web sử dụng Framework LaravelTìm hiểu, phân tích yêu cầu cùng với team dự ánCác công việc khác theo hướng dẫn của leader.
+
+Yêu cầu công việc:
+Có từ 6 tháng kinh nghiệm làm việc với ngôn ngữ PHPCó nền tảng tư duy lập trình tốtTừng tham gia phát triển dự án bằng framework Laravel + VueJSCó kinh nghiệm làm việc với các phần mềm quản lý version (Git, svn …)Có kinh nghiệm thiết kế và xây dựng cơ sở dữ liệu với Mysql/PostgresSQL/MongodbTiếng Anh đọc viết tốt (có thể chat trực tiếp với khách hàng)Có kinh nghiệm làm việc với Linux system hoặc các nền tảng điện toán đám mây AWS/Google Cloud… là lợi thế.
+
+Yêu cầu kinh nghiệm: Không yêu cầu kinh nghiệm

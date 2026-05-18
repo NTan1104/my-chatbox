@@ -1,0 +1,977 @@
+Nguyễn An Hưng
+
+CTO - Technical Manager - Product/Project Manager
+0332953760 nguyenanhung.hp@gmail.com https://www.linkedin.com/in/nguyenanhung -
+https://GitHub.com/nguyenanhung
+
+MỤC TIÊU NGHỀ NGHIỆP
+Ngắn hạn: Dẫn dắt chuyển đổi kỹ thuật, xây dựng nền tảng vững chắc (Security/Performance/Architecture) cho công
+ty. Cố vấn chiến lược công nghệ, phát triển năng lực lãnh đạo và chuyên môn cho đội ngũ kỹ thuật cấp trung.
+
+Dài hạn: Trở thành CTO / VP of Engineering - Strategic Leader
+
+CÁC KỸ NĂNG
+
+Coding / Database - 12 năm kinh nghiệm phát triển Backend/Hệ thống: PHP, CodeIgniter, Laravel,
+Slim, Fuelphp, CakePHP, Symfony. Có kinh nghiệm triển khai dự án lớn với
+Python (Flask), Golang (GameFi BEMIL Coin; Dropship Ecommerce Hub),
+NestJS (BEMIL Coin, UNICH), Node.js, Java.
+- API: REST, SOAP Web Service, XML, GraphQL
+- Redis, File Cache, Memcached, ElasticCache
+- Mô hình microservices, micro-backend, SaaS, PWA, API First, Cloud-Oriented,
+Data Driven, kiến trúc đa ngôn ngữ
+- Thành thạo thực thi SOLID, YAGNI, KISS, DRY
+- Đã triển khai và quản lý hệ thống lớn với hơn 50 nodes, hơn 100 service trên
+nhiều server. Đáp ứng ~ 100.000 event / giây
+- Database: Thành thạo MySQL, MariaDB, PostgreSQL, MongoDB,
+Elasticsearch, Redis
+- Có kinh nghiệm tối ưu performance database cũng như các dự án nhiều server
+database với dữ liệu lớn lên tới tỷ bản ghi
+DevOps / DevSecOps - Tools: Docker, Docker Swarm, GitLab, GitHub, BitBucket, Jenkins, GitHub,
+CI/CD, Kubernetes
+- Server: On-premise, On Cloud, Ubuntu, CentOS, Rocky Linux
+- Cloud Server: AWS, Linode, Vultr, DigitalOcean, OVH, OpenShift, GCP,
+Cloudflare
+- AWS: Kỹ sư được chứng nhận AWS SA Pro / AWS DevOps Pro
+- GCP: Kỹ sư được chứng nhận GCP SA Pro
+- Azure: Kỹ sư được chứng nhận Azure SA Expert
+- Tích hợp các giải pháp quản lý an toàn thông tin như OWASP, Akamai, Fortinet
+vào dự án
+- Thành thạo Bash/Shell Script
+Software Architecture - Hơn 5 năm kinh nghiệm trong việc thiết kế kiến trúc và giải pháp phần mềm
+- Thành thạo quy trình/vòng đời phát triển phần mềm
+- Thành thạo trong việc lên ý tưởng, vẽ các đồ hình và luồng tương tác
+Performance & Security - 4 năm kinh nghiệm tối ưu và quản lý bảo mật. Thành viên team phát triển dự án
+OWASP
+- Trực tiếp phát hiện các lỗ hổng nghiêm trọng của 1 số hệ thống báo chí và trang
+web bộ ban ngành - phối hợp với các bên rà soát và vá lỗi bảo mật.
+- Diễn giả tại 1 số hội thảo Cyber Security trong nước.
+Team Lead / Leadership / Task - 9 năm kinh nghiệm lead, điều phối và phân chia công việc
+Management / Problem-solving - Đã từng trong 2 năm xây dựng và dẫn dắt team từ 0 lên tới 80 nhân sự
+- 5 năm kinh nghiệm ở vị trí trưởng phòng kỹ thuật cho công ty product với 40
+nhân sự, bao gồm: Backend Dev, Frontend Dev, BA, Tester
+- 5 năm kinh nghiệm vị trí Head of Engineer (Quản lý đội ngũ kỹ sư) công ty
+Outsource cho thị trường Nhật
+- Thành thạo các công cụ quản lý công việc: Trello, Google workspace, Team
+Planner, Base.vn, Backlog, Jira, Redmine, Asana, Notion & Evernote
+PM / PO - 5 năm kinh nghiệm làm PM/PO cho các dự án phần mềm
+- PM các dự án team size 40 - 50 nhân sự với quy mô > 1000 man month
+- Quản lý Product Backlog, Stakeholder, Risk, Change Request
+ề ằ ầ ổ
+
+- Truyền động lực cho nhân viên và cân bằng với yêu cầu của tổ chức
+- Mô hình: Waterfall, Agile/Scrum, Hybrid
+- Kỹ năng training và đào tạo PM/PO cấp dưới
+- Có chứng chỉ PMP và PMI-ACP
+Training & Advisor - Hơn 2 năm kinh nghiệm trực tiếp giảng dạy các lớp đào tạo nội bộ. Advisor cho
+1 số công ty MMO
+- Giảng viên nội bộ tại công ty hiện tại về Technical
+- Tổ chức tài liệu và training cho các thành viên trong team. Định hướng nghiên
+cứu công nghệ cho các thành viên trong team
+Domain - News & Platform
+- E-Comerce & Logicstic
+- ERP & CRM
+- Payment & Payment Gateway
+- Telecommunication & Telco
+- Education Tech
+- Truyền hình OTT
+- HR Tech
+- System Mornitoring: APM, NMS, Cloud Well-Architected
+PreSales / Technical Writer - 5 năm kinh nghiệm làm PreSales các dự án công nghệ / phần mềm với khách
+/ R&D hàng Việt Nam, Mỹ và Nhật Bản
+- 4 năm kinh nghiệm xây dựng core tài liệu, viết kịch bản kỹ thuật và technical
+standard
+- Nghiên cứu và phát triển hệ thống WebSDK phục vụ hơn 200 báo/trang thông
+tin điện tử tại Việt Nam (công ty ThuDoMultimedia) - hiện vẫn đang được vận
+hành và chạy tốt
+- Đứng đầu ban công nghệ công ty Beetsoft
+SEO - Thành thạo các vấn đề về SEO Website
+- Đã từng SEO website với keyword khó (phim online) lên top 10 và duy trì
+nhiều năm
+Open Source - 5 năm kinh nghiệm contribute các hệ thống mã nguồn mở
+- Trực tiếp duy trì, phát triển các gói mã nguồn mở PHP với tổng số lượt cài đặt
+lên tới hơn 2 triệu (tham khảo: https://packagist.org/packages/nguyenanhung/)
+Wireframe/Prototype - Figma, Axure RP, Sketch, Freeform, Diagrams - Draw.io
+Tools / OS - JetBrains: PhpStorm, PyCharm, WebStorm, DataGrip, GoLand
+- SubLimeText, VsCode, Atom
+- Markdown, Postman, GitBook, Confluence
+- Linux OS: MacOS/RHEL/Ubuntu
+Ngoại Ngữ - Tiếng Anh: Giao tiếp kỹ thuật và báo cáo công việc lưu loát (đã trực tiếp báo
+cáo cho khách hàng Hàn Quốc, Mỹ, Nhật Bản). Thành thạo đọc/viết tài liệu kỹ
+thuật chuyên sâu (Technical Writer/Core Document)
+
+KINH NGHIỆM LÀM VIỆC
+
+NTQ Solution 12/2025 - Hiện tại
+Head of Security
+Dẫn dắt chiến lược bảo mật hệ thống và điều hành sự phát triển hệ sinh thái phần mềm nội bộ (ERP, CRM, HRM,
+OPMS) – nền tảng vận hành cho hơn 2.000 nhân sự toàn cầu. Trực tiếp nâng tầm năng lực bảo mật song hành với việc
+tối ưu hóa hiệu suất và khả năng mở rộng của hệ thống cốt lõi.
+- Chuyển đổi số & Tự động hóa: Định hướng phát triển bộ sản phẩm nội bộ (ERP, CRM,...) nhằm tự động hóa quy
+trình dựa trên dữ liệu và tối ưu vận hành trên quy mô toàn cầu.
+- Tái cấu trúc bảo mật: Tiên phong xây dựng khung bảo mật toàn diện (Security Framework), đáp ứng mục tiêu mở
+rộng thị trường quốc tế của Tập đoàn trong năm tài chính mới.
+- Quản trị rủi ro & Tuân thủ: Thiết lập lộ trình tích hợp về An toàn thông tin, Quyền riêng tư dữ liệu và ERM; đảm
+bảo tuân thủ nghiêm ngặt các tiêu chuẩn quốc tế như ISO 27001.
+- Bảo vệ tài sản chiến lược: Giám sát an toàn hạ tầng trọng yếu, bảo vệ sở hữu trí tuệ và dữ liệu khách hàng trước các
+mối đe dọa phức tạp.
+- Duy trì kinh doanh (BCP): Xây dựng chiến lược đảm bảo hệ thống lõi luôn sẵn sàng 24/7, biến công nghệ thành
+nền tảng củng cố niềm tin với khách hàng toàn cầu.
+- Xây dựng văn hóa: Thúc đẩy tư duy "Security-First" (Bảo mật là ưu tiên) và "Product-Led" (Sản phẩm là trọng
+tâm) xuyên suốt tổ chức.
+
+NTQ Solution 08/2025 - Hiện tại
+
+Cloud Technical Manager
+
+Lãnh đạo chiến lược và phát triển kỹ thuật cho bộ phận Cloud Engineering. Định hướng đội ngũ chuyên gia DevOps
+và Cloud Architects hiện thực hóa tầm nhìn cloud-native thông qua các giải pháp kiến trúc đột phá và vận hành xuất
+sắc.
+- Đối tác chiến lược: Trực tiếp điều phối lộ trình kỹ thuật giúp doanh nghiệp đạt danh hiệu AWS Advanced Tier
+Partner, khẳng định năng lực kỹ thuật chuẩn toàn cầu.
+- Lãnh đạo & Cố vấn: Chủ nhân giải thưởng AWS Golden Jacket; trực tiếp đào tạo đội ngũ kỹ sư cấp cao và thúc đẩy
+tỉ lệ đạt chứng chỉ AWS Professional trên toàn hệ thống.
+- Kiến trúc & SME: Thiết lập tiêu chuẩn cao cấp về tính ổn định (Resilience), Tự động hóa và Bảo mật; định hướng
+triển khai các giải pháp kiến trúc thế hệ mới.
+- Phát triển kinh doanh: Kết nối với các đối tác toàn cầu để chuyển hóa năng lực Cloud thành cơ hội tăng trưởng
+chiến lược và mở rộng thị trường.
+- Quản trị con người: Chuyển hóa mục tiêu kinh doanh thành sứ mệnh kỹ thuật, tạo động lực cho đội ngũ tối ưu hóa
+vận hành và hiện đại hóa hệ thống.
+NTQ Solution 09/2024 - 12/2025
+Senior Technical Manager
+
+- Làm việc chặt chẽ với CTO của NTQ, các TCO (Principal Engineers), Khối Cloud, Business Unit Directors và các
+BU Leads để đảm bảo chiến lược kỹ thuật phù hợp với mục tiêu kinh doanh.
+- Phát triển năng lực kỹ thuật & dẫn dắt team: Hướng dẫn các kỹ sư ở mọi cấp độ thông qua chương trình đào tạo,
+review mã nguồn và tư duy hệ thống. Dẫn dắt các sáng kiến nhằm mở rộng chuẩn kỹ sư xuất sắc tại các trung tâm
+phát triển của NTQ.
+- Thiết kế giải pháp & tư vấn kỹ thuật: Dẫn dắt các hoạt động pre-sale, soạn thảo đề xuất và giải pháp cho khách hàng
+doanh nghiệp, thực hiện đánh giá khả thi, và tư vấn về kiến trúc cloud-native và hệ thống backend.
+- Lãnh đạo chương trình chuyển đổi AI: thúc đẩy chương trình chuyển đổi áp dụng AI quy mô toàn công ty, triển khai
+áp dụng các hệ thống tự động hoá review source, review security, CI/CD, automation alerting
+
+Lisod Vietnam Co., LTD 02/2024 - 09/2024
+Technical Manager - C-Level
+- Chịu trách nhiệm toàn diện về quản lý kỹ thuật cấp cao: tuyển dụng, đào tạo, phát triển và dẫn dắt đội ngũ kỹ sư
+backend, frontend và QC từ giai đoạn khởi tạo sản phẩm.
+- Thiết kế và triển khai kiến trúc nền tảng kỹ thuật (base tech) cho sản phẩm chủ lực của công ty – một nền tảng HR
+SaaS – bao gồm CI/CD, cấu trúc microservice, bảo mật, monitoring, logging…
+- Định hình quy trình đóng gói sản phẩm và phát triển theo hướng SaaS, giúp nâng cao khả năng tái sử dụng và mở
+rộng.
+- Phối hợp cùng team Sale trong quá trình pre-sales, tư vấn giải pháp kỹ thuật, phân tích nghiệp vụ và tham gia trình
+bày với khách hàng.
+- Là đầu mối đánh giá hiệu suất hệ thống và dự án cùng CEO, PO và phòng kế toán, đồng thời thiết lập quy trình đo
+lường chất lượng và vận hành kỹ thuật dài hạn.
+
+Tôi đã hoàn thành giai đoạn kiến tạo nền tảng HR SaaS (Base Tech, Microservices, CI/CD) và bàn giao cho đội ngũ
+kế nhiệm.
+
+Dù tôi rời công ty sau gần 1 năm vì khác biệt sâu sắc trong văn hoá làm việc và hệ giá trị lãnh đạo, nhiều thành phần
+kiến trúc cốt lõi và nền tảng kỹ thuật do tôi xây dựng vẫn tiếp tục được duy trì và sử dụng cho tới thời điểm hiện tại.
+
+BeetSoft Co., LTD 05/2022 - 12/2023
+Tech Lead PHP -> Solution Architect, Project Manager -> Head of Engineering (C-Level)
+- Phụ trách xây dựng PHP CodeBase - Nền tảng phát triển các dự án với PHP của công ty
+- Phụ trách xây dựng BS Coding Standard - Bao gồm các tài liệu, tiêu chuẩn phát triển phần mềm tại công ty
+- Phụ trách xây dựng BS Security Standard - Bao gồm các tài liệu, checklist, tiêu chuẩn bảo mật phần mềm và các quy
+định, quy trình bảo mật
+- Tham gia xây dựng BS Web Security Testing Guide - Bao gồm các tài liệu, checklist, unit test base
+- Tech Lead, Solution & Software Architect các dự án: ShareWis, Sixclouds, Nakajimax, Delm0 Video Ecommerce,
+B2B Register System, B2B2C Enterprise, Dự án y tế cho công ty xét nghiệm của Nhật
+- PM các dự án: Cafe24 (Hàn Quốc), Gapo Work. Trực tiếp báo cáo công việc hàng tuần cho khách hàng với sự hỗ trợ
+của IT Comtor
+- Trưởng ban công nghệ của công ty với 6 thành viên là Tech Lead của các ngôn ngữ PHP, Java,.NET, React, C#,
+Frontend, BA & Tester. Quản lý, điều phối và phân chia công việc cho các thành viên trong đội công nghệ
+- Head of Engineering: quản lý, tuyển dụng, đào tạo và phát triển đội ngũ nhân sự kỹ thuật của công ty. Giám sát tiến
+độ, chất lượng sản phẩm của các dự án phần mềm tại công ty
+
+- Tham gia cùng sale trong quá trình presales, phân tích dự án, phân tích nghiệp vụ dự án
+- Tham gia đánh giá, đo lường hiệu suất dự án cùng Division Manager và COO của công ty
+- Training team member, tham gia chương trình giảng viên nội bộ của công ty: phụ trách các phần security,
+performance và tổ chức codebase
+- Teach Lead PHP: Quản lý, tuyển dụng, đào tạo và phát triển team PHP từ 4 fresher lên 10 junior, 5 middle và 5
+senior
+- Báo cáo công việc cho BOD: CEO, COO
+
+Coolmate 01/2022 - 05/2022
+Senior PHP Developer, Senior Laravel Developer
+
+- Xây dựng hệ thống search thời gian thực với Elastic search
+- Xây dựng hệ thống ERP nội bộ của Coolmate
+- Xây dựng hệ thống test performance các hệ thống Coolmate
+- Báo cáo công việc cho BOD: CEO, CTO
+Công ty cổ phần Lehills 06/2021 - 04/2022
+
+CTO
+- Xây dựng hệ thống shop bán hàng và xử lý đơn hàng với số đơn hàng hàng ngày lên tới 30.000 đơn / ngày
+- Xây dựng hệ thống tracking, đồng bộ tracking lên các cổng thanh toán và công cụ bên thứ 3
+- Xây dựng hệ thống tối ưu trải nghiệm mua hàng dựa trên cá nhân hoá
+- Xây dựng hệ thống báo cáo realtime và cảnh báo hệ thống theo thời gian thực
+- Xây dựng hệ thống tích hợp các hệ thống bán hàng: Shopify, Shopbase, WooCommerce
+- Xây dựng và quản lý hệ thống server, hệ thống CI/CD và hạ tầng cloud cho các site ecommerce
+- Quản lý, điều phối và phân chia công việc cho các thành viên trong đội kỹ thuật
+- Quản lý team technical 30 người
+
+Hoàn thành mục tiêu xây dựng hệ thống ecommerce và logistics quy mô lớn (30.000 đơn/ngày) trước khi chuyển đổi
+chiến lược.
+
+ThuDo Multimedia 01/2018 - 06/2021
+Trưởng phòng kỹ thuật & Project Manager
+- Trực tiếp xây dựng và duy trì, quản lý phòng kỹ thuật của trung tâm từ 1 lên 60 nhân sự (chỉ tính Dev), bao gồm các
+mảng: Mobile App, Backend Server, Web Dev
+- Quản lý các dự án kỹ thuật và giải pháp do trung tâm triển khai: VTVCab ON, ON+, JungoTV, HTV Online,
+MyClip Viettel
+- Quản lý mảng thanh toán trực tuyến của công ty, bao gồm: Payment Gateway, Telco Payment
+- Technical Lead dự án Fado.vn:
+- Technical Lead dự án FADO Go: Shop-Ship-Earn, phát hành FADO Go token trên nền tảng BSC (Đã được audit
+bởi verichains)
+- Technical Lead dự án BEMIL: Game NFT trên nền tảng BSC (Đã được audit bởi hacken.io)
+- Phối hợp nguồn lực nội bộ và khách hàng để nhận diện, thực hiện và đánh giá dự án
+- Tuyển dụng, điều phối, đào tạo nguồn lực Phòng Kỹ thuật mình quản lý
+- Quản lý, giám sát hành chính nhân sự trực thuộc Phòng kỹ thuật
+- Điều phối nhân sự trong Phòng kỹ thuật, phối hợp với các phòng/team khác trong Trung tâm Kinh doanh trong
+trường hợp cần thiết để phân bổ nguồn lực cho các dự án
+- Xây dựng kế hoạch công việc cho phòng và báo cáo công việc trực tiếp cho CEO và Khách hàng
+
+ThuDo Multimedia 02/2016 - 12/2017
+Trưởng nhóm lập trình PHP & Senior PHP Developer
+- Lead team PHP 25 nhân sự triển khai các dự án trong mảng VAS
+- Trực tiếp xây dựng base code các mảng: Web, REST API, CMS & GUI CSKH
+- Viết tài liệu triển khai toàn bộ các base code. Training các thành viên trong team
+- Tham gia quản lý 1 số dự án và phân tích dự án cùng PM, BO
+- Quản lý, điều phối và phân chia công việc cho các thành viên trong team
+- Báo cáo công việc với COO
+
+SCTV Digital 10/2015 - 02/2016
+PHP Developer
+
+- Xây dựng base code toà soạn điện tử từ Framework CodeIgniter v3
+- Triển khai viết code các dự án theo yêu cầu từ team lead
+
+PhimHP.com 10/2010 - 01/2015
+Founder & Development
+
+- Sáng lập, phát triển và duy trì trang web xem phim Online top 10 tại Việt Nam trong những năm 2010 - 2015
+- Đóng dự án do không giải được bài toán về bản quyền
+
+CHỨNG CHỈ
+
+Project Management Professional (PMP)® / PMI Agile Certified Practitioner (PMI-ACP)® 2025
+AWS Certified Solutions Architect – Professional / AWS Certified DevOps Engineer – 2025
+Professional / AWS Certified Security – Specialty
+
+Google Cloud Professional Cloud Architect Certification 2025
+
+Microsoft Certified: Azure Solutions Architect Expert 2025
+Certified Calico Operator - AWS Expert 2025
+
+IBM and ISC2 Cybersecurity Specialist Professional Certificate 2025
+
+Google Cybersecurity Professional Certificate 2024
+
+IBM Generative AI Engineering Professional Certificate / IBM Data Architecture 2023
+Professional Certificate
+IBM Full Stack Software Developer Professional Certificate 2022
+
+Chứng chỉ Chương trình ĐÀO TẠO QUẢN LÝ NEOMANAGER do học viện Agile tổ chức 2022
+
+GIẢI THƯỞNG
+
+Nhân viên xuất sắc năm công ty ThuDoMultimedia 2016
+
+Trưởng nhóm xuất sắc năm công ty ThuDoMultimedia 2017
+
+Trưởng bộ phận xuất sắc liên tiếp 3 năm tại công ty ThuDoMultimedia 2018 - 2020
+Bộ phận có hoạt động đột phá năm công ty cổ phần Lehills 2021
+
+Giải thưởng The Best Inspirer dành cho giảng viên nội bộ Beetsoft 2022 - 2023
+
+NGƯỜI THAM CHIẾU
+Trong quá trình làm việc của tôi, tôi được ghi nhận tích cực bởi nhiều người làm việc cùng, có cả cấp dưới, cấp trên
+và đối tác. 1 số cái tên tiêu biểu, bao gồm:
+- Mr. Đỗ Nam Nhật - Giám đốc Trung tâm kinh doanh Thủ Đô Multimedia: Hung is the teammate you want when
+success depends on someone who will hold the line no matter how uncertain things get.
+- Mr. Bùi Việt An - CTO NTQ: Hung demonstrated a strong sense of ownership, problem-solving ability, and a
+commitment to quality.
+- Mr. Nguyễn Hữu Linh - CEO BEETSOFT: He is a talented technical professional who is constantly innovative and
+responsible, and he has a vision for his job.
+- Mr. Hoàng Mạnh Tiến - Senior Dev BEETSOFT: I always appreciate his ethics, qualifications, and hard work when
+working with him.
+- Mr. Quang Huy - Senior Dev ViettelIDC: He is a caring boss, always enthusiastically supporting me in my work and
+orienting long-term technical development.
+- Mr. Hieu Dinh - Cloud Solution Architect Ecloudvalley: Any team or organization would be fortunate to have
+Hung's talent and dedication.
+
+Toàn bộ trích dẫn trên đều được viết công khai, xác thực bằng LinkedIn, có thể kiểm tra tại
+đây: https://www.linkedin.com/in/nguyenanhung/details/recommendations/
+
+DỰ ÁN
+
+Dự án: Strategic Migration to AWS Advanced Partner Tier
+(08/2025 - 12/2025)
+
+Khách hàng NTQ Solution JSC
+
+Mô tả dự án Cùng team NTQ Cloud nâng thứ hạng Partner AWS
+Số lượng thành viên 4
+
+Vị trí công việc Technical Manager
+Đóng vai trò kỹ thuật nòng cốt trong việc nâng hạng đối tác của tổ chức lên AWS
+Advanced Tier. Thành tựu này khẳng định chuyên môn sâu rộng về chiến lược đám
+mây, kiến trúc chuẩn hóa và khả năng triển khai thành công dự án ở quy mô lớn.
+
+Kết quả then chốt:
+Vai trò trong dự án - Năng lực chuyên môn: Dẫn dắt phong trào đào tạo, trực tiếp thúc đẩy đội ngũ đạt 20
+chứng chỉ AWS cấp độ Associate và Professional.
+- Tối ưu hóa dự án: Triển khai thành công 20 dự án trọng điểm tuân thủ nghiêm ngặt
+khung chuẩn AWS Well-Architected.
+- Hiệu quả vận hành: Đảm bảo vượt chỉ tiêu về yêu cầu kỹ thuật, doanh thu và các chỉ
+số hài lòng của khách hàng (CSAT).
+
+Công nghệ sử dụng AWS
+
+Dự án: UNICH
+(05/2025 - 07/2025)
+
+Khách hàng UNICH Labs
+Mô tả dự án Sàn giao dịch Crypto / Dự án tư vấn ngoài giờ hành chính
+
+Số lượng thành viên 20 member - 100 MM
+Vị trí công việc Technical Strategy Advisor / Acting Technical Manager
+
+Tham gia với vai trò Technical Strategy Advisor / Acting Technical Manager trong giai
+đoạn đầu dự án sàn giao dịch crypto quy mô lớn (5 triệu user, CCU 20K).
+- Tái cấu trúc hạ tầng kỹ thuật, xử lý triệt để sự cố downtime kéo dài, giúp hệ thống ổn
+định xuyên suốt 2 tháng.
+- Trực tiếp chỉ đạo phòng thủ thành công một cuộc DDoS tống tiền (10 triệu req/15
+phút), chỉ 25% traffic cần Captcha, downtime 30 phút (khi tôi chưa online).
+- Huấn luyện đội ngũ kỹ thuật xây dựng System Inventory và chuẩn hóa tài liệu hệ
+Vai trò trong dự án
+thống.
+Tôi rời dự án sau 3 tháng do khác biệt về tầm nhìn, văn hóa và hệ giá trị, không phải vì
+vấn đề chuyên môn.
+Hoàn thành giai đoạn cường hoá đội ngũ, hệ thống và bàn giao cho lại cho người kế
+nhiệm.
+
+AWS, Kubernetes, Terraform, NestJS, React.js, React Native, Solana, SVM,
+Công nghệ sử dụng
+EVM,Redis, PostgreSQL, MongoDB, Kafka, Cloudflare, Vercel
+Dự án: SDC Technical Manager Program
+(04/2025 - 05/2025)
+
+Khách hàng NTQ Solution
+Mô tả dự án Đây là chương trình ươm mầm vị trí Technical Manager
+
+Số lượng thành viên 2 member
+Vị trí công việc Tech Strategy Planner - Tôi làm việc trực tiếp cùng CTO và Principal Engineers
+
+- Tại đây, tôi đã tham gia và trực tiếp soạn thảo những bản dự thảo đầu tiên về bộ tiêu
+chuẩn, thang đánh giá và lộ trình học tập để cùng xây dựng chương trình ươm mầm vị
+trí Technical Manager tại NTQ.
+Vai trò trong dự án
+- Đây là một phần trong chiến lược của công ty nhằm mở rộng và củng cố đội ngũ kỹ
+thuật, hướng đến mục tiêu trở thành Nhà cung cấp dịch vụ CNTT toàn cầu (Global IT
+Service Provider)!
+Công nghệ sử dụng Đây là công việc mang tính chất hoạch định chiến lược
+
+Dự án: AI Transformation Program
+(02/2025 - 03/2025)
+
+Khách hàng NTQ Solution
+Thúc đẩy chuyển đổi, áp dụng AI 1 cách có trật tự, kiểm soát trong công ty vào toàn bộ
+Mô tả dự án
+vòng đời phát triển phần mềm
+Số lượng thành viên 5 member
+Vị trí công việc Tech Strategy Planner - Tôi làm việc trực tiếp cùng CTO và Principal Engineers
+
+Tôi là thành viên trong đội chiến lược Chuyển đổi AI của công ty, chịu trách nhiệm
+Vai trò trong dự án chính trong việc xây dựng khung ứng dụng AI vào công việc, hỗ trợ giải quyết các khó
+khăn, thiết lập tiêu chuẩn và soạn thảo các tài liệu hướng dẫn.
+Công nghệ sử dụng Đây là công việc mang tính chất hoạch định chiến lược
+
+Dự án: Technical Ranking Program Enhancement
+(02/2025 - 03/2025)
+
+Khách hàng NTQ Solution
+Đây là một sáng kiến chiến lược nhằm hoàn thiện hệ thống phân loại và đánh giá cấp độ
+Mô tả dự án
+kỹ năng kỹ thuật cũng như năng lực tổng thể của đội ngũ kỹ sư phần mềm nội bộ.
+Số lượng thành viên 6 member
+Vị trí công việc Technical Manager
+
+- Tôi tập trung vào việc cải tiến phương pháp đánh giá kỹ năng, định hướng lộ trình
+nghề nghiệp và quy trình đánh giá hiệu suất, từ đó góp phần làm rõ con đường phát
+Vai trò trong dự án triển của nhân viên và xây dựng một khung quản lý nhân tài vững chắc hơn.
+- Dự án này đã hỗ trợ tổ chức đưa ra các quyết định chính xác hơn trong việc phân bổ
+nguồn lực, đầu tư đào tạo và thăng tiến nghề nghiệp.
+Công nghệ sử dụng Đây là công việc mang tính chất hoạch định chiến lược
+
+Dự án: Technical Interviewer Program Implementation
+
+(01/2025 - 02/2025)
+Khách hàng NTQ Solution
+
+Mục tiêu chính của dự án này là thiết lập các chân dung và hồ sơ năng lực kỹ thuật toàn
+Mô tả dự án
+diện để định hướng cho quá trình tuyển dụng.
+Số lượng thành viên 6 member
+Vị trí công việc Technical Manager
+- Là một thành viên nòng cốt trong đội triển khai tại NTQ, tôi đã đóng vai trò quan
+trọng trong việc xây dựng và triển khai chương trình “Technical Interviewer Program”.
+- Công việc bao gồm việc xác định các kỹ năng chuyên môn, kinh nghiệm và năng lực
+cần thiết cho từng vị trí trong tổ chức, từ đó nâng cao khả năng nhận diện và thu hút
+Vai trò trong dự án
+nhân tài kỹ thuật hàng đầu.
+- Sáng kiến này đã giúp đơn giản hóa đáng kể quy trình tuyển dụng thông qua việc tạo
+ra các tiêu chuẩn đánh giá kỹ thuật rõ ràng và chương trình đào tạo dành cho người
+phỏng vấn.
+Công nghệ sử dụng Đây là công việc mang tính chất hoạch định chiến lược
+
+Dự án: HR SaaS Platform
+(03/2024 - 09/2024)
+
+Khách hàng HR SaaS Platform
+Mô tả dự án SaaS Platform phục vụ Headhunter, công ty HR, công ty có nhu cầu tuyển dụng
+
+Số lượng thành viên 10 member - 60 MM
+Vị trí công việc Product Technical Manager
+
+ế ế ế ố ể ắ
+
+Vai trò trong dự án - Chịu trách nhiệm thiết kế kiến trúc hệ thống, tuyển chọn và dẫn dắt đội ngũ kỹ thuật
+từ con số 0, định hướng vận hành theo hướng agile và đảm bảo chất lượng đầu ra.
+- Xây dựng bộ tài liệu vận hành, quy trình phát triển, đồng thời huấn luyện team tiếp
+cận tư duy sản phẩm thay vì chỉ gia công.
+- Triển khai các giải pháp backend tối ưu, đảm bảo khả năng mở rộng cho hệ thống.
+
+Hoàn thành giai đoạn kiến tạo nền tảng HR SaaS (Base Tech, Microservices, CI/CD) và
+bàn giao cho đội ngũ kế nhiệm.
+
+Rời dự án vì nhận thấy sự khác biệt sâu sắc về văn hóa tổ chức và hệ giá trị lãnh đạo
+không phù hợp, không xuất phát từ vấn đề chuyên môn hay hiệu quả công việc.
+
+- PHP Laravel, React.js, NestJS, Prisma, Elasticsearch, Rabbit MQ
+Công nghệ sử dụng
+- Git, GitLab, Composer, Packagist, Slack, CI/CD, Docker
+Dự án: Dropship eCommerce Hub
+(08/2023 - 08/2024)
+Khách hàng Dự án Freelancer - 1 team MMO lớn ở Vietnam
+
+Mô tả dự án 1 team MMO lớn ở Vietnam với ngân sách quảng cáo lên tới 20K USD / ngày
+Số lượng thành viên 8 member - 90 MM
+
+Vị trí công việc Technical Advisor/Solution Advisor
+
+- Giữ vai trò cố vấn về kỹ thuật: tư vấn, giám sát đội ngũ tech outsource xây dựng phần
+mềm
+- Xây dựng hệ thống analytics realtime dựa trên OpenSource
+Vai trò trong dự án - Thiết kế kiến trúc hệ thống khung của sản phẩm
+- Hỗ trợ team triển khai các phần khó
+- Nghiệm thu và monitoring sản phẩm
+- Hỗ trợ đội vận hành và giữ vai trò cầu nối giữa team MMO và outsource tech
+- Python, Golang, PHP 8, Elasticsearch, WordPress, Shopify, MariaDB, Microservice,
+Công nghệ sử dụng React.js, Matomo, Supervisord, RabbitMQ
+- Git, GitLab, Composer, Packagist, Slack
+
+Dự án: Hệ thống quan sát báo chí
+(04/2023 - 09/2023)
+
+Khách hàng Dự án Freelancer - Khách hàng là 1 tập đoàn chuyên về MKT
+Mô tả dự án Xây dựng hệ thống quan sát báo chí Việt Nam
+
+Số lượng thành viên 2 member - 10 MM
+Vị trí công việc Developer, SA, DevOps
+
+- Xây dựng ứng dụng crawler cào dữ liệu từ hơn 1000 trang báo, tạp chí, trang thông tin
+điện tử tại Việt Nam và ngoài nước sử dụng tiếng Việt
+- Đổ dữ liệu vào Data Lake của khách hàng trên AWS: Redshift, EMR
+Vai trò trong dự án
+- Xây dựng REST API cung cấp cho Data Engineer của khách hàng
+- Xây dựng hệ thống cảnh báo khi có keyword xấu hoặc nội dung xấu liên quan tới
+brand của khách hàng
+- PHP 8, Symfony, AWS, Data Lake, Microservices
+Công nghệ sử dụng
+- Git, GitLab, Composer, Packagist, Slack
+Dự án Web/Mobile App cho công ty Y tế
+(08/2023 - 12/2023)
+Khách hàng Công ty y tế của Nhật Bản
+
+Mô tả dự án Xây dựng hệ thống web / mobile app về xét nghiệm cho công ty
+Số lượng thành viên 8 member - 30 MM
+
+Vị trí công việc PreSales, Tech Lead & Solution Architect (SA)
+
+ể ầ ế
+
+Vai trò trong dự án - Tham gia quá trình PreSales: Làm việc, tìm hiểu nhu cầu, giải pháp, thuyết phục
+khách hàng
+- Phân tích và thiết kế hệ thống
+- Làm việc và làm rõ yêu cầu với khách hàng
+- Phân chia việc cho các thành viên trong team
+- Giám sát tiến độ, review code
+- Tích hợp hệ thống CI/CD
+
+- PHP 8, CodeIgniter v3, Laravel, REST, Elasticsearch, MariaDB, Redis, Docker, AWS
+- Mobile: React Native
+Công nghệ sử dụng - Web PWA, Microservices
+- Git, GitLab, Composer, Packagist, Slack
+- Markdown, Postman & Postman document
+
+B2B2C HealthCare Enterprise
+(11/2022 - 09/2023)
+
+Khách hàng Tập đoàn sản xuất thiết bị y tế Hàn Quốc
+Mô tả dự án Xây dựng hệ thống bán hàng B2B2C cho tập đoàn
+
+Số lượng thành viên 30 member - 300 MM
+Vị trí công việc PreSales, Technical PM & Solution Architect (SA)
+
+- PreSales & Tư vấn giải pháp: Trực tiếp khảo sát, đề xuất kiến trúc và thuyết phục đối
+tác về phương án kỹ thuật.
+- Thiết kế kiến trúc hệ thống: Chủ trì phân tích và thiết kế kiến trúc tổng thể
+(Microservices), đảm bảo tính mở rộng và hiệu năng.
+- Quản trị yêu cầu: Làm việc trực tiếp với khách hàng để làm rõ nghiệp vụ và thống
+Vai trò trong dự án
+nhất giải pháp thực thi.
+- Quản lý đội ngũ & Tiến độ: Điều phối 30 thành viên, phân rã công việc và kiểm soát
+deadline toàn dự án.
+- DevOps: Trực tiếp thiết kế và triển khai luồng tích hợp/triển khai liên tục (CI/CD),
+giúp rút ngắn chu kỳ phát hành phần mềm và giảm thiểu sai sót thủ công.
+- PHP 7, CodeIgniter v3, Laravel, REST, Elasticsearch, MariaDB, Redis, Docker, AWS,
+Odoo, UGC, PIM, Microservices, OpenAI API
+Công nghệ sử dụng
+- Git, GitLab, Composer, Packagist, Slack
+- Markdown, Postman & Postman document
+B2B Register System
+(01/2023 - 06/2023)
+Khách hàng 1 công ty của Nhật
+Mô tả dự án Xây dựng hệ thống bán khóa học cho công ty Nhật Bản
+
+Số lượng thành viên 10 member - 60 MM
+Vị trí công việc Tech Lead & Solution Architect (SA)
+
+- Phân tích và thiết kế hệ thống
+- Làm việc và làm rõ yêu cầu với khách hàng
+- Phân chia việc cho các thành viên trong team
+Vai trò trong dự án
+- Tổ chức codebase, trực tiếp kết nối và coding module payment gateway
+- Giám sát tiến độ, review code
+- Tích hợp hệ thống CI/CD
+- PHP 7, CodeIgniter v3, Laravel, REST, Elasticsearch, MariaDB, Redis, Docker, AWS
+Công nghệ sử dụng - Git, GitLab, Composer, Packagist, Slack
+- Markdown, Postman & Postman document
+Delm0 Video Ecommerce
+(11/2022 - 12/2022)
+
+Khách hàng 1 công ty của Nhật
+
+Mô tả dự án Xây dựng hệ thống bán video online cho KOL trong lĩnh vực làm đẹp
+
+Số lượng thành viên 8 memmber - 16 MM
+Vị trí công việc Tech Lead & Solution Architect (SA)
+
+- Phân tích và thiết kế hệ thống
+- Làm việc và làm rõ yêu cầu với khách hàng
+- Phân chia việc cho các thành viên trong team
+Vai trò trong dự án
+- Tổ chức codebase, trực tiếp kết nối và coding module payment gateway
+- Giám sát tiến độ, review code
+- Tích hợp hệ thống CI/CD
+- PHP 7, CodeIgniter v3, Laravel, REST, Elasticsearch, MariaDB, MongoDB, Redis,
+Docker, AWS, Microservices
+Công nghệ sử dụng
+- Git, GitLab, Composer, Packagist, Teams
+- Markdown, Postman & Postman document, Jira Confluence
+Cafe24
+(09/2022 - 06/2023)
+Khách hàng Cafe24 - Khách hàng Hàn Quốc
+Mô tả dự án Xây dựng hệ thống tích hợp Payment Gateway, các extension cho sàn Cafe24
+
+Số lượng thành viên 20 member - 200 MM
+Vị trí công việc Project Manager
+
+- Lập kế hoạch & Quản trị vận hành: Xây dựng kế hoạch chi tiết, quản lý hệ thống tài
+liệu và điều phối nguồn lực dự án.
+- Điều hành & Kết nối đội ngũ: Chủ trì các buổi họp kỹ thuật và điều phối phối hợp
+giữa các nhóm phát triển nội bộ.
+Vai trò trong dự án
+- Quản lý đối tác & Stakeholders: Trực tiếp làm việc với phía Cafe24 và các đối tác
+outsource để đảm bảo tính thống nhất của dự án.
+- Kiểm soát tiến độ & Báo cáo: Giám sát chặt chẽ các mốc thời gian (milestones) và báo
+cáo tình trạng vận hành trực tiếp cho Ban Giám đốc (COO).
+- Backlog, Jira, Team City, Google Sheet
+Công nghệ sử dụng - PHP, WordPress, Golang
+- Markdown, Postman & Postman document, Jira Confluence
+SixClouds Security Update
+(11/2022 - 12/2022)
+
+Khách hàng Sixclouds - Singapore
+
+Mô tả dự án Nâng cấp và xử lý các lỗi bảo mật cho hệ thống học online của Singapore
+Số lượng thành viên 2 member - 4 MM
+
+Vị trí công việc Senior Tech Expert, DevOps, SA
+- Phân tích các vấn đề bảo mật trong code, database và server
+- Estimate và đưa ra giải pháp xử lý các vấn đề bảo mật. Xây dựng quy trình bảo mật
+- Trực tiếp xử lý vấn đề, fix các lỗi bảo mật
+Vai trò trong dự án
+- Gỡ bỏ các mã độc, mining script trên server
+- Nâng cấp các phần mềm trên server
+- Báo cáo trực tiếp công việc cho COO và khách hàng
+Công nghệ sử dụng - Ubuntu 16.04, CentOS 6, PHP 5.6, MariaDB, MySQL, Alibaba Cloud
+
+QR Code Fullfillment
+(07/2022 - 11/2022)
+
+Khách hàng Công ty quản lý chuỗi cửa hàng bán lẻ tại Nhật
+- Xây dựng hệ thống xử lý đơn hàng và quản lý QR Code
+Mô tả dự án
+- Xây dựng nghiệp vụ in và gắn nhãn hàng thông qua QR Code
+Số lượng thành viên 4 member - 16 MM
+
+Vị trí công việc Tech Lead & Solution Architect
+
+- Phân tích và thiết kế hệ thống
+- Làm việc và làm rõ yêu cầu với khách hàng
+- Phân chia việc cho các thành viên trong team
+Vai trò trong dự án
+- Tổ chức codebase, code các module quản lý data, QR Code
+- Giám sát tiến độ, review code
+- Tích hợp hệ thống CI/CD
+- PHP 7, CodeIgniter v3, Laravel,.NET, REST, Elasticsearch, MariaDB, MongoDB,
+Redis, Docker, AWS, Microservices, Codecommit
+Công nghệ sử dụng
+- Git, GitLab, Composer, Packagist, Teams
+- Markdown, Postman & Postman document, Jira Confluence
+ShareWis
+(05/2022 - 01/2023)
+Khách hàng ShareWis - Nhật
+
+Mô tả dự án Hệ thống học online
+Số lượng thành viên 12 member - 100 MM
+
+Vị trí công việc Tech Lead & Solution Architect (SA)
+- Phân tích và thiết kế hệ thống
+- Làm việc và làm rõ yêu cầu với khách hàng
+Vai trò trong dự án - Phân chia việc cho các thành viên trong team
+- Giám sát tiến độ, review code
+- Tích hợp hệ thống CI/CD
+- Python Flask, React, Microservice, REST, Elasticsearch, MariaDB, MongoDB, Redis,
+Docker, AWS, Microservices, Code Commit, EC2, S3, AWS Ses, AWS KMS
+Công nghệ sử dụng
+- Git, GitLab, Composer, Slack
+- Markdown, Postman & Postman document, Jira Confluence
+Coolmate.me ERP
+
+(01/2022 - 05/2022)
+Khách hàng Coolmate.me
+
+Mô tả dự án Hệ thống ERP nội bộ phục vụ kinh doanh và kho vận
+Số lượng thành viên 5 member - 25 MM
+
+Vị trí công việc Team Lead & Solution Architect (SA)
+- Phân tích và thiết kế hệ thống
+- Trình bày kế hoạch với BOD
+- Phân chia việc cho các thành viên trong team
+Vai trò trong dự án - Xây dựng codebase và kiến trúc hệ thống
+- Code các module khó: quản lý kho hàng, đơn hàng, tồn kho, đồng bộ đơn từ sàn
+- Giám sát tiến độ, review code
+- Xây dựng hệ thống CI/CD
+
+- PHP 7, CodeIgniter v3, Laravel, REST, Elasticsearch, MariaDB, MongoDB, Redis,
+Docker, AWS, EC2, S3, AWS Ses, AWS KMS, Cloudwatch
+Công nghệ sử dụng
+- Git, GitLab, Composer, Packagist, Teams
+- Markdown, Postman & Postman document, Jira Confluence
+Lehills Hub Fulfillment
+(06/2021 - 08/2021)
+
+Khách hàng Lehills
+- Hệ thống xử lý đơn hàng tập trung nhiều store với nhiều platform
+Mô tả dự án
+- Tối ưu luồng xử lý đơn hàng khối lượng lớn
+Số lượng thành viên 12 member - 36MM
+
+Vị trí công việc Team Lead, DevOps, Solution Architect (SA)
+
+- Phân tích và thiết kế hệ thống
+- Trình bày kế hoạch với BOD
+- Phân chia việc cho các thành viên trong team
+- Xây dựng codebase và kiến trúc hệ thống
+- Code các module khó
+- Xây dựng và quản lý hệ thống payment, tracking
+Vai trò trong dự án
+- Xây dựng và quản lý hệ thống đồng bộ tracking, đơn hàng, nghiệp vụ tồn kho và xử lý
+đơn hàng
+- Xây dựng và quản lý hệ thống review, tích hợp các công cụ helpdesk và đồng bộ
+thông tin về hub
+- Giám sát tiến độ, review code
+- Xây dựng hệ thống CI/CD, quản lý server và deploy
+- PHP 7, CodeIgniter v3, Laravel, REST, Shopify, Shopbase, Liquid, Elasticsearch,
+MariaDB, MongoDB, Redis, Docker, AWS, Digital Ocean, CI/CD, S3, EC2, Zabbix
+Công nghệ sử dụng Monitoring
+- Git, GitLab, Composer, Packagist, Teams, VPN Outline
+- Markdown, Postman, Jira & Confluence
+Lehills Personalized Services
+(09/2021 - 12/2021)
+
+Khách hàng Lehills
+Hệ thống cung cấp công cụ cho phép khách hàng tùy biến sản phẩm, cá nhân hoá sản
+Mô tả dự án
+phẩm
+Số lượng thành viên 12 member - 40MM
+Vị trí công việc Team Lead, DevOps, Solution Architect (SA)
+
+- Phân tích và thiết kế hệ thống
+- Trình bày kế hoạch với BOD
+- Phân chia việc cho các thành viên trong team
+Vai trò trong dự án
+- Giám sát tiến độ, review code, test tính năng
+- Quản lý tài nguyên, server, API
+- Xây dựng hệ thống CI/CD, quản lý server và deploy
+- PHP 7, CodeIgniter v3, Laravel, Canvas JavaScript, REST, Shopify, Shopbase, Liquid,
+Docker, AWS, Digital Ocean, CI/CD, S3, EC2, Zabbix Monitoring
+Công nghệ sử dụng
+- Git, GitLab, Composer, Packagist, Teams Planner, VPN Outline
+- Markdown, Postman, Jira & Confluence
+VTVCab ON+
+(10/2020 - 06/2021)
+Khách hàng ThuDo Multimedia
+
+- Dịch vụ truyền hình kỹ thuật số do MobiFone, VTVCab và ThuDo triển khai
+Mô tả dự án - Dự án được triển khai với các nền tảng: Web, Mobile, Smart TV
+- Thông tin dự án: https://onplus.com.vn
+Số lượng thành viên 30 member - 240 MM
+
+Vị trí công việc PO - Product Owner
+- Quản lý dự án: lập kế hoạch kế hoạch, quản lý tài liệu, tài nguyên, tiến độ, giám sát
+tiến độ dự án
+- Nghiên cứu sản phẩm, đối thủ và thị trường OTT
+Vai trò trong dự án - Tổ chức và điều hành các cuộc họp các team tham gia dự án: Kỹ thuật, Kinh doanh,
+Network, MKT
+- Làm việc với các bên liên quan: MobiFone, VTVCab
+- Báo cáo công việc trực tiếp với CEO
+
+- Teams Planner, Jira, Sigma Multi DRM, Sigma OTT Platform, LiveStream, Finger
+Công nghệ sử dụng Print, CDN, Microservices, AI & Big Data
+- Markdown, Postman, Jira & Confluence
+
+Jungo+ World
+(06/2020 - 11/2020)
+
+Khách hàng JungoTV
+- Dự án triển khai hạ tầng Live OTT và VOD cho đối tác JungoTV bên Mỹ
+- Cung cấp các nền tảng triển khai bao gồm: Web, Mobile, SmartTV
+Mô tả dự án
+- Link app: https://play.google.com/store/apps/details?
+id=com.jungotv.jungotvappandroid&hl=vi&gl=US
+Số lượng thành viên 10 member - 50MM
+Vị trí công việc PM - Project Manager
+
+- Quản lý dự án: tham gia xây dựng kế hoạch, quản lý tài liệu, tiến độ, giám sát tiến độ
+dự án, scope của dự án.
+- Tổ chức và điều hành các cuộc họp các team tham gia dự án: Kỹ thuật, Kinh doanh,
+Vai trò trong dự án Network
+- Đầu mối làm việc với đối tác bên Mỹ thông qua Google Meet. Cập nhật tiến độ công
+việc với đối tác thông qua Google Workspace và slack.
+- Báo cáo công việc trực tiếp với CEO
+- Teams Planner, Jira, Sigma Multi DRM, Sigma OTT Platform, LiveStream, Finger
+Công nghệ sử dụng Print, CDN, Microservices, AI & Big Data
+- Markdown, Postman, Jira & Confluence
+
+Chuyển đổi số Ban tôn giáo Chính Phủ
+(07/2020 - 12/2022)
+
+Khách hàng Ban tôn giáo Chính Phủ
+
+- Xây dựng và chuyển đổi số nền tảng cho 2 cổng thông tin tiếng Việt, tiếng Anh cho
+Ban tôn giáo chính Phủ
+Mô tả dự án
+- Nâng cấp hạ tầng server cho dịch vụ công của ban
+- Link dự án: http://btgcp.gov.vn - http://religion.vn
+Số lượng thành viên 5 member - 25MM
+Vị trí công việc Tech Lead, DevOps, Maintainer, Project Manager
+- Xây dựng kế hoạch dự án, trực tiếp tham gia quá trình bảo vệ dự án với các bên liên
+quan
+- Quản lý dự án: tham gia xây dựng kế hoạch, quản lý tài liệu, tiến độ, giám sát tiến độ
+dự án, scope của dự án.
+Vai trò trong dự án
+- Triển khai base code dựa trên bộ CMS tự build bằng CodeIgniter v3
+- Phân chia công việc cho các thành viên trong team
+- Trình bày kế hoạch và họp báo cáo với khách hàng nhà nước
+- Báo cáo công việc cho CEO
+- PHP 7, CodeIgniter v3, Laravel, MariaDB, Git, GitLab, Composer, Packagist, CI/CD,
+Công nghệ sử dụng CentOS, OnPrime server,
+- Microsoft Word, PowerPoint
+FADO Go Coin
+
+(02/2021 - 09/2022)
+
+Khách hàng FADO Go
+- Dual‑token model: FADO vs FGT
+- Dự án đã được audit bởi Verichains tại https://GitHub.com/verichains/public-audit-
+Mô tả dự án
+reports/blob/main/Verichains%20Public%20Audit%20Report%20-
+%20FadoGo%20Token%20-%20v1.0.pdf
+Số lượng thành viên 10 member - 180MM
+Vị trí công việc Technical Lead
+
+Vai trò trong dự án - Thiết kế kiến trúc đa lớp Web2 + Web3
+- Kiến trúc liên kết DeFi + e-commerce
+
+-Lựa chọn stack phù hợp:
+- Web3: Solidity + Hardhat/Foundry
+- Backend: NestJS / Node.js
+- Frontend: React.js
+- Ví: MetaMask, WalletConnect
+- BSC node provider: Infura, QuickNode, Alchemy.
+- Kết nối backend với blockchain layer (smart contract, wallet, transaction).
+- Cùng DevOps triển khai monitor log trên Datadog
+- Tích hợp thanh toán crypto tạo đơn hàng FADO bằng token khớp thanh toán
+blockchain
+- Tham gia kiểm thử tokenomics
+
+Công nghệ sử dụng - EVM, AWS, RabbitMQ, PostgreSQL, NestJS, Golang, Solidity, Hardhat, Foundry
+
+BEMIL Coin
+(09/2020 - 06/2021)
+
+Khách hàng BEMIL Coin
+- BEMIL Coin - GameFi trên nền BSC
+Mô tả dự án
+- Dự án đã được audit tại https://hacken.io/audits/bemil/sca-bemil-bep20-oct2021/
+Số lượng thành viên 10 member - 100MM
+Vị trí công việc Technical Lead
+
+- Chọn ngôn ngữ, framework, công nghệ blockchain BSC, công nghệ backend NestJS
+vs Go
+- Thiết kế kiến trúc tổng thể: microservices, message queue RabbitMQ, caching Redis,
+database PostgreSQL
+- Đưa ra chuẩn code, cấu trúc repo, và CI/CD pipelines.
+- Thiết kế cấu trúc backend phục vụ game (game logic, user inventory, PvE/PvP
+Vai trò trong dự án mechanics).
+- Kết nối backend với blockchain layer (smart contract, wallet, transaction).
+- Thiết kế hệ thống NFT (minting, metadata storage), token reward (earning logic, claim
+rules).
+- Làm việc với các dev backend/frontend/blockchain/game để phân task, review code
+- Tham gia kiểm thử tokenomics
+- Tối ưu tốc độ truy xuất data game (cache, query optimize).
+Công nghệ sử dụng - BSC, AWS, RabbitMQ, PostgreSQL, NestJS, Golang, Solidity, Hardhat, Foundry
+
+VTVCab ON
+(06/2018 - 06/2021)
+
+Khách hàng VTVCab
+- Dịch vụ truyền hình kỹ thuật số lớn nhất Việt Nam do VTVCab và Thủ Đô
+Multimedia phối hợp triển khai
+Mô tả dự án
+- Dự án được triển khai với các nền tảng: Web, Mobile, Smart TV
+- Thông tin dự án: https://vtvcab.vn
+Số lượng thành viên 160 member - khoảng 5000MM trong 3 năm
+Vị trí công việc PM / SA / Technical Lead
+
+- Quản lý dự án: lập kế hoạch kế hoạch, quản lý tài liệu, tài nguyên, tiến độ, giám sát
+tiến độ dự án
+- Nghiên cứu sản phẩm, đối thủ và thị trường OTT
+- Tổ chức và điều hành các cuộc họp các team tham gia dự án: Kỹ thuật, Kinh doanh,
+Vai trò trong dự án
+Network, MKT
+- Dẫn đầu team tech triển khai hệ thống payment gateway, hệ thống CRM, OTT
+- Làm việc với các bên liên quan: VTVCab, Bộ thông tin và truyền thông
+- Báo cáo công việc trực tiếp với CEO
+- Teams Planner, Jira, Sigma Multi DRM, Sigma OTT Platform, LiveStream, Finger
+Công nghệ sử dụng Print, CDN, Microservices, AI & Big Data
+- Markdown, Postman, Jira & Confluence
+
+Triển khai 60 dịch vụ VAS với 4 nhà mạng lớn nhất Việt Nam
+
+(2017 - 2020)
+Khách hàng ThuDo, Viettel, MobiFone, VinaPhone, Vietnamobile
+
+- Cung cấp các dịch vụ giá trị gia tăng nội dung số trên hạ tầng mạng Viettel,
+MobiFone, VinaPhone, Vietnamobile
+Mô tả dự án
+- 1 số dịch vụ nổi trội: LoveTV, Viettel V2T, Bản tin tài chính, Giải trí mobile...
+- Các đường link sẽ được cung cấp nếu có yêu cầu
+Số lượng thành viên 25 - 30 member - khoảng hơn 1000 MM trong 3 năm
+Vị trí công việc PHP Developer - Senior PHP Developer - Tech Lead - Product Owner
+- Trực tiếp xây dựng hệ thống base code kết nối với nhà mạng, bao gồm: Hệ thống
+charge cước, hệ thống quản lý tập khách hàng và thuê bao, hệ thống API (REST &
+SOAP) giao tiếp với nhà mạng và các bên có liên quan, hệ thống tiếp nhận MO và gửi
+MT, hệ thống SDP, website dịch vụ, cms biên tập nội dung
+- Xây dựng, triển khai và quản lý hệ thống payment gateway của công ty
+Vai trò trong dự án
+- Độc lập triển khai 12/60 dịch vụ
+- Training và hướng dẫn, quản lý các member khác triển khai dịch vụ
+- Vận hành và bảo trì các dịch vụ
+- Đầu mối phụ trách kỹ thuật với nhà mạng
+- Báo cáo công việc cho Phó tổng giám đốc phụ trách Kinh doanh và CEO
+- PHP 7, CodeIgniter v3, Laravel, Node.js, React.js, React Native, MongoDB,
+MariaDB, REST, SOAP
+- SMPP v3, Payment Gateway, Subscription System, SMS System, Service Distribution
+Công nghệ sử dụng Provider
+- Git, GitLab, Composer, Packagist, Teams Planner, Trello, SFTP, SSH, CentOS,
+Ubuntu
+- Markdown, Postman, GitBook
+
+CRM quản lý hợp đồng, bản quyền
+(04/2019 - 06/2019)
+
+Khách hàng Thu Do Multimedia
+- Dự án cung cấp bộ CRM cho phép các nhân viên sale, kế toán, MKT nhập các thông
+Mô tả dự án tin hợp đồng, bản quyền từ đó quản lý, gia hạn cũng như alert các thông tin liên quan
+đến hợp đồng
+
+Số lượng thành viên 8 member - 16MM
+Vị trí công việc Tech Lead & SA & DevOps
+
+- Họp với phó tổng để nắm yêu cầu dự án và lên danh sách các scope của dự án
+- Phân chia công việc cho team member triển khai dự án
+Vai trò trong dự án
+- Phối hợp các bên test và nghiệm thu dự án
+- Báo cáo công việc cho Phó tổng giám đốc phụ trách Kinh doanh
+- PHP 7, CodeIgniter v3, MariaDB
+Công nghệ sử dụng - Git, GitLab, Composer, Packagist, Teams Planner, Trello, SFTP, SSH, CentOS,
+Ubuntu
+Hệ thống bảo hành điện tử
+(07/2017 - 11/2017)
+
+Khách hàng Leagoo, TPLUS, FPT, Vivo
+- Xây dựng hệ thống bảo hành điện tử, quản lý các sản phẩm theo imei hoặc serial
+Mô tả dự án number
+- Cung cấp hệ thống kích hoạt bảo hành thông qua SMS, QR code
+
+Số lượng thành viên 8 member - 32MM
+Vị trí công việc Team Lead
+
+Vai trò trong dự án - Làm việc với khách hàng để nắm bắt nhu cầu
+
+ầ ế
+
+- Xây dựng danh sách các tính năng cần thiết và báo cáo lên CTO phê duyệt
+- Triển khai code các nghiệp vụ
+- Làm việc với khách hàng để test và nghiệm thu dự án
+- Vận hành và bảo trì dự án
+- Báo cáo công việc cho CTO
+
+- PHP 5.6, CodeIgniter v3, MariaDB, Microservices
+Công nghệ sử dụng - Git, GitLab, Composer, Packagist, Teams Planner, Trello, SFTP, SSH, CentOS,
+Ubuntu
+
+SCTV Sport và SCTV Phim
+(04/2016 - 07/2016)
+
+Khách hàng SCTV Digital
+Mô tả dự án Cung cấp nội dung số của SCTV trên các nhà mạng Việt Nam
+
+Số lượng thành viên 8 member - 24MM
+Vị trí công việc PHP Dev
+
+- Xây dựng các API cung cấp nội dung cho Mobile App
+Vai trò trong dự án - Xây dựng và vận hành 2 website dịch vụ
+- Báo cáo công việc cho CTO
+- PHP 5.6, CodeIgniter v3, MariaDB
+Công nghệ sử dụng - Git, GitLab, Composer, Packagist, Teams Planner, Trello, SFTP, SSH, CentOS,
+Ubuntu
+
+© topcv.vn

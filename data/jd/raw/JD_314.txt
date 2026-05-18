@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Chuyên Viên Lập Trình
+
+Mô tả công việc:
+-Lập trình chức năng, báo cáo, xử lý dữ liệu theo yêu cầu được giao- Vận hành hệ thống thông tin của Công ty, khắc phục sự cố (nếu phát sinh)- Báo cáo kết quả và đề xuất phương án xử lý
+
+Yêu cầu công việc:
+- Tốt nghiệp Đại học trở lên chuyên nghành Công nghệ thông tin- Kỹ năng làm việc độc lập và làm việc theo nhóm, làm việc ở cường độ cao và chịu áp lực tốt; có tư duy logic, tự học hỏi công nghệ mới nhanh; chủ động và sáng tạo trong công việc. - Kiến thức• Thành thạo một trong các ngôn ngữ lập trình: dot NET (VB.NET), Java…• Thành thạo các nguyên tắc phát triển application qua Restful API , Asp.Net Core, OOP, clean, scalable, framework.• Thành thạo các cơ sở dữ liệu Oracle, SQL Server, Postgres.• Thành thạo các công cụ quản lý mã nguồn và dự án như Git, Github, viết tài liệu cho API, công cụ để quản lý chất lượng code, API doc.- Yêu thích làm việc với dữ liệu, làm việc trong ngành chứng khoán.- Tinh thần sẵn sàng tìm hiểu, nghiên cứu áp dụng kiến thức, công nghệ mới vào công việc.- Trung thực, ham học hỏi, cầu tiến-Có khả năng sử dụng Visual Studio, Java, IDE thông dụng cho lập trình - Đọc hiểu tài liệu tiếng Anh
+
+Yêu cầu kinh nghiệm: 1-3 năm

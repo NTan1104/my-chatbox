@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Front-End Leader
+
+Mô tả công việc:
+- Quản lý Team Front - end nhằm củng cố, phát triển các member trong Team (cụ thể là chuẩn bị - duy trì môi trường, đào tạo nhân sự, đánh giá nhân sự, v.v...)- Sử dụng JavaScript (Angular/ ReactJS/ VueJS) và HTML, CSS hoặc CMS (WordPress v.v...) để phát triển và hỗ trợ phát triển Website theo yêu cầu của khách hàng.- Một số nghiệp vụ nâng cao chất lượng sản phẩm liên quan đến phát triển kỹ thuật. (FrontEnd, hoặc xây dựng Website).- Phát triển và vận hành website nội bộ..
+
+Yêu cầu công việc:
+Yêu cầu kỹ thuật:- Kinh nghiệm ít nhất 2 năm làm FrontEnd Leader hoặc có 3 năm kinh nghiệm PM dựán Front End.- Có kinh nghiệm đào tạo - dẫn dắt member (đào tạo những kỹ sư trẻ)- Có kinh nghiệm quản lý dự án Front end với quy mô khoảng 10 member.- Có kinh nghiệm làm việc thực tế từ 5 năm trở lên các dự án JavaScript sử dụng FrameWorks/Libraries như VueJS/AngularJS/ReactJS.- Có tinh thần sẵn sàng thực hiện những công việc được giao với sự kiên nhẫn và tận tâm trong công việc.Yêu cầu khác:- Yêu thích việc quản lý, xây dựng team từ đầu và có thể trở thành hình mẫu cho các member trong team.- Kỹ năng giao tiếp tốt, khả năng nắm bắt, trình bày, truyền đạt những yêu cầu đưa ra một cách rõ ràng, cũng như khả năng trình bày suy nghĩ, ý tưởng của bản thân.- Cẩn thận, tỉ mỉ trong công việc.- Cầu tiến, tích cực phát triển bản thân cũng như phát triển các member trong team.
+
+Yêu cầu kinh nghiệm: 3-5 năm

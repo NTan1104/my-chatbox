@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên Java Upto 40M
+
+Mô tả công việc:
+- Tham gia vào các dự án phát triển bằng ngôn ngữ Java và các công nghệ khác.- Phát triển sản phẩm mới và làm mới, nâng cấp các sản phẩm hiện có.- Tham gia training và tự học hỏi kiến thức, công nghệ mới để áp dụng vào dự án
+
+Yêu cầu công việc:
+Junior- Trình độ đại học chuyên ngành CNTT hoặc có các chứng chỉ tương đương- Kinh nghiệm làm việc: Ít nhất 01 năm kinh nghiệm (đã từng tham gia các dự án về JAVA)- Nắm vững về java cơ bản và phương pháp lập trình hướng đối tượng (OOP)- Có kinh nghiệm làm việc với framework Spring Boot- Có kiến thức về Hibernate, JPA, Restful API- Có hiểu biết ít nhất 01 hệ quản trị CSDL: Oracle, Mysql, MSSQL Server, ...- Có hiểu biết sử dụng GIT, SVN, TFS, Maven- Có khả năng sử dụng đa dạng hệ điều hành (Windows, Linux, MacOS, ...)Senior- Trình độ đại học chuyên ngành CNTT hoặc có các chứng chỉ tương đương- Kinh nghiệm làm việc: Ít nhất 03 năm kinh nghiệm (đã từng tham gia các dự án về JAVA)- Thành thạo Java (>=8)- Nắm vững về java cơ bản và phương pháp lập trình hướng đối tượng (OOP)- Có kinh nghiệm làm việc với framework Spring Boot- Có kiến thức về Hibernate, JPA, Restful API- Có kinh nghiệm ít nhất 01 hệ quản trị CSDL: Oracle, Mysql, MSSQL Server, ...- Có kiến thức về caching (Redis, Memcache), MessageQueue (Rabbit, Kafka, ActiveMQ, ...)- Sử dụng thành thạo GIT, SVN, TFS, Maven- Có khả năng sử dụng đa dạng hệ điều hành (Windows, Linux, MacOS, ...)- Đọc hiểu tài liệu tiếng Anh chuyên ngành
+
+Yêu cầu kinh nghiệm: 1-3 năm

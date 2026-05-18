@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Angular Developer
+
+Mô tả công việc:
+Tham gia thiết kế và phát triển các dự án outsourcing phần mềm cho thị trường Nhật và Việt Nam, sử dụng HTML5, CSS3, Angular 7.Thực hiện thiết kế, coding, testing các module trên Angular.Tùy chỉnh và nâng cấp hệ thống đáp ứng yêu cầu của khách hàng.Thực hiện viết các tài liệu thiết kế Function, viết tài liệu UT.Báo cáo cho quản lý khi có yêu cầu.
+
+Yêu cầu công việc:
+Kỹ năng, kinh nghiệm:Nắm vững kiến thức về công nghệ web.Thành thạo Angular (ưu tiên đã từng làm dự án với version Angular 7).Kinh nghiệm phát triển các ứng dụng trên nền web mobile.Nắm vững HTML5, CSS3, Javascript, jQuery, xử lý UI responsive.Có kinh nghiệm làm việc trên nền tảng AWS (Amazon Web Services).Có kinh nghiệm thực hiện auto test trên framework Jasmine/Karma và protractor.Thành thạo sử dụng git (Github, Gitlab).Ưu tiên:Có kinh nghiệm làm việc tại các công ty outsource.Có kinh nghiệm phát triển mobile application là một lợi thế.
+
+Yêu cầu kinh nghiệm: 1-3 năm

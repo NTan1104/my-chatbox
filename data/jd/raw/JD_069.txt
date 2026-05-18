@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Unity Developer (Thu Nhập Ít Nhất 18 - 20 Tháng Lương/Năm) Tại Hà Nội
+
+Mô tả công việc:
+- Chuyển đổi các ứng dụng, game sang nền tảng khác (android và iOS)- Kết hợp với các bộ phận Test , Artist, Game producer để sản xuất các game mobile chất lượng và hữu ích đến người dùng- Các công việc liên quan khác tuỳ từng tiến độ của dự án và phân công của trưởng bộ phận
+
+Yêu cầu công việc:
+- Ứng viên có ít nhất 6 tháng kinh nghiệm lập trình trên Unity- Biết JNI, hoặc iOS native là 1 lợi thế- Biết sử dụng các phần mềm hỗ trợ lập trình: Unity, Xcode, Android Studio- Có khả năng làm việc tốt trong môi trường Teamwork cũng như làm việc độc lập- Có định hướng và mong muốn tham gia phát triển các phần mềm thương mại cung cấp rộng rãi cho các khách hàng là tổ chức, cá nhân tại thị trường Việt Nam & Thế giới- Có kiến thức và tư duy tốt, sáng tạo và đam mê công nghệ, kiên trì, ham học hỏi- Có khả năng nghiên cứu công nghệ mới
+
+Yêu cầu kinh nghiệm: Dưới 1 năm

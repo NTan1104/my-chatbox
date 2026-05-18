@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Junior Back-End
+
+Mô tả công việc:
+-Phát triển các dự án sử dụng PHP/JAVA;-Thiết kế, coding và kiểm thử hệ thống hoặc chức năng sau khi hoàn thành;. -Xây dựng kế hoạch và quản lý tiến độ lập trình theo kế hoạch;. -Nghiên cứu nắm bắt công nghệ mới;. -Tham gia các khóa đào tạo liên quan tới công việc do Công ty tổ chức.
+
+Yêu cầu công việc:
+- Đối với backend developer: có kinh nghiệm làm với với ít nhất 1 trong các ngôn ngữ Java/PHP- Tốt nghiệp đại học chuyên ngành CNTT. - Nắm vững OOP, clean code, SOLID. - Có thể làm việc với một trong các hệ quản trị cơ sở dữ liệu thông dụng như: MySQL, Oracle, SQL Server,.... - Có kinh nghiệm ít nhất 1 năm. - Có kỹ năng làm việc nhóm, có tinh thần trách nhiệm cao
+
+Yêu cầu kinh nghiệm: 1-3 năm

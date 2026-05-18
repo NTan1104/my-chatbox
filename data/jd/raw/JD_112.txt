@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Mobile React Native
+
+Mô tả công việc:
+- Xây dựng giao diện Mobile Android,iOS app từ bản thiết kế UI/UX Figma và đặc tả.- Phát triển, tuỳ biến tính năng, nghiệp vụ Mobileapp, tích hợp API .- Xây dựng thư viện, công cụ hỗ trợ lập trình. - Phối hợp theo dõi, vận hành, fix lỗi.- Hỗ trợ xử lý các yêu cầu hàng ngày.- Báo cáo tới: Trưởng nhóm
+
+Yêu cầu công việc:
+- Thông thạo React Native (ưu tiên version 0.69), n-tier App, design patterns- Có kinh nghiệm lập trình HttpClient, SQL, ORM kết nối Orcale, SQL Server- Có kinh nghiệm tối ưu UI/UX và sử dụng Figma- Có kinh nghiệm phát triển, tích hợp các ứng dụng quản lý file là một lợi thế.- Có tinh thần cầu tiến, chịu được áp lực trong công việc.
+
+Yêu cầu kinh nghiệm: 1-3 năm

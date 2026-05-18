@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Game Developer C++
+
+Mô tả công việc:
+Xây dựng phát triển Game Engine trên ngôn ngữ lập trình C++Biết lập trình trên UnReal Engine là một lợi thế lớnThực hiện các công việc khác theo yêu cầu từ cấp trên
+
+Yêu cầu công việc:
+Có kiến thức chuyên ngành Lập trình /Công nghệ thông tin/Khoa học máy tínhAm hiểu ngôn ngữ C++, am hiểu về game hoặc đã lập trình game bằng C++ là một lợi thếNắm vững lập trình hướng đối tượng, cấu trúc dữ liệu và giải thuậtYêu thích và đam mê lập trình game là một lợi thếCó kỹ năng research xử lý các vấn đề, khả năng thích ứng nhanh với công việc, với các kỹ thuật mớiCó khả năng làm việc độc lập và làm việc nhómTinh thần học hỏi và nâng cao trình độ bản thân, tinh thần trách nhiệm trong công việcThẳng thắn trong trao đổi công việc, hướng đến mục tiêu phát triển chungTinh thần học hỏi và nâng cao trình độ bản thân, tinh thần trách nhiệm trong công việc
+
+Yêu cầu kinh nghiệm: 1-3 năm

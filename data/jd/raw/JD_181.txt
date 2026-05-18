@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên Full-Stack
+
+Mô tả công việc:
+Công ty TNHH Phần mềm 1Byte là công ty lập trình, chỉnh sửa phần mềm, khắc phục sự cố và cung cấp dịch vụ gia công phần mềm, công nghệ thông tin cho khách hàng ở nhiều nước như Anh, Mỹ, Pháp, Ấn Độ, Canada, Singapore,…Hiện nay do nhu cầu mở rộng và phát triển, Công ty chúng tôi cần tuyển dụng nhân sự làm việc tại Long Thành, Đồng Nai với thông tin sau:Lập trình viên Full-StackTham gia xây dựng, phát triển, triển khai các phần mềm ứng dụng/dự án mà công ty triển khai dựa trên nền DotNet / JAVA.Nhận yêu cầu từ trưởng nhóm và tự phân tích yêu cầu để lập trình.Lập trình theo chuẩn code và chất lượng do công ty qui định.Phối hợp với đồng đội để cùng giải quyết các yêu cầu hoặc các vấn đề kỹ thuật.Hoàn thành công việc được giao đúng hạn theo kế hoạch đã định.Bảo trì, sửa lỗi phát sinh nếu có.Báo cáo công việc cho trưởng nhóm hoặc người quản lý.
+
+Yêu cầu công việc:
+YÊU CẦU CHUYÊN MÔN:Ít nhất 1 năm kinh nghiệm trong lĩnh vực phát triển phần mềm (hiểu biết DotNet, CSharp, JAVA là một lợi thế).Có kinh nghiệm về giao diện và sử dụng tốt HTML, CSS, Javascript, Angular.Kinh nghiệm với OOP và Design Pattern.Thành thạo trong việc viết code có cấu trúc, tài liệu tốt , code sạch sẽ có các comments và có thể bảo trì.Hiểu biết về các quy trình Kỹ thuật phần mềm, Testing...Sử dụng tốt source control như Github.Có khả năng đọc hiểu tài liệu tiếng Anh, giao tiếp được tiếng Anh là một điểm cộng.
+
+Yêu cầu kinh nghiệm: 1-3 năm

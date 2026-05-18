@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Web (Back-End .Net)
+
+Mô tả công việc:
+- Lập trình website, web application. - Xây dựng các hàm API tích hợp các hệ thống hoặc với đối tác. - Xây dựng và phát triển các tính năng cho sản phẩm - Góp ý cho designer chỉnh sửa lại giao diện để đảm bảo các tính năng logic - Tham gia vào quá trình phân tích, thiết kế, nâng cấp và phát triển hệ thống - Tham gia nghiên cứu, tìm hiểu/cập nhật và đề xuất các vấn đề liên quan đến việc duy trì/xây dựng/phát triển phần mềm. - Tham gia xây dựng tài liệu phát triển, nâng cấp, tối ưu, sửa lỗi … - Tham gia với đội ngũ kỹ thuật để giải quyết các vấn đề kỹ thuật chung, phức tạp. - Thực hiện các công việc khác theo yêu cầu của bộ phận quản lý hoặc Ban Giám đốc.
+
+Yêu cầu công việc:
+1. Yêu cầu chuyên môn - Tốt nghiệp Đại học, Cao đẳng hoặc tương đương chuyên ngành Công nghệ thông tin, Công nghệ phần mềm, Khoa học máy tính. - Có ít nhất 1 năm kinh nghiệm làm việc ở vị trí tương tự. 2. Yêu cầu kỹ năng - Thành thạo các kỹ thuật cơ bản trong công nghệ .NET: C, MSSQL Server, ADO.NET - Thành thạo và có kinh nghiệm back-end services như: web service, Web API - Thành thạo LINQ, Entity Framework. - Thành thạo và có kinh nghiệm về .NET CORE - Có kinh nghiệm phát triển microservices là 1 lợi thế - Có kinh nghiệm về Docker, Kubernetes, rabbitmq là 1 lợi thế - Có khả năng làm việc theo nhóm, có trách nhiệm cao, óc sáng tạo và chăm chỉ - Nhanh nhẹn, cẩn thận, tỉ mỉ, chịu được áp lực công việc - Năng động, cầu tiến, sáng tạo, chủ động trong công việc. - Biết và sử dụng được GIT là một lợi thế.
+
+Yêu cầu kinh nghiệm: 1-3 năm

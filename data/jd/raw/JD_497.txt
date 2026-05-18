@@ -1,0 +1,22 @@
+Backend Developer [Hà Nội] - Thu Nhập Cạnh Tranh, Từ 2 Năm Kinh Nghiệm
+Mô tả công việc
+Nghiên cứu các mô hình thị trường tài chính, Sở Giao dịch Hàng hóa tiên tiến, các ứng dụng công nghệ thông tin tiên tiến trong hoạt động giao dịch hàng hóa.
+Nghiên cứu mô hình quản lý vận hành của MXV và khả năng ứng dụng công nghệ tiến tiến hỗ trợ phát triển các dịch vụ của MXV.
+Tham gia lập trình và phát triển các hệ thống phần mềm.
+Tham gia lập kế hoạch, giám sát tiến độ và chất lượng của các dự án công nghệ thông tin.
+Tham gia quản lý, vận hành các hệ thống ứng dụng, giám sát, trực sự cố hệ thống, trực ca theo dõi hệ thống giao dịch.
+Tiếp nhận và nghiên cứu các yêu cầu cải tiến hệ thống và ứng dụng từ các bộ phận nghiệp vụ.
+Thực hiện các công việc khác do Trưởng bộ phận phân công.
+Yêu cầu ứng viên
+Tốt nghiệp Đại học, Cao đẳng chuyên ngành Công nghệ thông tin.
+Ưu tiên biết FE (ReactJs, Flutter)
+Có khả năng đọc hiểu tiếng Anh chuyên ngành tốt.
+Nhiệt huyết, chủ động, sáng tạo trong công việc, ham học hỏi, có khả năng chịu áp lực công việc cao. Có khả năng làm việc độc lập và làm việc theo nhóm.
+Thành thạo ít nhất một trong các ngôn ngữ lập trình Java, C/C++, .NET (C#), NodeJS, Python.
+Có kinh nghiệm đối với ít nhất một trong các hệ quản trị cơ sở dữ liệu SQL Server, Postgres SQL, MongoDB.
+Có kinh nghiệm làm việc với các hệ điều hành Windows Server/Linux/ Unix.
+Có kinh nghiệm làm việc với các ứng dụng containers (docker, k8s).
+Có tư duy logic và có khả năng phân tích xử lý các vấn đề của hệ thống.
+Kỹ năng quản lý dự án.
+Kỹ năng trình bày, giao tiếp, lắng nghe.
+Sử dụng thành thạo các phần mềm văn phòng.

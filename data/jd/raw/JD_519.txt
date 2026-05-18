@@ -1,0 +1,61 @@
+NLP(LLM) Engineer (Junior+, Upto 60M)
+
+Chi tiết tin tuyển dụng
+Yêu cầu:
+2 năm kinh nghiệm
+Đại Học trở lên
+Xem chi tiết Yêu cầu
+Quyền lợi:
+Bảo hiểm xã hội
+Team building
+Du lịch hàng năm
+Xem chi tiết Quyền lợi
+Chuyên môn:
+AI Engineer
+IT - Phần mềm
+Mô tả công việc
+MỤC TIÊU CÔNG VIỆC
+
+Xây dựng và vận hành các giải pháp NLP/LLM ở môi trường production cho tập khách hàng là các doanh nghiệp hàng đầu trong các ngành, lĩnh vực khác nhau: tóm tắt – trích xuất – phân loại – tìm kiếm ngữ nghĩa – hỏi đáp theo tài liệu – phân tích rủi ro/tuân thủ – trợ lý nghiệp vụ… trên hạ tầng dữ liệu rất lớn, yêu cầu độ tin cậy, kiểm soát chất lượng, bảo mật và tối ưu chi phí.
+
+
+A. Thiết kế & triển khai sản phẩm LLM/NLP end-to-end
+
+Phân tích yêu cầu nghiệp vụ enterprise, thiết kế pipeline NLP/LLM phù hợp (online/near-realtime/batch).
+Xây dựng RAG (Retrieval-Augmented Generation): ingestion → chunking → embedding → indexing → retrieval → rerank → generation.
+Thiết kế prompt/policy: prompt templates, function-calling/tool-use, guardrails, kiểm soát hallucination, citation/traceability.
+Phát triển agentic workflows khi cần (routing, tool orchestration, multi-step tasks).
+B. Vận hành production quy mô lớn
+
+Thiết kế dịch vụ LLM/NLP theo hướng microservice, API chuẩn (OpenAI-compatible hoặc nội bộ).
+Tối ưu throughput/latency/cost: batching, streaming, caching, quantization, GPU scheduling (vLLM/TensorRT-LLM/llama.cpp…).
+Xây dựng cơ chế observability: logging/tracing/metrics, SLO/SLA, canary, rollback.
+C. Xử lý dữ liệu cực lớn & nền tảng tìm kiếm trên quy mô hàng tỷ bản ghi
+
+Xử lý ingestion từ nhiều nguồn: DB/log/stream (Kafka/RabbitMQ), file/object storage.
+Tối ưu index & search: Elasticsearch/Solr/OpenSearch; vector DB; hybrid search (BM25 + dense).
+Thiết kế data governance: PII masking, retention, access control, audit.
+D. Đánh giá chất lượng & cải tiến
+
+Xây dựng LLM evaluation framework: offline testset, golden set, A/B test, regression test, judge-model/human-in-the-loop.
+Định nghĩa tiêu chí đo: factuality, faithfulness, coverage, latency, cost, safety.
+Fine-tune/adapter khi cần: LoRA/QLoRA, distillation, reranker fine-tuning, domain adaptation.
+E. Phối hợp khách hàng & đội nội bộ
+
+Làm việc với PM/BA/Infra/Sec để triển khai theo quy trình enterprise (security review, compliance).
+Hỗ trợ presales/POC: tư vấn kiến trúc, estimate, demo, triển khai thử nghiệm.
+Yêu cầu ứng viên
+Thành thạo một trong các ngôn ngữ lập trình: Python, C#, C/C++, ...
+Có từ 2 – 7+ năm kinh nghiệm Software/Data/NLP; có kinh nghiệm đưa hệ thống NLP/LLM vào production
+Hiểu chắc LLM application patterns: RAG, reranking, prompt engineering, tool-use/agents, caching, eval
+Thành thạo Python (FastAPI), hoặc có thể làm backend tốt (Go/Java/.NET) + Python cho NLP
+Kinh nghiệm xử lý dữ liệu lớn: streaming/batch, partitioning, idempotency, backpressure.
+Kiến thức IR/Search: tokenization, BM25, hybrid search, vector similarity, index strategy.
+Tư duy hệ thống: thiết kế cho reliability, scalability, observability, cost.
+Đam mê và khả năng chịu áp lực tốt
+Lợi thế khi bạn có những kỹ năng sau:
+
+Kinh nghiệm vLLM/TensorRT-LLM, Triton, CUDA basics; quantization (AWQ/GPTQ), KV-cache optimization.
+Kinh nghiệm ClickHouse/Trino/Spark/Flink; Kafka at scale.
+Fine-tuning (LoRA/QLoRA), training reranker/cross-encoder.
+Security/compliance enterprise: RBAC, auditing, encryption, DLP/PII

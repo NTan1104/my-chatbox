@@ -1,0 +1,52 @@
+AI Machine Learning Lead
+
+Chi tiết tin tuyển dụng
+Yêu cầu:
+Trên 5 năm kinh nghiệm
+Đại Học trở lên
+Xem chi tiết Yêu cầu
+Quyền lợi:
+Nghỉ thứ 7
+Xem chi tiết Quyền lợi
+Chuyên môn:
+AI Engineer
+Mô tả công việc
+Mô tả công việc:
+
+Tuyển dụng vị trí Machine Learning Engineer phát triển các giải pháp AI/ML phức tạp, từ giai đoạn nghiên cứu thuật toán đến triển khai sản phẩm thực tế trên môi trường cloud native.
+
+Ứng viên sẽ chịu trách nhiệm thiết kế, xây dựng, tối ưu hoá và vận hành các mô hình ML , đồng thời đảm bảo chất lượng mã nguồn, quy trình CI/CD và khả năng mở rộng của hệ thống.
+
+Level: Senior (6-8years)
+
+Yêu cầu bắt buộc:
+
+Nghiên cứu mô hình và đưa ra cho dự án apply
+
+- Xây dựng, huấn luyện và tối ưu các mô hình semi supervised, clustering (Kmeans, DBSCAN, Spectral) và unsupervised (PCA, tSNE, UMAP, AutoEncoder, VAE, GAN) cho các bài toán phát hiện bất thường, phân nhóm, giảm chiều.
+
+- Thiết kế pipeline dữ liệu, tiền xử lý, feature engineering và đánh giá model (F1score, Accuracy, Precision, ROC AUC, …).
+
+Nghiên cứu áp dụng công nghệ - framework
+
+- Nghiên cứu AI/ML framework (HuggingFace Transformers, PyTorch Lightning…) để áp dụng vào sản phẩm.
+
+- Thực hiện hyper parameter (Grid/Random/Bayesian) và cải tiến loss function, normalization.
+
+- Đánh giá và cải thiện hiệu năng hệ thống (latency, throughput, tài nguyên).
+
+Triển khai và vận hành
+
+- Đóng gói mô hình dưới dạng API (FastAPI) và triển khai trên Docker + Kubernetes.
+
+- Quản lý môi trường runtime (Uvicorn, Redis) và thiết lập giám sát (Prometheus, Grafana).
+
+- Xây dựng quy trình CI/CD (GitHub Actions, GitLab CI…) để tự động hoá build, test, deploy.
+
+Yêu cầu ứng viên
+- Tốt nghiệp Đại học các ngành Trí tuệ Nhân tạo, Học máy, Khoa học Máy tính, Kỹ thuật Máy tính, Công nghệ Thông tin, Khoa học Dữ liệu hoặc các ngành liên quan.
+- Có nền tảng kiến thức vững về toán học, xác suất – thống kê, học máy, deep learning và lập trình.
+- Có các chứng chỉ chuyên môn về AI/ML hoặc Cloud là lợi thế.
+- Thành thạo các ngôn ngữ: Python và hiểu biết về C++
+- Sử dụng các framework như fastAPI, Flask
+- Hiểu biết về database: SQL

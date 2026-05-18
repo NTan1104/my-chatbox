@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên Nodejs
+
+Mô tả công việc:
+• Phát triển hệ thống CRM của công ty, sử dụng Node.js, VueJs• Xây dựng hệ thống API cho Mobile App, Web App, sử dụng Node.js, MySql, Mongo, Kafka• Phát triển các sản phẩm về giáo dục trực tuyến của công ty• Hỗ trợ giải quyết các vấn đề của dự án• Làm việc, phối hợp công việc theo nhóm dưới sự phân công công việc của quản lý dự án.
+
+Yêu cầu công việc:
+Độ tuổi: 22-28Có thể làm việc độc lập cũng như làm việc teamwork tốt. Tham gia xây dựng giải pháp cho hệ thống 300k+ người dùngCó kiến thức tốt về lập trình hàm, lập trình hướng đối tượng, có thể hiểu và áp dụng các design patternThành thạo ngôn ngữ Node.js, Javascript/typescriptCó kinh nghiệm làm việc với ExpressJS, VueJS, jQuery là một lợi thếƯu tiên ứng viên có kinh nghiệm làm việc trên ngôn ngữ PHP, Laravel hoặc Yii FrameworkThành thạo làm việc với cơ sở dữ liệu quan hệ như MySQL, Postgres; Có kinh nghiệm tối ưu hóa truy vấn là một lợi thế.Ưu tiên ứng viên có thể làm việc với Linux; Sử dụng tốt các công cụ lập trình, công cụ git; Ưu tiên ứng viên có hiểu biết về các phương pháp bảo mật cơ bản, thực hiện tối ưu hóa
+
+Yêu cầu kinh nghiệm: 1-3 năm

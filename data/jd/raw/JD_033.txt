@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Fullstack Developer (Senior)
+
+Mô tả công việc:
+- Phát triển các dự án, sản phẩm của công ty TopCV.. - Công việc chính là phát triển website & server-side cho ứng dụng di động:.+ Phát triển các tính năng CV, việc làm, trắc nghiệm, hỏi đáp chat, ....+ Viết API cho mobile app..+ Xây dựng các tính năng cho sản phẩm Quản lý CV & Quy trình tuyển dụng cho Doanh nghiệp. + Phát triển các sản phẩm CRM nội bộ của công ty.
+
+Yêu cầu công việc:
+- Tốt nghiệp CĐ/ĐH ngành CNTT hoặc các ngành có liên quan.- Ứng viên có kinh nghiệm làm việc từ 2 năm trở lên, có sự đam mê về phát triển sản phẩm.- Thành thạo lập trình với PHP, MySQL, Javascript & Framework Laravel.- Không ngại làm việc với cả Frontend, Backend, API, ...- Sử dụng thành thạo với một trong các Javascript Framework như: VueJS, AngularJS, ReactJS.- Thành thạo sử dụng Linux, GIT.- Có khả năng làm việc được với NodeJS.- Có kinh nghiệm thực tế về thiết kế hệ thống hiệu năng cao là một lợi thế.- Từng làm việc trên nền tảng AWS, Google Cloud Services.- Khả năng học hỏi và làm việc với Framework hay ngôn ngữ lập trình mới khi cần thiết.- Ưu tiên có năng lực dẫn dắt các dự án phần mềm.- Có khả năng làm việc nhóm, làm việc độc lập.- Có kỹ năng đọc hiểu tài liệu Tiếng Anh tốt.
+
+Yêu cầu kinh nghiệm: 1-3 năm

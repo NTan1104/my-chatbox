@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: AI Engineer (C/C++/Python)
+
+Mô tả công việc:
+- Nghiên cứu, xây dựng phương án, lập trình, thử nghiệm và tối ưu kết quả các bài toán trí tuệ nhân tạo thuộc các lĩnh vực:- Phát triển các mô hình AI dựa cho phát hiện đối tượng, OCR, nhận dạng khuôn mặt, …- Xử lý ngôn ngữ tự nhiên: Chatbot, Text Normalization …- Các bài toán về Smart Camera …Phối hợp với nhóm phát triển sản phẩm để tích hợp các sản phẩm nền vào các ứng dụng thực tiễn dành cho ngân hàng, tài chính
+
+Yêu cầu công việc:
+- Có ít nhất 1 năm kinh nghiệm tham gia vào các dựa án liên quan đến Học Máy (Machine Learning) và xử lý ảnh, OCR- Có kinh nghiệm với 1 trong các ngôn ngữ lập trình sau: C/C++, Python.- Có kinh nghiệm làm việc với một trong các framework Tensorflow, Pytorch, Keras; Scikit; DL4J; …- Có kiến thức chắc về học máy, CNN, RNN.- Có kinh nghiệm sử dụng GIT, JIRA.- Khả năng tư duy tốt, tinh thần trách nhiệm và ý thức về chất lượng cao.- Khả năng làm việc độc lập, tích cực, chủ động trong công việc, luôn luôn tìm tòi học hỏi những kiến thức và bài toán mới
+
+Yêu cầu kinh nghiệm: 1-3 năm

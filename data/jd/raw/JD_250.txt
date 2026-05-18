@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên AI
+
+Mô tả công việc:
+- Phát triển, thử nghiệm các thuật toán, mô hình nhận dạng ảnh và xử lý âm thanh trong lĩnh vực Thị giác máy tính (computer vision), xử lý hình ảnh, xử lý âm thanh … Áp dụng vào lĩnh vực chính là tự động phát hiện vi phạm bản quyền phim ảnh trong lĩnh vực Media Streaming - Nghiên cứu và áp dụng các công nghệ mới nhất trong lĩnh vực thị giác máy tính vào các bài toán ứng dụng trong lĩnh vực phân tich vi phạm bản quyền trong lĩnh vực truyền thông đa phương tiện … - Nghiên cứu và áp dụng các công nghệ mới nhất trong lĩnh vực nhận diện âm thanh vào các bài toán ứng dụng trong lĩnh vực phân tich vi phạm bản quyền âm nhạc... - Giải quyết các bài toán về Machine Learning, Deep Learning, BigData, Media Streaming khác. - Phát triển các dự án AI từ yêu cầu của hệ thống. - Các công việc liên quan khác theo yêu cầu của trưởng bộ phận. - Các ứng viên mới ra trường sẽ được đào tạo.
+
+Yêu cầu công việc:
+- Tốt nghiệp chuyên nghành CNTT hoặc liên quan - Không yêu cầu kinh nghiệm, được tào tạo kỹ năng về AI để có thể phục vụ công việc - Có kiến thức về opencv, có kiến thức nền tảng về xử lý ảnh - Có kiến thức về lĩnh vực Machine Learning, DeepLearning - Từng làm việc trên các nền tảng tensorflow, keras, caffe, pytorch... là 1 lợi thế - Thông thạo ngôn ngữ lập trình Python là 1 lợi thế - Có kỹ năng làm việc nhóm, có khả làm việc độc lập, khả năng đọc các tài liệu nước ngoài tốt - Thành thạo các công cụ quản lý mã nguồn và công cụ lập trình: Pycharm, GIT , ...
+
+Yêu cầu kinh nghiệm: Không yêu cầu kinh nghiệm

@@ -1,0 +1,230 @@
+{
+    "cv_id": "CV_002",
+    "source_file": "D:\\Projects\\XAI\\data\\cv\\cleaned_test\\CV_002.txt",
+    "target_role": "Lập Trình Viên",
+    "level": "Fresher",
+    "experience_years": 0.0,
+    "skills": {
+        "programming_languages": [
+            "C#",
+            "PHP",
+            "JavaScript"
+        ],
+        "backend": [
+            ".Net",
+            "ASP.Net",
+            "WordPress"
+        ],
+        "frontend": [
+            "CSS"
+        ],
+        "database": [
+            "MySQL"
+        ],
+        "devops_cloud": [],
+        "tools": [],
+        "others": []
+    },
+    "work_experience": [
+        {
+            "company": "SweetSoft Solutions",
+            "position": "Thực tập sinh",
+            "start_date": "04/2022",
+            "end_date": "05/2022",
+            "duration_months": 1,
+            "description": "Học ASP.Net, tìm hiểu về các thư viện của JavaScript, CSS để xử lí giao diện. Làm việc trong môi trường chuyên nghiệp, tăng kỹ năng làm việc nhóm và làm quen với áp lực công việc.",
+            "tech_stack": [
+                "ASP.Net",
+                "JavaScript",
+                "CSS"
+            ],
+            "achievements": []
+        }
+    ],
+    "projects": [
+        {
+            "name": "Thiết kế website bán Điện Thoại",
+            "role": null,
+            "description": "Sử dụng một vài plugin như Woocommerce và Yith, CSS để tùy biến giao diện trang web và tùy biến một số chức năng của trang web.",
+            "tech_stack": [
+                "PHP",
+                "WordPress",
+                "CSS",
+                "MySQL",
+                "Woocommerce",
+                "Yith"
+            ],
+            "achievements": [],
+            "url": "http://kidzstore.byethost6.com"
+        }
+    ],
+    "education": [
+        {
+            "institution": "Đại Học Nha Trang",
+            "degree": "Cao đẳng",
+            "major": "Công Nghệ Thông Tin",
+            "start_date": "10/2019",
+            "end_date": "02/2022",
+            "gpa": "3.4/4.0"
+        }
+    ],
+    "certificates": []
+}
+{
+    "cv_id": "CV_003",
+    "source_file": "D:\\Projects\\XAI\\data\\cv\\cleaned_test\\CV_003.txt",
+    "target_role": "Fullstack Developer",
+    "level": "Middle",
+    "experience_years": 4.0,
+    "skills": {
+        "programming_languages": [
+            "JavaScript",
+            "PHP",
+            "Python",
+            "Golang"
+        ],
+        "backend": [
+            "Laravel",
+            "CodeIgniter",
+            "Node.js"
+        ],
+        "frontend": [
+            "HTML",
+            "CSS",
+            "jQuery",
+            "Bootstrap",
+            "React.js",
+            "Vue.js"
+        ],
+        "database": [
+            "MySQL",
+            "Redis"
+        ],
+        "devops_cloud": [
+            "Linux",
+            "Git",
+            "Hosting",
+            "VPS"
+        ],
+        "tools": [
+            "ChatGPT",
+            "Claude"
+        ],
+        "others": [
+            "REST API",
+            "OOP",
+            "Caching",
+            "Queue"
+        ]
+    },
+    "work_experience": [
+        {
+            "company": "Công ty TNHH công nghệ CloudGO",
+            "position": "Kỹ sư phần mềm",
+            "start_date": "12/2024",
+            "end_date": "03/2026",
+            "duration_months": null,
+            "description": "Phát triển và tùy chỉnh hệ thống CRM (Vtiger) theo yêu cầu doanh nghiệp; xây dựng API và xử lý business logic; xây dựng và tối ưu các chức năng quản lý khách hàng và workflow.",
+            "tech_stack": [
+                "Vtiger",
+                "Redis",
+                "Zalo API",
+                "Facebook API"
+            ],
+            "achievements": [
+                "Tích hợp API với các hệ thống bên thứ 3 (Zalo, Facebook,...)",
+                "Tối ưu hiệu năng hệ thống bằng Redis caching và queue xử lý bất đồng bộ",
+                "Xử lý và debug các vấn đề trong môi trường production, đảm bảo hệ thống vận hành ổn định"
+            ]
+        },
+        {
+            "company": "Freelancer",
+            "position": "Kỹ sư phần mềm",
+            "start_date": "02/2021",
+            "end_date": "10/2024",
+            "duration_months": 44,
+            "description": "Phát triển các hệ thống web (blog, thương mại điện tử, phần mềm quản lý); xây dựng API và xử lý logic nghiệp vụ cho từng domain; thiết kế database và triển khai các chức năng theo workflow business.",
+            "tech_stack": [
+                "Node.js",
+                "MySQL"
+            ],
+            "achievements": [
+                "Thiết kế website, phần mềm hệ thống",
+                "Xây dựng các tác vụ realtime (Node.JavaScript)"
+            ]
+        },
+        {
+            "company": "VNPT Kiên Giang",
+            "position": "IT Support (Cộng tác viên)",
+            "start_date": "03/2020",
+            "end_date": "05/2020",
+            "duration_months": 3,
+            "description": "Triển khai và hỗ trợ vận hành phần mềm VNPT-HIS cho Bệnh viện Đa khoa tỉnh Kiên Giang.",
+            "tech_stack": [],
+            "achievements": []
+        }
+    ],
+    "projects": [
+        {
+            "name": "Phần mềm CRM",
+            "role": null,
+            "description": "Phát triển và tùy chỉnh hệ thống CRM (Vtiger), xây dựng và tối ưu các chức năng quản lý khách hàng và workflow, tích hợp API với hệ thống bên thứ 3, xử lý issue production, tối ưu hiệu năng hệ thống bằng caching và xử lý bất đồng bộ.",
+            "tech_stack": [
+                "Vtiger",
+                "MySQL",
+                "Git",
+                "Linux"
+            ],
+            "achievements": [],
+            "url": null
+        },
+        {
+            "name": "Phần mềm quản lý phòng khám thú y",
+            "role": "Team Leader",
+            "description": "Thiết kế hệ thống quản lý lịch khám, hồ sơ bệnh án, thiết kế database và xây dựng các chức năng chính.",
+            "tech_stack": [
+                "Laravel",
+                "MySQL"
+            ],
+            "achievements": [],
+            "url": null
+        },
+        {
+            "name": "Website bán hàng May Home",
+            "role": "Fullstack Developer",
+            "description": "Phát triển hệ thống bán hàng (quản lý sản phẩm, đơn hàng), phân tích nghiệp vụ, thiết kế database và xây dựng chức năng hệ thống.",
+            "tech_stack": [
+                "Laravel",
+                "MySQL",
+                "Bootstrap",
+                "jQuery"
+            ],
+            "achievements": [],
+            "url": "https://mayhomevn.com"
+        },
+        {
+            "name": "Trang chủ trường ĐH Kiên Giang",
+            "role": "Fullstack Developer",
+            "description": "Phát triển website giới thiệu và module đăng tin tức.",
+            "tech_stack": [
+                "PHP",
+                "MySQL",
+                "Bootstrap",
+                "jQuery"
+            ],
+            "achievements": [],
+            "url": "https://vnkgu.edu.vn"
+        }
+    ],
+    "education": [
+        {
+            "institution": "Đại học Kiên Giang",
+            "degree": "Cử nhân",
+            "major": "CÔNG NGHỆ THÔNG TIN",
+            "start_date": "2016",
+            "end_date": "2020",
+            "gpa": null
+        }
+    ],
+    "certificates": []
+}

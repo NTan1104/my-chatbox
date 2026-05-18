@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Junior IOS Developer
+
+Mô tả công việc:
+- Tham gia vào các dự án outsource với nhiều đối tác lớn (như Nhật Bản), dự án phát triển sản phẩm dịch vụ trên nền tảng iOS;- Phát triển và bảo trì ứng dụng iOS của Công ty;. • Tham gia ở tất cả các công đoạn của sản phẩm: Code, Test, Review, Release;. • Phân tích dữ liệu người dùng để liên tục cải tiến và tối ưu hoá các tính năng của app.
+
+Yêu cầu công việc:
+- Đam mê lập trình và lập trình mobile;. - Có kinh nghiệm lập trình iOS từ 1 năm sử dụng Swift, Objective-C, XCode...;. • Kinh nghiệm trong việc tối ưu hoá hiệu năng ứng dụng, bộ nhớ. Có hiểu biết sâu về lập trình hướng đối tượng (OOP);• Sử dụng thành thạo Git, SVN;. • Có tư duy hệ thống tốt, logic rõ ràng, khả năng tự học và nghiên cứu tài liệu tiếng Anh hoặc tính nhật là một điểm cộng;- Có khả năng làm việc độc lập và kỹ năng làm việc theo nhóm, chịu được áp lực cao;. - Hòa mình trong môi trường làm việc năng động, sáng tạo, cộng đồng số hiện đại, biết gắn bó với cộng đồng nhân viên và công ty.
+
+Yêu cầu kinh nghiệm: 1-3 năm

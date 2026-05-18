@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Frontend Developer (Reactjs)
+
+Mô tả công việc:
+• Cùng Back-end tham gia phân tích yêu cầu, hệ thống thiết kế; nghiên cứu và áp dụng các công nghệ mới • Tham gia vào dự án phát triển sản phẩm chủ lực của công ty. • Xây dựng Code Base, review code của team, đảm bảo chất lượng sản phẩm. • Cải tiến, nâng cao chất lượng hiện dự án • Làm việc trong môi trường chuyên nghiệp, nhiều cơ hội thăng tiến • Quy trình làm việc Agile/Scrum
+
+Yêu cầu công việc:
+• Có từ 1 năm kinh nghiệm thiết lập Front-end, thành thạo HTML5, CSS, JavaScript / TypeScript - tất cả các cấp độ từ junior đến techlead • Nắm chắc kiến thức OOP, Cấu trúc dữ liệu và giải thuật, viết code clean • Có khả năng giải quyết vấn đề và làm việc độc lập • Hiểu rõ về RESTful API, Git flow • Biết ít nhất 1 trong các framework ReactJS • Có kinh nghiệm phát triển dự án theo mô hình Agile Scrum. • Đam mê tìm kiếm nghiên cứu học hỏi công nghệ mới, phát triển thân bản. • Có kinh nghiệm triển khai hệ thống trên AWS hoặc Google Cloud • Có kinh nghiệm sử dụng docker, kubernet, cdn • Có khả năng dựng code base và quản lý team dự án
+
+Yêu cầu kinh nghiệm: Dưới 1 năm

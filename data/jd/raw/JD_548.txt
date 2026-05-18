@@ -1,0 +1,29 @@
+Mid-Level Python Developer (2 – 3 Years) Tại HCM/ Lập Trình Viên Python (Thu Nhập Hấp Dẫn)
+Mức lương Thoả thuận
+Địa điểm Hồ Chí Minh
+Kinh nghiệm 2 năm
+
+Chi tiết tin tuyển dụng
+Yêu cầu:
+2 năm kinh nghiệm
+Đại Học trở lên
+Xem chi tiết Yêu cầu
+Quyền lợi:
+Nghỉ thứ 7
+Xem chi tiết Quyền lợi
+Chuyên môn:
+Chuyên môn Công nghệ thông tin khác
+Mô tả công việc
+Phân tích yêu cầu hệ thống: Thiết kế và phát triển các module cho các giải pháp quản trị nguồn nhân lực và chuỗi cung ứng (ERP).
+Xây dựng tính năng, tùy chỉnh và tích hợp: Tạo các tính năng mới, tùy chỉnh, tích hợp với các hệ thống bên thứ ba.
+Khắc phục sự cố kỹ thuật: Xử lý và giải quyết các vấn đề kỹ thuật, đảm bảo trải nghiệm người dùng tối ưu.
+Kiểm tra và đánh giá mã nguồn: Đánh giá mã nguồn để đảm bảo tính ổn định, độ tin cậy và hiệu suất.
+Phân tích và gỡ lỗi: Phân tích các vấn đề, lỗi và thực hiện gỡ lỗi.
+Nghiên cứu và phát triển: Nghiên cứu các công nghệ mới và đề xuất các giải pháp cải tiến cho hệ thống hiện tại.
+Yêu cầu ứng viên
+Bằng cấp: Bằng cử nhân Khoa học Máy tính hoặc tương đương.
+Kinh nghiệm phát triển ứng dụng: Ít nhất 2 năm kinh nghiệm trong phát triển ứng dụng lập trình với Python. Có thêm kinh nghiệm lập trình với MS .NET là một lợi thế.
+Kinh nghiệm lập trình giao diện: Kinh nghiệm lập trình giao diện với JavaScript, HTML, CSS, XML.
+Kinh nghiệm làm việc với cơ sở dữ liệu SQL: Kinh nghiệm làm việc với các cơ sở dữ liệu SQL như PostgreSQL, MySQL, MSSQL.
+Kiến thức về hệ điều hành: Kiến thức về các hệ điều hành khác nhau như Linux, Unix, Windows.
+Kỹ năng giao tiếp: Kỹ năng giao tiếp tốt, khả năng truyền đạt thông tin rõ ràng và hiệu quả.

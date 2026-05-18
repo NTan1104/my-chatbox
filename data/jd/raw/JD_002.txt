@@ -1,0 +1,19 @@
+Mô tả công việc
+Tham gia phát triển các dịch vụ web bao gồm front-end, back-end và các công việc có liên quan.
+Phát triển và vận hành các dịch vụ nền tảng sử dụng VanillaJS, Node. js.
+Phát triển các tính năng hiển thị và xử lý dữ liệu bản đồ (tile, vector, geojson).
+Làm việc với các công nghệ Canvas, WebGL để tối ưu hiệu năng hiển thị bản đồ.
+Nghiên cứu và áp dụng các công nghệ mới liên quan đến Javascript và bản đồ số.
+Tham gia xây dựng, cải tiến và tối ưu các chức năng của hệ thống.
+Phối hợp với các thành viên trong team để hoàn thành các dự án liên quan đến dịch vụ bản đồ.
+Hỗ trợ xử lý các vấn đề kỹ thuật và cải thiện hiệu suất của hệ thống.
+Tham gia các buổi đào tạo nội bộ hoặc công tác nước ngoài khi cần.
+Yêu cầu
+Tối thiểu 6 năm kinh nghiệm làm phát triển dịch vụ web front-end, back-end.
+Có kinh nghiệm hoàn thành dự án và phát triển dịch vụ nền tảng VanillaJS, Node. js.
+Có kiến thức và hiểu biết sâu về Javascript.
+Có kinh nghiệm làm việc với RESTful API.
+Có kinh nghiệm làm việc với Database (PostgreSQL/MongoDB).
+Ưu tiên người đã có kinh nghiệm xử lí về Graphic như WebGL, Canvas, 3D engine - library: Threejs.
+Có kinh nghiệm về phát triển dịch vụ bản đồ.
+Có khả năng giao tiếp bằng tiếng Anh hoặc tiếng Hàn.

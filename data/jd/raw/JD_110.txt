@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: .Net Developer
+
+Mô tả công việc:
+Phát triển hệ thống cung cấp một cơ sở hạ tầng trên nền tảng điện toán đám mây cho việc thiết lập, thực hiện, giám sát và kiểm soát cho các loại công việc hoặc quy trình khác nhau cho công ty ICT lớn ở Nhật Bản. Quản lý nội bộ công ty thiết kế chip ARM (ARM Management). Quản lý Office 365 (Office 365 Management). Quản lý hồ sơ sổ cái (Ledger management)
+
+Yêu cầu công việc:
+Technical Skill:. Từ 3 năm kinh nghiệm làm việc trên C#, .NET trở lên. Có kinh nghiệm lập trình: C#/ .NET Framework, .NET Core/ LINQ/ TypeScript/ HTML, CSS, JavaScript/ ASP.NET Razor/ ASP.NET MVC (C#)/ REST APIsSharePoint Online (Office 365). Có kiến thức về Object Oriented Programming, hiểu biết về SOLID và có thể áp dụng vào dự án.. Có kiến thức sâu về hệ quản trị CSDL: SQL Server, Oracle. Sử dụng thành thạo các công cụ quản lý source code Git, TFS. Skill:Có tư duy logic tốt.. Có kỹ năng tổng hợp thông tin và tạo báo cáo.. Có khả năng làm việc tự chủ và kỹ năng làm việc theo nhóm. Khả năng nắm bắt, học hỏi kỹ thuật mới nhanh.. Tác phong làm việc chuyên nghiệp, có tinh thần trách nhiệm cao. Có khả năng làm việc dưới áp lực cao. Làm việc nhóm tốt. Ưu tiên:Ưu tiên ứng viên có kinh nghiệm làm việc với Azure cloud services (Web Apps, Functions, CosmosDB, DevOps...). Ưu tiên ứng viên có kinh nghiệm PowerShell, MongoDB
+
+Yêu cầu kinh nghiệm: 3-5 năm

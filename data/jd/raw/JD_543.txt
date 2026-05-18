@@ -1,0 +1,31 @@
+Leader Phát Triển Dự Án AI (E-Commerce)
+
+Chi tiết tin tuyển dụng
+Yêu cầu:
+4 năm kinh nghiệm
+Đại Học trở lên
+Xem chi tiết Yêu cầu
+Quyền lợi:
+Nghỉ thứ 7
+Xem chi tiết Quyền lợi
+Chuyên môn:
+Quản lý dự án kỹ thuật
+IT - Phần mềm
+Thương mại điện tử
+Mô tả công việc
+Dẫn dắt việc ứng dụng AI vào các bài toán thực tế trong E-commerce (vận hành, tăng trưởng, automation)
+Xây dựng và triển khai các giải pháp AI từ idea đến production, đảm bảo hiệu quả và khả năng scale
+Làm việc chặt chẽ với Product/Business để xác định use case và tối ưu hiệu quả sản phẩm
+Cải thiện và tối ưu các hệ thống hiện tại, nâng cao chất lượng và trải nghiệm người dùng
+Mentor team, tham gia định hướng kỹ thuật và phát triển năng lực đội ngũ
+Yêu cầu ứng viên
+4+ năm kinh nghiệm trong Software/AI, có kinh nghiệm triển khai sản phẩm thực tế
+Đã từng tham gia xây dựng end-to-end (từ idea → triển khai → vận hành)
+Có kinh nghiệm hoặc hiểu biết tốt về các ứng dụng AI (LLM, automation, data-driven system…)
+Tư duy hệ thống tốt, có khả năng giải quyết bài toán thực tế và tối ưu hiệu quả
+Có kinh nghiệm mentor/lead team nhỏ hoặc mong muốn phát triển theo hướng leadership
+Điểm cộng
+
+Từng làm với sản phẩm SaaS, E-commerce hoặc hệ thống có nhiều integration
+Có trải nghiệm đưa giải pháp mới (AI/automation) vào vận hành thực tế
+Có product thinking, hiểu bài toán business

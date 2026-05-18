@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Flutter Mobile Developer
+
+Mô tả công việc:
+- Xây dựng ứng dụng di động phù hợp với dự án của công ty; - Xây dựng mobile app bằng Flutter để ứng dụng chạy trên nền tảng Android hoặc iOS - Đề xuất và hiện thực giải pháp khắc phục vấn đề performance, cải tiến UI/UX của ứng dụng.
+
+Yêu cầu công việc:
+- Có kinh nghiệm làm Mobile App (Android/ iOS/Flutter). - Ưu tiên tiếng Anh đọc hiểu - Độ tuổi: 23 – 28 tuổi. - Có kiến thức tốt về OOP, Data Structures, Algorithm, UI/UX; - Có kinh nghiệm làm việc với backend Restful API; - Có kinh nghiệm làm việc trên hệ thống quản lý source code Git; - Kỹ năng phân tích tình huống và xử lý vấn đề; - Yêu cầu khả năng làm việc nhóm và tinh thần chịu trách nhiệm cao; - Khả năng tự học hỏi và tính tự giác cao.
+
+Yêu cầu kinh nghiệm: 1-3 năm

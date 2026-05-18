@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Frontend Developer (Fresher) - Upto 18M
+
+Mô tả công việc:
+- Tham gia thiết kế, xây dựng và phát triển website hệ thống dữ liệu cho công ty- Tiếp nhận và chỉnh sửa, nâng cấp kịp thời ứng dụng khi phát sinh lỗi hoặc có nhu cầu nâng cấp tính năng sản phẩm- Nghiên cứu và áp dụng các công nghệ mới- Được đào tạo, training 1-1
+
+Yêu cầu công việc:
+- Có kinh nghiệm làm về Front-end- Chấp nhận ứng viên còn học 1-2 môn trên trường- Tốt về HTML, CSS, JavaScript, TypeScript, jQuery- Tốt 1 trong các framework ReactJs, Angular, Vue, Django- Có kinh nghiệm làm việc với Web-API và REST API nói chung- Có kinh nghiệm làm việc với Git, Docker, Container- Có khả năng đọc tài liệu, đọc hiểu code (tự nghiên cứu)- Có khả năng đọc hiểu tài liệu tiếng Anh. Ưu tiên ứng viên có khả năng giao tiếp và viết tài liệu tiếng Anh- Làm việc chuyên nghiệp, trách nhiệm cao trong công việc- Kỹ năng làm việc nhóm, giao tiếp và tương tác với các team khác
+
+Yêu cầu kinh nghiệm: Không yêu cầu kinh nghiệm

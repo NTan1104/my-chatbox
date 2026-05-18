@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên Backend Developer Intern
+
+Mô tả công việc:
+Tham gia vào toàn bộ vòng đời của ứng dụng, tập trung và coding và debug các dự án website và hệ thốngViết API kết nối giữa các hệ thống, và phục vụ trao đổi dữ liệu với mobile & front-endXây dựng code có thể sử dụng lại và các thư viện để thuận tiện cho việc sử dụng trong tương laiThu thập và xử lý các yêu cầu thiết kế và kỹ thuậtTham gia vào quá trình phân tích và thiết kế hệ thống;Nghiên cứu và áp dụng các công nghệ mới để tối ưu hóa hiệu quả phát triển sản phẩm.Đảm bảo sản phẩm làm ra cần phải chạy đúng nghiệp vụ và tốc độ xử lý cũng phải tối ưu cho lượng người dùng lớn
+
+Yêu cầu công việc:
+Là sinh viên năm cuối hoặc mới tốt nghiệp chuyên ngành ITChủ động giải quyết vấn đề, có tinh thần làm việc tốt, kỹ năng tự học hỏi tốt và học hỏi nhanh Ưu tiên các bạn đã có kinh nghiệm làm việc tại các công ty phần mềm ở vị trí backendCó thể làm việc toàn thời gian, và công ty có thể điều chỉnh linh hoạt để hỗ trợ các bạn hoàn thành chương trình học ở trường đại học
+
+Yêu cầu kinh nghiệm: Không yêu cầu kinh nghiệm

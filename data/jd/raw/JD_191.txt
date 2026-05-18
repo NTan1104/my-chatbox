@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Python Dev (Odoo)
+
+Mô tả công việc:
+✓ Tham gia xây dựng, phát triển sản phẩm ERP trên Odoo cho các dự án theo yêu cầu khách hàng bằng Python✓ Tìm hiểu các công nghệ mới, phát triển các ứng dụng trên nền tảng Odoo (OpenERP)✓ Tham gia vào quá trình khảo sát yêu cầu người dùng, thiết kế và review source code.✓ Báo cáo kết quả công việc với cấp quản lý
+
+Yêu cầu công việc:
+✓ Kiến thức: - Tốt nghiệp các trường Đại học, cao đẳng chuyên ngành CNTT- Thành thạo lập trình Python hoặc 1 ngôn ngữ lập trình tương tự- Nắm vững các nghiệp vụ/ phân hệ trong ERP là một lợi thế.✓ Kỹ năng: - Tư duy lập trình tốt.- Sẵn sàng học hỏi kiến thức mới đáp ứng yêu cầu công việc.- Kỹ năng giao tiếp tốt, năng động, sáng tạo, nhiệt tình trong công việc- Khả năng chịu được áp lực công việc cao- Kỹ năng làm việc độc lập/ làm việc nhóm tốt.✓ Kinh nghiệm: - Có từ 1 năm kinh nghiệm tại vị trí tương tự. Ưu tiên ứng viên đã có kinh nghiệm làm các hệ thống ERP
+
+Yêu cầu kinh nghiệm: 1-3 năm

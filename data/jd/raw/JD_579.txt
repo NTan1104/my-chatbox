@@ -1,0 +1,32 @@
+Thực Tập Sinh ReactJS/NestJS/Typescript
+
+Chi tiết tin tuyển dụng
+Yêu cầu:
+Không cần kinh nghiệm
+Đại Học trở lên
+Xem chi tiết Yêu cầu
+Quyền lợi:
+Nghỉ thứ 7
+Xem chi tiết Quyền lợi
+Chuyên môn:
+Frontend Developer
+Mô tả công việc
+Tham gia vào các dự án về phát triển phần mềm của công ty theo hình thức training on-job dưới sự hướng dẫn trực tiếp của Leader
+Phối hợp với các thành viên trong team nghiên cứu, phát triển những tính năng của web, app
+Tạo giao diện người dùng đáp ứng để truy vấn dữ liệu một cách hiệu quả và tối ưu
+Chi tiết sẽ trao đổi cụ thể khi phỏng vấn
+Yêu cầu ứng viên
+Có thể sắp xếp thời gian đi làm fulltime
+Có tư duy logic
+Nắm vững các kiến thức về Reactjs
+Có kiến thức tốt về Javascript, HTML, CSS, REST API, XML, JSON, JS,...
+Có kinh nghiệm quản lý cơ sở dữ liệu với MySQL hoặc PostgreSQL. Có thêm MongoDB hay Oracle là lợi thế.
+Có kỹ năng DevOps là một lợi thế. Kinh nghiệm với các dịch vụ đám mây như AWS, Azure, hoặc Google Cloud Platform.
+Kinh nghiệm thiết kế API, xử lý dữ liệu.
+Kinh nghiệm phát triển Frontend với các ngôn ngữ React/Angular hoặc tương tự.
+Sử dụng thành thạo Git
+Kỹ năng làm việc nhóm và trao đổi thông tin tốt
+Chăm chỉ, có tinh thần học hỏi, chủ động trong công việc
+Đam mê lập trình, tư duy logic, sẵn sàng tìm hiểu và học hỏi cái mới
+Nhiệt tình và có trách nhiệm trong công việc
+Có tiếng anh giao tiếp trong công việc

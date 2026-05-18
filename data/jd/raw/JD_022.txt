@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: PHP Developer
+
+Mô tả công việc:
+Lập trình ứng dụng Web sử dụng PHP.Làm việc với bộ phận phát triển, đội ngũ chăm sóc khách hàng tối ưu thao tác người dùng.Cập nhật cải tiến trải nghiệm người dùng để sản phẩm ngày càng hoàn thiện chất lượng hơn.Phối hợp cùng đồng đội xây dựng, phát triển API kết nối sản phẩm, giải pháp dịch vụ của công ty.
+
+Yêu cầu công việc:
+Có kinh nghiệm lập trình bằng ngôn ngữ PHP tối thiểu 1 năm.Có kinh nghiệm thiết kế web là một lợi thế.Được đào tạo, hướng dẫn.Có tư duy tốt, khả năng học hỏi tốt, chịu được áp lực.
+
+Yêu cầu kinh nghiệm: 1-3 năm

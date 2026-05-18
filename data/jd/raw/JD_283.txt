@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên .Net (Okayama, Không Yêu Cầu Tiếng)
+
+Mô tả công việc:
+Tham gia vào công đoạn tìm hiểu yêu cầu, phân tích, thiết kế nghiên cứu công nghệ và review source code những sản phẩm Y tế cho Khách hàng Nhật trên nền tảng công nghệ .Net: VB.Net, MVC, ASP.Net,…Làm việc theo sự phân công của Trưởng nhóm/Quản lý dự án, phối hợp với các nhóm để phát triển sản phẩm.Tuyển dụng ứng viên ở cả Việt Nam và Nhật Bản.Địa điểm làm việc: Okayama, Nhật Bản.
+
+Yêu cầu công việc:
+Có từ 2 năm kinh nghiệm làm các dự án .NET.Có kinh nghiệm về NET Framework, .NET Core, VB.NET, MVC, WPF, Web API, Web service.Có kinh nghiệm đọc hiểu và tạo tài liệu thiết kế bằng tiếng Nhật là lợi thế.Có niềm đam mê, khám phá, học hỏi công nghệ mới.Có khả năng tư duy logic tốt, nhiệt tình và cẩn thận trong công việc.
+
+Yêu cầu kinh nghiệm: 1-3 năm

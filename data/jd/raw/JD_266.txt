@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên IOS (Junior)
+
+Mô tả công việc:
+Là ứng dụng nằm trong hệ sinh thái Ongo.lifeNhận yêu cầu từ khách hàng, phân tích yêu cầu, estimate và làm schedule cho phần việc của mình, code, test và fix bugNghiên cứu các công nghệ mới phù hợp phục vụ cho các dự án.Tham gia phân tích, thiết k, và cải tiến chức năng cho các sản phẩm dịch vụ
+
+Yêu cầu công việc:
+Có kinh nghiệm phát triển mobile app từ 1 năm trở lên sử dụng Swift.Có kinh nghiệm với các thư viện sau : Firebase SDK , Facebook SDK , OneSignal ,IOS Extension , Charts SDK, Texture (AsyncDisplayKit) Có kinh nghiệm làm việc với Git Đọc hiểu tốt tài liệu tiếng Anh. Sẵn sàng học và làm các framework mới.Điểm cộng: Tốt nghiệp đại học chuyên ngành ITGiao tiếp được Tiếng Anh là một lợi thếCó kinh nghiệm làm Technical Leader or Team Leader trong dự ánCó khả năng đọc hiểu thiết kế hệ thống, thiết kế chi tiết
+
+Yêu cầu kinh nghiệm: 1-3 năm

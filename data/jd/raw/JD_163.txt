@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: IOS Developer
+
+Mô tả công việc:
+-- Xây dựng và phát triển các ứng dụng trên nền tảng IOS-- Cùng team lên ý tưởng và giải pháp cho các tính năng mới của ứng dụng-- Sửa lỗi và cải thiện tính năng, hiệu suất sản phẩm-- Phối hợp với các thành viên trong team để vận hành và tối ưu hoá sản phẩm-- Nghiên cứu công nghệ mới, phù hợp với chiến lược sản phẩm-- Phối hợp với bên UI/UX để làm ứng dụng trở lên hấp dẫn và trực quan khi sử dụng-- Chi tiết công việc sẽ trao đổi thêm khi phỏng vấn
+
+Yêu cầu công việc:
+-- Có từ 01 năm kinh nghiệm phát triển ứng dụng iOS (Xcode, Swift, Objective-C, Cocoa Touch…).-- Có kiến thức tốt về design pattern, OOP design-- Hiểu biết sâu về các UI components & customization/animation, thiết kế giao diện người dùng cho nhiều loại thiết bị có màn hình khác nhau-- Sử dụng thành thạo các hệ thống cơ sở dữ liệu: SQlite, SQL server.-- Thành thạo với offline storage, threading, performance tuning, push notifications-- Kinh nghiệm làm việc với REST APIs, và các third-party libraries-- Có kinh nghiệm xử lý các vấn đề kỹ thuật của quảng cáo (Google , Facebook, DFP ...)-- Có kinh nghiệm publish app trên Appstore-- Kỹ năng đọc hiểu tiếng Anh tốt-- Có trách nhiệm và chủ động công việc, có tư duy phản biện và tinh thần cởi mở, sẵn sàng lên tiếng để giải quyết vấn đề
+
+Yêu cầu kinh nghiệm: 1-3 năm

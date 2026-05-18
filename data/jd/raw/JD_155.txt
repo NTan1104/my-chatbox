@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên IOS
+
+Mô tả công việc:
+Tham gia phát triển ứng dụng, dịch vụ trên nền tảng iOS cho khách hàng Nhật Bản.Đồng hành với những tập đoàn lớn của Nhật để xây dựng các sản phẩm Y tế hướng tới hàng triệu người dùng tại cả thị trường Nhật Bản và Việt Nam.Phối hợp công việc theo nhóm dưới sự phân công công việc của quản lý dự án.
+
+Yêu cầu công việc:
+Có từ 1 năm kinh nghiệm phát triển ứng dụng iOS (Objective-C hoặc Swift).Sử dụng thành thạo, có hiểu biết sâu về Swift, OOP.ODD, Memory management, Core data, Realm.Làm việc thành thạo với REST service.Có kinh nghiệm làm việc với Objective-C là lợi thế.Có kiến thức về Multithreading, Data structures, Algorithm và Design pattern.Nắm chắc vấn đề quản lý bộ nhớ và autolayout.Có tư duy nền tảng tốt về lập trình mobile.
+
+Yêu cầu kinh nghiệm: Không yêu cầu kinh nghiệm

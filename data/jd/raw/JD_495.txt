@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: IT Hardware Engineer (CTI)
+
+Mô tả công việc:
+1. Giám sát, hệ thống CTI của Công ty nhằm đảm bảo hệ thống ổn định, hiệu quả • Luôn theo dõi và giữ cho hệ thống Call Center hoạt động ổn định và hiệu quả, hạn chế tối đa các sự cố dẫn đến việc gián đoạn cuộc gọi. • Vận hành các hệ thống liên quan đến Bộ phận Tổng đài, gồm: PBX, NICE, CMS, IVR, CTI,... • Cài đặt và quản lý hệ thống mạng điện thoại cho Bộ phận Tổng đài và toàn Công ty (cài đặt, cập nhật ứng dụng, quản lý đường Line Điện thoại,...) • Quản lý, theo dõi chi phí cước viễn thông. • Hỗ trợ thiết lập giao diện giữa hệ thống điện thoại và các ứng dụng. • Tiếp nhận và xử lý sự cố liên quan đến hệ thống CTI nhanh chóng để mức độ ảnh hưởng đến hệ thống thấp nhất. • Phối hợp với Team IT và Nhà cung cấp để xử lý nhanh chóng các vấn đề liên quan đến hệ thống mạng, Internet, kết nối với IDC, giúp giảm thiểu tối thiểu mức độ ảnh hưởng đến hoạt động của công ty. 2. Cải thiện chất lượng hệ thống • Lên kế hoạch và thực hiện bảo trì hệ thống định kì • Thống kê, tổng hợp các loại rủi ro, các trường hợp lỗi trong hệ thống công nghệ thông tin, đề xuất hướng phòng ngừa, xử lý và khắc phục. • Đề xuất các giải pháp để nâng cấp hệ thống ----------------------- Thời gian làm việc: T2 - T6 từ 8h00 - 17h30
+
+Yêu cầu công việc:
+- Ưu tiên nam, tuổi từ 25 trở lên, tốt nghiệp Cao đẳng trở lên các ngành Computer Science / Information Technology / Telecommunication,.... - Tối thiểu 1 năm kinh nghiệm về vận hành và bảo trì hệ thống Tổng đài, PBX, CMS, ưu tiên kinh nghiệm về hệ thống Avaya. - Đọc và hiểu tài liệu tiếng Anh chuyên ngành . - Kỹ năng giao tiếp. - Kỹ năng làm việc đội nhóm.
+
+Yêu cầu kinh nghiệm: Dưới 1 năm

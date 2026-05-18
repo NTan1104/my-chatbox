@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Frontend Developer - Onboard Sau Tết
+
+Mô tả công việc:
+Trực tiếp xây dựng, triển khai, lập trình giao diện cho các ứng dụng, các sản phẩm lớn của Elcom thuộc các mảng: viễn thông, an ninh quốc phòng, giao thông thông minh, giáo dục trực tuyến, chăm sóc sức khỏe trực tuyến...Tham gia vào quá trình phân tích, thiết kế, phát triển, bảo trì và nâng cấp hệ thống.Cập nhật các kiến thức mới, công nghệ mới, duy trì cho website, sản phẩm, ứng dụng được hoạt động ổn định và ngày càng tối ưu hơn.Tham gia review code, tối ưu code frontend để nâng cao hiệu năng, chất lượng hệ thống.Thực hiện các công việc khác liên quan đến bảo vệ, bảo mật dữ liệu của sản phẩm.
+
+Yêu cầu công việc:
+Tốt nghiệp Đại học trở lên các chuyên ngành: Công nghệ thông tin, công nghệ phần mềm,..Có từ 2 năm kinh nghiệm làm việc với Javascript, TypeScript, ES6... và VueJSCó kiến ​​thức chuyên sâu về các thư viện và framework JS Vue JSCó kiến ​​thức tốt về các kỹ thuật layout và framework như Bootstrap, MaterialNắm vững Design Pattern, OOPCó kinh nghiệm debug, fix, cải thiện hiệu năng website sử dụng developer toolHiểu biết cơ bản về máy chủ, cơ sở dữ liệu và có kinh nghiệm tốt về thiết kế và phát triển RESTful API.Thuần thục sử dụng các tool quản lý code như git, svnCó hiểu biết về mô hình quản lý dự án Agile.Đam mê phát triển, xây dựng tính năng cao, tinh tế về chi tiết, luôn tìm cách cải tiến trải nghiệm người dùng để mang lại trải nghiệm người dùng vượt trội.
+
+Yêu cầu kinh nghiệm: 1-3 năm

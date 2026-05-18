@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Nhân Viên JavaScript Fullstack Dev(Nodejs/Angular) (Lương Từ 1500$ Trở Lên)
+
+Mô tả công việc:
+•Xây dựng các dự án theo yêu cầu từ công ty.. •Báo cáo công việc hàng ngày cho quản lý dự án.. •Chịu trách nhiệm bảo trì và sự ổn định của hệ thống.
+
+Yêu cầu công việc:
+•FontEnd: Angular, bootstrap5, scss (Nếu b chuyên ReactJS hay VueJS thì công ty có thể hỗ trợ đào tạo). •BackEnd: Kinh nghiệm Nodejs 2 năm trở lên• Có kinh nghiệm với Docker, redis, mongodb, socket.io, expressjs, Restfull, microsevice...
+
+Yêu cầu kinh nghiệm: 1-3 năm

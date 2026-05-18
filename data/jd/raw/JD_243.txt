@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: PHP Developer (Nhận Việc Sau Tết)
+
+Mô tả công việc:
+Lập trình phát triển sản phẩm trên nền tảng web dành cho User;Tham gia nghiên cứu, phát triển các sản phẩm công nghệ hiện đại về các sản phẩm quan trọng trên thị trường: y tế, giáo dục trực tuyến, chăm sóc sức khỏe, giải trí số,…Xây dựng và phát triển các service / hệ quản trị trên nền tảng web;Phát triển các tính năng theo yêu cầu của Product Owner;Sửa lỗi và cải thiện tính năng, hiệu suất sản phẩm;Phối hợp với các thành viên trong team để vận hành và tối ưu hoá hệ thống;Làm việc theo phương pháp agile, team 20 - 30 Dev.
+
+Yêu cầu công việc:
+Tốt nghiệp Đại học chuyên ngành Công nghệ thông tin.Có kinh nghiệm làm việc với ngôn ngữ PHP, có khả năng full stack là một lợi thế (chủ yếu làm việc với backend);Nắm vững các loại database MySQL/ MariaDB, MongoDB…và các loại cache phổ biến;Có kiến thức về Microservices, Design Pattern, kiến trúc hệ thống;Sử dụng Git thành thạo, có hiểu biết về Devops;Ưu tiên ứng viên đã làm quen với phương pháp Agile và các công cụ quản trị dự án.
+
+Yêu cầu kinh nghiệm: 1-3 năm

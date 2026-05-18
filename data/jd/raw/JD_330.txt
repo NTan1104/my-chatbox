@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Java Developer (Junior/Senior)
+
+Mô tả công việc:
+• Xây dựng các tài liệu đặc tả ứng dụng thông qua sự trao đổi với BA/SA, bộ phận nghiệp vụ và các bên liên quan khác• Thực hiện việc phát triển ứng dụng và yêu cầu thay đổi theo quy trình, quy định phát triển ứng dụng CNTT của VPBank, thực hiện unit test trong quá trình phát triển và xây dựng tài liệu release note• Thiết kế hệ thống và mô hình dữ liệu, phân tích cấu trúc dữ liệu hiện hữu và xác định các hạng mục cần được cải thiện để nâng cao hiệu quả hoạt động• Dựa trên các thông tin cung cấp bởi BA/SA, cung cấp các ước lượng nỗ lực cho việc phát triển các yêu cầu, đảm bảo ước lượng nỗ lực chính xác với khả năng và năng
+
+Yêu cầu công việc:
+• Từ 1 - 4 năm kinh nghiệm phân tích yêu cầu phát triển cho các doanh nghiệp CNTT, chuyển đổi số, thương mại...- Bằng cấp: Tốt nghiệp Đại học trở lên• Kiến thức và kinh nghiệm về các lập trình Java trên nền tảng Windows/Linux/Web sử dụng các frame work: Srping Boot, Hibernate, Java Script, JSP/Serverlet (Optionals)• Kiến thức về hệ thống CSDL: MS SQL, Oracle• Kiến thức về phân tích và triển khai ứng dụng trên web server: JBoss, Tomcat • Kiến thức về mô hình ứng dụng MVC/ Tier• Có kinh nghiệm xây dựng tài liệu phân tích thiết kế hệ thống, tài liệu đề xuất giải pháp dựa trên yêu cầu của khách hàng.
+
+Yêu cầu kinh nghiệm: 1-3 năm

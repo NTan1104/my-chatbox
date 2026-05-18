@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Java Developer
+
+Mô tả công việc:
+Tham gia phát triển các ứng dụng trên nền tảng web sử dụng Java Web Framework SpringTìm hiểu yêu cầu, phân tích, thiết kế hệ thống cùng với team dự án Lên kế hoạch, quản lý tiến độ, đánh giá chất lượng của bản thân và các thành viên trong team
+
+Yêu cầu công việc:
+Có từ 3 năm kinh nghiệm làm việc với Java Web Framework SpringHiểu sâu về OOP, solid principles và design pattern, Spring ecosystemCó kinh nghiệm xử lí concurency, parallel, multi-threadingCó kinh nghiệm sử dụng, cấu hình AWS, GCP, redis, docker, kubernetes, CI/CDCó khả năng training new member và đưa ra technical solution trong dự ánCó kinh nghiệm trong việc phát triển microservice là một lợi thếBiết về Java react programing là một lợi thếCó khả năng đọc hiểu tiếng Anh, giao tiếp được tiếng Anh là một lợi thế.
+
+Yêu cầu kinh nghiệm: 3-5 năm

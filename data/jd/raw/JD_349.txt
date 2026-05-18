@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên Full-Stack
+
+Mô tả công việc:
+- Phát triển các ứng dụng web theo định hướng sản phẩm của công ty, có thể mở rộng và bảo trì.- Xây dựng mã và thư viện có thể tái sử dụng để sử dụng trong tương lai- Bảo trì phần mềm để đảm bảo tối ưu hóa và chức năng.- Sửa lỗi và giải quyết vấn đề.- Sáng tạo đề xuất ý tưởng để cải thiện quá trình phát triển.- Nghiên cứu công nghệ mới
+
+Yêu cầu công việc:
+- Có ít nhất 1 năm kinh nghiệm với vai trò Fullstack Developer hoặc tương tự - Có ít nhất 1 năm kinh nghiệm trở lên làm việc với Reactjs, Ruby, Ruby on rails hoặc Postgres/NoSQL/Redis- Có nền tảng vững chắc về HTML/CSS, Javascript, ES6, TypeScripts, GraphQL các khái niệm MVC, ORM, RESTful- Nắm vững kiến thức về React context, Actions, Dispatch- Hiểu life cycle, cơ chế render, cập nhật data trong ứng dụng React, tối ưu hóa được hiệu năng.- Làm việc quen thuộc với Unix(Max OSX, Ubuntu hoặc Linux command line) hoặc việc tốt trên Git, Github, Scrum- Có kinh nghiệm làm việc với các thư viện phổ biến như Rspec, Devise, CanCanCan, Sidekiq, các Template engine (HAML, Slim)- Có kinh nghiệm làm việc với ActiveJob, Worker trong Rails. Sử dụng thành thạo HTML, CSS, JQuery- Có kiến thức triển khai các giải pháp Cloud như Amazon, Google Cloud, Heroku- Có khả năng làm việc độc lập và giải quyết vấn đề- Đọc hiểu tài liệu tiếng AnhNắm vững các kiến thức sau sẽ là lợi thế:- Xây dựng và triển khai các giải pháp trên máy khách với RESTful API, GraphQL- Đã từng làm việc với Ruby On Rails.- Sử dụng thành thạo Polaris Components- Có kinh nghiệm làm việc với web socket.- Có kinh nghiệm làm việc với Redis, Postgres.- Biết sử dụng Neovim, zsh framework
+
+Yêu cầu kinh nghiệm: 1-3 năm

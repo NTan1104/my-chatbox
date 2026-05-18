@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên .Net Core
+
+Mô tả công việc:
+- Triển khai các dự án web-app/phần mềm cho khách hàng và công ty ( không phải nền tảng winform ) - Làm việc với API với bên ReactJS ( sẽ được đào tạo )- Làm việc với API của các thiết bị ngoại vi (AI cam, cân điện tử, máy chấm công, khóa cửa... )- Triển khai hoặc theo chỉ đạo của Leader cho các dự án phần mềm thú vị khác
+
+Yêu cầu công việc:
+- 1 năm kinh nghiệm trong mảng phát triển web-app- Có trách nhiệm với khách hàng và user cuối- Có trách nhiệm với dự án lâu dài- Có yêu thích tìm tòi- Có kinh nghiệm với MVC hoặc core- Có kinh nghiệm với web-app là một lợi thế
+
+Yêu cầu kinh nghiệm: 1-3 năm

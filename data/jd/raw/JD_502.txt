@@ -1,0 +1,28 @@
+Mobile Developer Kotlin - Junior Level (Android/ Product) - Lương Upto 25M/ Tháng (Hà Nội - Đi Làm Luôn)
+
+Yêu cầu:
+2 năm kinh nghiệm
+Đại Học trở lên
+Tuổi 25 - 45
+Xem chi tiết Yêu cầu
+Quyền lợi:
+Nghỉ thứ 7
+Bảo hiểm xã hội
+Khám sức khỏe định kỳ
+Xem chi tiết Quyền lợi
+Chuyên môn:
+Chuyên môn Mobile Developer
+IT - Phần mềm
+Công nghệ kỹ thuật
+IT - Phần cứng và máy tính
+Mô tả công việc
+Phát triển & bảo trì các ứng dụng Android (dòng Camera Filter, Entertainment, Art&Design...) – tập trung vào hiệu suất, trải nghiệm người dùng, và khả năng mở rộng.
+Triển khai tính năng mới cùng Product Team dựa trên brief, wireframe và mockup,...
+Liên tục tối ưu hiệu năng (performance), cải thiện trải nghiệm người dùng (UI/UX) trên các sản phẩm hiện có để mang lại sự hài lòng cao nhất.
+Chủ động nghiên cứu, đề xuất và áp dụng các công nghệ, thư viện mới để nâng cao chất lượng mã nguồn và sản phẩm.
+Yêu cầu ứng viên
+Có kinh nghiệm từ 2 năm trở lên trong phát triển ứng dụng di động.
+Nắm rõ Lập trình hướng đối tượng (OOP), Cấu trúc dữ liệu và Giải thuật.
+Ngôn ngữ lập trình: Thành thạo ít nhất một trong hai ngôn ngữ Java hoặc Kotlin (ưu tiên Kotlin).
+Kiến thức cốt lõi về Android: Activity, Fragment, Lifecycle, LiveData, RxJava, Coroutines, Flow, Android Jetpack, MVVM
+Cẩn thận, tỉ mỉ, có trách nhiệm trong công việc.Ưu tiên ứng viên có tư duy logic tốt, khả năng xử lý vấn đề độc lập, tốt nghiệp các trường chuyên về đào tạo công nghệ thông tin.

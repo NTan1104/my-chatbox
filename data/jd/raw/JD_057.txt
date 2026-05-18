@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên Vuejs Tại Hồ Chí Minh - Up To $1500
+
+Mô tả công việc:
+Tham gia phát triển nhiều loại dự án khác nhau.Tham gia xuyên suốt các công đoạn Phân tích, thiết kế, phát triển web app.Thực hiện các công việc khác được phân công.
+
+Yêu cầu công việc:
+Bạn cần có:Ít nhất 2 năm kinh nghiệm VueJS, thành thạo về HTML5, CSS3, JS. Biết Jquery là điểm cộngCó kinh phát triển Web và responsive cho di độngBạn có là lợi thế (Không bắt buộc):Có kinh nghiệm về PHP hoặc base về Back-end là lợi thếCó kiến thức về NuxtJS, sử dụng thành thạo preprocessor như SASS, SCSS…Sử dụng thành thạo các Framework UI như Element-UI, Vuetify, TailwindcssCó kiến thức về build tools, bundle tools như webpack, gulp…
+
+Yêu cầu kinh nghiệm: 1-3 năm

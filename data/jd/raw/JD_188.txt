@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên Java Backend
+
+Mô tả công việc:
+Thiết kế hệ thống, web service và các service hiệu năng cao phục vụ cho đầu nối và phân phối quảng cáoTối ưu hóa Restful serviceGiảm độ trễ và tăng hiệu năng xử lý
+
+Yêu cầu công việc:
+Dưới 28 tuổi, có ít nhất 1 năm kinh nghiệm về JAVATrình độ Tiếng Anh đọc tài liệu chuyên ngành tốt mà không cần tra từ điểnThành thạo Back-end, SQL, các framework JDBC, Maven/Grade, Log4jHiểu về Java Concurrent và Java NIO là một lợi thếCó kinh nghiệm làm về Java Web ServiceCó khả năng phân tích giải quyết bài toán tốtCode style, tổ chức project tốtƯu tiên: Có kinh nghiệm bán hàng trực tuyến, chạy quảng cáo trực tuyếnỨng viên có tư duy tốt, khả năng diễn đạt tốt và ham học hỏi Khiêm tốn, đoàn kết, vui vẻ, có tinh thần làm việc nhóm tốt, hỗ trợ lẫn nhau
+
+Yêu cầu kinh nghiệm: 1-3 năm

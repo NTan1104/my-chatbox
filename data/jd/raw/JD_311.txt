@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Junior PHP Engineer (Tiếng Nhật)
+
+Mô tả công việc:
+Tham gia phát triển các dự án của tập đoàn GMOLàm việc cùng với đội phát triển thuộc phòng R&D của tập đoànPhối hợp với các thành viên trong team để thiết kế, triển khai, tối ưu; những chức năng của sản phẩmCó cơ hội sang Nhật training tại tập đoàn GMO Internet Group (Tokyo hoặc Osaka).
+
+Yêu cầu công việc:
+Sinh viên năm cuối/đã tốt nghiệp chuyên ngành Công nghệ thông tin, Toán tin hoặc các ngành có liên quan.Có từ 6 tháng - 1 năm kinh nghiệm dự án thực tế lập trình web với ngôn ngữ PHPCó kinh nghiệm lập trình web với FW: Yii2 / Laravel (hoặc tương tự)Có kinh nghiệm làm việc DB: Oracle, MysqlYêu thích tìm hiểu và ứng dụng công nghệ mới trong thực tế.Ưu tiên: Từng học/ tiếp xúc với ngôn ngữ Nhật (level từ N5)Hiểu về CI/CD và từng làm việc với Docker / Linux / nginxCó khả năng phân tích và thiết kế hệ thốngCó khả năng tối ưu hóa performanceKinh nghiệm là việc với Redis, Memcached là điểm cộngHiểu về API và từng thiết kế xây dựng APIƯu tiên ứng viên có kinh nghiệm làm việc với hệ thống đa người dùng.
+
+Yêu cầu kinh nghiệm: Dưới 1 năm

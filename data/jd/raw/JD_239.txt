@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên Golang
+
+Mô tả công việc:
+• Tham gia thiết kế và phát triển các ứng dụng hiệu suất cao, từ phân tích yêu cầu đến sản xuất của dự án Chatbot thuộc team R&D- Bizfly, nhằm mục tiêu xây dựng bot kết nối với các nền tảng Facebook, Zalo, Lotus.• Phân tích và cải thiện hiệu suất ứng dụng.• Thực hiện tối ưu hiệu năng cho các hệ thống đáp ứng khả năng xử lý hàng trăm nghìn sự kiện đồng thời.
+
+Yêu cầu công việc:
+• Có kinh nghiệm tối thiểu 6 tháng lập trình với Golang • Hiểu được lập trình hướng cấu trúc• Hiểu các vấn đề cơ bản: GO CLI, Variables, Contants, Types, Function, Packages• Viết đúng Golang convention• Hiểu và sử dụng được function-based programming (function, multiple return values, variables with initializers)• Biết sử dụng Array, Slices, Pointer, Structures, Methods, Interface, Goroutine, Channel, buffer, Select, Mutex• Hiểu nguyên lý: Defer, Error, Panic, Recover• Làm việc được với Go modules• Làm việc được với SQL cơ bản với các câu lệnh cơ bản• Sử dụng được logging• Hiểu về cơ chế đồng bộ và đa luồng (Atomic, Locking - nonblocking, thread-safe)• Sử dụng được fiber là một lợi thế• Nắm được nguyên lý cơ bản Kafka, Biết sử dụng công nghệ NoSQL, Redis, các công cụ DevOps
+
+Yêu cầu kinh nghiệm: Dưới 1 năm

@@ -1,0 +1,37 @@
+DevOps Engineer (CMC Cloud)
+
+Chi tiết tin tuyển dụng
+Yêu cầu:
+2 năm kinh nghiệm
+Đại Học trở lên
+Xem chi tiết Yêu cầu
+Quyền lợi:
+Nghỉ thứ 7
+Xem chi tiết Quyền lợi
+Chuyên môn:
+Kỹ sư điện tử viễn thông
+Mô tả công việc
+– Vận hành hệ thống k8s và hệ thống phụ trợ Helm repo, Local registry, Local Repository
+
+– Thiết kế, triển khai và vận hành hệ thống giám sát tập trung monitoring, logging, tracing
+
+– Vận hành CI/CD chain, xây dựng CI/CD template, áp dụng Gitops
+
+– Nghiên cứu, tích hợp k8s operator vào phát triển sản phẩm
+
+Yêu cầu ứng viên
+– Có từ 1.5 – 3 năm kinh nghiệm trong vị trí Devops / SRE
+
+– Triển khai và sử dụng thành thạo k8s, docker (hoặc các giải pháp container orchestration tương đương)
+
+– Xây dựng và vận hành Devops Pipeline, Gitops
+
+– Kiến thức bảo mật hạ tầng k8s và k8s node os
+
+– Tích hợp công cụ bảo mật vào CI/CD, hoàn thiện Devsecops Pipeline
+
+– Có kiến thức về network (OSI, TCP/IP)
+
+– Sử dụng thành thạo các hệ điều hành Linux
+
+– Lập trình cơ bản (Bashscript, Python)

@@ -1,0 +1,47 @@
+AI Engineer / Vision AI Công Ty IT Hàn Quốc
+
+Chi tiết tin tuyển dụng
+Yêu cầu:
+5 năm kinh nghiệm
+Đại Học trở lên
+Xem chi tiết Yêu cầu
+Quyền lợi:
+Nghỉ thứ 7
+Xem chi tiết Quyền lợi
+Chuyên môn:
+AI Engineer
+IT - Phần mềm
+Mô tả công việc
+ORBRO là doanh nghiệp cung cấp giải pháp công nghiệp tích hợp 4 trục công nghệ cốt lõi: AI, Vision, Định vị vị trí và Xử lý dữ liệu thời gian thực. Chúng tôi hiện đang vận hành hai trụ sở: Trụ sở chính tại Hàn Quốc và Chi nhánh Việt Nam (Hà Nội), với định hướng mở rộng mạnh mẽ sang các lĩnh vực sản xuất, logistics và thành phố thông minh tại thị trường Việt Nam.
+
+Chúng tôi tìm kiếm Kỹ sư AI đảm nhiệm việc thiết kế, huấn luyện, triển khai và vận hành các mô hình Vision AI (nhận diện, phân tích, theo dõi đối tượng) và các mô hình hội tụ giữa Vision x Định vị vị trí trong môi trường công nghiệp.
+
+
+
+Trách nhiệm chính
+
+Đánh giá, lựa chọn và vận hành các mô hình nhận diện đối tượng như YOLO, RT-DETR, DINO, Grounding-DINO, VLM, v.v.
+Thiết kế mô hình và Pipeline cho các kịch bản hội tụ Vision + Định vị vị trí (Ví dụ: Kết hợp dữ liệu camera + vị trí RTLS / Theo dõi đồng thời tín hiệu GPS, BLE, UWB và hình ảnh).
+Ứng dụng các kỹ thuật Fine-tuning, Distillation, NMS tuning, Data augmentation, Active learning.
+Thiết kế và vận hành hệ thống quản lý dữ liệu huấn luyện (Labeling, Versioning, Synthetic data, Data flywheel).
+Xây dựng Inference Pipeline (Tiền xử lý → Suy luận → Hậu xử lý) và giám sát vận hành (Phát hiện và xử lý khi chất lượng mô hình giảm sút).
+Triển khai trên Edge/Server và ứng dụng các kỹ thuật nén/tối ưu hóa mô hình (TensorRT, Quantization).
+Yêu cầu ứng viên
+Bắt buộc
+
+Có ít nhất 5 năm kinh nghiệm trong lĩnh vực AI/ML.
+Kinh nghiệm vận hành PyTorch hoặc TensorFlow (Huấn luyện và triển khai dịch vụ thực tế).
+Có kinh nghiệm vận hành thực tế (Live operation) cho ít nhất một kịch bản Vision AI (Không tính các dự án PoC đơn thuần).
+Thành thạo Python (Trung - Cao cấp).
+Kinh nghiệm quản lý dữ liệu huấn luyện (Luồng gán nhãn, quản lý phiên bản, tái huấn luyện).
+Có khả năng viết tài liệu kỹ thuật bằng tiếng Anh (Phối hợp với Trụ sở chính).
+Đang sinh sống tại Hà Nội hoặc sẵn sàng chuyển đến Hà Nội (Có thể đi công tác Hàn Quốc).
+
+Ưu tiên
+
+Kinh nghiệm trực tiếp huấn luyện và vận hành ít nhất một trong các mô hình: YOLO, RT-DETR, DINO.
+Kinh nghiệm vận hành hội tụ đa phương thức (Multi-modal) hoặc Sensor fusion (Vision + GPS/BLE/UWB/RTLS).
+Sử dụng thành thạo các công cụ MLOps: Data flywheel, DVC, MLflow.
+Có kinh nghiệm trong lĩnh vực Industrial Vision (CCTV, An toàn công nghiệp, Logistics).
+Kinh nghiệm triển khai Edge AI (Jetson, v.v.).
+Sử dụng Claude Code / Cursor hàng ngày.

@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên Mobile (IOS/ Android)
+
+Mô tả công việc:
+- Xây dựng và phát triển các tính năng mới cho các ứng dụng IOS / Android.- Phân tích, thiết kế và lập trình các ứng dụng theo định hướng của công ty.- Hỗ trợ toàn bộ vòng đời ứng dụng (khái niệm, thiết kế, thử nghiệm, phát hành và hỗ trợ).- Phát triển giao diện lập trình ứng dụng (API) để hỗ trợ chức năng di động .- Khắc phục sự cố và gỡ lỗi để tối ưu hóa hiệu suất.- Nghiên cứu và đề xuất các sản phẩm, ứng dụng và giao thức di động mới.
+
+Yêu cầu công việc:
+- Kinh nghiệm tối thiểu 1 năm làm việc với lập trình Mobile trên nền tảng Android và IOS.- Có sản phẩm được phát hành trên App store/CH Play là lợi thế.- Thành thạo một trong các ngôn ngữ các ngôn ngữ Java (Android) hoặc Swift/Objective-C (IOS).- Trải nghiệm với các thư viện và API của bên thứ ba.- Có kiến thức tốt về lập trình hướng đối tượng.- Kỹ năng phân tích tuyệt vời và thái độ giải quyết vấn đề tốt.- Khả năng thực hiện trong môi trường nhóm.
+
+Yêu cầu kinh nghiệm: 1-3 năm

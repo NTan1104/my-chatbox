@@ -1,0 +1,90 @@
+Senior DevOps Engineer (Terraform Modules, Cloud) - Hà Nội - TA150
+
+Tóm tắt
+Yêu cầu:
+4 năm kinh nghiệm
+Đại Học trở lên
+Xem chi tiết Yêu cầu
+Chuyên môn:
+Chuyên môn DevOps Engineer
+Địa điểm làm việc (đã được cập nhật theo Danh mục Hành chính mới - thêm quận/huyện cũ tương ứng để dễ dàng tra cứu)
+- Hà Nội: 89 Láng Hạ, Phường Đống Đa (quận Đống Đa cũ)
+Mô tả công việc
+1.            Cloud Platform Architecture & Standardization
+
+•             Thiết kế, phát triển và chuẩn hóa các thành phần Cloud Platform (Landing Zone, AFT account baseline, shared services endpoint, route53, SSO, SCP).
+
+•             Xây dựng và quản lý các framework Infrastructure as Code/Configuration as Code (Terraform, Terragrunt, Python, Ansible...).
+
+•             Định nghĩa và triển khai các tiêu chuẩn về kết nối, VPC, DX, ELB, NGFW, IAM, tagging, security baseline và governance trên môi trường hybrid/multi-cloud.
+
+2.            Automation & Platform Engineering
+
+•             Xây dựng và phát triển các giải pháp automation phục vụ provisioning, lifecycle management, backup, drs, policy enforcement và operational workflows.
+
+•             Phát triển CI/CD pipeline cho platform services và IaC, tích hợp security scanning, policy validation và quality control.
+
+•             Phát triển công cụ và Terraform modules nhằm tự động hóa các tác vụ vận hành và triển khai hạ tầng.
+
+•             Duy trì và cải tiến các pipeline CI/CD.
+
+3.            Dashboard & Monitoring
+
+•             Phát triển các công cụ, cơ chế giám sát các dịch vụ nền tảng trên cloud.
+
+•             Triển khai và duy trì các dashboard giám sát tập trung nhằm hỗ trợ công tác vận hành và theo dõi hệ thống cloud.
+
+4.            Project Support, Solution Architecture & Governance
+
+•             Tham gia hỗ trợ các dự án chuyển đổi số và di chuyển hệ thống lên môi trường cloud.
+
+•             Đánh giá, tư vấn và đề xuất kiến trúc giải pháp cloud phù hợp với yêu cầu kỹ thuật, bảo mật và vận hành.
+
+•             Phối hợp với các bên liên quan để triển khai các giải pháp cloud hiệu quả và tuân thủ tiêu chuẩn nền tảng.
+
+•             Hỗ trợ công tác ước tính chi phí, tối ưu chi phí sử dụng cloud và lập phương án triển khai.
+
+•             Thực hiện và phối hợp hoàn thiện các thủ tục, tài liệu kỹ thuật phục vụ quy trình phê duyệt nội bộ
+
+5.            Quản lý thay đổi
+
+•             Tất cả các thay đổi phải được kiểm thử đầy đủ trên môi trường non-production trước khi triển khai lên production.
+
+•             Tuân thủ quy trình Change Request (CR) của VPBank khi triển khai trên môi trường production.
+
+•             Phối hợp với các team DevOps, Security và Application để đánh giá rủi ro, phụ thuộc và phương án rollback.
+
+•             Đảm bảo tất cả thay đổi được tài liệu hóa, kiểm thử và triển khai theo đúng các chính sách quản trị và quy định của VPBank.
+
+Yêu cầu ứng viên
+1.            Trình độ đào tạo
+
+•             Tốt nghiệp Đại học hoặc Thạc sĩ chuyên ngành Công nghệ thông tin, Kỹ thuật máy tính hoặc các ngành liên quan.
+
+2.            Kiến thức/ Chuyên môn cần có
+
+•             Có từ 4+ năm kinh nghiệm trong lĩnh vực Cloud, tự động hóa hạ tầng, quản trị bảo mật và môi trường hybrid/multi-cloud.
+
+•             Có kiến thức tốt về hạ tầng nền tảng đám mây public, private (Landing Zone, Multi-account, EC2, RDS, S3, Lambda, IAM, VPC, CloudWatch, AMI, AWS Backup...). Có hiểu biết về Azure/GCP/Openstack là một lợi thế.
+
+•             Có kinh nghiệm phát triển và quản lý Infrastructure as Code/Configuration as Code bằng Terraform/Terragrunt, Ansible hoặc CloudFormation.
+
+•             Có khả năng lập trình/scripting bằng Python, Bash hoặc PowerShell phục vụ automation và vận hành hệ thống.
+
+•             Có kinh nghiệm xây dựng và vận hành CI/CD pipeline với Jenkins, GitLab CI/CD hoặc AWS CodePipeline.
+
+•             Có kinh nghiệm làm việc với các công cụ monitoring và logging trên cloud như CloudWatch, Grafana.
+
+•             Có khả năng phân tích logs, xử lý sự cố liên quan đến hệ thống, mạng và bảo mật nhằm giảm thiểu downtime.
+
+•             Có hiểu biết về quy trình quản lý và xử lý sự cố (incident management & response).
+
+•             Có kiến thức về IAM, AWS Organizations, Service Control Policies (SCPs) và các cơ chế governance trên cloud.
+
+•             Có hiểu biết về các nguyên tắc bảo mật cloud, mã hóa dữ liệu và bảo mật mạng.
+
+•             Có kiến thức tốt về VPC, subnetting, endpoint, PrivateLink, VPN, Direct Connect, Load Balancer, Firewall (F5, Palo Alto...) và xử lý kết nối giữa on-premises và cloud.
+
+•             Có khả năng nghiên cứu, phân tích thông tin và đưa ra đề xuất phù hợp.
+
+•             Chủ động học hỏi, linh hoạt và thích nghi với công nghệ mới.

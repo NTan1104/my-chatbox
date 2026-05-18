@@ -1,0 +1,30 @@
+Thực Tập Sinh AI Engineer
+
+Chi tiết tin tuyển dụng
+Yêu cầu:
+Dưới 1 năm kinh nghiệm
+Trung học phổ thông (Cấp 3) trở lên
+Xem chi tiết Yêu cầu
+Quyền lợi:
+Nghỉ thứ 7
+Xem chi tiết Quyền lợi
+Chuyên môn:
+AI Engineer
+IT - Phần mềm
+Mô tả công việc
+Tham gia vào quá trình nghiên cứu, xây dựng và huấn luyện các mô hình Machine Learning/Deep Learning phục vụ các dự án thực tế của công ty.
+Hỗ trợ xử lý, phân tích dữ liệu (hình ảnh, văn bản, âm thanh hoặc video) để phục vụ quá trình huấn luyện mô hình.
+Viết code triển khai và đánh giá kết quả của các mô hình AI theo hướng dẫn của mentor.
+Tham gia vào việc tối ưu hóa hiệu năng mô hình, điều chỉnh tham số, đánh giá độ chính xác.
+Học hỏi và áp dụng các công cụ, framework phổ biến như TensorFlow, PyTorch, Scikit-learn, OpenCV, Pandas, NumPy,…
+Phối hợp cùng team AI, Backend, Data để triển khai mô hình lên hệ thống thực tế.
+Tham gia review code, thảo luận kỹ thuật và đề xuất ý tưởng cải tiến chất lượng mô hình AI.
+Yêu cầu ứng viên
+Có kiến thức về Machine Learning, Deep Learning và các thuật toán phổ biến như Regression, Classification, CNN, RNN,…
+Thành thạo với Python, sử dụng các thư viện như NumPy, Pandas, Matplotlib.
+Biết xử lý dữ liệu và có khả năng phân tích logic tốt.
+Có kinh nghiệm xử lý dữ liệu, Feature engineering và đánh giá mô hình.
+Có kinh nghiệm triển khai mô hình AI lên hệ thống thực tế (REST API, microservice, batch job…).
+Kinh nghiệm làm việc với Big Data, Cloud (AWS, GCP, Azure).
+Tư duy logic, cẩn thận, có tinh thần học hỏi, chủ động và trách nhiệm cao trong công việc.
+Có khả năng đọc hiểu tài liệu tiếng Anh chuyên ngành là một lợi thế.

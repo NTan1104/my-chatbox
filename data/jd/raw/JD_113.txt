@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: .Net Developer Upto 35M
+
+Mô tả công việc:
+Tham gia các dự án sử dụng ngôn ngữ lập trình ASP.NET và các công nghệ liên quan cho các khách hàng đến từ Nhật Bản.. Phân tích thiết kế và lập trình chức năng của các hệ thống nghiệp vụ hoặc web app.. Thực hiện các công việc theo yêu cầu từ quản lý
+
+Yêu cầu công việc:
+Có kiến thức về lập trình, thiết kế hướng đối tượng (OOP), Design Patterns, REST API, MVC Kinh nghiệm: Tối thiểu 1 năm kinh nghiệm trong lĩnh vực phát triển phần mềm bằng ngôn ngữ ASP.NET Core/MVC/WPFNắm vững các công việc phía WEB (JavaScript, Jquery, HTML, CSS) Có thể làm việc tốt với một trong các hệ quản trị cơ sở dữ liệu thông dụng như: MySQL, SQL Server, Oracle Có nền tảng cấu trúc dữ liệu và giải thuật tốt Năng động, sáng tạo, có khả năng tự nghiên cứu. ƯU TIÊN:Thành thạo các công cụ quản lý source code (Git, SVN…), quản lý task (Jira) Có khả năng sử dụng các service AWS (EC2, RDS, S3, Lambda, SQS, ..) để triển khai môi trường phát triển là một lợi thế Có kinh nghiệm làm việc với khách hàng Nhật Có kiến thức tốt về quy trình phát triển phần mềm Có khả năng sử dụng Docker ở mức cơ bản Có khả năng viết Unit Test Có kinh nghiệm xử lý hệ thống có dữ liệu lớn, tối ưu performance là một lợi thế Có hiểu biết về CI/CD Có kinh nghiệm sử dụng các service bên thứ 3 liên quan đến Payment, Authentication, …
+
+Yêu cầu kinh nghiệm: 1-3 năm

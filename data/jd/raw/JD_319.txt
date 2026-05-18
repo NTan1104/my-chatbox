@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Fresher Java
+
+Mô tả công việc:
+Thiết kế, xây dựng và duy trì code hiệu quả, có thể tái sử dụng và đáng tin cậyĐược đào tạo về Java và có lộ trình phát triển cụ thểPhát triển Java cho app/web
+
+Yêu cầu công việc:
+Sinh viên năm 4 hoặc đã tốt nghiệp ngành CNTT hoặc liên quan; có thể làm việc fulltime từ thứ Hai đến thứ SáuKhông yêu cầu kinh nghiệm, sẽ được đào tạo theo dự án thực tếCó kiến thức cơ bản về Java, MySQL DatabaseƯu tiên nếu có kiến thức về FrontendCó khả năng tự nghiên cứu và học hỏi
+
+Yêu cầu kinh nghiệm: Không yêu cầu kinh nghiệm

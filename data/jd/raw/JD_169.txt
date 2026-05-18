@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Nhân Viên IT Software
+
+Mô tả công việc:
+-Lập trình phần mềm Nội Bộ liên quan về sản xuất, thống kê -Lập trình Report cho phần mềm ERP-Lập trình Customize Form phần mềm ERP-Kết nối dữ liệu tất cả các data và phần mềm hiện có tại công ty-Phát triển hệ thống nhúng để giám sát, thực thi, thu thập dữ liệu về máy móc thiết bị sản xuất-Thực hiện một số công việc theo yêu cầu của TP.HCNS-Báo cáo tất cả công việc đã làm
+
+Yêu cầu công việc:
++Đại Học Chuyên ngành công nghệ thông tin, liên quan về phần mềm lập trình+ Đọc tài liệu chuyên ngành bằng tiếng anh+ Tự học tốt+ Lập trình được các ngôn ngữ sau: C++, C, SQL, Python, HTML, Embedded C....
+
+Yêu cầu kinh nghiệm: 1-3 năm

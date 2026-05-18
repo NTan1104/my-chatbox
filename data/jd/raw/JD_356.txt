@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên Android - Phỏng Vấn Trước Tết, Đi Làm Sau Tết
+
+Mô tả công việc:
+Phát triển và xây dựng các ứng dụng AndroidBảo trì, nâng cấp và mở rộng tính năng cho các ứng dụng Android đang phát triển của công ty.Tham gia vào quy trình sáng tạo và phát triển ứng dụng mới của công ty.
+
+Yêu cầu công việc:
+Kinh nghiệm: 1 năm trở lên.Nắm chắc Java Core,KotlinCó kiến thức tốt về OOP, Code Organization, Coding Convention.Có kinh nghiệm sử dụng Third-Party Libraries và APIs.Có kinh nghiệm làm việc với Firebase, JSON/XML, Server - Client, xử lý request.Nắm chắc về sự thay đổi qua các phiên bản Android.Có kỹ năng xây dựng, tùy biến UI phù hợp với đa màn hình.
+
+Yêu cầu kinh nghiệm: 1-3 năm

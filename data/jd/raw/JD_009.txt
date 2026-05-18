@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên Mobile (Android/ Flutter Developer) Thu Nhập 11-35 Triệu + Thưởng
+
+Mô tả công việc:
+-Xây dựng và phát triển front-end cho các dự án Web theo yêu cầu khách hàng-Unit test các module trong sản phẩm-Cập nhật và sửa lỗi các tính năng hiện có -Tham gia thiết kế tối ưu các tính năng với khách hàng
+
+Yêu cầu công việc:
+−Giới tính: Nam/nữ. −Độ tuổi: Ưu tiên các ứng viên < 35 tuổi. −Tốt nghiệp Đại học/Cao đẳng chuyên ngành CNTT các trường đại học đào tạo chuyên ngành + Kiến thức: Quản trị cơ sở dữ liệu; vòng đời xây dựng ứng dụng Mobile; mô hình phát triển hướng đối tượng (MVC, MVP, MVVM); GIT; Ngôn ngữ lập trình Flutter; ngôn ngữ lập trình Mobile Swift/Objective-C/Java Android; Ngôn ngữ lập trình đa nền tảng (React Native/Flutter)+ Kỹ năng chuyên môn: Kỹ năng tích hợp về Firebase, Google, AWS, Facebook; Kỹ năng tìm kiếm và đọc hiểu tài liệu bằng tiếng anh; Kỹ năng về Restful, SOAP, GraphQL; Kỹ năng về đưa ứng dụng lên chợ; Kỹ năng tối ưu ứng dụng và tối ưu bộ nhớ; Kỹ năng chuẩn hóa và tùy chỉnh thư viện chương trình.. +Đọc được tài liệu tiếng Anh−Có Laptop, có thể làm việc tối tại nhà theo yêu cầu của dự án khi cần
+
+Yêu cầu kinh nghiệm: Không yêu cầu kinh nghiệm

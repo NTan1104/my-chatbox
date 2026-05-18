@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên IT - Frontend - Reactjs
+
+Mô tả công việc:
+- Tham gia vào quá trình phân tích, thiết kế, phát triển hệ thống, ứng dụng liên quan của Công ty.- Call API và Code Layout cho hệ thống web, mobile web.- Phối hợp với các back-end developers và web designers để cải thiện tính khả dụng.- Hỗ trợ chỉnh sửa, cải tiến các chức năng hiện tại; tối ưu trải nghiệm người dùng.- Phối hợp các công việc khác theo nhóm dưới sự phân công của Quản lý dự án.
+
+Yêu cầu công việc:
+- Tốt nghiệp Cao đẳng, Đại học chuyên ngành CNTT, phần mềm chuyên sâu, giải pháp CNTT ứng dụng hoặc chuyên ngành liên quan.- Kinh nghiệm từ 08 tháng lập trình ReactJS / React Native...- Có kiến thức tốt về HTML, CSS, JavaScript.- Có kiến thức về lập trình hướng đối tượng.- Chủ động, khả năng làm việc tốt trong môi trường tốc độ cao.- Trách nhiệm, cẩn thận, tỉ mỉ và nhanh nhẹn.
+
+Yêu cầu kinh nghiệm: Dưới 1 năm

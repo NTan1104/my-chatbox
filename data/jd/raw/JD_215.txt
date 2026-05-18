@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Game Unity 3D Developer (Junior)
+
+Mô tả công việc:
+• Lập trình game trên các thiết bị di động trên nền tảng Unity. • Tham gia vào quá trình phát triển game từ lúc xây dựng ý tưởng. • Tích hợp các plugin bên thứ 3.
+
+Yêu cầu công việc:
+• Thành thạo C sharp, Unity• Đam mê lập trình và có tư duy logic tốt• Có khả năng tìm hiểu các công nghệ mới.• Nhiệt tình, có ý thức và tinh thần trách nhiệm cao trong công việc.• Khả năng làm việc độc lập, làm việc nhóm tốt• Biết sử dụng Source Control (git hoặc svn)• [Lợi thế] Có kinh nghiệm phát triển các sản phẩm game 3D• [Lợi thế] Có kinh nghiêm (hoặc có định hướng trở thành) fullstack developer hoặc technical leader
+
+Yêu cầu kinh nghiệm: Dưới 1 năm

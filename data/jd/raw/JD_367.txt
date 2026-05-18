@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Kỹ Sư Quản Trị Cơ Sở Dữ Liệu (Database Administrator)
+
+Mô tả công việc:
+• Giám sát và quản trị đảm bảo CSDL sẵn sàng và hoạt động ổn định 24/7.• Thực hiện cài đặt, nâng cấp, cập nhập bản vá ứng dụng CSDL.• Thực hiện backup và khôi phục CSDL.• Tìm và xử lý sự cố liên quan liên quan đến CSDL.• Đề xuất các cải tiến để nâng cao hiệu năng hoạt động của CSDL.• Xây dựng, cài đặt hệ thống dự phòng đảm bảo sẵn sàng, an toàn và toàn vẹn CSDL.• Thực hiện viết và cập nhật quy trình vận hành CSDL.• Thực hiện các công việc định kỳ theo quy trình vận hành CSDL.• Chạy các script theo yêu cầu của nhóm hỗ trợ.• Tham gia triển khai các dự án CNTT.
+
+Yêu cầu công việc:
+• Tốt nghiệp đại học chính quy chuyên ngành CNTT.• Có ít nhất 2 năm kinh nghiệm trong lĩnh vực Quản trị hệ thống hoặc 1 năm kinh nghiệm làm việc với CSDL Oracle hoặc MS SQL Server, MongoDB, MySQL, PostgreSQL..• Hiểu biết cơ bản về Oracle RAC, Data guard, Golden Gate là một lợi thế.• Khả năng chịu áp lực công việc, có tinh thần trách nhiệm, phối hợp và làm việc theo nhóm tốt.• Có kỹ năng nghiên cứu, phân tích, xử lý vấn đề.• Có tính tuân thủ cao, nghiêm túc thực hiện đúng theo quy trình quản trị.• Sử dụng, đọc hiểu tốt các tài liệu kỹ thuật tiếng Anh.
+
+Yêu cầu kinh nghiệm: 1-3 năm

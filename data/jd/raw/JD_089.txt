@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Java Developer (Junior - Onboard Sau Tết)
+
+Mô tả công việc:
+Lập trình và phát triển web service trên nền tảng Java.Cùng team tham gia vào quá trình tìm hiểu, phân tích yêu cầu, thiết kế, phát triển, bảo trì và nâng cấp hệ thống.Tham gia nghiên cứu, phát triển và ứng dụng các công nghệ mã nguồn mở vào trong dự án về: An ninh Quốc phòng, Giao thông thông minh, Viễn thông (Dịch vụ VAS) ...Kết hợp với các bộ phận liên quan (Sản phẩm, UI/UX, tester, hệ thống…) để triển khai hoàn thành dự án trên các môi trường.
+
+Yêu cầu công việc:
+Tốt nghiệp Đại học chuyên ngành Công nghệ thông tin. Có từ 1 năm kinh nghiệm lập trình trên nền tảng Java.Có kiến thức tốt về lập trình hướng đối tượng, cấu trúc dữ liệu và giải thuật.Có kiến thức tốt về OOP & Design Patterns, Network, Multithreading.Có kinh nghiệm làm việc với các framework như: Spring Framework, Hibernate, Spring Boot,….Sử dụng thành thạo một trong các CSDL quan hệ (MySQL, MS SQL server hoặc Oracle).Có kiến thức về HTML, CSS, các ứng viên có kinh nghiệm lập trình trên một trong các js framework (Vuejs/AngularJS/React) là một lợi thế.Có khả năng đọc hiểu tài liệu kỹ thuật bằng tiếng Anh.
+
+Yêu cầu kinh nghiệm: 1-3 năm

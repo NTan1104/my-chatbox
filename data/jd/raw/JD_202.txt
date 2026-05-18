@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: IOS /Android
+
+Mô tả công việc:
+-Nghiên cứu phát triển nền tảng, ứng dụng và hệ sinh thái IoT: ONE IoT Platform, Smart Home, Smart Farm. -Nghiên cứu phát triển các phần mềm hệ thống viễn thông và doanh nghiệp: Telco platform & gateway, Enterprise platform, nền tảng Chuyển đổi số Doanh nghiệp. -Thiết kế & phát triển hệ thống tải cao, hiệu năng cao quản lý 6.000.000 node mạng, đáp ứng 34.000.000 thuê bao và xử lý trên 1000 tỉ VND giao dịch mỗi tháng
+
+Yêu cầu công việc:
+-Tốt nghiệp ĐH chuyên ngành CNTT hoặc ĐTVT hoặc tương đương. -Thuần thục trong lĩnh vực lập trình di động: iOS (Objective-C,Swift) hoặc Android (Java, Kotlin), submit app lên store. -Hiểu sâu về thread, multi-threading và quản lý Memory. -Có hiểu biết về protocol, delegate và higher order functions, GCD. -Có hiểu biết về thiết kế UI, hiểu biết sâu về AFNetworking, Alamofire, JSON encoder, decoder. -Có khả năng lập trình Cross-platform (Flutter hoặc tương đương) là một lợi thế. -Có thể sử dụng tiếng Anh trong công việc. -Đam mê công nghệ. -Đọc và hiểu tài liệu kỹ thuật tiếng Anh. -Làm việc nhóm hiệu quả linh hoạt. -Trung thực và có tinh thần trách nhiệm. -Chủ động sáng tạo
+
+Yêu cầu kinh nghiệm: 1-3 năm

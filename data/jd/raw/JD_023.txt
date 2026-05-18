@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Back-End PHP Developer
+
+Mô tả công việc:
+- Phát triển, maintain các ứng dụng web trên nền PHP.- Lập trình các module tính năng theo yêu cầu hoặc bản phân tích thiết kế.- Xây dựng giải pháp, phát triển phần mềm theo yêu cầu của khách hàng.
+
+Yêu cầu công việc:
+- Có từ 2 năm kinh nghiệm trong việc sử dụng PHP và MySQL để xây dựng Website.- Sử dụng thành thạo một trong các Framework PHP (Laravel, CodeIgniter, CakePHP, Zend, etc).- Có hiểu biết sâu về ngôn ngữ lập trình PHP, hiểu rõ kiến thức về OOP, MVC, PHP Coding Standards (Convention).- Có kinh nghiệm làm việc với một trong các hệ quản trị CSDL (MySql, PostgreSql, MSSQL, etc).- Có kiến thức về: HTML/CSS/JS, jQuery, Ajax, Bootstrap.- Ưu tiên ứng viên có kinh nghiệm làm việc với GIT
+
+Yêu cầu kinh nghiệm: 1-3 năm

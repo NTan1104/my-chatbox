@@ -1,0 +1,9 @@
+Vị trí tuyển dụng: Lập Trình Viên Back-End
+
+Mô tả công việc:
+- Tham gia nhóm Lập trình để xây dựng, triển khai Backend Services cho Hệ thống công ty bằng .NET Core- Sử dụng .NET Core, SQL Server- Tham gia trực tiếp vào phân tích, thiết kế, triển khai
+
+Yêu cầu công việc:
+- Có kinh nghiệm với ngôn ngữ C# .Net Core, SQL Server.- Có kinh nghiệm làm việc với CSDL: SQL, MySQL.- Có hiểu biết về Windown Server, IIS, Swagger.
+
+Yêu cầu kinh nghiệm: 1-3 năm
